@@ -1,5 +1,49 @@
 # CHANGELOG
 
+## 14-DEC-2020
+
+### Features
+
+- Added 'w/ Spirit Shards' options and column definitions
+
+## 05-DEC-2020
+
+### Features
+
+- Added TP Buy/Sell Options to multi table pages
+
+## 26-NOV-2020
+
+### Bug Fixes
+
+- Fixed a bunch of rounding and sorting errors
+
+## 21-NOV-2020
+
+### Code Quality
+
+- Refactored to shared functionality in SingleTableDirective/MultiTableDirective
+
+## 13-NOV-2020
+
+### Features
+
+- Added Dungeons
+- Added Goody Bags and Bag Openers
+- Added Gizmos
+- Added Daily Farming Checklist
+
+## 12-NOV-2020
+
+### Features
+
+- Added Settings Page for TP Buy/Sell Options
+- Added Dynamic columns based on settings
+
+### Reworks
+
+- Guides
+
 ## 03-SEP-2020
 
 ### Bug Fixes
