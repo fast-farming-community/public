@@ -1,5 +1,51 @@
 ## CHANGELOG
 
+### 09-MAY-2021
+
+#### Features
+
+- changed all remaining tables to now sort by profit only
+
+#### Reworks
+
+- refactored multiple redundant column definitions due to detailed dataset implementations
+
+### 08-MAY-2021
+
+#### Features
+
+- Added Detailed Datasets to Reward Tracks
+
+### 30-APR-2021
+
+#### Features
+
+- Added side navigation bar settings to be saved locally
+
+### 04-APR-2021
+
+#### Features
+
+- Added Detailed Datasets to all categories with a few exceptions
+
+### 19-MAR-2021
+
+#### Features
+
+- Added Chests / Keys
+
+### 07-MAR-2021
+
+#### Reworks
+
+- Refactored Headers with global settings (Buy/ Sell Profit)
+
+### 20-FEB-2021
+
+#### Features
+
+- Added fast-TacO Marker Pack
+
 ### 14-DEC-2020
 
 #### Features
