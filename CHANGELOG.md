@@ -1,36 +1,36 @@
-## CHANGELOG
+### CHANGELOG
 
-### 09-MAY-2021
+#### 09-MAY-2021
 
-#### Features
+##### Features
 
 - changed all remaining tables to now sort by profit only
 
-#### Reworks
+##### Reworks
 
 - refactored multiple redundant column definitions due to detailed dataset implementations
 
-### 08-MAY-2021
+#### 08-MAY-2021
 
-#### Features
+##### Features
 
 - Added Detailed Datasets to Reward Tracks
 
-### 30-APR-2021
+#### 30-APR-2021
 
-#### Features
+##### Features
 
 - Added side navigation bar settings to be saved locally
 
-### 04-APR-2021
+#### 04-APR-2021
 
-#### Features
+##### Features
 
 - Added Detailed Datasets to all categories with a few exceptions
 
-### 19-MAR-2021
+#### 19-MAR-2021
 
-#### Features
+##### Features
 
 - Added Chests / Keys
 
