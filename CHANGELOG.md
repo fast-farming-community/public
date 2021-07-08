@@ -1,3 +1,9 @@
+#### 08-JULY-2021
+
+##### Features
+
+- added a built-in search browse function on the website
+
 #### 09-MAY-2021
 
 ##### Features
