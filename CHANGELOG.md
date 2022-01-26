@@ -1,3 +1,62 @@
+### Changelog contains only changes and additions on website features
+
+#### 21-JANUARY-2022
+
+##### Features
+
+- added modules: Fractals and Daily Fractals
+- added 'Fractal titles' options and column definitions
+
+#### 17-JANUARY-2022
+
+##### Features
+
+- changed detailed datasets to hyperlinks
+- added right-click, middle-mouse-click and ctrl+left-click ability to open detailed datasets in extra windows
+- split module: Farming Daily Checklist into Daily Solo Farming Checklist and Daily Group Farming Checklist
+
+#### 16-JANUARY-2022
+
+##### Features
+
+- updated from Angular 9 to Angular 13
+
+#### 13-JANUARY-2022
+
+##### Features
+
+- added 'Crafting Materials' options and column definitions
+
+#### 09-JANUARY-2022
+
+##### Features
+
+- added module: Daily Achievements
+
+#### 07-JANUARY-2022
+
+##### Refactors
+
+- refactored 120.000 INDEX-formulas to calculate via ID instead of name
+
+#### 01-JANUARY-2022
+
+##### Refactors
+
+- refactored duration columns
+
+#### 28-NOVEMBER-2021
+
+##### Features
+
+- added detailed datasets to module Salvageables
+
+#### 10-OCTOBER-2021
+
+##### Features
+
+- searchbar updates its indexes on all categories automatically via fast-api
+
 #### 08-JULY-2021
 
 ##### Features
@@ -10,7 +69,7 @@
 
 - changed all remaining tables to now sort by profit only
 
-##### Reworks
+##### Refactors
 
 - refactored multiple redundant column definitions due to detailed dataset implementations
 
@@ -18,79 +77,79 @@
 
 ##### Features
 
-- Added Detailed Datasets to Reward Tracks
+- added Detailed Datasets to module Reward Tracks
 
 #### 30-APR-2021
 
 ##### Features
 
-- Added side navigation bar settings to be saved locally
+- added side navigation bar settings to be saved locally
 
 #### 04-APR-2021
 
 ##### Features
 
-- Added Detailed Datasets to all categories with a few exceptions
+- added Detailed Datasets to all modules (except salvageables, bag-opener and goody-bags)
 
 #### 19-MAR-2021
 
 ##### Features
 
-- Added Chests / Keys
+- added modules: Chests
 
 #### 07-MAR-2021
 
-##### Reworks
+##### Refactors
 
-- Refactored Headers with global settings (Buy/ Sell Profit)
+- refactored Headers with global settings (Buy/ Sell Profit)
 
 #### 20-FEB-2021
 
 ##### Features
 
-- Added fast-TacO Marker Pack
+- added fast-TacO Marker Pack
 
 #### 14-DEC-2020
 
 ##### Features
 
-- Added 'w/ Spirit Shards' options and column definitions
+- added 'Spirit Shard' options and column definitions
 
 #### 05-DEC-2020
 
 ##### Features
 
-- Added TP Buy/Sell Options to multi table pages
+- added TP Buy/Sell Options to multi table pages
 
 #### 26-NOV-2020
 
 ##### Bug Fixes
 
-- Fixed a bunch of rounding and sorting errors
+- fixed a bunch of rounding and sorting errors
 
 #### 21-NOV-2020
 
 ##### Code Quality
 
-- Refactored to shared functionality in SingleTableDirective/MultiTableDirective
+- refactored to shared functionality in SingleTableDirective/MultiTableDirective
 
 #### 13-NOV-2020
 
 ##### Features
 
-- Added Dungeons
-- Added Goody Bags and Bag Openers
-- Added Gizmos
-- Added Daily Farming Checklist
+- added Dungeons
+- added Goody Bags and Bag Openers
+- added Gizmos
+- added Daily Farming Checklist
 
 #### 12-NOV-2020
 
 ##### Features
 
-- Added Settings Page for TP Buy/Sell Options
-- Added Dynamic columns based on settings
+- added Settings Page for TP Buy/Sell Options
+- added Dynamic columns based on settings
 
-##### Reworks
+##### Refactors
 
 - Guides
 
@@ -98,80 +157,80 @@
 
 ##### Bug Fixes
 
-- Removed duplicate headers from Spirit Shards
-- Fixed negative modified on Currency Component
+- removed duplicate headers from Spirit Shards
+- fixed negative modified on Currency Component
 
 #### 01-SEP-2020
 
-##### WIP
+##### Features
 
-- Bottom banner: Legal, Changelog, Contributor Components
-- Gold Efficiency Component & Renderer
+- bottom banner: Legal, Changelog, Contributor Components
+- Renderer
 
 #### 24-AUG-2020
 
 ##### Code Quality
 
-- Moved Common modules to single Shared Module
-- General code, directory and imports cleanup
+- moved Common modules to single Shared Module
+- general code, directory and imports cleanup
 
 ##### Features
 
-- Moved default sorting from API/Spreadsheet to Frontend
-- Renamed Currency Conversions to Conversions
+- moved default sorting from API/Spreadsheet to Frontend
+- renamed Currency Conversions to Conversions
 
 #### 04-AUG-2020
 
 ##### Code Quality
 
-- Cleaned up table definition code
+- cleaned up table definition code
 
 ##### Features
 
-- Added Toasts to provide user feedback
-- All modules now use the Spreadsheet API
-- Added collapsible menus
+- added Toasts to provide user feedback
+- all modules now use the Spreadsheet API
+- added collapsible menus
 
 #### 26-JUL-2020
 
 ##### Features
 
-- Added Image Component & Renderer for rows
-- Added features: unid gear, salvageables, tyrian exchange voucher, lunar new year
+- added Image Component & Renderer for rows
+- added features: unid gear, salvageables, tyrian exchange voucher, lunar new year
 
 #### 25-JUL-2020
 
 ##### Code Quality
 
-- Added NgRx as state manager
+- added NgRx as state manager
 
 ##### Features
 
-- Added API Update info in top navigation
+- added API Update info in top navigation
 
 #### 22-JUL-2020
 
 ##### Features
 
-- Added modules: Currency Conversions, Gathering, Instance Data, Festivals & WvW
-- Added Icons to Menu
+- added modules: Currency Conversions, Gathering, Instance Data, Festivals & WvW
+- added Icons to Menu
 
 ##### Styling
 
-- Updated styling throughout application
-- Updated look & feel of Builds
+- updated styling throughout application
+- updated look & feel of Builds
 
 #### 09-JUL-2020
 
 ##### Features
 
-- Added modules: Builds, News
+- added modules: Builds, News
 
 #### 26-JUN-2020
 
 ##### Features
 
-- Enabled Armory Embeds
+- added Armory Embeds
 
 #### 21-MAY-2020
 
