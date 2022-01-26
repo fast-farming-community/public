@@ -1,3 +1,3 @@
 # [fast] Farming Community
 
-This repository contains our Changelog and other possible resources related to the [fast] Farming Community website and API.
+This repository contains our changelog related to the [[fast] Farming Community website](https://fast.farming-community.eu) and fast-API.
