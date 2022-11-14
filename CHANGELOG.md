@@ -1,5 +1,275 @@
 ### Changelog contains only changes and additions on website features
 
+#### 2022-11-13
+
+##### Features
+
+- added icons for Main Categories
+- added new module: Salvaging
+- merged modules: Daily Login and Drizzlewood Reward Track into Module: PvE Reward Track
+
+
+#### 2022-11-12
+
+##### Features
+
+- merged modules: Fish and Goody-Bags into Module: Bags
+
+#### 2022-11-05
+
+##### Features
+
+- added new modules: Competitive and PvP Reward Tracks
+
+#### 2022-10-28
+
+##### Features
+
+- fixed Profit Headers in detailed datasets to show intended profit settings
+
+#### 2022-10-22
+
+##### Features
+
+- updated Fishing module
+
+#### 2022-09-20
+
+##### Features
+
+- updated Farming Builds
+
+#### 2022-09-04
+
+##### Features
+
+- changed module routing: farming/daily-solo to farming/daily
+
+#### 2022-09-04
+
+##### Features
+
+- added top nav bar headliner
+
+#### 2022-09-01
+
+##### Code Quality
+
+- cleaned up CSS
+
+#### 2022-08-29
+
+##### Code Quality
+
+- cleaned up notice warning
+
+##### Features
+
+- added checkbox headers
+
+#### 2022-08-02
+
+##### Features
+
+- added Module: Salvageable Research Note
+
+#### 2022-07-26
+
+##### Code Quality
+
+- fixed navigation panel
+
+#### 2022-07-19
+
+##### Features
+
+- removed module: Gaeting Crystal
+
+#### 2022-07-17
+
+##### Features
+
+- changed Profit Headers to Revenue HEaders in module: Unid Gear
+
+#### 2022-07-05
+
+##### Code Quality
+
+- fixed Headers and Tables
+
+#### 2022-06-22
+
+##### Features
+
+- added default collapse on Sidenav/ resetting sidenav settings
+
+#### 2022-06-20
+
+##### Features
+
+- removed module: Misc
+
+#### 2022-06-18
+
+##### Features
+
+- added support for overview pages
+
+#### 2022-06-17
+
+##### Code Quality
+
+- updated depdencencies
+
+##### Features
+
+- added background selection
+- added table pagination
+
+#### 2022-
+
+##### Code Quality
+
+- fixed price column width and nav menu wrapping
+- fixed header component, header names and exchanged outdated headers with new headers
+
+#### 2022-06-14
+
+##### Features
+
+- added LocalStorage FormControls
+
+#### 2022-06-12
+
+##### Features
+
+- added selectable background images
+
+#### 2022-06-09
+
+##### Features
+
+- added pagination
+
+#### 2022-05-26
+
+##### Code Quality
+
+- fixed Toast styling
+- fixed regex arrow
+- enabled Logging in Prod
+- fixed Builds Mobile Styling
+
+#### 2022-05-23
+
+##### Features
+
+- added close-symbol to menu components
+
+#### 2022-04-14
+
+##### Features
+
+- added module: Gift of Jade Mastery
+
+#### 2022-04-07
+
+##### Features
+
+- added module: item / material conversions
+
+#### 2022-04-06
+
+##### Features
+
+- added module: Daily Fractals to Daily Farming Checklist
+
+#### 2022-04-05
+
+##### Features
+
+- updated module: Daily Farming Checklist
+
+#### 2022-03-31
+
+##### Code Quality
+
+- fixed module: Nodes
+
+#### 2022-03-30
+
+##### Features
+
+- merged Black Lion Delivery Box Bags, Home Garden Nodes and Home Nodes into module: Home Instance
+
+#### 2022-03-24
+
+##### Features
+
+- removed module: World Bosses
+- merged module: World Bosses into module: Meta
+
+#### 2022-03-18
+
+##### Features
+
+- added module: Salvageable Research Note
+
+#### 2022-03-13
+
+##### Features
+
+- added module: Fish
+- added module: Fishing
+
+#### 2022-03-06
+
+##### Features
+
+- added module: Testimony of Jade Heroics
+
+#### 2022-03-05
+
+##### Features
+
+- added module: Jade Bot
+
+#### 2022-03-03
+
+##### Features
+
+- added module: Imperial Favor
+- added module: Jade Sliver
+
+#### 2022-03-02
+
+##### Features
+
+- added module: Research Note
+- added module: Unusual Coin
+
+#### 2022-02-27
+
+##### Features
+
+- removed module: Tyrian Exchange Voucher
+
+#### 2022-02-15
+
+##### Code Quality
+
+- fixed detailed dataset profit sorting
+
+##### Features
+
+- added Mystic Clover to Settings
+
+#### 2022-01-25
+
+##### Features
+
+- added table LNY Luck to module: festivals/Lunar-new-year
+
 #### 2022-01-21
 
 ##### Features
@@ -20,6 +290,12 @@
 ##### Features
 
 - updated from Angular 9 to Angular 13
+- added detailed data fractals header
+- added fractal header change on settings change
+
+##### Code Quality
+
+- cleaned up UI
 
 #### 2022-01-13
 
