@@ -119,7 +119,7 @@
 
 ##### Code Quality
 
-- updated depdencencies
+- updated dependencies
 
 ##### Features
 
