@@ -1,5 +1,32 @@
 ### Changelog contains only changes and additions on website features
 
+#### 2023-07-01
+
+##### Features
+
+- added LocalStorage to ag-grid checkboxes
+- updated ag-grid V26 to V28
+
+#### 2023-03-11
+
+##### Features
+
+- fixed CMS functions: Contributor page
+
+#### 2023-02-25
+
+##### Features
+
+- merged CMS functions into fast-api
+- removed CMS Cockpit
+- removed PHP dependencies
+
+#### 2022-12-16
+
+##### Features
+
+- updated topnavbar and bottom-banner
+
 #### 2022-11-13
 
 ##### Features
