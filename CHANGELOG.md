@@ -4,8 +4,8 @@
 
 ### Added
 
-- added fast-TacO Marker Pack [\#517](https://github.com/fast-farming-community/website/pull/521) ([c0rn1x](https://github.com/c0rn1x))
-- added Website Updates Log [\#517](https://github.com/fast-farming-community/website/pull/520) ([c0rn1x](https://github.com/c0rn1x))
+- added fast-TacO Marker Pack [\#521](https://github.com/fast-farming-community/website/pull/521) ([c0rn1x](https://github.com/c0rn1x))
+- added Website Updates Log [\#520](https://github.com/fast-farming-community/website/pull/520) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2024-08-25
 
@@ -1264,14 +1264,37 @@
 
 ### Added
 
-- added table LNY Luck to module: festivals/Lunar-new-year
+- added LNY luck table [\#165](https://github.com/fast-farming-community/website/pull/165) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- fixed luck cost column [\#166](https://github.com/fast-farming-community/website/pull/166) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2022-01-21
 
-### Added
+### Changed
 
-- added modules: Fractals and Daily Fractals
-- added 'Fractal titles' options and column definitions
+- changed checklist desc [\#164](https://github.com/fast-farming-community/website/pull/164) ([c0rn1x](https://github.com/c0rn1x))
+- changed fractal desc [\#163](https://github.com/fast-farming-community/website/pull/163) ([c0rn1x](https://github.com/c0rn1x))
+- Fractals [\#162](https://github.com/fast-farming-community/website/pull/162) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-20
+
+### Changed
+
+- Changes 2 [\#161](https://github.com/fast-farming-community/website/pull/161) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-19
+
+### Fixed
+
+- Fixed tables custom headers to account for materials/tp settings [\#160](https://github.com/fast-farming-community/website/pull/160) ([Arckange007](https://github.com/Arckange007))
+
+## 2022-01-18
+
+### Changed
+
+- Changes 1 [\#159](https://github.com/fast-farming-community/website/pull/159) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2022-01-17
 
@@ -1286,154 +1309,549 @@
 
 ## 2022-01-16
 
-### Added
-
-- added detailed data fractals header
-- added fractal header change on settings change
-
 ### Changed
 
+- Changes [\#158](https://github.com/fast-farming-community/website/pull/158) ([c0rn1x](https://github.com/c0rn1x))
 - updated from Angular 9 to Angular 13
 - cleaned up UI
+
+## 2022-01-15
+
+### Added
+
+- added fractals, fractal titles to settings [\#156](https://github.com/fast-farming-community/website/pull/156) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- fixed tooltips [\#157](https://github.com/fast-farming-community/website/pull/157) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-14
+
+### Added
+
+- added materials settings to localStorageSync [\#155](https://github.com/fast-farming-community/website/pull/155) ([c0rn1x](https://github.com/c0rn1x))
+- added icons [\#154](https://github.com/fast-farming-community/website/pull/154) ([c0rn1x](https://github.com/c0rn1x))
+- added icons [\#153](https://github.com/fast-farming-community/website/pull/153) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- fixed cog-settings [\#152](https://github.com/fast-farming-community/website/pull/152) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2022-01-13
 
 ### Added
 
-- added 'Crafting Materials' options and column definitions
+- added materials columns [\#149](https://github.com/fast-farming-community/website/pull/149) ([c0rn1x](https://github.com/c0rn1x))
+- added material profit columns [\#148](https://github.com/fast-farming-community/website/pull/148) ([c0rn1x](https://github.com/c0rn1x))
+- added material profit column [\#147](https://github.com/fast-farming-community/website/pull/147) ([c0rn1x](https://github.com/c0rn1x))
 
-## 2022-01-09
+### Fixed
+
+- fixed material column [\#151](https://github.com/fast-farming-community/website/pull/151) ([c0rn1x](https://github.com/c0rn1x))
+- fixed names and tooltips in cog settings [\#150](https://github.com/fast-farming-community/website/pull/150) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-12
 
 ### Added
 
-- added module: Daily Achievements
-
-## 2022-01-07
+- added material buy sell columns [\#146](https://github.com/fast-farming-community/website/pull/146) ([c0rn1x](https://github.com/c0rn1x))
+- added new icons [\#145](https://github.com/fast-farming-community/website/pull/145) ([c0rn1x](https://github.com/c0rn1x))
 
 ### Changed
 
-- refactored 120.000 INDEX-formulas to calculate via ID instead of name
+- clean up and change of NumericColumn [\#144](https://github.com/fast-farming-community/website/pull/144) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-10
+
+### Added
+
+- fixed tables [\#143](https://github.com/fast-farming-community/website/pull/143) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-09
+
+### Changed
+
+- changed daily achievement table [\#142](https://github.com/fast-farming-community/website/pull/142) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-06
+
+### Added
+
+- added fractal icons [\#141](https://github.com/fast-farming-community/website/pull/141) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2022-01-05
+
+### Added
+
+- added new item conversions and daily farming checklist columns [\#138](https://github.com/fast-farming-community/website/pull/138) ([c0rn1x](https://github.com/c0rn1x))
+
+### Changed
+
+- changed css-style [\#140](https://github.com/fast-farming-community/website/pull/140) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- Table fixes [\#139](https://github.com/fast-farming-community/website/pull/139) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2022-01-01
 
 ### Changed
 
-- refactored duration columns
+- changed farming checklist description [\#137](https://github.com/fast-farming-community/website/pull/137) ([c0rn1x](https://github.com/c0rn1x))
+- changed description of farming checklist [\#136](https://github.com/fast-farming-community/website/pull/136) ([c0rn1x](https://github.com/c0rn1x))
+- added categories to farming checklist [\#135](https://github.com/fast-farming-community/website/pull/135) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- component fixes [\#134](https://github.com/fast-farming-community/website/pull/134) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-12-27
+
+### Removed
+
+- removed image headers to /hr [\#133](https://github.com/fast-farming-community/website/pull/133) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-12-20
+
+### Fixed
+
+- description fixes [\#132](https://github.com/fast-farming-community/website/pull/132) ([c0rn1x](https://github.com/c0rn1x))
+- unid gear description fix [\#131](https://github.com/fast-farming-community/website/pull/131) ([c0rn1x](https://github.com/c0rn1x))
+- column and description fixes [\#130](https://github.com/fast-farming-community/website/pull/130) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-12-19
+
+### Fixed
+
+- fixed icons [\#129](https://github.com/fast-farming-community/website/pull/129) ([c0rn1x](https://github.com/c0rn1x))
+- added and fixed icons [\#128](https://github.com/fast-farming-community/website/pull/128) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-12-17
+
+### Added
+
+- added header and different icon colour [\#127](https://github.com/fast-farming-community/website/pull/127) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- header fixes and colour changes [\#126](https://github.com/fast-farming-community/website/pull/126) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-12-16
+
+### Fixed
+
+- Fixed Farmtrain profit not changing with SS setting [\#125](https://github.com/fast-farming-community/website/pull/125) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-12-04
+
+### Added
+
+- added icons [\#124](https://github.com/fast-farming-community/website/pull/124) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-12-03
+
+### Added
+
+- added images [\#122](https://github.com/fast-farming-community/website/pull/122) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- column fixes [\#123](https://github.com/fast-farming-community/website/pull/123) ([c0rn1x](https://github.com/c0rn1x))
+
 
 ## 2021-11-28
 
+### Fixed
+
+- column sorting fixes [\#121](https://github.com/fast-farming-community/website/pull/121) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-09-25
+
+### Changed
+
+- new Patreon button [\#120](https://github.com/fast-farming-community/website/pull/120) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-09-06
+
+### Fixed
+
+- fixed headers and column formatting [\#119](https://github.com/fast-farming-community/website/pull/119) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-08-13
+
+### Removed
+
+- removed raid duration columns [\#118](https://github.com/fast-farming-community/website/pull/118) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-07-20
+
 ### Added
 
-- added detailed datasets to module Salvageables
+- added icons to search results [\#117](https://github.com/fast-farming-community/website/pull/117) ([SamWolfs](https://github.com/SamWolfs))
 
-## 2021-11-10
+## 2021-07-19
 
 ### Added
 
-- searchbar updates its indexes on all categories automatically via fast-api
+- added icons to single and multi table pages [\#116](https://github.com/fast-farming-community/website/pull/116) ([SamWolfs](https://github.com/SamWolfs))
+- new price icons [\#114](https://github.com/fast-farming-community/website/pull/114) ([c0rn1x](https://github.com/c0rn1x))
+- new price icons [\#113](https://github.com/fast-farming-community/website/pull/113) ([c0rn1x](https://github.com/c0rn1x))
+
+
+### Fixed
+
+- fixed columns [\#115](https://github.com/fast-farming-community/website/pull/115) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-07-18
+
+### Added
+
+- new price icons [\#112](https://github.com/fast-farming-community/website/pull/112) ([c0rn1x](https://github.com/c0rn1x))
+- added new price icons [\#111](https://github.com/fast-farming-community/website/pull/111) ([c0rn1x](https://github.com/c0rn1x))
+- new item conversion components [\#109](https://github.com/fast-farming-community/website/pull/109) ([c0rn1x](https://github.com/c0rn1x))
+- added unlimited gathering tools component [\#108](https://github.com/fast-farming-community/website/pull/108) ([c0rn1x](https://github.com/c0rn1x))
+- crafting → item-conversions [\#107](https://github.com/fast-farming-community/website/pull/107) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- fixed item conversions [\#110](https://github.com/fast-farming-community/website/pull/110) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-07-15
+
+### Added
+
+- fixed desc column [\#106](https://github.com/fast-farming-community/website/pull/106) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-07-11
+
+### Fixed
+
+- fixed favicon [\#105](https://github.com/fast-farming-community/website/pull/105) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2021-07-08
 
 ### Added
 
-- added a built-in search browse function on the website
+- added Site Search to top nav [\#104](https://github.com/fast-farming-community/website/pull/104) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2021-07-07
+
+### Added
+
+- added node-columns [\#103](https://github.com/fast-farming-community/website/pull/103) ([c0rn1x](https://github.com/c0rn1x))
+- added best choice on detailed datasets [\#101](https://github.com/fast-farming-community/website/pull/101) ([c0rn1x](https://github.com/c0rn1x))
+- added price column [\#99](https://github.com/fast-farming-community/website/pull/99) ([c0rn1x](https://github.com/c0rn1x))
+- added table layout [\#98](https://github.com/fast-farming-community/website/pull/98) ([c0rn1x](https://github.com/c0rn1x))
+
+### Changed
+
+- changed token exchange rate [\#97](https://github.com/fast-farming-community/website/pull/97) ([c0rn1x](https://github.com/c0rn1x))
+- moved drm to instances [\#100](https://github.com/fast-farming-community/website/pull/100) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- fixed DRM selector [\#102](https://github.com/fast-farming-community/website/pull/102) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-07-02
+
+### Added
+
+- added side nav icons [\#96](https://github.com/fast-farming-community/website/pull/96) ([c0rn1x](https://github.com/c0rn1x))
+- added salvage tool icons [\#95](https://github.com/fast-farming-community/website/pull/95) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-07-01
+
+### Added
+
+- added table to daily checklist [\#94](https://github.com/fast-farming-community/website/pull/94) ([c0rn1x](https://github.com/c0rn1x))
+- added map reward component [\#88](https://github.com/fast-farming-community/website/pull/88) ([c0rn1x](https://github.com/c0rn1x))
+- added nodes component [\#87](https://github.com/fast-farming-community/website/pull/87) ([c0rn1x](https://github.com/c0rn1x))
+- added karma table [\#86](https://github.com/fast-farming-community/website/pull/86) ([c0rn1x](https://github.com/c0rn1x))
+
+### Changed
+
+- refactored drizzlewood material donation [\#90](https://github.com/fast-farming-community/website/pull/90) ([fast-farming-community](https://github.com/fast-farming-community))
+
+### Fixed
+
+- fixed node table [\#93](https://github.com/fast-farming-community/website/pull/93) ([c0rn1x](https://github.com/c0rn1x))
+- fixed festival tables [\#92](https://github.com/fast-farming-community/website/pull/92) ([c0rn1x](https://github.com/c0rn1x))
+- fixed nodes component [\#91](https://github.com/fast-farming-community/website/pull/91) ([fast-farming-community](https://github.com/fast-farming-community))
+- fixed routing [\#89](https://github.com/fast-farming-community/website/pull/89) ([c0rn1x](https://github.com/c0rn1x))
+- festival column fixes [\#85](https://github.com/fast-farming-community/website/pull/85) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-06-30
+
+### Added
+
+- new price icons [\#84](https://github.com/fast-farming-community/website/pull/84) ([c0rn1x](https://github.com/c0rn1x))
+- new price icons [\#83](https://github.com/fast-farming-community/website/pull/83) ([c0rn1x](https://github.com/c0rn1x))
+
+### Changed
+
+- Refactor: spirit shard fix [\#82](https://github.com/fast-farming-community/website/pull/82) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-06-27
+
+### Added
+
+- added daily-login component [\#80](https://github.com/fast-farming-community/website/pull/80) ([c0rn1x](https://github.com/c0rn1x))
+
+### Changed
+
+- price icon fix [\#81](https://github.com/fast-farming-community/website/pull/81) ([c0rn1x](https://github.com/c0rn1x))
+- price column fixes [\#79](https://github.com/fast-farming-community/website/pull/79) ([c0rn1x](https://github.com/c0rn1x))
+- added price icons [\#78](https://github.com/fast-farming-community/website/pull/78) ([c0rn1x](https://github.com/c0rn1x))
+- column/icon-fixes [\#77](https://github.com/fast-farming-community/website/pull/77) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-06-23
+
+### Added
+
+- new bag icons [\#74](https://github.com/fast-farming-community/website/pull/74) ([c0rn1x](https://github.com/c0rn1x))
+- Added image modal feature for detailed-datasets [\#71](https://github.com/fast-farming-community/website/pull/71) ([Arckange007](https://github.com/Arckange007))
+
+### Changed
+
+- Profit -\> Cost in storage/bags [\#75](https://github.com/fast-farming-community/website/pull/75) ([Arckange007](https://github.com/Arckange007))
+- Bag Category changes [\#73](https://github.com/fast-farming-community/website/pull/73) ([c0rn1x](https://github.com/c0rn1x))
+- updated Chest of Loyalty columns [\#72](https://github.com/fast-farming-community/website/pull/72) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2021-05-27
+
+### Changed
+
+- Max-height -\> max-width [\#70](https://github.com/fast-farming-community/website/pull/70) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-05-23
+
+### Changed
+
+- Split Dev and Prod builds [\#69](https://github.com/fast-farming-community/website/pull/69) ([SamWolfs](https://github.com/SamWolfs))
+- Last attempt at fixing auto column resizing [\#68](https://github.com/fast-farming-community/website/pull/68) ([Arckange007](https://github.com/Arckange007))
+- Second try to fix column resizing [\#67](https://github.com/fast-farming-community/website/pull/67) ([Arckange007](https://github.com/Arckange007))
+- Bag Opener clickable + column resizing adjustments [\#66](https://github.com/fast-farming-community/website/pull/66) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-05-22
+
+### Added
+
+- Only run automated deploy on upstream [\#65](https://github.com/fast-farming-community/website/pull/65) ([SamWolfs](https://github.com/SamWolfs))
+- Build on pull request merge [\#64](https://github.com/fast-farming-community/website/pull/64) ([SamWolfs](https://github.com/SamWolfs))
+- Add Automated Build/Deploy on PR Closed [\#62](https://github.com/fast-farming-community/website/pull/62) ([SamWolfs](https://github.com/SamWolfs))
+- Move conditional styling to css [\#61](https://github.com/fast-farming-community/website/pull/61) ([SamWolfs](https://github.com/SamWolfs))
+- Added new crafting category, price icons and various header tweaks [\#60](https://github.com/fast-farming-community/website/pull/60) ([Arckange007](https://github.com/Arckange007))
+
+### Fixed
+
+- Fix requirements for job trigger [\#63](https://github.com/fast-farming-community/website/pull/63) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2021-05-09
 
+### Added
+
+- Enhancement/currency icons [\#59](https://github.com/fast-farming-community/website/pull/59) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-04-29
+
+### Added
+
+- added menu collapse to localstorage [\#58](https://github.com/fast-farming-community/website/pull/58) ([SamWolfs](https://github.com/SamWolfs))
+
+### Fixed
+
+- Fixed guides CSS, added placeholders to search bars and changed 'bauble' -\> 'bubble' [\#57](https://github.com/fast-farming-community/website/pull/57) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-04-12
+
+### Added
+
+- Added toast notification to copying WPs in headers [\#55](https://github.com/fast-farming-community/website/pull/55) ([Arckange007](https://github.com/Arckange007))
+
 ### Changed
 
-- changed all remaining tables to now sort by profit only
-- refactored multiple redundant column definitions due to detailed dataset implementations
-
-## 2021-05-08
-
-### Added
-
-- added Detailed Datasets to module Reward Tracks
-
-## 2021-04-30
-
-### Added
-
-- added side navigation bar settings to be saved locally
+- Reworked Goody Bags to be like Salvageables [\#56](https://github.com/fast-farming-community/website/pull/56) ([Arckange007](https://github.com/Arckange007))
 
 ## 2021-04-04
 
-### Added
+### Changed
 
-- added Detailed Datasets to all modules (except salvageables, bag-opener and goody-bags)
+- Sorted Gizmos, Champions Donation and Detailed Dataset by Profit [\#54](https://github.com/fast-farming-community/website/pull/54) ([Arckange007](https://github.com/Arckange007))
 
-## 2021-03-19
-
-### Added
-
-- added modules: Chests
-
-## 2021-03-07
+## 2021-04-03
 
 ### Changed
 
-- refactored Headers with global settings (Buy/ Sell Profit)
+- Feature/detailed detailed datasets [\#53](https://github.com/fast-farming-community/website/pull/53) ([SamWolfs](https://github.com/SamWolfs))
 
-## 2021-02-20
+### Removed
 
-### Added
+- Removed SS profit header from bags [\#52](https://github.com/fast-farming-community/website/pull/52) ([Arckange007](https://github.com/Arckange007))
 
-- added fast-TacO Marker Pack
-
-## 2020-12-14
+## 2021-03-18
 
 ### Added
 
-- added 'Spirit Shard' options and column definitions
+- Added Treasure Hunting Kit to Chests + new key icons [\#49](https://github.com/fast-farming-community/website/pull/49) ([Arckange007](https://github.com/Arckange007))
+
+### Fixed
+
+- Removed Dataset columns in Alt-parking and Solo-farming [\#51](https://github.com/fast-farming-community/website/pull/51) ([Arckange007](https://github.com/Arckange007))
+- Fixed Strike mission chest \(weekly\) showing as empty [\#50](https://github.com/fast-farming-community/website/pull/50) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-03-17
+
+### Added
+
+- New Chests category [\#48](https://github.com/fast-farming-community/website/pull/48) ([Arckange007](https://github.com/Arckange007))
+- Added images to DRM and PaysOff to BLContracts [\#47](https://github.com/fast-farming-community/website/pull/47) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-03-12
+
+### Changed
+
+- Negative profit values now red, added future boxes to Champion Donations [\#46](https://github.com/fast-farming-community/website/pull/46) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-03-05
+
+### Changed
+
+- Tweaked columns in SS while waiting for a full rework [\#45](https://github.com/fast-farming-community/website/pull/45) ([Arckange007](https://github.com/Arckange007))
+- Multiple header changes [\#44](https://github.com/fast-farming-community/website/pull/44) ([Arckange007](https://github.com/Arckange007))
+- Updated strike mission headers and display with buy/sell settings [\#43](https://github.com/fast-farming-community/website/pull/43) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-02-25
+
+### Added
+
+- Feature/detailed datasets [\#42](https://github.com/fast-farming-community/website/pull/42) ([SamWolfs](https://github.com/SamWolfs))
+
+- ### Changed
+
+- Merged durations in Alt-park & Solo-farm, fixed Clover headers [\#41](https://github.com/fast-farming-community/website/pull/41) ([Arckange007](https://github.com/Arckange007))
+
+## 2021-02-12
+
+### Added
+
+- Visual/new sidebar icons [\#40](https://github.com/fast-farming-community/website/pull/40) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2021-01-24
+
+### Added
+
+- Add Settings Sync [\#37](https://github.com/fast-farming-community/website/pull/37) ([SamWolfs](https://github.com/SamWolfs))
+- Add Strike Missions Chest to Instance Data [\#36](https://github.com/fast-farming-community/website/pull/36) ([SamWolfs](https://github.com/SamWolfs))
+- Add Achievements Page to Open World [\#33](https://github.com/fast-farming-community/website/pull/33) ([SamWolfs](https://github.com/SamWolfs))
+- Add Page Dragon Response Missions [\#32](https://github.com/fast-farming-community/website/pull/32) ([SamWolfs](https://github.com/SamWolfs))
+- Add Champions Material Donation Page [\#31](https://github.com/fast-farming-community/website/pull/31) ([SamWolfs](https://github.com/SamWolfs))
+
+### Changed
+
+- Update Meta Icon [\#35](https://github.com/fast-farming-community/website/pull/35) ([SamWolfs](https://github.com/SamWolfs))
+- Rework Node Farming to Solo Farming [\#39](https://github.com/fast-farming-community/website/pull/39) ([SamWolfs](https://github.com/SamWolfs))
+- Remove icons [\#38](https://github.com/fast-farming-community/website/pull/38) ([SamWolfs](https://github.com/SamWolfs))
+- Split Meta and World Bosses [\#34](https://github.com/fast-farming-community/website/pull/34) ([SamWolfs](https://github.com/SamWolfs))
+- Rework/side nav [\#30](https://github.com/fast-farming-community/website/pull/30) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2021-01-23
+
+### Changed
+
+- Refactor/load guards [\#29](https://github.com/fast-farming-community/website/pull/29) ([SamWolfs](https://github.com/SamWolfs))
+- Search a salvagable [\#28](https://github.com/fast-farming-community/website/pull/28) ([SamWolfs](https://github.com/SamWolfs))
+- Feature/salvageables tooltip [\#27](https://github.com/fast-farming-community/website/pull/27) ([SamWolfs](https://github.com/SamWolfs))
+- Feature/conversions tds prism crystal [\#26](https://github.com/fast-farming-community/website/pull/26) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2021-01-11
+
+### Removed
+
+- Remove Open World Caches [\#25](https://github.com/fast-farming-community/website/pull/25) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2021-01-11
+
+### Added
+
+- Add Price to Festival Vendors [\#24](https://github.com/fast-farming-community/website/pull/24) ([SamWolfs](https://github.com/SamWolfs))
+- Add Blacklion Delivery Contract Table [\#23](https://github.com/fast-farming-community/website/pull/23) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2021-01-09
+
+### Added
+
+- Add Best Choice to HoT/PoF Bags [\#21](https://github.com/fast-farming-community/website/pull/21) ([SamWolfs](https://github.com/SamWolfs))
+- Text/unid gear [\#19](https://github.com/fast-farming-community/website/pull/19) ([SamWolfs](https://github.com/SamWolfs))
+
+### Changed
+
+- Rename Per Acc/Char to Limitation [\#20](https://github.com/fast-farming-community/website/pull/20) ([SamWolfs](https://github.com/SamWolfs))
+- Change/salvageable [\#18](https://github.com/fast-farming-community/website/pull/18) ([SamWolfs](https://github.com/SamWolfs))
+
+### Removed
+
+- Remove TP Profit/Item Column from Gizmos [\#22](https://github.com/fast-farming-community/website/pull/22) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2020-12-16
+
+### Fixed
+
+- Minor Fixes [\#17](https://github.com/fast-farming-community/website/pull/17) ([SamWolfs](https://github.com/SamWolfs))
+
+## 2020-12-15
+
+### Added
+
+- Feature/with spirit shards [\#16](https://github.com/fast-farming-community/website/pull/16) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2020-12-05
 
 ### Added
 
-- added TP Buy/Sell Options to multi table pages
+- Feature/multi table tpbuysell [\#15](https://github.com/fast-farming-community/website/pull/15) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2020-11-26
 
 ### Fixed
 
-- fixed a bunch of rounding and sorting errors
+- Fix/misc headers [\#14](https://github.com/fast-farming-community/website/pull/14) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2020-11-21
 
-### Changed
+### Fixed
 
-- refactored to shared functionality in SingleTableDirective/MultiTableDirective
+- Miscellaneous fixs 20201121 [\#13](https://github.com/fast-farming-community/website/pull/13) ([SamWolfs](https://github.com/SamWolfs))
+- Feature/tp buy sell [\#12](https://github.com/fast-farming-community/website/pull/12) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2020-11-13
 
 ### Added
 
-- added Dungeons
-- added Goody Bags and Bag Openers
-- added Gizmos
-- added Daily Farming Checklist
+- Add Daily Farming Checklist [\#10](https://github.com/fast-farming-community/website/pull/10) ([SamWolfs](https://github.com/SamWolfs))
+- Add open-world/gizmos component [\#9](https://github.com/fast-farming-community/website/pull/9) ([SamWolfs](https://github.com/SamWolfs))
+- Feature/goody bags and openers [\#8](https://github.com/fast-farming-community/website/pull/8) ([SamWolfs](https://github.com/SamWolfs))
+- Feature/instances dungeons [\#7](https://github.com/fast-farming-community/website/pull/7) ([SamWolfs](https://github.com/SamWolfs))
+- Enhancement/mobile friendly [\#5](https://github.com/fast-farming-community/website/pull/5) ([SamWolfs](https://github.com/SamWolfs))
+
+### Fixed
+
+- Fix/table defs 20201113 [\#6](https://github.com/fast-farming-community/website/pull/6) ([SamWolfs](https://github.com/SamWolfs))
+- General Fixes 2020-11-13 [\#11](https://github.com/fast-farming-community/website/pull/11) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2020-11-12
 
 ### Added
 
-- added Settings Page for TP Buy/Sell Options
-- added Dynamic columns based on settings
+- Dynamic columns [\#1](https://github.com/fast-farming-community/website/pull/1) ([SamWolfs](https://github.com/SamWolfs))
 
 ### Changed
 
-- Guides
-
-## 2020-09-03
+- Renamed Converters-Gizmos to Converters [\#4](https://github.com/fast-farming-community/website/pull/4) ([SamWolfs](https://github.com/SamWolfs))
+- Rework Farming Guides [\#3](https://github.com/fast-farming-community/website/pull/3) ([SamWolfs](https://github.com/SamWolfs))
 
 ### Fixed
 
-- fixed negative modified on Currency Component
-
-### Removed
-
-- removed duplicate headers from Spirit Shards
+- Fix Settings Form [\#2](https://github.com/fast-farming-community/website/pull/2) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2020-09-01
 
@@ -1506,171 +1924,6 @@
 
 ## 2020-05-21
 
-The fast-farming-community website is born!
+### Added
 
-# TODO
-- fixed luck cost column [\#166](https://github.com/fast-farming-community/website/pull/166) ([c0rn1x](https://github.com/c0rn1x))
-- added LNY luck table [\#165](https://github.com/fast-farming-community/website/pull/165) ([c0rn1x](https://github.com/c0rn1x))
-- changed checklist desc [\#164](https://github.com/fast-farming-community/website/pull/164) ([c0rn1x](https://github.com/c0rn1x))
-- changed fractal desc [\#163](https://github.com/fast-farming-community/website/pull/163) ([c0rn1x](https://github.com/c0rn1x))
-- Fractals [\#162](https://github.com/fast-farming-community/website/pull/162) ([c0rn1x](https://github.com/c0rn1x))
-- Changes 2 [\#161](https://github.com/fast-farming-community/website/pull/161) ([c0rn1x](https://github.com/c0rn1x))
-- Fixed tables custom headers to account for materials/tp settings [\#160](https://github.com/fast-farming-community/website/pull/160) ([Arckange007](https://github.com/Arckange007))
-- Changes 1 [\#159](https://github.com/fast-farming-community/website/pull/159) ([c0rn1x](https://github.com/c0rn1x))
-- Changes [\#158](https://github.com/fast-farming-community/website/pull/158) ([c0rn1x](https://github.com/c0rn1x))
-- fixed tooltips [\#157](https://github.com/fast-farming-community/website/pull/157) ([c0rn1x](https://github.com/c0rn1x))
-- added fractals, fractal titles to settings [\#156](https://github.com/fast-farming-community/website/pull/156) ([c0rn1x](https://github.com/c0rn1x))
-- added materials settings to localStorageSync [\#155](https://github.com/fast-farming-community/website/pull/155) ([c0rn1x](https://github.com/c0rn1x))
-- added icons [\#154](https://github.com/fast-farming-community/website/pull/154) ([c0rn1x](https://github.com/c0rn1x))
-- added icons [\#153](https://github.com/fast-farming-community/website/pull/153) ([c0rn1x](https://github.com/c0rn1x))
-- fixed cog-settings [\#152](https://github.com/fast-farming-community/website/pull/152) ([c0rn1x](https://github.com/c0rn1x))
-- fixed material column [\#151](https://github.com/fast-farming-community/website/pull/151) ([c0rn1x](https://github.com/c0rn1x))
-- fixed names and tooltips in cog settings [\#150](https://github.com/fast-farming-community/website/pull/150) ([c0rn1x](https://github.com/c0rn1x))
-- added materials columns [\#149](https://github.com/fast-farming-community/website/pull/149) ([c0rn1x](https://github.com/c0rn1x))
-- added material profit columns [\#148](https://github.com/fast-farming-community/website/pull/148) ([c0rn1x](https://github.com/c0rn1x))
-- added material profit column [\#147](https://github.com/fast-farming-community/website/pull/147) ([c0rn1x](https://github.com/c0rn1x))
-- added material buy sell columns [\#146](https://github.com/fast-farming-community/website/pull/146) ([c0rn1x](https://github.com/c0rn1x))
-- added new icons [\#145](https://github.com/fast-farming-community/website/pull/145) ([c0rn1x](https://github.com/c0rn1x))
-- clean up and change of NumericColumn [\#144](https://github.com/fast-farming-community/website/pull/144) ([c0rn1x](https://github.com/c0rn1x))
-- fixed tables [\#143](https://github.com/fast-farming-community/website/pull/143) ([c0rn1x](https://github.com/c0rn1x))
-- changed daily achievement table [\#142](https://github.com/fast-farming-community/website/pull/142) ([c0rn1x](https://github.com/c0rn1x))
-- added fractal icons [\#141](https://github.com/fast-farming-community/website/pull/141) ([c0rn1x](https://github.com/c0rn1x))
-- changed css-style [\#140](https://github.com/fast-farming-community/website/pull/140) ([c0rn1x](https://github.com/c0rn1x))
-- Table fixes [\#139](https://github.com/fast-farming-community/website/pull/139) ([c0rn1x](https://github.com/c0rn1x))
-- added new item conversions and daily farming checklist columns [\#138](https://github.com/fast-farming-community/website/pull/138) ([c0rn1x](https://github.com/c0rn1x))
-- changed farming checklist description [\#137](https://github.com/fast-farming-community/website/pull/137) ([c0rn1x](https://github.com/c0rn1x))
-- changed description of farming checklist [\#136](https://github.com/fast-farming-community/website/pull/136) ([c0rn1x](https://github.com/c0rn1x))
-- added categories to farming checklist [\#135](https://github.com/fast-farming-community/website/pull/135) ([c0rn1x](https://github.com/c0rn1x))
-- component fixes [\#134](https://github.com/fast-farming-community/website/pull/134) ([c0rn1x](https://github.com/c0rn1x))
-- removed image headers to /hr [\#133](https://github.com/fast-farming-community/website/pull/133) ([c0rn1x](https://github.com/c0rn1x))
-- description fixes [\#132](https://github.com/fast-farming-community/website/pull/132) ([c0rn1x](https://github.com/c0rn1x))
-- unid gear description fix [\#131](https://github.com/fast-farming-community/website/pull/131) ([c0rn1x](https://github.com/c0rn1x))
-- column and description fixes [\#130](https://github.com/fast-farming-community/website/pull/130) ([c0rn1x](https://github.com/c0rn1x))
-- fixed icons [\#129](https://github.com/fast-farming-community/website/pull/129) ([c0rn1x](https://github.com/c0rn1x))
-- added and fixed icons [\#128](https://github.com/fast-farming-community/website/pull/128) ([c0rn1x](https://github.com/c0rn1x))
-- added header and different icon colour [\#127](https://github.com/fast-farming-community/website/pull/127) ([c0rn1x](https://github.com/c0rn1x))
-- header fixes and colour changes [\#126](https://github.com/fast-farming-community/website/pull/126) ([c0rn1x](https://github.com/c0rn1x))
-- Fixed Farmtrain profit not changing with SS setting [\#125](https://github.com/fast-farming-community/website/pull/125) ([Arckange007](https://github.com/Arckange007))
-- added icons [\#124](https://github.com/fast-farming-community/website/pull/124) ([c0rn1x](https://github.com/c0rn1x))
-- column fixes [\#123](https://github.com/fast-farming-community/website/pull/123) ([c0rn1x](https://github.com/c0rn1x))
-- added images [\#122](https://github.com/fast-farming-community/website/pull/122) ([c0rn1x](https://github.com/c0rn1x))
-- column sorting fixes [\#121](https://github.com/fast-farming-community/website/pull/121) ([c0rn1x](https://github.com/c0rn1x))
-- new Patreon button [\#120](https://github.com/fast-farming-community/website/pull/120) ([c0rn1x](https://github.com/c0rn1x))
-- fixed headers and column formatting [\#119](https://github.com/fast-farming-community/website/pull/119) ([c0rn1x](https://github.com/c0rn1x))
-- removed raid duration columns [\#118](https://github.com/fast-farming-community/website/pull/118) ([c0rn1x](https://github.com/c0rn1x))
-- Add icons to search results [\#117](https://github.com/fast-farming-community/website/pull/117) ([SamWolfs](https://github.com/SamWolfs))
-- Add icons to single and multi table pages [\#116](https://github.com/fast-farming-community/website/pull/116) ([SamWolfs](https://github.com/SamWolfs))
-- fixed columns [\#115](https://github.com/fast-farming-community/website/pull/115) ([c0rn1x](https://github.com/c0rn1x))
-- new price icons [\#114](https://github.com/fast-farming-community/website/pull/114) ([c0rn1x](https://github.com/c0rn1x))
-- new price icons [\#113](https://github.com/fast-farming-community/website/pull/113) ([c0rn1x](https://github.com/c0rn1x))
-- new price icons [\#112](https://github.com/fast-farming-community/website/pull/112) ([c0rn1x](https://github.com/c0rn1x))
-- added new price icons [\#111](https://github.com/fast-farming-community/website/pull/111) ([c0rn1x](https://github.com/c0rn1x))
-- fixed item conversions [\#110](https://github.com/fast-farming-community/website/pull/110) ([c0rn1x](https://github.com/c0rn1x))
-- new item conversion components [\#109](https://github.com/fast-farming-community/website/pull/109) ([c0rn1x](https://github.com/c0rn1x))
-- added unlimited gathering tools component [\#108](https://github.com/fast-farming-community/website/pull/108) ([c0rn1x](https://github.com/c0rn1x))
-- crafting → item-conversions [\#107](https://github.com/fast-farming-community/website/pull/107) ([c0rn1x](https://github.com/c0rn1x))
-- fixed desc column [\#106](https://github.com/fast-farming-community/website/pull/106) ([c0rn1x](https://github.com/c0rn1x))
-- fixed favicon [\#105](https://github.com/fast-farming-community/website/pull/105) ([c0rn1x](https://github.com/c0rn1x))
-- Add Site Search to top nav [\#104](https://github.com/fast-farming-community/website/pull/104) ([SamWolfs](https://github.com/SamWolfs))
-- added node-columns [\#103](https://github.com/fast-farming-community/website/pull/103) ([c0rn1x](https://github.com/c0rn1x))
-- fixed DRM selector [\#102](https://github.com/fast-farming-community/website/pull/102) ([c0rn1x](https://github.com/c0rn1x))
-- added best choice on detailed datasets [\#101](https://github.com/fast-farming-community/website/pull/101) ([c0rn1x](https://github.com/c0rn1x))
-- moved drm to instances [\#100](https://github.com/fast-farming-community/website/pull/100) ([c0rn1x](https://github.com/c0rn1x))
-- added price column [\#99](https://github.com/fast-farming-community/website/pull/99) ([c0rn1x](https://github.com/c0rn1x))
-- added table layout [\#98](https://github.com/fast-farming-community/website/pull/98) ([c0rn1x](https://github.com/c0rn1x))
-- changed token exchange rate [\#97](https://github.com/fast-farming-community/website/pull/97) ([c0rn1x](https://github.com/c0rn1x))
-- added side nav icons [\#96](https://github.com/fast-farming-community/website/pull/96) ([c0rn1x](https://github.com/c0rn1x))
-- added salvage tool icons [\#95](https://github.com/fast-farming-community/website/pull/95) ([c0rn1x](https://github.com/c0rn1x))
-- added table to daily checklist [\#94](https://github.com/fast-farming-community/website/pull/94) ([c0rn1x](https://github.com/c0rn1x))
-- fixed node table [\#93](https://github.com/fast-farming-community/website/pull/93) ([c0rn1x](https://github.com/c0rn1x))
-- fixed festival tables [\#92](https://github.com/fast-farming-community/website/pull/92) ([c0rn1x](https://github.com/c0rn1x))
-- fixed nodes component [\#91](https://github.com/fast-farming-community/website/pull/91) ([fast-farming-community](https://github.com/fast-farming-community))
-- refactored drizzlewood material donation [\#90](https://github.com/fast-farming-community/website/pull/90) ([fast-farming-community](https://github.com/fast-farming-community))
-- fixed routing [\#89](https://github.com/fast-farming-community/website/pull/89) ([c0rn1x](https://github.com/c0rn1x))
-- added map reward component [\#88](https://github.com/fast-farming-community/website/pull/88) ([c0rn1x](https://github.com/c0rn1x))
-- added nodes component [\#87](https://github.com/fast-farming-community/website/pull/87) ([c0rn1x](https://github.com/c0rn1x))
-- added karma table [\#86](https://github.com/fast-farming-community/website/pull/86) ([c0rn1x](https://github.com/c0rn1x))
-- festival column fixes [\#85](https://github.com/fast-farming-community/website/pull/85) ([c0rn1x](https://github.com/c0rn1x))
-- new price icons [\#84](https://github.com/fast-farming-community/website/pull/84) ([c0rn1x](https://github.com/c0rn1x))
-- new price icons [\#83](https://github.com/fast-farming-community/website/pull/83) ([c0rn1x](https://github.com/c0rn1x))
-- Refactor: spirit shard fix [\#82](https://github.com/fast-farming-community/website/pull/82) ([c0rn1x](https://github.com/c0rn1x))
-- price icon fix [\#81](https://github.com/fast-farming-community/website/pull/81) ([c0rn1x](https://github.com/c0rn1x))
-- added daily-login component [\#80](https://github.com/fast-farming-community/website/pull/80) ([c0rn1x](https://github.com/c0rn1x))
-- price column fixes [\#79](https://github.com/fast-farming-community/website/pull/79) ([c0rn1x](https://github.com/c0rn1x))
-- added price icons [\#78](https://github.com/fast-farming-community/website/pull/78) ([c0rn1x](https://github.com/c0rn1x))
-- column/icon-fixes [\#77](https://github.com/fast-farming-community/website/pull/77) ([c0rn1x](https://github.com/c0rn1x))
-- Profit -\> Cost in storage/bags [\#75](https://github.com/fast-farming-community/website/pull/75) ([Arckange007](https://github.com/Arckange007))
-- new bag icons [\#74](https://github.com/fast-farming-community/website/pull/74) ([c0rn1x](https://github.com/c0rn1x))
-- Bag Category changes [\#73](https://github.com/fast-farming-community/website/pull/73) ([c0rn1x](https://github.com/c0rn1x))
-- updated Chest of Loyalty columns [\#72](https://github.com/fast-farming-community/website/pull/72) ([c0rn1x](https://github.com/c0rn1x))
-- Added image modal feature for detailed-datasets [\#71](https://github.com/fast-farming-community/website/pull/71) ([Arckange007](https://github.com/Arckange007))
-- Max-height -\> max-width [\#70](https://github.com/fast-farming-community/website/pull/70) ([Arckange007](https://github.com/Arckange007))
-- Split Dev and Prod builds [\#69](https://github.com/fast-farming-community/website/pull/69) ([SamWolfs](https://github.com/SamWolfs))
-- Last attempt at fixing auto column resizing [\#68](https://github.com/fast-farming-community/website/pull/68) ([Arckange007](https://github.com/Arckange007))
-- Second try to fix column resizing [\#67](https://github.com/fast-farming-community/website/pull/67) ([Arckange007](https://github.com/Arckange007))
-- Bag Opener clickable + column resizing adjustments [\#66](https://github.com/fast-farming-community/website/pull/66) ([Arckange007](https://github.com/Arckange007))
-- Only run automated deploy on upstream [\#65](https://github.com/fast-farming-community/website/pull/65) ([SamWolfs](https://github.com/SamWolfs))
-- Build on pull request merge [\#64](https://github.com/fast-farming-community/website/pull/64) ([SamWolfs](https://github.com/SamWolfs))
-- Fix requirements for job trigger [\#63](https://github.com/fast-farming-community/website/pull/63) ([SamWolfs](https://github.com/SamWolfs))
-- Add Automated Build/Deploy on PR Closed [\#62](https://github.com/fast-farming-community/website/pull/62) ([SamWolfs](https://github.com/SamWolfs))
-- Move conditional styling to css [\#61](https://github.com/fast-farming-community/website/pull/61) ([SamWolfs](https://github.com/SamWolfs))
-- Added new crafting category, price icons and various header tweaks [\#60](https://github.com/fast-farming-community/website/pull/60) ([Arckange007](https://github.com/Arckange007))
-- Enhancement/currency icons [\#59](https://github.com/fast-farming-community/website/pull/59) ([Arckange007](https://github.com/Arckange007))
-- Add menu collapse to localstorage [\#58](https://github.com/fast-farming-community/website/pull/58) ([SamWolfs](https://github.com/SamWolfs))
-- Fixed guides CSS, added placeholders to search bars and changed 'bauble' -\> 'bubble' [\#57](https://github.com/fast-farming-community/website/pull/57) ([Arckange007](https://github.com/Arckange007))
-- Reworked Goody Bags to be like Salvageables [\#56](https://github.com/fast-farming-community/website/pull/56) ([Arckange007](https://github.com/Arckange007))
-- Added toast notification to copying WPs in headers [\#55](https://github.com/fast-farming-community/website/pull/55) ([Arckange007](https://github.com/Arckange007))
-- Sorted Gizmos, Champions Donation and Detailed Dataset by Profit [\#54](https://github.com/fast-farming-community/website/pull/54) ([Arckange007](https://github.com/Arckange007))
-- Feature/detailed detailed datasets [\#53](https://github.com/fast-farming-community/website/pull/53) ([SamWolfs](https://github.com/SamWolfs))
-- Removed SS profit header from bags [\#52](https://github.com/fast-farming-community/website/pull/52) ([Arckange007](https://github.com/Arckange007))
-- Removed Dataset columns in Alt-parking and Solo-farming [\#51](https://github.com/fast-farming-community/website/pull/51) ([Arckange007](https://github.com/Arckange007))
-- Fixed Strike mission chest \(weekly\) showing as empty [\#50](https://github.com/fast-farming-community/website/pull/50) ([Arckange007](https://github.com/Arckange007))
-- Added Treasure Hunting Kit to Chests + new key icons [\#49](https://github.com/fast-farming-community/website/pull/49) ([Arckange007](https://github.com/Arckange007))
-- New Chests category [\#48](https://github.com/fast-farming-community/website/pull/48) ([Arckange007](https://github.com/Arckange007))
-- Added images to DRM and PaysOff to BLContracts [\#47](https://github.com/fast-farming-community/website/pull/47) ([Arckange007](https://github.com/Arckange007))
-- Negative profit values now red, added future boxes to Champion Donations [\#46](https://github.com/fast-farming-community/website/pull/46) ([Arckange007](https://github.com/Arckange007))
-- Tweaked columns in SS while waiting for a full rework [\#45](https://github.com/fast-farming-community/website/pull/45) ([Arckange007](https://github.com/Arckange007))
-- Multiple header changes [\#44](https://github.com/fast-farming-community/website/pull/44) ([Arckange007](https://github.com/Arckange007))
-- Updated strike mission headers and display with buy/sell settings [\#43](https://github.com/fast-farming-community/website/pull/43) ([Arckange007](https://github.com/Arckange007))
-- Feature/detailed datasets [\#42](https://github.com/fast-farming-community/website/pull/42) ([SamWolfs](https://github.com/SamWolfs))
-- Merged durations in Alt-park & Solo-farm, fixed Clover headers [\#41](https://github.com/fast-farming-community/website/pull/41) ([Arckange007](https://github.com/Arckange007))
-- Visual/new sidebar icons [\#40](https://github.com/fast-farming-community/website/pull/40) ([SamWolfs](https://github.com/SamWolfs))
-- Rework Node Farming to Solo Farming [\#39](https://github.com/fast-farming-community/website/pull/39) ([SamWolfs](https://github.com/SamWolfs))
-- Remove icons [\#38](https://github.com/fast-farming-community/website/pull/38) ([SamWolfs](https://github.com/SamWolfs))
-- Add Settings Sync [\#37](https://github.com/fast-farming-community/website/pull/37) ([SamWolfs](https://github.com/SamWolfs))
-- Add Strike Missions Chest to Instance Data [\#36](https://github.com/fast-farming-community/website/pull/36) ([SamWolfs](https://github.com/SamWolfs))
-- Update Meta Icon [\#35](https://github.com/fast-farming-community/website/pull/35) ([SamWolfs](https://github.com/SamWolfs))
-- Split Meta and World Bosses [\#34](https://github.com/fast-farming-community/website/pull/34) ([SamWolfs](https://github.com/SamWolfs))
-- Add Achievements Page to Open World [\#33](https://github.com/fast-farming-community/website/pull/33) ([SamWolfs](https://github.com/SamWolfs))
-- Add Page Dragon Response Missions [\#32](https://github.com/fast-farming-community/website/pull/32) ([SamWolfs](https://github.com/SamWolfs))
-- Add Champions Material Donation Page [\#31](https://github.com/fast-farming-community/website/pull/31) ([SamWolfs](https://github.com/SamWolfs))
-- Rework/side nav [\#30](https://github.com/fast-farming-community/website/pull/30) ([SamWolfs](https://github.com/SamWolfs))
-- Refactor/load guards [\#29](https://github.com/fast-farming-community/website/pull/29) ([SamWolfs](https://github.com/SamWolfs))
-- Search a salvagable [\#28](https://github.com/fast-farming-community/website/pull/28) ([SamWolfs](https://github.com/SamWolfs))
-- Feature/salvageables tooltip [\#27](https://github.com/fast-farming-community/website/pull/27) ([SamWolfs](https://github.com/SamWolfs))
-- Feature/conversions tds prism crystal [\#26](https://github.com/fast-farming-community/website/pull/26) ([SamWolfs](https://github.com/SamWolfs))
-- Remove Open World Caches [\#25](https://github.com/fast-farming-community/website/pull/25) ([SamWolfs](https://github.com/SamWolfs))
-- Add Price to Festival Vendors [\#24](https://github.com/fast-farming-community/website/pull/24) ([SamWolfs](https://github.com/SamWolfs))
-- Add Blacklion Delivery Contract Table [\#23](https://github.com/fast-farming-community/website/pull/23) ([SamWolfs](https://github.com/SamWolfs))
-- Remove TP Profit/Item Column from Gizmos [\#22](https://github.com/fast-farming-community/website/pull/22) ([SamWolfs](https://github.com/SamWolfs))
-- Add Best Choice to HoT/PoF Bags [\#21](https://github.com/fast-farming-community/website/pull/21) ([SamWolfs](https://github.com/SamWolfs))
-- Rename Per Acc/Char to Limitation [\#20](https://github.com/fast-farming-community/website/pull/20) ([SamWolfs](https://github.com/SamWolfs))
-- Text/unid gear [\#19](https://github.com/fast-farming-community/website/pull/19) ([SamWolfs](https://github.com/SamWolfs))
-- Change/salvageable [\#18](https://github.com/fast-farming-community/website/pull/18) ([SamWolfs](https://github.com/SamWolfs))
-- Minor Fixes [\#17](https://github.com/fast-farming-community/website/pull/17) ([SamWolfs](https://github.com/SamWolfs))
-- Feature/with spirit shards [\#16](https://github.com/fast-farming-community/website/pull/16) ([SamWolfs](https://github.com/SamWolfs))
-- Feature/multi table tpbuysell [\#15](https://github.com/fast-farming-community/website/pull/15) ([SamWolfs](https://github.com/SamWolfs))
-- Fix/misc headers [\#14](https://github.com/fast-farming-community/website/pull/14) ([SamWolfs](https://github.com/SamWolfs))
-- Miscellaneous fixs 20201121 [\#13](https://github.com/fast-farming-community/website/pull/13) ([SamWolfs](https://github.com/SamWolfs))
-- Feature/tp buy sell [\#12](https://github.com/fast-farming-community/website/pull/12) ([SamWolfs](https://github.com/SamWolfs))
-- General Fixes 2020-11-13 [\#11](https://github.com/fast-farming-community/website/pull/11) ([SamWolfs](https://github.com/SamWolfs))
-- Add Daily Farming Checklist [\#10](https://github.com/fast-farming-community/website/pull/10) ([SamWolfs](https://github.com/SamWolfs))
-- Add open-world/gizmos component [\#9](https://github.com/fast-farming-community/website/pull/9) ([SamWolfs](https://github.com/SamWolfs))
-- Feature/goody bags and openers [\#8](https://github.com/fast-farming-community/website/pull/8) ([SamWolfs](https://github.com/SamWolfs))
-- Feature/instances dungeons [\#7](https://github.com/fast-farming-community/website/pull/7) ([SamWolfs](https://github.com/SamWolfs))
-- Fix/table defs 20201113 [\#6](https://github.com/fast-farming-community/website/pull/6) ([SamWolfs](https://github.com/SamWolfs))
-- Enhancement/mobile friendly [\#5](https://github.com/fast-farming-community/website/pull/5) ([SamWolfs](https://github.com/SamWolfs))
-- Renamed Converters-Gizmos to Converters [\#4](https://github.com/fast-farming-community/website/pull/4) ([SamWolfs](https://github.com/SamWolfs))
-- Rework Farming Guides [\#3](https://github.com/fast-farming-community/website/pull/3) ([SamWolfs](https://github.com/SamWolfs))
-- Fix Settings Form [\#2](https://github.com/fast-farming-community/website/pull/2) ([SamWolfs](https://github.com/SamWolfs))
-- Dynamic columns [\#1](https://github.com/fast-farming-community/website/pull/1) ([SamWolfs](https://github.com/SamWolfs))
+- The fast-farming-community website is born!
