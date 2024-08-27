@@ -1,546 +1,546 @@
 ### Changelog contains only changes and additions on website features
 
-#### 2024-08-25
+## 2024-08-25
 
-##### Features
+### Added
 
-- added Auth
+- Auth
 
-#### 2023-07-01
+## 2023-07-01
 
-##### Features
+### Features
 
 - added LocalStorage to ag-grid checkboxes
 - updated ag-grid V26 to V28
 
-#### 2023-03-11
+## 2023-03-11
 
-##### Features
+### Features
 
 - fixed CMS functions: Contributor page
 
-#### 2023-02-25
+## 2023-02-25
 
-##### Features
+### Features
 
 - merged CMS functions into fast-api
 - removed CMS Cockpit
 - removed PHP dependencies
 
-#### 2022-12-16
+## 2022-12-16
 
-##### Features
+### Features
 
 - updated topnavbar and bottom-banner
 
-#### 2022-11-13
+## 2022-11-13
 
-##### Features
+### Features
 
 - added icons for Main Categories
 - added new module: Salvaging
 - merged modules: Daily Login and Drizzlewood Reward Track into Module: PvE Reward Track
 
 
-#### 2022-11-12
+## 2022-11-12
 
-##### Features
+### Features
 
 - merged modules: Fish and Goody-Bags into Module: Bags
 
-#### 2022-11-05
+## 2022-11-05
 
-##### Features
+### Features
 
 - added new modules: Competitive and PvP Reward Tracks
 
-#### 2022-10-28
+## 2022-10-28
 
-##### Features
+### Features
 
 - fixed Profit Headers in detailed datasets to show intended profit settings
 
-#### 2022-10-22
+## 2022-10-22
 
-##### Features
+### Features
 
 - updated Fishing module
 
-#### 2022-09-20
+## 2022-09-20
 
-##### Features
+### Features
 
 - updated Farming Builds
 
-#### 2022-09-04
+## 2022-09-04
 
-##### Features
+### Features
 
 - changed module routing: farming/daily-solo to farming/daily
 
-#### 2022-09-04
+## 2022-09-04
 
-##### Features
+### Features
 
 - added top nav bar headliner
 
-#### 2022-09-01
+## 2022-09-01
 
-##### Code Quality
+### Code Quality
 
 - cleaned up CSS
 
-#### 2022-08-29
+## 2022-08-29
 
-##### Code Quality
+### Code Quality
 
 - cleaned up notice warning
 
-##### Features
+### Features
 
 - added checkbox headers
 
-#### 2022-08-02
+## 2022-08-02
 
-##### Features
+### Features
 
 - added Module: Salvageable Research Note
 
-#### 2022-07-26
+## 2022-07-26
 
-##### Code Quality
+### Code Quality
 
 - fixed navigation panel
 
-#### 2022-07-19
+## 2022-07-19
 
-##### Features
+### Features
 
 - removed module: Gaeting Crystal
 
-#### 2022-07-17
+## 2022-07-17
 
-##### Features
+### Features
 
 - changed Profit Headers to Revenue HEaders in module: Unid Gear
 
-#### 2022-07-05
+## 2022-07-05
 
-##### Code Quality
+### Code Quality
 
 - fixed Headers and Tables
 
-#### 2022-06-22
+## 2022-06-22
 
-##### Features
+### Features
 
 - added default collapse on Sidenav/ resetting sidenav settings
 
-#### 2022-06-20
+## 2022-06-20
 
-##### Features
+### Features
 
 - removed module: Misc
 
-#### 2022-06-18
+## 2022-06-18
 
-##### Features
+### Features
 
 - added support for overview pages
 
-#### 2022-06-17
+## 2022-06-17
 
-##### Code Quality
+### Code Quality
 
 - updated dependencies
 
-##### Features
+### Features
 
 - added background selection
 - added table pagination
 
-#### 2022-
+## 2022-06-16
 
-##### Code Quality
+### Code Quality
 
 - fixed price column width and nav menu wrapping
 - fixed header component, header names and exchanged outdated headers with new headers
 
-#### 2022-06-14
+## 2022-06-14
 
-##### Features
+### Features
 
 - added LocalStorage FormControls
 
-#### 2022-06-12
+## 2022-06-12
 
-##### Features
+### Features
 
 - added selectable background images
 
-#### 2022-06-09
+## 2022-06-09
 
-##### Features
+### Features
 
 - added pagination
 
-#### 2022-05-26
+## 2022-05-26
 
-##### Code Quality
+### Code Quality
 
 - fixed Toast styling
 - fixed regex arrow
 - enabled Logging in Prod
 - fixed Builds Mobile Styling
 
-#### 2022-05-23
+## 2022-05-23
 
-##### Features
+### Features
 
 - added close-symbol to menu components
 
-#### 2022-04-14
+## 2022-04-14
 
-##### Features
+### Features
 
 - added module: Gift of Jade Mastery
 
-#### 2022-04-07
+## 2022-04-07
 
-##### Features
+### Features
 
 - added module: item / material conversions
 
-#### 2022-04-06
+## 2022-04-06
 
-##### Features
+### Features
 
 - added module: Daily Fractals to Daily Farming Checklist
 
-#### 2022-04-05
+## 2022-04-05
 
-##### Features
+### Features
 
 - updated module: Daily Farming Checklist
 
-#### 2022-03-31
+## 2022-03-31
 
-##### Code Quality
+### Code Quality
 
 - fixed module: Nodes
 
-#### 2022-03-30
+## 2022-03-30
 
-##### Features
+### Features
 
 - merged Black Lion Delivery Box Bags, Home Garden Nodes and Home Nodes into module: Home Instance
 
-#### 2022-03-24
+## 2022-03-24
 
-##### Features
+### Features
 
 - removed module: World Bosses
 - merged module: World Bosses into module: Meta
 
-#### 2022-03-18
+## 2022-03-18
 
-##### Features
+### Features
 
 - added module: Salvageable Research Note
 
-#### 2022-03-13
+## 2022-03-13
 
-##### Features
+### Features
 
 - added module: Fish
 - added module: Fishing
 
-#### 2022-03-06
+## 2022-03-06
 
-##### Features
+### Features
 
 - added module: Testimony of Jade Heroics
 
-#### 2022-03-05
+## 2022-03-05
 
-##### Features
+### Features
 
 - added module: Jade Bot
 
-#### 2022-03-03
+## 2022-03-03
 
-##### Features
+### Features
 
 - added module: Imperial Favor
 - added module: Jade Sliver
 
-#### 2022-03-02
+## 2022-03-02
 
-##### Features
+### Features
 
 - added module: Research Note
 - added module: Unusual Coin
 
-#### 2022-02-27
+## 2022-02-27
 
-##### Features
+### Features
 
 - removed module: Tyrian Exchange Voucher
 
-#### 2022-02-15
+## 2022-02-15
 
-##### Code Quality
+### Code Quality
 
 - fixed detailed dataset profit sorting
 
-##### Features
+### Features
 
 - added Mystic Clover to Settings
 
-#### 2022-01-25
+## 2022-01-25
 
-##### Features
+### Features
 
 - added table LNY Luck to module: festivals/Lunar-new-year
 
-#### 2022-01-21
+## 2022-01-21
 
-##### Features
+### Features
 
 - added modules: Fractals and Daily Fractals
 - added 'Fractal titles' options and column definitions
 
-#### 2022-01-17
+## 2022-01-17
 
-##### Features
+### Features
 
 - changed detailed datasets to hyperlinks
 - added right-click, middle-mouse-click and ctrl+left-click ability to open detailed datasets in extra windows
 - split module: Farming Daily Checklist into Daily Solo Farming Checklist and Daily Group Farming Checklist
 
-#### 2022-01-16
+## 2022-01-16
 
-##### Features
+### Features
 
 - updated from Angular 9 to Angular 13
 - added detailed data fractals header
 - added fractal header change on settings change
 
-##### Code Quality
+### Code Quality
 
 - cleaned up UI
 
-#### 2022-01-13
+## 2022-01-13
 
-##### Features
+### Features
 
 - added 'Crafting Materials' options and column definitions
 
-#### 2022-01-09
+## 2022-01-09
 
-##### Features
+### Features
 
 - added module: Daily Achievements
 
-#### 2022-01-07
+## 2022-01-07
 
-##### Refactors
+### Refactors
 
 - refactored 120.000 INDEX-formulas to calculate via ID instead of name
 
-#### 2022-01-01
+## 2022-01-01
 
-##### Refactors
+### Refactors
 
 - refactored duration columns
 
-#### 2021-11-28
+## 2021-11-28
 
-##### Features
+### Features
 
 - added detailed datasets to module Salvageables
 
-#### 2021-11-10
+## 2021-11-10
 
-##### Features
+### Features
 
 - searchbar updates its indexes on all categories automatically via fast-api
 
-#### 2021-07-08
+## 2021-07-08
 
-##### Features
+### Features
 
 - added a built-in search browse function on the website
 
-#### 2021-05-09
+## 2021-05-09
 
-##### Features
+### Features
 
 - changed all remaining tables to now sort by profit only
 
-##### Refactors
+### Refactors
 
 - refactored multiple redundant column definitions due to detailed dataset implementations
 
-#### 2021-05-08
+## 2021-05-08
 
-##### Features
+### Features
 
 - added Detailed Datasets to module Reward Tracks
 
-#### 2021-04-30
+## 2021-04-30
 
-##### Features
+### Features
 
 - added side navigation bar settings to be saved locally
 
-#### 2021-04-04
+## 2021-04-04
 
-##### Features
+### Features
 
 - added Detailed Datasets to all modules (except salvageables, bag-opener and goody-bags)
 
-#### 2021-03-19
+## 2021-03-19
 
-##### Features
+### Features
 
 - added modules: Chests
 
-#### 2021-03-07
+## 2021-03-07
 
-##### Refactors
+### Refactors
 
 - refactored Headers with global settings (Buy/ Sell Profit)
 
-#### 2021-02-20
+## 2021-02-20
 
-##### Features
+### Features
 
 - added fast-TacO Marker Pack
 
-#### 2020-12-14
+## 2020-12-14
 
-##### Features
+### Features
 
 - added 'Spirit Shard' options and column definitions
 
-#### 2020-12-05
+## 2020-12-05
 
-##### Features
+### Features
 
 - added TP Buy/Sell Options to multi table pages
 
-#### 2020-11-26
+## 2020-11-26
 
-##### Bug Fixes
+### Bug Fixes
 
 - fixed a bunch of rounding and sorting errors
 
-#### 2020-11-21
+## 2020-11-21
 
-##### Code Quality
+### Code Quality
 
 - refactored to shared functionality in SingleTableDirective/MultiTableDirective
 
-#### 2020-11-13
+## 2020-11-13
 
-##### Features
+### Features
 
 - added Dungeons
 - added Goody Bags and Bag Openers
 - added Gizmos
 - added Daily Farming Checklist
 
-#### 2020-11-12
+## 2020-11-12
 
-##### Features
+### Features
 
 - added Settings Page for TP Buy/Sell Options
 - added Dynamic columns based on settings
 
-##### Refactors
+### Refactors
 
 - Guides
 
-#### 2020-09-03
+## 2020-09-03
 
-##### Bug Fixes
+### Bug Fixes
 
 - removed duplicate headers from Spirit Shards
 - fixed negative modified on Currency Component
 
-#### 2020-09-01
+## 2020-09-01
 
-##### Features
+### Features
 
 - bottom banner: Legal, Changelog, Contributor Components
 - Renderer
 
-#### 2020-08-24
+## 2020-08-24
 
-##### Code Quality
+### Code Quality
 
 - moved Common modules to single Shared Module
 - general code, directory and imports cleanup
 
-##### Features
+### Features
 
 - moved default sorting from API/Spreadsheet to Frontend
 - renamed Currency Conversions to Conversions
 
-#### 2020-08-04
+## 2020-08-04
 
-##### Code Quality
+### Code Quality
 
 - cleaned up table definition code
 
-##### Features
+### Features
 
 - added Toasts to provide user feedback
 - all modules now use the Spreadsheet API
 - added collapsible menus
 
-#### 2020-07-26
+## 2020-07-26
 
-##### Features
+### Features
 
 - added Image Component & Renderer for rows
 - added features: unid gear, salvageables, tyrian exchange voucher, lunar new year
 
-#### 2020-07-25
+## 2020-07-25
 
-##### Code Quality
+### Code Quality
 
 - added NgRx as state manager
 
-##### Features
+### Features
 
 - added API Update info in top navigation
 
-#### 2020-07-22
+## 2020-07-22
 
-##### Features
+### Features
 
 - added modules: Currency Conversions, Gathering, Instance Data, Festivals & WvW
 - added Icons to Menu
 
-##### Styling
+### Styling
 
 - updated styling throughout application
 - updated look & feel of Builds
 
-#### 2020-07-09
+## 2020-07-09
 
-##### Features
+### Features
 
 - added modules: Builds, News
 
-#### 2020-06-26
+## 2020-06-26
 
-##### Features
+### Features
 
 - added Armory Embeds
 
-#### 2020-05-21
+## 2020-05-21
 
 The fast-farming-community website is born!
