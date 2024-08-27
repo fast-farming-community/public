@@ -1,4 +1,4 @@
-### Changelog contains only changes and additions on website Added
+#### Technical Updates on Website Features, for Updates on Website Data Content go to <a href="https://fast.farming-community.eu/website-updates" target="_blank">&nbsp;Website Updates</a>.
 
 ## 2024-08-25
 
