@@ -1,5 +1,11 @@
 ### Changelog contains only changes and additions on website features
 
+#### 2024-08-25
+
+##### Features
+
+- added Auth
+
 #### 2023-07-01
 
 ##### Features
