@@ -2369,7 +2369,6 @@ Meta
 <ul>
       <li>added Jahai Bluffs - Death-Branded Shatterer</li>
 </ul>
-- 
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 07.03.2021</strong></p>
 General
@@ -2517,6 +2516,7 @@ https://fast.farming-community.eu/open-world/alt-parking
       <li>removed Magnificent JP Chest (36-50)</li>
       <li>removed Magnificent JP Chest (71-80)</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 26.01.2021</strong></p>
 Farming Guides
 https://fast.farming-community.eu/farming/guides/metatrain
@@ -2540,6 +2540,7 @@ https://fast.farming-community.eu/conversions/tyrian-defense-seal
 <ul>
       <li>added new Tyria Defense Seal Conversion (Deldrimor Supply Box)</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 24.01.2021</strong></p>
 https://fast.farming-community.eu/
 General
@@ -2798,6 +2799,7 @@ Conversions
 - added 6 new Prophet Shard Conversions (Pristine Fang of the Whisper, Blessed Raven Statuette, Essential Oil of Shadows, Ancient Deldrimor Gear, Frozen Spark of Life, Ice Pearl)
 WvW
 - fixed calculation errors (Badge of Honor, added missing crafting materials)
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.11.2020</strong></p>
 General Fixes
@@ -2813,6 +2815,7 @@ Table fixes
 - added Bag opener icon
 Features
 - TP Buy Listing and TP Sell Listing now for more tables available (cog symbol upper right corner)
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.11.2020</strong></p>
 Bags
@@ -2828,6 +2831,7 @@ Conversions
 - added 57 new Seal of Beetletun Conversions (Exotic Weapons)
 - added 57 new Shard of Zhaitan Conversions (Exotic Weapons)
 - added 57 new Symbol of Koda Conversions (Exotic Weapons)
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.11.2020</strong></p>
 General
@@ -2838,6 +2842,7 @@ Farming Daily Checklist
 - updated descriptions
 Farmtrain
 - removed Dragonfall tricom (no significant GPH increase)
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.11.2020</strong></p>
 Farming Daily Checklist
@@ -2929,6 +2934,7 @@ Gathering
 - added Profit / Strike to Karmic Tools tables
 Raids
 - changed duration from decimal to HH:MM format
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.09.2020</strong></p>
 API
@@ -2952,6 +2958,7 @@ Gathering
 - changed Herbalist Level 41-55 to Herbalist Level 41-60
 - changed Herbalist Level 56-70 to Herbalist Level 61-74
 - changed Prospector Level 41-55 to Prospector Level 41-45, Prospector Level 46-50, Prospector Level 51-55
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.09.2020</strong></p>
 Farmtrain
@@ -2973,6 +2980,7 @@ Conversions
 - added 1 new Magnetite Shard Conversion (Trophy Shipment)
 Chest
 - added Mistborn Coffer (Capped)
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.09.2020</strong></p>
 General
@@ -2997,6 +3005,7 @@ Meta
 - renewed Auric Basin - Octovine data to be now static using Chest data to lower variance
 Unid Gear
 - fixed a calculation error
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.09.2020</strong></p>
 Bags
@@ -3063,10 +3072,12 @@ Bags
 - moved Chest of Loyalty from Conversions to Bags
 Festivals
 - added Equipment Bags to Festival-of-the-four-Winds
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.08.2020</strong></p>
 Open World Data
 - added new Farmtrain (Drizzlewood - 2x South)
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.08.2020</strong></p>
 General
@@ -3077,6 +3088,7 @@ Open World Data
 
 Festival of the four Winds
 - updated Boss Blitz Farm with more realistic value (added downtime value)
+- 
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.08.2020</strong></p>
 General
@@ -3089,6 +3101,7 @@ Open World Data
 
 Conversions
 - added new Currency (Airship Part, Geode, Ley Line Crystal, Lump of Aurillium)
+- 
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.08.2020</strong></p>
 General
