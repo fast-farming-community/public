@@ -73,7 +73,6 @@ https://fast.farming-community.eu/farming/guides/fast-taco-marker
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.07.2024</strong></p>
-Currency Conversions
 https://fast.farming-community.eu/conversions/pvp-league-ticket
 https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket
 <ul>
@@ -2517,7 +2516,6 @@ https://fast.farming-community.eu/open-world/alt-parking
       <li>removed Magnificent JP Chest (51-71)</li>
       <li>removed Magnificent JP Chest (36-50)</li>
       <li>removed Magnificent JP Chest (71-80)</li>
-      <li>removed </li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 26.01.2021</strong></p>
 Farming Guides
@@ -2595,85 +2593,140 @@ General
 <ul>
       <li>removed Spirit Shards Drops from Champion Bags on drop tables and all its dependencies: Farmtrain, Drizzlewood Reward Track, Alt-Parking, Home, Dungeon, Raid, Strikes</li>
 </ul>
-Conversions
-- added 3 new Ascended Junk Conversions (Corsair Sharpening Stone, Corsair Maintenance Oil, Corsair Tuning Crystal)
-- added 9 new Karma Conversions (Mystic Forge):
-Seraph-Issue Jacket (Level 23, Fine)
-Accelerated Cleaver (Level 32, Fine)
-Wupwup Warthog Amulet (Level 63, Masterwork)
-Separatist Rifle (Level 11, Fine)
-Champion's Greatsword (Level 9, Fine)
-Trusty Pistol (Level 9, Fine)
-Lionguard-Issue Sword (Level 15, Fine)
-Seraph Sword (Level 20, Fine)
-Lucky Rabbit's Foot (Level 80, Masterwork)
+Karma
+<ul>
+      <li>added Corsair Sharpening Stone</li>
+      <li>added Corsair Maintenance Oil</li>
+      <li>added Corsair Tuning Crystal)</li>
+      <li>added Seraph-Issue Jacket (Level 23, Fine)</li>
+      <li>added Accelerated Cleaver (Level 32, Fine)</li>
+      <li>added Wupwup Warthog Amulet (Level 63, Masterwork)</li>
+      <li>added Separatist Rifle (Level 11, Fine)</li>
+      <li>added Champion's Greatsword (Level 9, Fine)</li>
+      <li>added Trusty Pistol (Level 9, Fine)</li>
+      <li>added Lionguard-Issue Sword (Level 15, Fine)</li>
+      <li>added Seraph Sword (Level 20, Fine)</li>
+      <li>added Lucky Rabbit's Foot (Level 80, Masterwork)</li>
+</ul>
 Bags
-- moved Superior Buried Treasure and Buried Treasures to Chest Category
+<ul>
+      <li>moved Superior Buried Treasure and Buried Treasures to Chest Category</li>
+</ul>
 Home
-- added price calculation for previous non-ascended accountbound food on Black Lion Delivery Boxes (this might take to update fully over night)
+<ul>
+      <li>added price calculation for previous non-ascended accountbound food on Black Lion Delivery Boxes</li>
+</ul>
 Farmtrain
-- fixed calculation error (Sandswept Isles, added missing Daily Chests)
-- fixed Spirit Shard values (excluded Spirit Shards from Tyria-, Heart of Thorns & Path of Fire Bags)
+<ul>
+      <li>fixed calculation error (Sandswept Isles, added missing Daily Chests)</li>
+      <li>fixed Spirit Shard values (excluded Spirit Shards from Tyria-, Heart of Thorns & Path of Fire Bags)</li>
+</ul>
 Gathering
-- fixed calculation mistake (Karmic Tools)
-- researched Maguuma Lily Drop Rate on Jungle Plants (flat increase from 1% to 5%)
+<ul>
+      <li>fixed calculation mistake (Karmic Tools)</li>
+      <li>researched Maguuma Lily Drop Rate on Jungle Plants (flat increase from 1% to 5%)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.01.2021</strong></p>
 Alt-Parking
-- added new Alt-Parking Spot (Lion's Arch - Troll's Revenge (Node Field) (80))
+<ul>
+      <li>added Lion's Arch - Troll's Revenge (Node Field)</li>
+</ul>
 Solo-Farming (Node-Farming)
-- added new Solo-Farming Spot (Lion's Arch - Rolan's Chest (80)
-- added new Solo-Farming (Domain of Istan - Sunspear Cache TacO Route)
-Conversions
-- added new Karma Conversion (Flush 4 Hemlocked Sword (Level 9, Fine))
+<ul>
+      <li>added Lion's Arch - Rolan's Chest</li>
+      <li>added Domain of Istan - Sunspear Cache TacO Route</li>
+</ul>
+Karma
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>added Flush 4 Hemlocked Sword (Level 9, Fine)</li>
+</ul>
 Black Lion Delivery Box
-- renamed titles to match GW2 item names
+<ul>
+      <li>renamed titles to match GW2 item names</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.01.2021</strong></p>
 Conversions
-- split up Fractal Relic table (Fractal Relic Vendors & Fractal Reliquary Converter)
+<ul>
+      <li>split up Fractal Relic table (Fractal Relic Vendors & Fractal Reliquary Converter)</li>
+</ul>
 Bags
-- added Best Choice Column for Heart of Thorns- and Path of Fire-Bags
+<ul>
+      <li>added Best Choice Column</li>
+</ul>
 Festivals
-- added Price Column for Lunar New Year, Super Adventure Box, Dragon Bash, Festival of the four Winds, Halloween & Wintersday
+<ul>
+      <li>added Price Column for Lunar New Year, Super Adventure Box, Dragon Bash, Festival of the four Winds, Halloween & Wintersday</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 07.01.2021</strong></p>
 Alt-Parking
-- added more detailed information about passive Bjora Essence Chest Farm
+<ul>
+      <li>added more detailed information about passive Bjora Essence Chest Farm</li>
+</ul>
 Guides
 https://fast.farming-community.eu/farming/guides/bjora-marches
-
-- added Alt-Parking Information about parking Alts and routes to Bjora Essence Chests (Bjora Marches Guide)
+<ul>
+      <li>added Alt-Parking Information about parking Alts and routes to Bjora Essence Chests (Bjora Marches Guide)</li>
+</ul>
 Bags
-- added new Tyria-Bag (Personalized Wintersday Gift)
+<ul>
+      <li>added new Tyria-Bag (Personalized Wintersday Gift)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.01.2021</strong></p>
 Gizmo
-- fixed minor calculation error
-Conversions
-- added new Karma Conversion (Bottle of Putrid Wine)
-- added description text to Volatile Magic on how to increase your profit margin from Trophy & Leather Shipments
+<ul>
+      <li>fixed minor calculation error</li>
+</ul>
+Karma
+<ul>
+      <li>added new Karma Conversion (Bottle of Putrid Wine)</li>
+</ul>
+Volatile Magic
+<ul>
+      <li>added description text to Volatile Magic on how to increase your profit margin from Trophy & Leather Shipments</li>
+</ul>
 Bag Opener
-- added a detailed description text to be more clear how the values are being calculated
+<ul>
+      <li>added a detailed description text to be more clear how the values are being calculated</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 02.01.2021</strong></p>
 Node-Farming
-- added new Farming Spot (Bjora Marches - Verdant Herbs)
+<ul>
+      <li>added Bjora Marches - Verdant Herbs</li>
+</ul>
 Conversions
-- added copyable Waypoint Links to every Non-instanciated Vendor
-- fixed minor mistakes in linking wrong waypoints (Karma Conversions)
+<ul>
+      <li>added copyable Waypoint Links to every Non-instanciated Vendor</li>
+      <li>fixed minor mistakes in linking wrong waypoints (Karma Conversions)</li>
+</ul>
 Instances
-- fixed major calculation mistake (calculated by node instead of by plot, added missing TP taxes)
+<ul>
+      <li>fixed major calculation mistake (calculated by node instead of by plot, added missing TP taxes)</li>
+</ul>
 Bags
-- added 4 new Path of Fire Bags (Crystal Oasis: Hero's Choice Chest, Elon Riverlands: Hero's Choice Chest, The Desolation: Hero's Choice Chest, Domain of Vabbi: Hero's Choice Chest)
-- added 4 new Heart of Thorns Bags (Auric Basin: Hero's Choice Chest, Dragon's Stand: Hero's Choice Chest, Tangled Depths: Hero's Choice Chest, Verdant Brink: Hero's Choice Chest)
-
-Best Choice option for these bags will be added in another feature release.
+<ul>
+      <li>added Crystal Oasis: Hero's Choice Chest</li>
+      <li>added Elon Riverlands: Hero's Choice Chest</li>
+      <li>added The Desolation: Hero's Choice Chest</li>
+      <li>added Domain of Vabbi: Hero's Choice Chest</li>
+      <li>added Auric Basin: Hero's Choice Chest</li>
+      <li>added Dragon's Stand: Hero's Choice Chest</li>
+      <li>added Tangled Depths: Hero's Choice Chest</li>
+      <li>added Verdant Brink: Hero's Choice Chest</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.12.2020</strong></p>
 WvW
-- added new Non-Repeatable Reward Track (Silverwastes)
-- added 2 new Repeatable Reward Tracks (Maguuma Wastes, Triumphant Armor)
+<ul>
+      <li>added Silverwastes</li>
+      <li>added Maguuma Wastes</li>
+      <li>added Triumphant Armor</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 17.12.2020</strong></p>
 General Settings (Cog Symbol)
