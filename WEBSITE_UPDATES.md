@@ -1434,6 +1434,7 @@ https://fast.farming-community.eu/bags/tyria-bags
 - added 2 new Tyria-Bags (Unidentified Dye, Wintersday Gift)
 Spreadsheet Refactor
 - changed ~120.000 INDEX formulas to calculate now via ID instead of name
+
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.01.2022</strong></p>
 https://fast.farming-community.eu/
@@ -1471,7 +1472,7 @@ Cog Settings (upper right corner)
 - Data view as new default (change in few categories to remove redundancies)
 - Farming view will be completely changed in near future
 
-Website Update 28.12.2021
+<p style="color: #7289da;"><strong>Website Updates 28.12.2021</strong></p>
 https://fast.farming-community.eu/
 
 - changed header karma icons to Karma/hr (previously not clear if total value or per hour value)
@@ -1596,7 +1597,9 @@ Condi Tempest
 <p style="color: #7289da;"><strong>Festival of the four Winds Festival 31.08.2021</strong></p>
 
 https://fast.farming-community.eu/festivals/festival-of-the-four-winds
-No new changes. 
+<ul>
+      <li>No new changes.</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.08.2021</strong></p>
 https://fast.farming-community.eu/
