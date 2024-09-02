@@ -1223,7 +1223,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.02.2022</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a><img src="" alt="" width="36"> <a href="" target="_blank">Gift of Mastery</a>
+<a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a>
 <ul>
       <li>added new item conversion (Gift of Mastery)</li>
 </ul>
