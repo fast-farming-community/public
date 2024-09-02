@@ -863,7 +863,7 @@ https://fast.farming-community.eu/open-world/chest
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.08.2022</strong></p>
 Daily Farming Checklist
-https://fast.farming-community.eu/farming/daily-solo
+https://fast.farming-community.eu/farming/daily
 <ul>
       <li>new Version 2.0 Beta updated with profit values and durations</li>
       <li>added daily Achievements with profit values and durations</li>
@@ -907,57 +907,48 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.07.2022</strong></p>
-Meta
 https://fast.farming-community.eu/open-world/meta
 <ul>
       <li>updated Caledon Forest - Great Jungle Worm</li>
       <li>updated Queensdale - Shadow Behemoth</li>
       <li>updated Wayfarer Foothills - Svanir Shaman</li>
 </ul>
-Magnetite Shard
 https://fast.farming-community.eu/conversions/magnetite-shard
 <ul>
       <li>Gaeting Crystal retires and is replaced by Magnetite Shards</li>
 </ul>
-Raids
 https://fast.farming-community.eu/instances/raids
 <ul>
       <li>Top-Tiered Terror Toppler (Weekly CMs) retires. Replaced by extra 2 Provisioner Token, 2 Gold and 1 Exotic Drop for each CM</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.07.2022</strong></p>
-Alt-Parking
 https://fast.farming-community.eu/open-world/alt-parking/
 <ul>
       <li>Settings: Boss and HP Spots have now the option to include or exclude Spirit Shards in the total profit calculation</li>
       <li>added new Alt-Parking Spot: Arborstone - HP</li>
 </ul>
-Fishing
 https://fast.farming-community.eu/open-world/fishing/
 <ul>
       <li>Settings: Fishing has now the option to include or exclude Spirit Shards in the total profit calculation</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.06.2022</strong></p>
-Alt-Parking
-https://fast.farming-community.eu/open-world/alt-parking/echovald-wilds-quarry-forelands
+https://fast.farming-community.eu/open-world/alt-parking
 <ul>
       <li>cannot be looted anymore per map instance and now only once per character per day</li>
 </ul>
-Strike Missions
 https://fast.farming-community.eu/instances/strike-missions
 <ul>
       <li>adjusted Antique Summoning Stone and gold amount drops to Weekly Strike CMs</li>
       <li>added Weekly Harvest Temple CM</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Void's Magnificent Coffer</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.06.2022</strong></p>
-Daily Farming Checklist
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>added save-state checkboxes and reset buttons</li>
@@ -983,7 +974,6 @@ https://fast.farming-community.eu/festivals/dragon-bash
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 25.05.2022</strong></p>
-Salvaging Costs Per Research Note
 https://fast.farming-community.eu/salvaging/costs-per-research-note
 <ul>
       <li>Research Kits now have a Research Stack option in their right-click menu</li>
@@ -992,14 +982,12 @@ https://fast.farming-community.eu/salvaging/costs-per-research-note
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 23.05.2022</strong></p>
-Imperial Favor
 https://fast.farming-community.eu/conversions/imperial-favor
 <ul>
       <li>added Crafting - Precursor Conversions Category</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 22.05.2022</strong></p>
-Solo-Farming
 https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added Dragonfall - Burning Forest Mob Farm</li>
@@ -1007,35 +995,30 @@ https://fast.farming-community.eu/open-world/solo-farming
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.05.2022</strong></p>
-Farmtrain
 https://fast.farming-community.eu/open-world/farmtrain
 <ul>
       <li>added Echovald Wilds
 </li>
 </ul>
-Alt-Parking
 https://fast.farming-community.eu/open-world/alt-parking
 <ul>
       <li>added guaranteed Ancient Sapling Node to Training Grounds HP</li>
 </ul>
-Solo-Farming
 https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added further explanation to Treasure Hunter Farm</li>
 </ul>
-Bag
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>now sorted by profit instead of name</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.05.2022</strong></p>
-Strike Missions
 https://fast.farming-community.eu/instances/strike-missions
 <ul>
       <li>added Xunlai Junkyard CM</li>
       <li>updated improved rewards on End of Dragons Strike Mission CMs</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Can of Glow Worms</li>
@@ -1044,7 +1027,6 @@ https://fast.farming-community.eu/bags/bags
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.05.2022</strong></p>
-Daily Farming Checklist
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>added Ancient Ambergris from Taro Everclaw Vendor</li>
@@ -1059,31 +1041,26 @@ General
       <li>optimized setting-component button highlight toggle color</li>
       <li>updated legal-component</li>
 </ul>
-Solo Farming
 https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added Sunken Treasure Hunter Farm</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.04.2022</strong></p>
-Strikes
 https://fast.farming-community.eu/instances/strike-missions
 <ul>
       <li>added Aetherblade Hideout CM (Weekly)</li>
 </ul>
-End of Dragons Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Mai Trin's Magnificent Chest</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.04.2022</strong></p>
-Imperial Favor
 https://fast.farming-community.eu/conversions/imperial-favor
 <ul>
       <li></li>added flavor text</li>
 </ul>
-Salvaging Costs per Research Note
 https://fast.farming-community.eu/salvaging/costs-per-research-note
 <ul>
       <li>added flavor text</li>
@@ -1092,37 +1069,31 @@ https://fast.farming-community.eu/salvaging/costs-per-research-note
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.04.2022</strong></p>
-Jade Bot
 https://fast.farming-community.eu/open-world/jade-bot
 <ul>
       <li>added missing Scavenger Protocol: Wood and Scavenger Bag: Wood</li>
 </ul>
-Item Conversions
 https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery
 <ul>
-      <li>added new Category (Gift of Jade Mastery)</li>
+      <li>added Gift of Jade Mastery</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.04.2022</strong></p>
-Daily Solo Farming Checklist
-https://fast.farming-community.eu/farming/daily-solo
+https://fast.farming-community.eu/farming/daily
 <ul>
       <li>updated with End of Dragons activities</li>
       <li>modified categories by usage</li>
 </ul>
-Daily Fractals
 https://fast.farming-community.eu/farming/daily-fractals
 <ul>
       <li>previous Daily Group Farming Checklist modified into now only being daily fractals</li>
 </ul>
-WvW
 https://fast.farming-community.eu/competitive/wvw-reward-track
 <ul>
       <li>Mystic Clover toggle option in profit settings now active</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.04.2022</strong></p>
-Currency
 https://fast.farming-community.eu/conversions/canach-coin
 <ul>
       <li>added Canach Coin</li>
@@ -1133,53 +1104,53 @@ https://fast.farming-community.eu/item-conversions/eternal-ice-shard
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.04.2022</strong></p>
-Tyria Bags
-https://fast.farming-community.eu/bags/bags/doggy-bag
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Doggy Bag</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.03.2022</strong></p>
-Salvaging Costs per Research Note
 https://fast.farming-community.eu/salvaging/costs-per-research-note
 <ul>
       <li>Recipes for lower-level potions of slaying have been adjusted. Weak recipes produce 1 potion, minor recipes produce 2, powerful recipes still produce 10, and all other recipes produce 3</li>
       <li>removed Cup of Light-Roasted Coffee (no longer yields research notes)</li>
 </ul>
-Farmtrain
 https://fast.farming-community.eu/open-world/farmtrain
 <ul>
       <li>Improved rewards on Dragon's End Meta (insignificant, garbage improvement)</li>
 </ul>
-WvW
 https://fast.farming-community.eu/conversions/badge-of-honor
+<ul>
+      <li>moved Badge of Honor to Conversions Category</li>
+</ul>
 https://fast.farming-community.eu/conversions/testimony-of-desert-heroics
+<ul>
+      <li>fixed naming of Testimony of Desert Heroics</li>
+      <li>moved Testimony of Desert Heroics to Conversions Category</li>
+</ul>
 https://fast.farming-community.eu/conversions/testimony-of-jade-heroics
 <ul>
-      <li>added conversion (Testimony of Desert Heroics)</li>
-      <li>fixed naming of Testimony of Desert Heroics</li>
-      <li>moved Badge of Honor to Conversions Category</li>
-      <li>moved Skirmish Chest to Tyria Bags Category</li>
-      <li>moved Testimony of Desert Heroics to Conversions Category</li>
+      <li>added conversion Testimony of Desert Heroics</li>
       <li>moved Testimony of Jade Heroics to Conversions Category</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Super Loot Bag</li>
+      <li>moved Skirmish Chest to Bags Category</li>
 </ul>
-Home
 https://fast.farming-community.eu/instances/home-instance
-https://fast.farming-community.eu/bags/black-lion-delivery-box-bags
 <ul>
       <li>massive refactor</li>
+</ul>
+https://fast.farming-community.eu/bags/black-lion-delivery-box-bags
+<ul>
       <li>fixed blacklion-delivery-box-bags name to black-lion-delivery-box-bags</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 29.03.2022</strong></p>
 https://fast.farming-community.eu/festivals/super-adventure-box
 <ul>
-      <li>No new gold methods / farms</li>
+      <li>No new gold methods or farms</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.03.2022</strong></p>
@@ -1192,16 +1163,16 @@ Top Nav Bar
 <p style="color: #7289da;"><strong>End of Dragons Updates 01.03.2022 - 01.07.2022</strong></p>
 <strong>Open-World</strong>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank">Daily Farming Checklist</a>
-      <ul>
-          <li>added  daily and weekly low-effort activities</li>
-      </ul>
+<ul>
+      <li>added  daily and weekly low-effort activities</li>
+</ul>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="" width="36"> <a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank">Farmtrain</a>
-      <ul>
-          <li>added Dragon's End</li>
-          <li>added Seitung Province</li>
-      </ul>
+<ul>
+      <li>added Dragon's End</li>
+      <li>added Seitung Province</li>
+</ul>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="" width="36"> <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank">Alt-Parking</a>
-    <ul>
+<ul>
       <li>added Echovald Wilds - Qinkaishi Basin (80)</li>
       <li>added Echovald Wilds - Quarry Forelands</li>
       <li>added New Kaineng City - Baedal Hill HP (80)</li>
@@ -1212,45 +1183,45 @@ Top Nav Bar
       <li>added Seitung Province - Seitung Harbor (80)</li>
       <li>added Seitung Province - Training Grounds HP (80)</li>
       <li>added Dragon's End - The Jade Swirl - Jadeite Vein Farm (80)</li>
-  </ul>
+</ul>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="" width="36"> <a href="https://fast.farming-community.eu/open-world/meta" target="_blank">Meta</a>
-        <ul>
-            <li>added Dragon's End - The Battle of the Jade Sea Meta</li>
-            <li>added Echovald Wilds - Gang War Meta</li>
-            <li>added New Kaineng City - Kaineng Blackout Meta</li>
-            <li>added Seitung Province  - Aetherblade Assault Meta</li>
-        </ul>
+<ul>
+      <li>added Dragon's End - The Battle of the Jade Sea Meta</li>
+      <li>added Echovald Wilds - Gang War Meta</li>
+      <li>added New Kaineng City - Kaineng Blackout Meta</li>
+      <li>added Seitung Province  - Aetherblade Assault Meta</li>
+</ul>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="" width="36"> <a href="https://fast.farming-community.eu/open-world/fishing" target="_blank">Fishing</a>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="" width="36"> <a href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank">Jade Bot</a>
-          <ul>
-            <li>added Recycler: Bloodstone Dust</li>
-            <li>added Recycler: Dragonite</li>
-            <li>added Recycler: Empyreal Fragments</li>
-            <li>added Recycler: Jade Slivers</li>
-            <li>added Recycler: Karma</li>
-            <li>added Scavenger Protocol: Cloth</li>
-            <li>added Scavenger Protocol: Leather</li>
-            <li>added Scavenger Protocol: Magic Trophies</li>
-            <li>added Scavenger Protocol: Metal</li>
-            <li>added Scavenger Protocol: Might Trophies</li>
-        </ul>
+<ul>
+      <li>added Recycler: Bloodstone Dust</li>
+      <li>added Recycler: Dragonite</li>
+      <li>added Recycler: Empyreal Fragments</li>
+      <li>added Recycler: Jade Slivers</li>
+      <li>added Recycler: Karma</li>
+      <li>added Scavenger Protocol: Cloth</li>
+      <li>added Scavenger Protocol: Leather</li>
+      <li>added Scavenger Protocol: Magic Trophies</li>
+      <li>added Scavenger Protocol: Metal</li>
+      <li>added Scavenger Protocol: Might Trophies</li>
+</ul>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="" width="36"> <a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank">Salvaging Costs per Research Note</a>
-        <ul>
-          <li>added TP options (900 Entries)</li>
-          <li>added Crafting options (400 Entries)</li>
-       </ul>
+<ul>
+      <li>added TP options (900 Entries)</li>
+      <li>added Crafting options (400 Entries)</li>
+</ul>
 <strong>Instances</strong>
     <img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="" width="36"> <a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank">Strike Missions</a>
-        <ul>
-          <li>added Aetherblade Hideout</li>
-          <li>added Aetherblade Hideout CM</li>
-          <li>added Harvest Temple</li>
-          <li>added Harvest Temple CM</li>
-          <li>added Kaineng Overlook</li>
-          <li>added Kaineng Overlook CM</li>
-          <li>added Xunlai Jade Junkyard</li>
-          <li>added Xunlai Jade Junkyard CM</li>
-        </ul>
+<ul>
+      <li>added Aetherblade Hideout</li>
+      <li>added Aetherblade Hideout CM</li>
+      <li>added Harvest Temple</li>
+      <li>added Harvest Temple CM</li>
+      <li>added Kaineng Overlook</li>
+      <li>added Kaineng Overlook CM</li>
+      <li>added Xunlai Jade Junkyard</li>
+      <li>added Xunlai Jade Junkyard CM</li>
+</ul>
 <strong>Conversions</strong>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="" width="36"> <a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank">Canach Coin</a>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="" width="36"> <a href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank">Green Prophet Shard</a>
@@ -1260,7 +1231,10 @@ Top Nav Bar
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="" width="36"> <a href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank">Testimony of Jade Heroics</a>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="" width="36"> <a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank">Unusual Coin</a>
 <strong>Item Conversions</strong>
-<img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="" width="36"> <a href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank">Gift of Jade Mastery</a> (related to <img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="" width="36"> <a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank">Gift of Mastery</a>)
+<img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="" width="36"> <a href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank">Gift of Jade Mastery</a>
+<ul>
+      <li>related to <img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="" width="36"> <a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank">Gift of Mastery</a></li>
+</ul>
 <strong>Bags</strong>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="" width="36"> <a href="https://fast.farming-community.eu/bags/bags" target="_blank">Bags</a>
 <ul>
@@ -1271,10 +1245,10 @@ Top Nav Bar
 <strong>WvW</strong>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="" width="36"> <a href="https://fast.farming-community.eu/gathering/nodes" target="_blank">Nodes</a>
 <ul>
-<li>added Herb Seedlings</li>
-<li>added Soybeans</li>
-<li>added Jadeite Vein</li>
-<li>added Petrified Echovald Sapling</li>
+      <li>added Herb Seedlings</li>
+      <li>added Soybeans</li>
+      <li>added Jadeite Vein</li>
+      <li>added Petrified Echovald Sapling</li>
 </ul>
 <img src="https://fast.farming-community.eu/assets/icons/sidebar/reward_track.png" alt="" width="36"> <a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank">Reward Tracks</a>
 <ul>
@@ -1283,12 +1257,10 @@ Top Nav Bar
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.02.2022</strong></p>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>moved Tyrian Exchange Voucher from Currency Conversion Category to Tyria Bag</li>
 </ul>
-Farming Guides
 https://fast.farming-community.eu/farming/guides/farming-preparation
 <ul>
       <li>updated changes on Magic Find (750% Max with Boosters)</li>
@@ -1313,21 +1285,18 @@ General
       <li>merged Blacklion Bags into Tyria Bags</li>
       <li>refactored code base and routing on Chests Category - now renamed to Key Category</li>
 </ul>
-Strike Missions
 https://fast.farming-community.eu/instances/strike-missions
 <ul>
       <li>added separate detailed dataset to Farm table for all Strike Missions</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.02.2022</strong></p>
-Gift of Mastery
 https://fast.farming-community.eu/item-conversions/gift-of-mastery
 <ul>
       <li>added new item conversion (Gift of Mastery)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.02.2022</strong></p>
-Prophet Shard
 https://fast.farming-community.eu/conversions/blue-prophet-shard
 https://fast.farming-community.eu/conversions/green-prophet-shard
 <ul>
@@ -1335,12 +1304,10 @@ https://fast.farming-community.eu/conversions/green-prophet-shard
       <li>Green Prophet Shards will only be rewarded from End of Dragon Strike Missions</li>
       <li>removed combined Prophet Shard currency</li>
 </ul>
-Fractal Relic
 https://fast.farming-community.eu/conversions/fractal-relic
 <ul>
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
-Magnetite Shard
 https://fast.farming-community.eu/conversions/magnetite-shard
 <ul>
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
@@ -1351,12 +1318,10 @@ https://fast.farming-community.eu/festivals/lunar-new-year
       <li>added Item costs to acquire 1000 Luck table</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2022</strong></p>
-Daily Fractals
 https://fast.farming-community.eu/farming/daily-group
 <ul>
       <li>added 15-day automatic rotation with detailed datasets</li>
 </ul>
-Fractals
 https://fast.farming-community.eu/instances/fractals
 <ul>
       <li>added Fractals (1-100 + CMs)</li>
@@ -1367,7 +1332,6 @@ General
       <li>blue hyperlink will open detailed dataset now in an extra tab by right-click, middle-mouse-click or CTRL + left-click</li>
       <li>Open in same tab by left-click</li>
 </ul>
-Daily Farming Checklists
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>Split Farming Checklist into Daily Solo Farming Checklist and Daily Group Farming Checklist (voted by [fast] discord feedback poll)</li>
@@ -1380,86 +1344,88 @@ Cog Settings
       <li>added/fixed Listing columns for Spirit Shard, Festivals, Item Conversions and Drizzlewood Material Donation</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 12.01.2022</strong></p>
-Item Conversions
 https://fast.farming-community.eu/item-conversions/charged-quartz-crystal
 <ul>
       <li>added 78 new conversions (Commander's Weapons, Commander's Armor, Wanderer's Weapons, Wanderer's Armor, Sigils/Runes)</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 11.01.2022</strong></p>
-WvW Reward Track
 https://fast.farming-community.eu/competitive/wvw-reward-track
 <ul>
       <li>added missing detailed datasets to following bags:</li>
 </ul>
 <ul>
-<li>added Bloodstone Cache</li>
-<li>added Bitterfrost Frontier Cache</li>
-<li>added Lake Doric Cache</li>
-<li>added Ember Bay Cache</li>
-<li>added Draconis Mons Cache</li>
-<li>added Siren's Landing Cache</li>
-<li>added Istan Cache</li>
-<li>added Sandswept Isles Cache</li>
-<li>added Kournan Cache</li>
-<li>added Jahai Bluffs Cache</li>
-<li>added Thunderhead Peaks Cache</li>
-<li>added Dragonfall Cache</li>
-<li>added Grothmar Legionnaire Weapons Cache</li>
-<li>added Grothmar Legionnaire Banner Cache</li>
-<li>added Jora's Weapons Cache</li>
-<li>added Grand Icebrood Saga Cache</li>
-<li>added Icebrood Saga Material</li>
-<li>added Carapace Armor Box</li>
-<li>added Desert Armor Box (Non-repeatable)</li>
-<li>added Desert Armor Box (Repeatable)</li>
-<li>added Balthazar Backpack Box</li>
-<li>added Ultimate Wintersday Gift</li>
+      <li>added Bloodstone Cache</li>
+      <li>added Bitterfrost Frontier Cache</li>
+      <li>added Lake Doric Cache</li>
+      <li>added Ember Bay Cache</li>
+      <li>added Draconis Mons Cache</li>
+      <li>added Siren's Landing Cache</li>
+      <li>added Istan Cache</li>
+      <li>added Sandswept Isles Cache</li>
+      <li>added Kournan Cache</li>
+      <li>added Jahai Bluffs Cache</li>
+      <li>added Thunderhead Peaks Cache</li>
+      <li>added Dragonfall Cache</li>
+      <li>added Grothmar Legionnaire Weapons Cache</li>
+      <li>added Grothmar Legionnaire Banner Cache</li>
+      <li>added Jora's Weapons Cache</li>
+      <li>added Grand Icebrood Saga Cache</li>
+      <li>added Icebrood Saga Material</li>
+      <li>added Carapace Armor Box</li>
+      <li>added Desert Armor Box (Non-repeatable)</li>
+      <li>added Desert Armor Box (Repeatable)</li>
+      <li>added Balthazar Backpack Box</li>
+      <li>added Ultimate Wintersday Gift</li>
 </ul>
-Daily Login
-https://fast.farming-community.eu/bags/daily-login-bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Chest of Exotic Equipment</li>
       <li>added 8 remaining Chest of Exotic Equipment Bags</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.01.2022</strong></p>
-https://fast.farming-community.eu/
-Farming Daily Checklist
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>added most profitable Daily Achievements</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 07.01.2022</strong></p>
-Goody Bags
+General
+<ul>
+      <li>refactored and changed ~120.000 INDEX formulas to calculate now via ID instead of name</li>
+</ul>
 https://fast.farming-community.eu/bags/bags
-- added detailed datasets to all main tables
-Tyria Bags
-https://fast.farming-community.eu/bags/bags
-
-- added Unidentified Dye
-- added Wintersday Gift
-Spreadsheet Refactor
-- changed ~120.000 INDEX formulas to calculate now via ID instead of name
-
+<ul>
+      <li>added detailed datasets to all main tables</li>
+      <li>added Unidentified Dye</li>
+      <li>added Wintersday Gift</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.01.2022</strong></p>
-https://fast.farming-community.eu/
-Item Conversions
-https://fast.farming-community.eu/item-conversions/blood-ruby
+[Item Conversions](https://fast.farming-community.eu/item-conversions/blood-ruby)
+<ul>
+      <li>added Blood Ruby</li>
+</ul>
 https://fast.farming-community.eu/item-conversions/mistborn-mote
+<ul>
+      <li>added Mistborn Mote</li>
+</ul>
 https://fast.farming-community.eu/item-conversions/orrian-pearl
-
-- added 3 new Item Conversion Categories (Blood Ruby, Mistborn Mote, Orrian Pearl)
-Currency Conversions
+<ul>
+      <li>added Orrian Pearl</li>
+</ul>
 https://fast.farming-community.eu/conversions/unbound-magic
+<ul>
+      <li>added references to new item conversions (Blood Ruby, Orrian Pearl)</li>
+</ul>
 https://fast.farming-community.eu/conversions/volatile-magic
-
-- added references to new item conversions (Blood Ruby, Mistborn Mote, Orrian Pearl)
-Farming Daily Checklist
+<ul>
+      <li>added references to new item conversions (Mistborn Mote)</li>
+</ul>
 https://fast.farming-community.eu/farming/daily
-
-- added Duration column to all categories with gold per hour profit columns
+<ul>
+      <li>added Duration column to all categories with gold per hour profit columns</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.01.2022</strong></p>
 General
@@ -1468,13 +1434,11 @@ General
       <li>changed duration headers in main tables and detailed datasets (only minutes now)</li>
       <li>removed Weekly Farming Category and Weekly Strike Mission Chest (see Chests for new category)</li>
 </ul>
-Farming Daily Checklist
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>added disclaimer text</li>
       <li>added categories (Farmtrains, Dungeons, Strike Missions)</li>
 </ul>
-Chests
 https://fast.farming-community.eu/open-world/chests
 <ul>
       <li>added Weekly Strike Chest</li>
@@ -1497,7 +1461,6 @@ https://fast.farming-community.eu/festivals/wintersday
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 03.12.2021</strong></p>
-Conversions
 https://fast.farming-community.eu/conversions/eternal-ice-shard
 https://fast.farming-community.eu/conversions/laurel
 https://fast.farming-community.eu/conversions/magnetite-shard
@@ -1508,137 +1471,132 @@ https://fast.farming-community.eu/conversions/volatile-magic
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.11.2021</strong></p>
-Salvageables
 https://fast.farming-community.eu/open-world/salvageables
 <ul>
       <li>added ~240 detailed datasets to all salvageable entries</li>
 </ul>
-Meta
 https://fast.farming-community.eu/open-world/meta
 <ul>
       <li>added Dragonstorm</li>
 </ul>
-Nodes
-/gathering/nodes
+https://fast.farming-community.eu/gathering/nodes
 <ul>
       <li>added new Column Limitations</li>
       <li>fixed broken images</li>
 </ul>
-Fractal Encryption Key
-/chests/fractal-encryption-key
-
-- added additional table to Fractal Encryption Key to indicate if the Fractal Encryption was dropped or bought from the TP
+https://fast.farming-community.eu/item-conversions/fractal-encryption-key
+<ul>
+      <li>added additional table to Fractal Encryption Key to indicate if the Fractal Encryption was dropped or bought from the TP</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Farming Builds Updates 16.11.2021</strong></p>
-/farming/builds
-Farming Builds
-- fixed Template Codes on following builds:
-
-- Condi Quickness Firebrand
-- Condi DPS Renegade
-- Power DPS Soulbeast
-- Power DPS Daredevil
-- Power DPS Deadeye
-- Condi DPS Daredevil
-- Power Maximum Tagging Deadeye
-- Power Quickness Chronomancer
-- Condi Alacrity Mirage
-- Power DPS Reaper
-- Condi DPS Scourge
+https://fast.farming-community.eu/farming/builds
+<ul>
+      <li>fixed Template Codes on following builds:</li>
+      <li>Condi Quickness Firebrand</li>
+      <li>Condi DPS Renegade</li>
+      <li>Power DPS Soulbeast</li>
+      <li>Power DPS Daredevil</li>
+      <li>Power DPS Deadeye</li>
+      <li>Condi DPS Daredevil</li>
+      <li>Power Maximum Tagging Deadeye</li>
+      <li>Power Quickness Chronomancer</li>
+      <li>Condi Alacrity Mirage</li>
+      <li>Power DPS Reaper</li>
+      <li>Condi DPS Scourge</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.10.2021</strong></p>
 Website Searchbar (Top Nav Bar)
-- now indexes all categories on the website
-- updates itself automatically via fast-api
-Gizmo
-/bags/gizmo-bags
-
-- added new Gizmo (Spearmarshal's Plea)
-- added new Gizmo Bag (Sunspear Redemption Wish)
+<ul>
+      <li>now indexes all categories on the website</li>
+      <li>updates itself automatically via fast-api</li>
+</ul>
+https://fast.farming-community.eu/open-world/gizmos
+<ul>
+      <li>added Spearmarshal's Plea</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Sunspear Redemption Wish</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Farming Builds Updates 04.09.2021</strong></p>
-/farming/builds
-
-The choices and flavor text made for each build can be read on the website. This announcement only briefly summarizes newly added or changed builds.
-Engineer
-/farming/builds/engineer
-
+https://fast.farming-community.eu/farming/builds
+<ul>
+      <li>The choices and flavor text made for each build can be read on the website. This announcement only briefly summarizes newly added or changed builds.</li>
+</ul>
 Power Quickness Scrapper
-- newly added build for permanent quickness and superspeed
-
+<ul>
+      <li>newly added build for permanent quickness and superspeed</li>
+</ul>
 Power Holosmith
-- no changes
-Ranger
-/farming/builds/ranger
-
-Condi Soulbeast*
-- newly added build for increased damage output in comparison to the power variation
-- utility skills are optimized for tagging
-- added extensive detailed explanation
-
-Power Soulbeast**
-- no changes
-Necromancer
-/farming/builds/necromancer
-
+<ul>
+      <li>no changes</li>
+</ul>
+Condi Soulbeast
+<ul>
+      <li>newly added build for increased damage output in comparison to the power variation</li>
+      <li>utility skills are optimized for tagging</li>
+      <li>added extensive detailed explanation</li>
+</ul>
+Power Soulbeast
+<ul>
+      <li>no changes</li>
+</ul>
 Power Reaper
-- no changes
-
+<ul>
+      <li>no changes</li>
+</ul>
 Condi Scourge
-- no changes
-Guardian
-/farming/builds/guardian
-
+<ul>
+      <li>no changes</li>
+</ul>
 Condi Quickness Firebrand
-- no changes
-Elementalist
-/farming/builds/elementalist
-
+<ul>
+      <li>no changes</li>
+</ul>
 Power FA Tempest
-- changed water traitline to fire traitline (dps increase)
-- added dagger as additional situational weapon
-- changed utility skills for improved tagging
-- added more descriptions on utility choices and providing boons
-
+<ul>
+      <li>changed water traitline to fire traitline (dps increase)</li>
+      <li>added dagger as additional situational weapon</li>
+      <li>changed utility skills for improved tagging</li>
+      <li>added more descriptions on utility choices and providing boons</li>
+</ul>
 Condi Tempest
-- newly added build as alternative to the power variation with simple tagging abilities
-- utility skills are optimized for tagging
+<ul>
+      <li>newly added build as alternative to the power variation with simple tagging abilities</li>
+      <li>utility skills are optimized for tagging</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Festival 31.08.2021</strong></p>
-
-/festivals/festival-of-the-four-winds
+https://fast.farming-community.eu/festivals/festival-of-the-four-winds
 <ul>
       <li>No new changes.</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.08.2021</strong></p>
-/
-
-The WvW Reward Track Data Project is finally completed!
-Support it on Reddit!
-Unid Gear
-/open-world/unid-gear
-
-- added Piece of Unidentified Gear: Open unid, extract Upgrade, salvage (Green→Copper, Yellow→Silver) and sell (15% taxes)
-Reward Track
+https://fast.farming-community.eu/salvaging/unid-gear
+<ul>
+      <li>added Piece of Unidentified Gear: Open unid, extract Upgrade, salvage (Green→Copper, Yellow→Silver) and sell (15% taxes)</li>
+</ul>
 https://fast.farming-community.eu/competitive/wvw-reward-track
-
-- added 11 new Reward Tracks:
-Honor of the Waves Reward Track
-Caudecus's Manor Reward Track
-Sorrow's Embrace Reward Track
-Citadel of Flame Reward Track
-The Ruined City of Arah Reward Track
-Bloodstone Fen Reward Track
-Ember Bay Reward Track
-Bitterfrost Frontier Reward Track
-Doric Lake Reward Track
-Draconis Mons Reward Track
-Siren's Landing Reward Track
-
+<ul>
+      <li>The WvW Reward Track Data Project is finally completed!</li>
+      <li>added Honor of the Waves Reward Track</li>
+      <li>added Caudecus's Manor Reward Track</li>
+      <li>added Sorrow's Embrace Reward Track</li>
+      <li>added Citadel of Flame Reward Track</li>
+      <li>added The Ruined City of Arah Reward Track</li>
+      <li>added Bloodstone Fen Reward Track</li>
+      <li>added Ember Bay Reward Track</li>
+      <li>added Bitterfrost Frontier Reward Track</li>
+      <li>added Doric Lake Reward Track</li>
+      <li>added Draconis Mons Reward Track</li>
+      <li>added Siren's Landing Reward Track</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.08.2021</strong></p>
-Item Conversions
 https://fast.farming-community.eu/item-conversions/branded-mass
 https://fast.farming-community.eu/item-conversions/difluorite-crystal
 https://fast.farming-community.eu/item-conversions/inscribed-shard
@@ -1646,7 +1604,6 @@ https://fast.farming-community.eu/item-conversions/jade-shard
 <ul>
       <li>added consumption to VM/UM as default values and an extra table on Inscribed Shard, Difluorite Crystal, Branded Mass and Jade Shard due to unrealistic TP prices</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Bag of Personalized Wintersday Gifts (Accountbound)</li>
@@ -1656,39 +1613,35 @@ https://fast.farming-community.eu/bags/bags
       <li>updated Little Lucky Envelope 2021 (340% MF)</li>
       <li>added Bag of Educational Supplies</li>
 </ul>
-Karma
 https://fast.farming-community.eu/conversions/karma
 <ul>
       <li>added PSNA - Torn Page from "Tyria Pact Survival Handbook"</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.08.2021</strong></p>
-https://fast.farming-community.eu/
-Unid Gear
-https://fast.farming-community.eu/open-world/unid-gear
+https://fast.farming-community.eu/salvaging/unid-gear
 <ul>
       <li>added Rare Unidentified Gear with Upgrade Extractor</li>
 </ul>
-Alt-Parking
 https://fast.farming-community.eu/open-world/alt-parking
 <ul>
       <li>added Verdant Brink - Creeping Crevasse HP</li>
 </ul>
-- 
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.08.2021</strong></p>
-Alt-Parking
-Meta
+https://fast.farming-community.eu/open-world/alt-parking
+<ul>
+      <li>Map Rewards now calculate the active current week instead of previously total average</li>
+</ul>
+https://fast.farming-community.eu/open-world/meta
 <ul>
       <li>Map Rewards now calculate the active current week instead of previously total average</li>
 </ul>
 Fast-Website Update 08.08.2021
-Volatile Magic
 https://fast.farming-community.eu/conversions/volatile-magic
 <ul>
       <li>added 5 new Volatile Magic Conversions (Limited Purchases Category)</li>
 </ul>
-Karmic Conversions
 https://fast.farming-community.eu/conversions/karma
 <ul>
       <li>added Triforge Ring (Level 23, Fine, not salvaged)</li>
@@ -1756,16 +1709,15 @@ Condi DPS Renegade
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.07.2021</strong></p>
-Spirit Shard
-- Spirit Shard Value is calculated now with average positive profit from T5-T6 Trophy Conversions only instead of previously all average positive profits.
-
-https://fast.farming-community.eu/conversions/spirit-shard
+https://fast.farming-community.eu/conversions/spirit-shard 
+<ul>
+      <li>Value is calculated now with average positive profit from T5-T6 Trophy Conversions only instead of previously all average positive profits.</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.07.2021</strong></p>
 General
-https://fast.farming-community.eu/farming/guides
 <ul>
-      <li>added requirements to all farmtrains in farming guides</li>
+      <li>added requirements to all farmtrains in detailed datasets</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.07.2021</strong></p>
@@ -1776,7 +1728,6 @@ General
       <li>fixed few columns not showing anything (Unlimited Gathering Tools)</li>
       <li>fixed column headers in Alt-Parking, Farmtrain and Solo-Farming</li>
 </ul>
-Solo-Farming
 https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added Lake Doric - Jade Crystal Node Run TacO Route</li>
@@ -1784,44 +1735,61 @@ https://fast.farming-community.eu/open-world/solo-farming
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.07.2021</strong></p>
-Gathering
 https://fast.farming-community.eu/gathering/unlimited-gathering-tools
 <ul>
-      <li>added new Category (Unlimited Gathering Tools with Cast Times)</li>
+      <li>added Unlimited Gathering Tools with Cast Times</li>
 </ul>
-Item Conversions
 https://fast.farming-community.eu/item-conversions/charged-quartz-crystal
-https://fast.farming-community.eu/item-conversions/difluorite-crystal
-https://fast.farming-community.eu/item-conversions/fire-orchid-blossom
-https://fast.farming-community.eu/item-conversions/fresh-winterberry
-https://fast.farming-community.eu/item-conversions/glob-of-elder-spirit-residue
-https://fast.farming-community.eu/item-conversions/jade-shard
-https://fast.farming-community.eu/item-conversions/lump-of-mithrillium
-https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread
-https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord
 <ul>
       <li>added 37 new Charged Quartz Crystal Conversions (Celestial Armor / Weapons / Trinkets)</li>
-      <li>added 65 new Item Conversions in 6 new Category (Difluorite Crystal, Fire Orchid Blossom, Fresh Winterberry, Glob of Elder Spirit Residue, Jade Shard, Lump of Mithrillium)</li>
 </ul>
-Solo-Farming
+https://fast.farming-community.eu/item-conversions/difluorite-crystal
+<ul>
+      <li>added 5 new Item Conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/fire-orchid-blossom
+<ul>
+      <li>added 5 new Item Conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/fresh-winterberry
+<ul>
+      <li>added 5 new Item Conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/glob-of-elder-spirit-residue
+<ul>
+      <li>added 3 new Item Conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/jade-shard
+<ul>
+      <li>added 18 new Item Conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/lump-of-mithrillium
+<ul>
+      <li>added 3 new Item Conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread
+<ul>
+      <li>added 3 new Item Conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord
+<ul>
+      <li>added 2 new Item Conversions</li>
+</ul>
 https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added Domain of Kourna - Kournan Supply Cache Run TacO Route</li>
 </ul>
-Chests
-https://fast.farming-community.eu/chests/no-key
+https://fast.farming-community.eu/open-world/chest
 <ul>
       <li>added Kournan Supply Cache</li>
       <li>added Kournan Chest</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.07.2021</strong></p>
-Meta
 https://fast.farming-community.eu/open-world/meta
 <ul>
       <li>added Twisted Marionette</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>Hoard of the Marionette Warden I</li>
@@ -1830,7 +1798,6 @@ https://fast.farming-community.eu/bags/bags
       <li>Hoard of the Marionette Warden IV</li>
       <li>Hoard of the Marionette Warden V</li>
 </ul>
-Elegy Mosaic
 https://fast.farming-community.eu/conversions/elegy-mosaic
 <ul>
       <li>added Mournstone Ring</li>
@@ -1839,13 +1806,11 @@ https://fast.farming-community.eu/conversions/elegy-mosaic
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.07.2021</strong></p>
-
-This update contains an important qol feature: a search function for the website!
 General
 <ul>
+      <li>This update contains an important qol feature: a search function for the website!</li>
       <li>added searchbar for all your needs</li>
 </ul>
-Meta
 https://fast.farming-community.eu/open-world/meta
 <ul>
       <li>added Grothmar Valley - Burning Effigy</li>
@@ -1853,7 +1818,6 @@ https://fast.farming-community.eu/open-world/meta
       <li>added Grothmar Valley - Ooze Pits</li>
       <li>added Thunderhead Peaks - Thunderhead Peak</li>
 </ul>
-Gathering Tools
 https://fast.farming-community.eu/gathering/karmic-tools
 https://fast.farming-community.eu/gathering/glyphs
 <ul>
@@ -1867,14 +1831,11 @@ General
       <li>added Best Choice column for detailed datasets to show best Gathering Tools, Bag Opener Level or Salvage/Sell Options</li>
       <li>Many Best Choice entries will be filled until the next update</li>
 </ul>
-Chest
 https://fast.farming-community.eu/open-world/chest
 <ul>
       <li>refactored Weekly Strike Chest</li>
       <li>added detailed datasets & descriptions</li>
 </ul>
-
-Prophet Shard
 https://fast.farming-community.eu/conversions/blue-prophet-shard
 <ul>
       <li>split currency conversion table due to profit limitations (Weekly Strike Mission Chest and Vendor)</li>
@@ -1882,29 +1843,28 @@ https://fast.farming-community.eu/conversions/blue-prophet-shard
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.07.2021</strong></p>
+General
+<ul>
+      <li>This update contains new categories and a lot of refactoring of tables. The refactoring took place, because a lot of older tables were not being layed out for the later added detailed datasets.</li>
+</ul>
 https://fast.farming-community.eu/open-world/drizzlewood-material-donation
 <ul>
-      <li>This update contains new categories and a lot of refactoring of tables. The refactoring took place, because a lot of older tables were not being layed out for the later added detailed datasets.
-Drizzlewood Material Donation</li>
       <li>refactored Drizzlewood Material Donation</li>
       <li>table can now show buy order values</li>
       <li>improved visualization of the data and clickable detailed datasets now possible</li>
 </ul>
-Karma
 https://fast.farming-community.eu/conversions/karma
 <ul>
       <li>split PSNA / Map Reward in a new sub-category in Karma Conversions</li>
 </ul>
-Map Reward
-https://fast.farming-community.eu/open-world/map-reward
+https://fast.farming-community.eu/open-world/pve-reward-track
 <ul>
       <li>added new Category Map Reward</li>
       <li>Best Map Reward Current Week is automatically updated if a new week passes</li>
       <li>Map Reward is automatically updated for all other map reward references in JP-Alt-Parking, Farmtrain and Meta</li>
       <li>added Detailed Datasets for all Map Rewards</li>
 </ul>
-Festivals
-e.g. https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+https://fast.farming-community.eu/festivals/festival-of-the-four-winds
 <ul>
       <li>refactored tables to be split into sub-categories (Vendor, Weekly Vendor) due to profit limitations</li>
       <li>added profit columns to festival farms</li>
@@ -1914,14 +1874,12 @@ https://fast.farming-community.eu/festivals/lunar-new-year
 <ul>
       <li>added new Lunar New Year Farm (Celestial Challenge)</li>
 </ul>
-Gathering
 https://fast.farming-community.eu/gathering/nodes
 <ul>
       <li>added new Category Nodes showing Best Gathering Tool for each node</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.06.2021</strong></p>
-Spirit Shard
 https://fast.farming-community.eu/conversions/spirit-shard
 <ul>
       <li>refactored entire Spirit Shard Conversions on spreadsheet and code implementation:</li>
@@ -1936,12 +1894,10 @@ General
 <ul>
       <li>links in multiple categories are now clickable hyperlinks</li>
 </ul>
-Farmtrain
 https://fast.farming-community.eu/open-world/farmtrain
 <ul>
       <li>added daily chests to detailed dataset and not in main farmtrain table</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>removed potential profit on Hero's Choice Chests due to limited converter gold conversions</li>
@@ -1953,7 +1909,6 @@ https://fast.farming-community.eu/bags/bags
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.06.2021</strong></p>
-Tale of Dungeon Delving
 https://fast.farming-community.eu/conversions/tale-of-dungeon-delving
 <ul>
       <li>split table (crafting/recipes and vendor) for more clearance on which table is being used for calculations on all dungeon currencies (Ascalonian Tear, Deadly Bloom, Manifesto of the Moletariate, Knowledge Crystal, Seal of Beetletun, Shard of Zhaitan, Symbol of Koda)</li>
@@ -1966,17 +1921,14 @@ https://fast.farming-community.eu/bags/storage-bags
       <li>fixed few missing price icons on several other categories</li>
       <li>added new price Icons to following categories</li>
 </ul>
-Festivals
 https://fast.farming-community.eu/festivals/lunar-new-year
 <ul>
       <li>added lunar new year tables (bags and luck vendor are now split)</li>
 </ul>
-Reward Track
 https://fast.farming-community.eu/competitive/wvw-reward-track
 <ul>
       <li>fixed Reward Track columns showing now only one profit column at a time (Non-repeatable Reward Tracks)</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added missing Best Choice column to Tyria Bags</li>
@@ -1990,12 +1942,11 @@ General
       <li>fixed multiple calculation errors (Spirit Shard calculated now with conversion-materials on buy order only with Profit on chosen cog-settings (upper right corner))</li>
       <li>added function: clicking on an image will now pop-up a high-resolution image</li>
 </ul>
-Storage and Slot Bags
 https://fast.farming-community.eu/open-world/storage-bags
 <ul>
       <li>added new Category (Storage and Slot Bags)</li>
 </ul>
-Bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>removed individual Category (Chest of Loyalty) and moved as detailed dataset to Tyria Bags Category</li>
       <li>moved Achievement to Bags Category</li>
@@ -2014,34 +1965,28 @@ General
       <li>fixed calculation error (Minimum instead of maximum value shown for eternal ice shard conversions)</li>
       <li>This affects mostly "Karma with currency" conversions.</li>
 </ul>
-Dragon Bash
 https://fast.farming-community.eu/festivals/dragon-bash
 <ul>
       <li>No new conversion methods or farms. Enjoy the festivities.</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.06.2021</strong></p>
-Contributors
 https://fast.farming-community.eu/contributors
 <ul>
       <li>updated Contributors / Supporters list</li>
 </ul>
-Unbound Magic
 https://fast.farming-community.eu/conversions/unbound-magic
 <ul>
       <li>added new Unbound Magic conversion (Offering Basket)</li>
 </ul>
-Chest
 https://fast.farming-community.eu/open-world/chest
 <ul>
       <li>added Retrospective Runaround JP Chest</li>
 </ul>
-Branded Mass
 https://fast.farming-community.eu/crafting/branded-mass
 <ul>
       <li>added 37 new Branded Mass Crafting Recipes</li>
 </ul>
-Inscribed Shard
 https://fast.farming-community.eu/crafting/inscribed-shard
 <ul>
       <li>added 37 new Inscribed Shard Crafting Recipes</li>
@@ -2054,39 +1999,34 @@ General
       <li>To show the best tool for every gathering tool node it will be added as an additional column next to the node value, so website users do not have to click on every node to check the best tool individually.</li>
       <li>Aggregates of gathering tools are removed.</li>
 </ul>
-Alt-Parking
 https://fast.farming-community.eu/open-world/alt-parking
 <ul>
       <li>added detailed datasets to nodes</li>
 </ul>
-Solo-Farming
 https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added detailed datasets to nodes</li>
 </ul>
-Home
 https://fast.farming-community.eu/instances/home-instance
 <ul>
       <li>added detailed datasets to nodes and home nodes</li>
 </ul>
-Bags
-https://fast.farming-community.eu/open-world/achievements
+https://fast.farming-community.eu/bags/bags
 <ul>
-      <li>added 2 new WvW Dailies (Transcendent Chest (Exotic), Transcendent Chest (Rare))</li>
+      <li>added Transcendent Chest (Exotic)</li>
+      <li>added Transcendent Chest (Rare)</li>
 </ul>
-Meta
+https://fast.farming-community.eu/open-world/meta
 <ul>
       <li>added Bjora Marches - Storms of Winter</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.06.2021</strong></p>
-Farming Guides
 https://fast.farming-community.eu/farming/guides/farming-preparation
 <ul>
       <li>updated multiple sections</li>
       <li>added video guide explanation for karmic retribution (Farming Buffs)</li>
 </ul>
-Dungeons
 https://fast.farming-community.eu/instances/dungeons
 <ul>
       <li>fixed calculation errors (double taxation on profit values)</li>
@@ -2101,26 +2041,48 @@ General
       <li>split ascended junk into single items (Dragonite Ore, Empyreal Fragment and Pile of Bloodstone Dust)</li>
       <li>removed Champions Material Donations</li>
 </ul>
-Crafting
 https://fast.farming-community.eu/crafting/branded-mass
-https://fast.farming-community.eu/crafting/dragonite-ore
-https://fast.farming-community.eu/crafting/empyreal-fragment
-https://fast.farming-community.eu/crafting/inscribed-shard
-https://fast.farming-community.eu/crafting/kralkatite-ore
-https://fast.farming-community.eu/crafting/pile-of-bloodstone-dust
 <ul>
       <li>added Branded Mass</li>
+</ul>
+<ul>
       <li>added Charged Quartz Crystal</li>
+</ul>
+      
+https://fast.farming-community.eu/crafting/dragonite-ore
+<ul>
       <li>added Dragonite Ore</li>
+</ul>
+https://fast.farming-community.eu/crafting/empyreal-fragment
+<ul>
       <li>added Empyreal Fragment</li>
+</ul>
+https://fast.farming-community.eu/crafting/inscribed-shard
+<ul>
       <li>added Inscribed Shard</li>
+</ul>
+https://fast.farming-community.eu/crafting/kralkatite-ore
+<ul>
       <li>added Kralkatite Ore</li>
+</ul>
+https://fast.farming-community.eu/crafting/pile-of-bloodstone-dust
+<ul>
       <li>added Pile of Bloodstone Dust</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/eitrite-ingot
+<ul>
       <li>moved Eitrite Ingot</li>
       <li>moved Hatched Chili</li>
       <li>moved Prismaticite Crystal</li>
 </ul>
-Dungeons
+https://fast.farming-community.eu/item-conversions/hatched-chili
+<ul>
+      <li>moved Hatched Chili</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/prismaticite-crystal
+<ul>
+      <li>moved Prismaticite Crystal</li>
+</ul>
 https://fast.farming-community.eu/instances/dungeons
 <ul>
       <li>added Sorrow's Embrace P2</li>
@@ -2130,13 +2092,10 @@ https://fast.farming-community.eu/instances/dungeons
       <li>added Citadel of Flames P1</li>
       <li>added Citadel of Flames P3</li>
 </ul>
-Detailed datasets will probably appear after finishing the remaining paths.
-Conversions
 https://fast.farming-community.eu/conversions/karma
 <ul>
       <li>split Karma Mystic Forge Conversions from conventional Karma Conversions into separate tables</li>
 </ul>
-Reward Track
 https://fast.farming-community.eu/competitive/wvw-reward-track
 <ul>
       <li>removed volcanic box profit from Shiver WvW track (change to accountbound)</li>
@@ -2151,36 +2110,31 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.05.2021</strong></p>
-
-Conversions / Chests / WvW
-Price columns now contain icons instead of words. Hover above the icon to reveal the item.
-Dungeons
+General
+<ul>
+      <li>Price columns now contain icons instead of words. Hover above the icon to reveal the item.</li>
+</ul>
 https://fast.farming-community.eu/instances/dungeons
 <ul>
       <li>removed redundant profit columns due to upcoming detailed datasets</li>
 </ul>
-Dailies
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>removed Drizzlewood Quaestor table which can not implemented due to missing API info</li>
 </ul>
-Alt-Parking
 https://fast.farming-community.eu/open-world/alt-parking
 <ul>
       <li>removed Duration column which can now only be accessed by clicking on individual Alt-Parking spots</li>
 </ul>
-WvW
 https://fast.farming-community.eu/wvw/badge-of-honor
 https://fast.farming-community.eu/wvw/testimony-of-heroics
 <ul>
       <li>added missing price columns for Badge of Honor and Testimony of Heroics</li>
 </ul>
-Bag Opener
 https://fast.farming-community.eu/bags/bag-opener
 <ul>
       <li>bag opener table is now sorted by profit</li>
 </ul>
-Home
 https://fast.farming-community.eu/instances/home-instance
 <ul>
       <li>garden node table is now sorted by profit</li>
@@ -2188,7 +2142,6 @@ https://fast.farming-community.eu/instances/home-instance
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.05.2021</strong></p>
-Reward Track
 https://fast.farming-community.eu/competitive/wvw-reward-track
 <ul>
       <li>WvW Reward Tracks have now detailed datasets!</li>
@@ -2208,37 +2161,28 @@ General
       <li>side navigation bar settings are now saved locally</li>
       <li>If a category is opened/closed, it will remain in that state until you change it again.</li>
 </ul>
-Conversions
 https://fast.farming-community.eu/conversions/tyrian-defense-seal
 <ul>
       <li>added Prismaticite Crystal - Discount Vendor</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 22.04.2021</strong></p>
-Champion Material Donation
-<ul>
-      <li>added Kodan Faction</li>
-</ul>
-Bags
-https://fast.farming-community.eu/bags/icebrood-bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added new Icebrood-Saga Bag (Kodan Supply Box)</li>
 </ul>
-Reward Track
 https://fast.farming-community.eu/competitive/wvw-reward-track
 <ul>
       <li>added Shiver Emote Tome Reward Track</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.04.2021</strong></p>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>reworked the Goody Bags page to show each entity not in an entire table, but on its own</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.04.2021</strong></p>
-Super Adventure Box
 https://fast.farming-community.eu/festivals/super-adventure-box
 <ul>
       <li>added new SAB Vendor item (Amalgamated Draconic Lodestone)</li>
@@ -2256,22 +2200,15 @@ General
       <li>fixed multiple reference mistakes with revamped Hero's Choice Chests</li>
       <li>fixed multiple bag reference mistakes (Farmtrains)</li>
 </ul>
-Icebrood Bags
-https://fast.farming-community.eu/bags/icebrood-bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Olmakhan Supply Box</li>
 </ul>
-Champions Material Donation
-<ul>
-      <li>added new Material Donation (Olmakhan)</li>
-</ul>
-Conversions
 https://fast.farming-community.eu/conversions/prismaticite-crystal
 <ul>
       <li>added Prismatium Ingot (5 Crystals)</li>
       <li>added Prismatium Ingot (10 Crystals)</li>
 </ul>
-DRMs
 https://fast.farming-community.eu/instances/dragon-response-mission
 <ul>
       <li>taking enhancements from new mastery into account for total DRM profit</li>
@@ -2282,19 +2219,16 @@ https://fast.farming-community.eu/instances/dragon-response-mission
       <li>added Caledon Forest CM</li>
       <li>added Fireheart Rise CM</li>
 </ul>
-Home Instance
 https://fast.farming-community.eu/instances/home-instance
 <ul>
       <li>taking enhancements from new mastery into account for total Prismaticite Crystal Node profit</li>
 </ul>
-Farming Guides
 https://fast.farming-community.eu/farming/guides/weekly-keyfarm
 <ul>
       <li>Speedrunning weekly BLK Keyfarm by Tom™</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.03.2021</strong></p>
-Chest
 https://fast.farming-community.eu/open-world/chest
 <ul>
       <li>added new Category (Chests)</li>
@@ -2368,12 +2302,11 @@ https://fast.farming-community.eu/open-world/chest
       <li>added </li>
       <li>moved Fractal Encryption Key to Chest Category</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Lucky Red Bag (969% MF)</li>
 </ul>
-Meta
+https://fast.farming-community.eu/open-world/meta
 <ul>
       <li>added Jahai Bluffs - Death-Branded Shatterer</li>
 </ul>
@@ -2391,11 +2324,10 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.02.2021</strong></p>
-Conversions
+https://fast.farming-community.eu/conversions/magnetite-shard
 <ul>
-      <li>added new Gaeting Crystal Conversion (Djinn Energy Cluster)</li>
+      <li>added Djinn Energy Cluster</li>
 </ul>
-Unid Gear
 https://fast.farming-community.eu/salvaging/unid-gear
 <ul>
       <li>added Open Green unid, salvage (Green=Copper-Fed, Yellow=Silver) and sell (15% taxes)</li>
@@ -2403,18 +2335,15 @@ https://fast.farming-community.eu/salvaging/unid-gear
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.02.2021</strong></p>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added new Tyria-Bag (Lucky Red Bag 2021 (~600% MF))</li>
       <li>added new Exalted Supply Box</li>
 </ul>
-Festivals
 https://fast.farming-community.eu/festivals/lunar-new-year
 <ul>
       <li>added Lucky Red Bag 2021 (~600% MF)</li>
 </ul>
-Unid Gear
 https://fast.farming-community.eu/salvaging/unid-gear
 <ul>
       <li>added Open Unid, salvage and sell (15% taxes) + Luck calculation to Common and Masterwork Unid Gear</li>
@@ -2440,16 +2369,15 @@ General
       <li>fixed few broken tables due to missing references</li>
       <li>fixed few double taxes in tables due to the Detailed Dataset refactoring</li>
 </ul>
-Bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Lucky Red Bag 2021 (300% MF)</li>
       <li>added Lucky Red Bag 2021 (960% MF)</li>
 </ul>
-Festival
+https://fast.farming-community.eu/festivals/lunar-new-year
 <ul>
       <li>removed bug message from Lucky Red Bag 2021. The droprate on higher MF is intended.</li>
 </ul>
-Daily Crafting (Daily Farming Checklist)
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>renamed few Crafting Materials to their corresponding daily crafting material (Spool of Silk Weaving Thread: Gossamer Stuffing, Bolt of Damask etc.)</li>
@@ -2460,17 +2388,14 @@ https://fast.farming-community.eu/farming/daily
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.02.2021</strong></p>
-Detailed Datasets
-<ul>
-      <li>changed 135.000 formulas to calculate taxes directly instead in the total sum</li>
-</ul>
 General
 <ul>
+      <li>changed 135.000 formulas to calculate taxes directly instead in the total sum</li>
       <li>fixed major calculation mistake (double cost calculation in Magic Warped Packet/Bundle Unbound Magic)</li>
       <li>fixed minor calculation mistakes (missing taxes in WvW)</li>
       <li>fixed minor calculation mistakes (wrong summation in several WvW-Bags)</li>
 </ul>
-Fast-Website Alt-Parking Update 31.01.2021
+<p style="color: #7289da;"><strong>Website Updates 31.01.2021</strong></p>
 https://fast.farming-community.eu/open-world/alt-parking
 <ul>
       <li>added Bjora Marches - Essence Chest Spot 5</li>
@@ -2526,24 +2451,20 @@ https://fast.farming-community.eu/open-world/alt-parking
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 26.01.2021</strong></p>
-Farming Guides
-https://fast.farming-community.eu/farming/guides/metatrain
+General
 <ul>
       <li>updated Metatrain Guide with more detailed information</li>
 </ul>
-WvW
 https://fast.farming-community.eu/competitive/wvw-reward-track
 <ul>
       <li>fixed final Chest loot on the Icebrood Saga Reward Track</li>
       <li>shows now best Choice option on Icebrood Saga Reward Track</li>
       <li>fixed smaller calculation mistakes (GW2API ID checks)</li>
 </ul>
-Bags
 https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Deldrimor Supply Box</li>
 </ul>
-Tyrian Defense Seal
 https://fast.farming-community.eu/conversions/tyrian-defense-seal
 <ul>
       <li>added new Tyria Defense Seal Conversion (Deldrimor Supply Box)</li>
@@ -2557,13 +2478,17 @@ General
       <li>added two views: Data (Expert Mode) & Farming (Beginner Mode)</li>
       <li>Farming view is the default view, but you can change back to the old view</li>
 </ul>
-Category
+https://fast.farming-community.eu/open-world/chest
 <ul>
-      <li>added Achievements</li>
-      <li>added Champions Material Donation</li>
-      <li>added Dragon Response Missions</li>
       <li>added Strike Mission Weekly Chest</li>
+</ul>
+https://fast.farming-community.eu/open-world/solo-farming
+<ul>
       <li>renamed Node Farming to Solo Farming</li>
+</ul>
+https://fast.farming-community.eu/instances/dragon-response-mission
+<ul>
+      <li>added Dragon Response Missions</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 23.01.2021</strong></p>
@@ -2571,23 +2496,37 @@ API
 <ul>
       <li>API data is now saved to mongoDB</li>
 </ul>
-Conversions
-- added new Conversion (Prismaticite Crystal)
-- added new Currency (Tyria Defense Seal)
-Salvageables
-- added tooltip with all salvageable items you can search for
-
+https://fast.farming-community.eu/item-conversions/prismaticite-crystal
+<ul>
+      <li>added https://fast.farming-community.eu/item-conversions/prismaticite-crystal</li>
+      
+</ul>
+https://fast.farming-community.eu/conversions/tyrian-defense-seal
+<ul>
+      <li>added https://fast.farming-community.eu/conversions/tyrian-defense-seal</li>
+</ul>
+https://fast.farming-community.eu/salvaging/salvageables
+<ul>
+      <li>added tooltip with all salvageable items you can search for</li>
+</ul>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2021</strong></p>
+General
+<ul>
+      <li>added Metatrain Guide</li>
+</ul>
 https://fast.farming-community.eu/farming/builds
 Builds
-- added Power Quickness Chronomancer
-Farmtrain
-- added new rotation on Metatrain (36 Gph)
-Guides
-- added new Metatrain Guide
-Bags
-- added value for Brandspark Jewelry drops from Branded Geodermites
-Karma
+<ul>
+      <li>added Power Quickness Chronomancer</li>
+</ul>
+https://fast.farming-community.eu/open-world/farmtrain
+<ul>
+      <li>added new rotation on Metatrain</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added value for Brandspark Jewelry drops from Branded Geodermites</li>
+</ul>
 https://fast.farming-community.eu/conversions/karma
 <ul>
       <li>added Ascalon Shield (Level 11, Fine)</li>
@@ -2600,9 +2539,9 @@ https://fast.farming-community.eu/conversions/karma
 <p style="color: #7289da;"><strong>Website Updates 19.01.2021</strong></p>
 General
 <ul>
-      <li>removed Spirit Shards Drops from Champion Bags on drop tables and all its dependencies: Farmtrain, Drizzlewood Reward Track, Alt-Parking, Home, Dungeon, Raid, Strikes</li>
+      <li>removed Spirit Shards Drops from Champion  on drop tables and all its dependencies: Farmtrain, Drizzlewood Reward Track, Alt-Parking, Home, Dungeon, Raid, Strikes</li>
 </ul>
-Karma
+https://fast.farming-community.eu/conversions/karma
 <ul>
       <li>added Corsair Sharpening Stone</li>
       <li>added Corsair Maintenance Oil</li>
@@ -2617,22 +2556,26 @@ Karma
       <li>added Seraph Sword (Level 20, Fine)</li>
       <li>added Lucky Rabbit's Foot (Level 80, Masterwork)</li>
 </ul>
-Bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>moved Superior Buried Treasure and Buried Treasures to Chest Category</li>
 </ul>
-Home
+https://fast.farming-community.eu/instances/home-instance
 <ul>
       <li>added price calculation for previous non-ascended accountbound food on Black Lion Delivery Boxes</li>
 </ul>
-Farmtrain
+https://fast.farming-community.eu/open-world/farmtrain
 <ul>
       <li>fixed calculation error (Sandswept Isles, added missing Daily Chests)</li>
       <li>fixed Spirit Shard values (excluded Spirit Shards from Tyria-, Heart of Thorns & Path of Fire Bags)</li>
 </ul>
-Gathering
+https://fast.farming-community.eu/gathering/karmic-tools
 <ul>
       <li>fixed calculation mistake (Karmic Tools)</li>
+      
+</ul>
+https://fast.farming-community.eu/gathering/nodes
+<ul>
       <li>researched Maguuma Lily Drop Rate on Jungle Plants (flat increase from 1% to 5%)</li>
 </ul>
 <hr>
@@ -2641,83 +2584,78 @@ Alt-Parking
 <ul>
       <li>added Lion's Arch - Troll's Revenge (Node Field)</li>
 </ul>
-Solo-Farming (Node-Farming)
+https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added Lion's Arch - Rolan's Chest</li>
       <li>added Domain of Istan - Sunspear Cache TacO Route</li>
 </ul>
-Karma
 https://fast.farming-community.eu/conversions/karma
 <ul>
       <li>added Flush 4 Hemlocked Sword (Level 9, Fine)</li>
 </ul>
-Black Lion Delivery Box
+https://fast.farming-community.eu/bags/black-lion-delivery-box-bags
 <ul>
       <li>renamed titles to match GW2 item names</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.01.2021</strong></p>
-Conversions
+https://fast.farming-community.eu/conversions/fractal-relic
 <ul>
       <li>split up Fractal Relic table (Fractal Relic Vendors & Fractal Reliquary Converter)</li>
 </ul>
-Bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Best Choice Column</li>
 </ul>
-Festivals
+Festival
 <ul>
       <li>added Price Column for Lunar New Year, Super Adventure Box, Dragon Bash, Festival of the four Winds, Halloween & Wintersday</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 07.01.2021</strong></p>
-Alt-Parking
+https://fast.farming-community.eu/open-world/alt-parking
 <ul>
       <li>added more detailed information about passive Bjora Essence Chest Farm</li>
-</ul>
-Guides
-https://fast.farming-community.eu/farming/guides/bjora-marches
-<ul>
       <li>added Alt-Parking Information about parking Alts and routes to Bjora Essence Chests (Bjora Marches Guide)</li>
 </ul>
-Bags
+https://fast.farming-community.eu/bags/bags
 <ul>
-      <li>added new Tyria-Bag (Personalized Wintersday Gift)</li>
+      <li>added Personalized Wintersday Gift</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.01.2021</strong></p>
-Gizmo
+https://fast.farming-community.eu/open-world/gizmos
 <ul>
       <li>fixed minor calculation error</li>
 </ul>
-Karma
+https://fast.farming-community.eu/conversions/karma
 <ul>
-      <li>added new Karma Conversion (Bottle of Putrid Wine)</li>
+      <li>added Bottle of Putrid Wine</li>
 </ul>
-Volatile Magic
+https://fast.farming-community.eu/conversions/volatile-magic
 <ul>
       <li>added description text to Volatile Magic on how to increase your profit margin from Trophy & Leather Shipments</li>
 </ul>
-Bag Opener
+https://fast.farming-community.eu/bags/bag-opener
 <ul>
       <li>added a detailed description text to be more clear how the values are being calculated</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 02.01.2021</strong></p>
-Node-Farming
-<ul>
-      <li>added Bjora Marches - Verdant Herbs</li>
-</ul>
-Conversions
+General
 <ul>
       <li>added copyable Waypoint Links to every Non-instanciated Vendor</li>
       <li>fixed minor mistakes in linking wrong waypoints (Karma Conversions)</li>
 </ul>
-Instances
+https://fast.farming-community.eu/open-world/solo-farming
+<ul>
+      <li>added Bjora Marches - Verdant Herbs</li>
+</ul>
+https://fast.farming-community.eu/instances/home-instance
 <ul>
       <li>fixed major calculation mistake (calculated by node instead of by plot, added missing TP taxes)</li>
 </ul>
-Bags
+https://fast.farming-community.eu/bags/bags
 <ul>
       <li>added Crystal Oasis: Hero's Choice Chest</li>
       <li>added Elon Riverlands: Hero's Choice Chest</li>
@@ -2738,408 +2676,603 @@ WvW
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 17.12.2020</strong></p>
+General
+<ul>
+      <li>added a new column with the price of the conversion</li>
+      <li>Notes column can now be copied to the clipboard by clicking on it</li>
+</ul>
 General Settings (Cog Symbol)
-- added Average Spirit Shard Calculation (Include / Exclude to Total Profit)
-Unid Gear
-- completely revamped Unid Gear table, now showing all options with full profit values, which can be directly compared instead of difference values.
-Salvageables
-- completely revamped Salvageables, search bar for every salvageable item, that is not armor gear
-- added 7 new Salvageables (Ascended Ring, Ascended Attuned Ring, Ascended Infused Ring, Ascended Attuned Infused Ring, Ascended Accessory, Ascended Amulet, Ascended Backpack)
-Conversions
-- added a new column with the price of the conversion
-- Notes column can now be copied to the clipboard by clicking on it
+<ul>
+      <li>added Average Spirit Shard Calculation (Include / Exclude to Total Profit)</li>
+</ul>
+[Unid Gear](https://fast.farming-community.eu/salvaging/unid-gear)
+<ul>
+      <li>completely revamped Unid Gear table, now showing all options with full profit values, which can be directly compared instead of difference values</li>
+</ul>
+https://fast.farming-community.eu/salvaging/salvageables
+<ul>
+      <li>completely revamped Salvageables, search bar for every salvageable item, that is not armor gear</li>
+      <li>added 7 new Salvageables (Ascended Ring, Ascended Attuned Ring, Ascended Infused Ring, Ascended Attuned Infused Ring, Ascended Accessory, Ascended Amulet, Ascended Backpack)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.12.2020</strong></p>
-Converter
-- added 4 new Converter Bags (Masterwork Sigil Bag, Rare Sigil Bag, Masterwork Rune Bag, Rare Rune Bag)
-Conversions
-- added 4 new Airship Part Conversions (Sigil Bags, Rune Bags)
-- added 4 new Ley Line Crystal Conversions (Sigil Bags, Rune Bags)
-- added 4 new Lump of Aurillium Conversions (Sigil Bags, Rune Bags)
-- added 30 new Karma Conversions (Mystic Forge)
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Masterwork Sigil Bag</li>
+      <li>added Rare Sigil Bag, Masterwork Rune Bag, Rare Rune Bag)</li>
+</ul>
+https://fast.farming-community.eu/conversions/airship-part
+<ul>
+      <li>added Sigil Bags (Masterwork)</li>
+      <li>added Sigil Bags (Rare)</li>
+      <li>added Rune Bag (Masterwork)</li>
+      <li>added Rune Bag (Rare)</li>
+</ul>
+https://fast.farming-community.eu/conversions/ley-line-crystal
+<ul>
+      <li>added Sigil Bags (Masterwork)</li>
+      <li>added Sigil Bags (Rare)</li>
+      <li>added Rune Bag (Masterwork)</li>
+      <li>added Rune Bag (Rare)</li>
+</ul>
+https://fast.farming-community.eu/conversions/lump-of-aurillium
+<ul>
+      <li>added Sigil Bags (Masterwork)</li>
+      <li>added Sigil Bags (Rare)</li>
+      <li>added Rune Bag (Masterwork)</li>
+      <li>added Rune Bag (Rare)</li>
+</ul>
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>added 30 new Karma Conversions (Mystic Forge)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.12.2020</strong></p>
-Instances
-- added new Home Node (Prismaticite Node)
-- fixed Buy Order Listings
-- fixed Buy Order Listings to show on Daily Farming Checklist correctly
-Bags
-- added new Icebrood Saga Bag (Ebon Vanguard Supply Box)
-Alt-Parking
-- added Dry Top - Skritt Queen Rich Quartz Vein
-- added Verdant Brink - Matriarch
-Node-Farming
-- added Dry Top - Skritt Queen Rich Quartz Vein
+https://fast.farming-community.eu/instances/home-instance
+<ul>
+      <li>added Prismaticite Node</li>
+      <li>fixed Buy Order Listings</li>
+      <li>fixed Buy Order Listings to show on Daily Farming Checklist correctly</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Ebon Vanguard Supply Box</li>
+</ul>
+https://fast.farming-community.eu/open-world/alt-parking
+<ul>
+      <li>added Dry Top - Skritt Queen Rich Quartz Vein</li>
+      <li>added Verdant Brink - Matriarch</li>
+</ul>
+https://fast.farming-community.eu/open-world/solo-farming
+<ul>
+      <li>added Dry Top - Skritt Queen Rich Quartz Vein</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.12.2020</strong></p>
 API
-- updates itself now automatically every hour
-- changed Google API to not call fast-API anymore due to error-prone activities
-- fixed adding new items to the list
-Conversions
-- added 15 new Karma Conversions (Mystic Forge - NPC Heart Vendors)
+<ul>
+      <li>updates itself now automatically every hour</li>
+      <li>changed Google API to not call fast-API anymore due to error-prone activities</li>
+      <li>fixed adding new items to the list</li>
+</ul>
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>added Mystic Forge - NPC Heart Vendors</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.12.2020</strong></p>
-Farmtrains
-- added new Farmtrain (Dry Top)
-Bags
-- added Tootsie's Speed Pack
-- added Traveler's Sack
-- added Crystal Bloom Supply Box
+https://fast.farming-community.eu/open-world/farmtrain
+<ul>
+      <li>added Dry Top</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Tootsie's Speed Pack</li>
+      <li>added Traveler's Sack</li>
+      <li>added Crystal Bloom Supply Box</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.11.2020</strong></p>
-Conversions
-- added 3 new VM Conversions (Serpentite Jewel Recipes)
-- added 3 new Laurel Conversions (Serpentite Jewel Recipes)
-Happy TP Bombing!
-
-- fixed calculation errors (Karma, corrected Journeyman's Salvage Kit cost)
+https://fast.farming-community.eu/conversions/volatile-magic
+<ul>
+      <li>added Diviner's Jewelry Recipe Book</li>
+</ul>
+https://fast.farming-community.eu/conversions/laurel
+<ul>
+      <li>added Diviner's Jewelry Recipe Book</li>
+</ul>
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>fixed calculation errors (Karma, corrected Journeyman's Salvage Kit cost)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.11.2020</strong></p>
 General
-- added & standardized notes on all Conversions / Festival columns
-
-It now shows the amount of currency and other components needed, as well how often it is available per day or week:
-
-X Currency (Category, limited: Y Amount daily/weekly)
-Conversions
-- fixed calculation errors (Prophet Shard, deducted wrong amount of shards)
-- added 6 new Prophet Shard Conversions (Pristine Fang of the Whisper, Blessed Raven Statuette, Essential Oil of Shadows, Ancient Deldrimor Gear, Frozen Spark of Life, Ice Pearl)
-WvW
-- fixed calculation errors (Badge of Honor, added missing crafting materials)
-
+<ul>
+      <li>added & standardized notes on all Conversions / Festival columns</li>
+      <li>It now shows the amount of currency and other components needed, as well how often it is available per day or week:</li>
+      <li>X Currency (Category, limited: Y Amount daily/weekly)</li>
+</ul>
+https://fast.farming-community.eu/conversions/blue-prophet-shard
+<ul>
+      <li>fixed calculation errors (Prophet Shard, deducted wrong amount of shards)</li>
+      <li>added Pristine Fang of the Whisper</li>
+      <li>added Blessed Raven Statuette</li>
+      <li>added Essential Oil of Shadows</li>
+      <li>added Ancient Deldrimor Gear</li>
+      <li>added Frozen Spark of Life</li>
+      <li>added Ice Pearl</li>
+</ul>
+https://fast.farming-community.eu/competitive/wvw-reward-track
+<ul>
+      <li>fixed calculation errors (Badge of Honor, added missing crafting materials)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.11.2020</strong></p>
 General Fixes
-- fixed Farming Builds
+<ul>
+      <li>fixed Farming Builds</li>
+</ul>
 Table fixes
-- removed a few Farmtrain columns (Future Detailed Dataset feature will restore it)
-- fixed Gizmos (sort by TP Sell Profit / Item instead of TP Sell Profit)
-- fixed Glyphs (Pays off after # Strikes Roundings)
-- exchanged Drizzlewood Material Donation columns
-(amount of material donation is now contained in the image)
-- exchanged order of Repeatable and Non-repeatable WvW Reward Tracks
-- changed Bag opener (Sort the list by Character Bag Opener Level)
-- added Bag opener icon
+<ul>
+      <li>removed a few Farmtrain columns (Future Detailed Dataset feature will restore it)</li>
+      <li>fixed Gizmos (sort by TP Sell Profit / Item instead of TP Sell Profit)</li>
+      <li>fixed Glyphs (Pays off after # Strikes Roundings)</li>
+      <li>exchanged Drizzlewood Material Donation columns</li>
+      <li>(amount of material donation is now contained in the image)</li>
+      <li>exchanged order of Repeatable and Non-repeatable WvW Reward Tracks</li>
+      <li>changed Bag opener (Sort the list by Character Bag Opener Level)</li>
+</ul>
 Features
-- TP Buy Listing and TP Sell Listing now for more tables available (cog symbol upper right corner)
-
+<ul>
+      <li>TP Buy Listing and TP Sell Listing now for more tables available (cog symbol upper right corner)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.11.2020</strong></p>
-Bags
-- added new PoF Bag (Cache of the Traveler)
-Conversions
-- added new Karma with Currency Conversion (Cache of the Traveler)
-- added new Trade Contract Conversion (Cache of the Traveler)
-- added 57 new Ascalonian Tear Conversions (Exotic Weapons)
-- added 57 new Deadly Bloom Conversions (Exotic Weapons)
-- added 57 new Flame Legion Charr Carvings Conversions (Exotic Weapons)
-- added 57 new Knowledge Crystal Conversions (Exotic Weapons)
-- added 57 new Manifesto of the Moletariate Conversions (Exotic Weapons)
-- added 57 new Seal of Beetletun Conversions (Exotic Weapons)
-- added 57 new Shard of Zhaitan Conversions (Exotic Weapons)
-- added 57 new Symbol of Koda Conversions (Exotic Weapons)
-
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Cache of the Traveler</li>
+</ul>
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>added Cache of the Traveler</li>
+</ul>
+https://fast.farming-community.eu/conversions/trade-contract
+<ul>
+      <li>added Cache of the Traveler</li>
+</ul>
+https://fast.farming-community.eu/conversions/tale-of-dungeon-delving
+<ul>
+      <li>added 456 Exotic Weapons</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.11.2020</strong></p>
 General
-- updated descriptions on several categories
-Farming Daily Checklist
-- added 16 Daily Achievements
-- added 10 Timegated Crafting items
-- updated descriptions
-Farmtrain
-- removed Dragonfall tricom (no significant GPH increase)
-
+<ul>
+      <li>updated descriptions on several categories</li>
+</ul>
+https://fast.farming-community.eu/farming/daily
+<ul>
+      <li>added 16 Daily Achievements</li>
+      <li>added 10 Timegated Crafting items</li>
+      <li>updated descriptions</li>
+</ul>
+https://fast.farming-community.eu/open-world/farmtrain
+<ul>
+      <li>removed Dragonfall tricom</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.11.2020</strong></p>
-Farming Daily Checklist
-Daily Farming Checklist for all of your needs on one page.
-
-Contains best Dailies, Converter items, Best Alt-Parking spots, Best node-farms, Popular bosses, Daily timegated crafting values.
-
-Feedback is appreciated to optimize the checklist!
-Farming Builds
-- fixed Runes / Sigils on Firebrand Build
-Farming Guides
-- Icon page for better navigation
-- added Videoguides for Dragonfall and Drizzlewood (more to come in future for other farmtrains)
-Open World Data
-- added new Category Gizmos
-Bags
-- added new Category Goody Bags
-- added new Category Bag Opener
-Conversions
-- fixed Karma Wintersday table in Karma conversions
-- added feature to show Buy and Sell Order independently (upper right corner)
-
-This feature will expand to other categories in the future including turning off specific currencies such as spirit shards and other profit dependencies etc.
-Instance Data
-- added new Category Dungeons
+https://fast.farming-community.eu/farming/daily
+<ul>
+      <li>Daily Farming Checklist for all of your needs on one page.</li>
+      <li>Contains best Dailies, Converter items, Best Alt-Parking spots, Best node-farms, Popular bosses, Daily timegated crafting values.</li>
+</ul>
+https://fast.farming-community.eu/farming/builds
+<ul>
+      <li>fixed Runes / Sigils on Firebrand Build</li>
+</ul>
+[Farming Guides](https://fast.farming-community.eu/farming/guides)
+<ul>
+      <li>Icon page for better navigation</li>
+      <li>added Videoguides for Dragonfall and Drizzlewood (more to come in future for other farmtrains)</li>
+</ul>
+https://fast.farming-community.eu/open-world/gizmos
+<ul>
+      <li>added Gizmos</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Goody Bags</li>
+      <li>added Bag Opener</li>
+</ul>
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>fixed Karma Wintersday table in Karma conversions</li>
+      <li>added feature to show Buy and Sell Order independently (upper right corner)</li>
+      <li>This feature will expand to other categories in the future including turning off specific currencies such as spirit shards and other profit dependencies etc.</li>
+</ul>
+https://fast.farming-community.eu/instances/dungeons
+<ul>
+      <li>added Dungeons</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.11.2020</strong></p>
-Conversions
-- added all Karmic Tools instead of showing only the best option on Karma Conversions
-Bags
-- added Tyria-Bag (Personalized Trick-or-Treat Bag Accountbound)
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>added all Karmic Tools instead of showing only the best option on Karma Conversions</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Personalized Trick-or-Treat Bag Accountbound</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 31.10.2020</strong></p>
-Conversions
-- added 61 new Ascalonian Tear Conversions (Exotic Armor, Aether, Azureflame, Eidolon, ...)
-- added 55 new Deadly Blossom Conversions (Exotic Armor, The Mad Moon)
-- added 54 new Flame Legion Carving Conversions (Exotic Armor)
-- added 55 new Knowledge Crystal Conversions (Exotic Armor, The Crossing)
-- added 54 new Manifesto of the Moletariate Conversions (Exotic Armor)
-- added 54 new Seal of Beetletun Conversions (Exotic Armor)
-- added 54 new Shard of Zhaitan Conversions (Exotic Armor)
-- added 56 new Symbol of Koda Conversions (Exotic Armor, Wintersbark, Wintersbite)
+https://fast.farming-community.eu/conversions/tale-of-dungeon-delving
+<ul>
+      <li>added 61 new Ascalonian Tear Conversions (Exotic Armor, Aether, Azureflame, Eidolon, ...)</li>
+      <li>added 55 new Deadly Blossom Conversions (Exotic Armor, The Mad Moon)</li>
+      <li>added 54 new Flame Legion Carving Conversions (Exotic Armor)</li>
+      <li>added 55 new Knowledge Crystal Conversions (Exotic Armor, The Crossing)</li>
+      <li>added 54 new Manifesto of the Moletariate Conversions (Exotic Armor)</li>
+      <li>added 54 new Seal of Beetletun Conversions (Exotic Armor)</li>
+      <li>added 54 new Shard of Zhaitan Conversions (Exotic Armor)</li>
+      <li>added 56 new Symbol of Koda Conversions (Exotic Armor, Wintersbark, Wintersbite)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.10.2020</strong></p>
 https://fast.farming-community.eu/festivals/halloween
-Halloween
-- added description of average Bags per Hour and average Magic Find from datasets
+<ul>
+      <li>added description of average Bags per Hour and average Magic Find from datasets</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.10.2020</strong></p>
 https://fast.farming-community.eu/contributors
-Contributors
-Supporters, Commanders, Developers and Data Research Team as well as Members who handed in good amount of research data are now being credited on our Contributor page!
-
-Thank you for supporting me on this journey!
+<ul>
+      <li>Supporters, Commanders, Developers and Data Research Team as well as Members who handed in good amount of research data are now being credited on our Contributor page!</li>
+      <li>Thank you for supporting me on this journey!</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.10.2020</strong></p>
-Unid Gear
-- fixed a major calculation mistake - adding taxes to Unid Gear: We are comparing Unid Gear, which is sold with taxes on the TP vs Salvaging Materials which are also sold with taxes on the TP
-
-If you are buying Unid Gear off the TP, you have to remove the taxes, which will lower the profit margin! This category is going to be added in the future.
-Bags
-- integrated the new best Bag Opener Level (Salvage only) to Tyria- and HoT-Bag Categories
-Raids
-- added Top-Tiered Terror Toppler (Weekly CMs)
+https://fast.farming-community.eu/salvaging/unid-gear
+<ul>
+      <li>fixed a major calculation mistake - adding taxes to Unid Gear: We are comparing Unid Gear, which is sold with taxes on the TP vs Salvaging Materials which are also sold with taxes on the TP</li>
+      <li>If you are buying Unid Gear off the TP, you have to remove the taxes, which will lower the profit margin! This category is going to be added in the future.</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>integrated the new best Bag Opener Level (Salvage only) to Tyria- and HoT-Bag Categories</li>
+</ul>
+https://fast.farming-community.eu/instances/raids
+<ul>
+      <li>added Top-Tiered Terror Toppler (Weekly CMs)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 02.10.2020</strong></p>
 General
-- added button to hide sidebar for slightly better usability on mobile version (see image below)
-- Tables do not align with browser window anymore if columns fill up screen. For now you have to scroll to the bottom of the page to move the table content. The alternative will be dragging out columns you dont want. This feature will be extended in the future.
-- added images on Alt-Parking
-- added images on Farmtrain
-Unid Gear
-- added explanation for new TP Buy / Sell header descriptions
-Conversions
-- fixed sorting on Karma with Currency
-Gathering
-- fixed calculations on best sickle and best axe/pick on Node-Farming
-- fixed calculations on best sickle and best axe/pick on Alt-Parking
+<ul>
+      <li>added button to hide sidebar for slightly better usability on mobile version (see image below)</li>
+      <li>Tables do not align with browser window anymore if columns fill up screen. For now you have to scroll to the bottom of the page to move the table content. The alternative will be dragging out columns you dont want. This feature will be extended in the future.</li>
+      <li>added images on Alt-Parking</li>
+      <li>added images on Farmtrain</li>
+</ul>
+https://fast.farming-community.eu/salvaging/unid-gear
+<ul>
+      <li>added explanation for new TP Buy / Sell header descriptions</li>
+</ul>
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>fixed sorting on Karma with Currency</li>
+</ul>
+https://fast.farming-community.eu/open-world/alt-parking
+https://fast.farming-community.eu/open-world/solo-farming
+<ul>
+      <li>fixed calculations on best sickle and best axe/pick on Solo-Farming</li>
+      <li>fixed calculations on best sickle and best axe/pick on Alt-Parking</li>
+</ul>
 API
-- Website content data is online again (major parts up)
+<ul>
+      <li>Website content data is online again (major parts up)</li>
+</ul>
 General
-- added multiple Headers for a future feature
-- changed all NET Gold / hr occurences to TP Sell Profit / hr
-- changed all Profit occurences to TP Sell Profit
-Gathering
-- removed Best Glyph and Karmic Tool due to same outcome (Profit per Strike is used) in Node-Farming
-- added Best Sickle and Best Axe/Pick depending on the node in Node-Farming
-- added images to Node-Farming for better readability
-- added Profit / Strike to Karmic Tools tables
-Raids
-- changed duration from decimal to HH:MM format
-
+<ul>
+      <li>added multiple Headers for a future feature</li>
+      <li>changed all NET Gold / hr occurences to TP Sell Profit / hr</li>
+      <li>changed all Profit occurences to TP Sell Profit</li>
+</ul>
+https://fast.farming-community.eu/gathering/karmic-tools
+https://fast.farming-community.eu/gathering/glyphs
+<ul>
+      <li>removed Best Glyph and Karmic Tool due to same outcome (Profit per Strike is used) in Solo-Farming</li>
+      <li>added Best Sickle and Best Axe/Pick depending on the node in Solo-Farming</li>
+      <li>added images to Solo-Farming for better readability</li>
+      <li>added Profit / Strike to Karmic Tools tables</li>
+</ul>
+https://fast.farming-community.eu/instances/raids
+<ul>
+      <li>changed duration from decimal to HH:MM format</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.09.2020</strong></p>
 API
-- updates now every hour
-Gathering
-- merged Level 41-55 and Level 56-70 into Level 1-70 table
-- merged Sickle and Mining/Logging tables due to same profit per strike
-- added Forester Level 1-15
-- added Forester Level 16-25
-- added Forester Level 26-39
-- added Prospector Level 1-15
-- added Prospector Level 16-40
-- added Leatherworker Level 1-15
-- added Leatherworker Level 16-40
-- added Tailor Level 1-15
-- added Tailor Level 16-40
-- added Herbalist Level 1-20
-- added Herbalist Level 21-40
-- changed Forester Level 41-55 to Forester Level 40-45
-- changed Forester Level 56-70 to Forester Level 46-60
-- changed Herbalist Level 41-55 to Herbalist Level 41-60
-- changed Herbalist Level 56-70 to Herbalist Level 61-74
-- changed Prospector Level 41-55 to Prospector Level 41-45, Prospector Level 46-50, Prospector Level 51-55
-
+<ul>
+      <li>updates now every hour</li>
+</ul>
+https://fast.farming-community.eu/gathering/karmic-tools
+<ul>
+      <li>merged Level 41-55 and Level 56-70 into Level 1-70 table</li>
+      <li>merged Sickle and Mining/Logging tables due to same profit per strike</li>
+      <li>added Forester Level 1-15</li>
+      <li>added Forester Level 16-25</li>
+      <li>added Forester Level 26-39</li>
+      <li>added Prospector Level 1-15</li>
+      <li>added Prospector Level 16-40</li>
+      <li>added Leatherworker Level 1-15</li>
+      <li>added Leatherworker Level 16-40</li>
+      <li>added Tailor Level 1-15</li>
+      <li>added Tailor Level 16-40</li>
+      <li>added Herbalist Level 1-20</li>
+      <li>added Herbalist Level 21-40</li>
+      <li>changed Forester Level 41-55 to Forester Level 40-45</li>
+      <li>changed Forester Level 56-70 to Forester Level 46-60</li>
+      <li>changed Herbalist Level 41-55 to Herbalist Level 41-60</li>
+      <li>changed Herbalist Level 56-70 to Herbalist Level 61-74</li>
+      <li>changed Prospector Level 41-55 to Prospector Level 41-45, Prospector Level 46-50, Prospector Level 51-55</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.09.2020</strong></p>
-Farmtrain
-- added 1 new Farmtrain (Dragonfall - Tricom)
-Chest
-- added Crystallized Cache (Rata Novus)
-- Crystallized Cache (Nuhoch)
-- Crystallized Cache (SCAR)
-- Crystallized Cache (Ogre)
-- Airship Cargo
-- Large Airship Cargo
-- Tarnished Traitor Chest
-Meta
-- added Treasure Shroom
+https://fast.farming-community.eu/open-world/farmtrain
+<ul>
+      <li>added Dragonfall - Tricom</li>
+</ul>
+https://fast.farming-community.eu/open-world/chest
+<ul>
+      <li>added Crystallized Cache (Rata Novus)</li>
+      <li>added Crystallized Cache (Nuhoch)</li>
+      <li>added Crystallized Cache (SCAR)</li>
+      <li>added Crystallized Cache (Ogre)</li>
+      <li>added Airship Cargo</li>
+      <li>added Large Airship Cargo</li>
+      <li>added Tarnished Traitor Chest</li>
+</ul>
+https://fast.farming-community.eu/open-world/meta
+<ul>
+      <li>added Treasure Shroom</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.09.2020</strong></p>
-Conversions
-- added 1 new Gaeting Crystal Conversion (Trophy Shipment)
-- added 1 new Magnetite Shard Conversion (Trophy Shipment)
-Chest
-- added Mistborn Coffer (Capped)
-
+https://fast.farming-community.eu/conversions/magnetite-shard
+<ul>
+      <li>added Trophy Shipment</li>
+</ul>
+https://fast.farming-community.eu/open-world/chest
+<ul>
+      <li>added Mistborn Coffer (Capped)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.09.2020</strong></p>
 General
-- removed exception handling in the spreadsheet which prevents finding mistakes (typos, calculation errors, etc.)
-- fixed overall minor calculations
-- fixed Unid Gear calculation using Material Buy Order instead of Sell Order
-Farmtrain
-- renewed Drizzlewood South+North Dataset (29 gph)
-Conversions
-- added 14 new Prophet Shard Conversions (Lit Echo Combinations)
-Salvageables
-- due to the removal of exception handling this section will be entirely revamped at some point and is currently out of function!
-- in near future it will receive a proper table function to split material buy&sell order + item buy&sell order
-
+<ul>
+      <li>removed exception handling in the spreadsheet which prevents finding mistakes (typos, calculation errors, etc.)</li>
+      <li>fixed overall minor calculations</li>
+      <li>fixed Unid Gear calculation using Material Buy Order instead of Sell Order</li>
+</ul>
+https://fast.farming-community.eu/open-world/farmtrain
+<ul>
+      <li>updated Drizzlewood South+North</li>
+</ul>
+https://fast.farming-community.eu/conversions/blue-prophet-shard
+<ul>
+      <li>added Weekly Strike Chest - Lit Echo Combinations</li>
+</ul>
+https://fast.farming-community.eu/salvaging/salvageables
+<ul>
+      <li>due to the removal of exception handling this section will be entirely revamped at some point and is currently out of function!</li>
+      <li>in near future it will receive a proper table function to split material buy&sell order + item buy&sell order</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.09.2020</strong></p>
-Chest
-- added Exalted Chest
-- added Grand Exalted Chest
-- added Great Exalted Chest
-Meta
-- renewed Auric Basin - Octovine data to be now static using Chest data to lower variance
-Unid Gear
-- fixed a calculation error
-
+https://fast.farming-community.eu/open-world/chest
+<ul>
+      <li>added Exalted Chest</li>
+      <li>added Grand Exalted Chest</li>
+      <li>added Great Exalted Chest</li>
+</ul>
+https://fast.farming-community.eu/open-world/meta
+<ul>
+      <li>updated Auric Basin - Octovine data to be now static using Chest data to lower variance</li>
+</ul>
+https://fast.farming-community.eu/salvaging/unid-gear
+<ul>
+      <li>fixed a calculation error</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.09.2020</strong></p>
-Bags
-- added Bags of Loot
-- added Big Bag of Junk
-- added Box of Cooking Supplies
-- added Chest of Mesmer's Exotic Equipment
-- added Dragon Chest (Fine)
-- added Dragon Chest (Masterwork)
-- added Dragon Chest (Rare)
-- added Dragon Chest (Exotic)
-- added The Wurm's Golden Chest
-- added Equipment Bag
-- added Magic Warped Bundle
-- added Magic Warped Packet
-- added Gilded Strongbox (Story Mode)
-- added Trophy Shipment
-- added Cloth Shipment
-- added Leather Shipment
-- added Metal Shipment
-- added Wood Shipment
-Chest
-- added Mistborn Coffer
-Meta
-- added Dragonfall Meta
-- added Dragonfall Champtrain
-- added Dragonfall Meta & Champtrain
-Unid Gear
-- reworked / renewed Common Unid Gear Data
-- reworked / renewed Masterwork Unid Gear Data
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Bags of Loot</li>
+      <li>added Big Bag of Junk</li>
+      <li>added Box of Cooking Supplies</li>
+      <li>added Chest of Mesmer's Exotic Equipment</li>
+      <li>added Dragon Chest (Fine)</li>
+      <li>added Dragon Chest (Masterwork)</li>
+      <li>added Dragon Chest (Rare)</li>
+      <li>added Dragon Chest (Exotic)</li>
+      <li>added The Wurm's Golden Chest</li>
+      <li>added Equipment Bag</li>
+      <li>added Magic Warped Bundle</li>
+      <li>added Magic Warped Packet</li>
+      <li>added Gilded Strongbox (Story Mode)</li>
+      <li>added Trophy Shipment</li>
+      <li>added Cloth Shipment</li>
+      <li>added Leather Shipment</li>
+      <li>added Metal Shipment</li>
+      <li>added Wood Shipment</li>
+</ul>
+https://fast.farming-community.eu/open-world/chest
+<ul>
+      <li>added Mistborn Coffer</li>
+</ul>
+https://fast.farming-community.eu/open-world/meta
+<ul>
+      <li>added Dragonfall Meta</li>
+      <li>added Dragonfall Champtrain</li>
+      <li>added Dragonfall Meta & Champtrain</li>
+</ul>
+https://fast.farming-community.eu/salvaging/unid-gear
+<ul>
+      <li>reworked / renewed Common Unid Gear Data</li>
+      <li>reworked / renewed Masterwork Unid Gear Data</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.09.2020</strong></p>
-Alt-Parking
-- readded Bjora Marches - Small Chest
-Gathering
-- Category Gathering Tools is now split into Glyphs and Karmic Tools
-- fixed Node-Farming not showing the correct "Best Glyph"
-Conversions
-- festival-specific Karma Conversions have now their own table
-- added 39 "Karma Wintersday Festival" Conversions to Karma Conversions
-Instances
-- fixed Home Garden Nodes not showing the "Best Gathering Tool"
-- (a future release will also show the best Karmic Tool)
-Festivals
-- added 39 "Karma Wintersday Festival" Conversions to Wintersday
+https://fast.farming-community.eu/open-world/alt-parking
+<ul>
+      <li>readded Bjora Marches - Small Chest</li>
+</ul>
+https://fast.farming-community.eu/gathering/karmic-tools
+https://fast.farming-community.eu/gathering/glyphs
+<ul>
+      <li>Category Gathering Tools is now split into Glyphs and Karmic Tools</li>
+      <li>fixed Solo-Farming not showing the correct "Best Glyph"</li>
+</ul>
+https://fast.farming-community.eu/conversions/karma
+<ul>
+      <li>festival-specific Karma Conversions have now their own table</li>
+      <li>added 39 "Karma Wintersday Festival" Conversions to Karma Conversions</li>
+</ul>
+https://fast.farming-community.eu/instances/home-instance
+<ul>
+      <li>fixed Home Garden Nodes not showing the "Best Gathering Tool"</li>
+      <li>a future release will also show the best Karmic Tool</li>
+</ul>
+https://fast.farming-community.eu/festivals/wintersday
+<ul>
+      <li>added 39 "Karma Wintersday Festival" Conversions to Wintersday</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 03.09.2020</strong></p>
 API
-- updates now every 4 hrs (test runs were successful)
-Conversions
-- added Ascalonian Tear
-- added Deadly Bloom
-- added Flame Legion Charr Carving
-- added Knowledge Crystal
-- added Manifesto of the Moletariate
-- added Seal of Beetletun
-- added Shard of Zhaitan
-- added Symbol of Koda
-- added 20 new Conversion methods in Guild Commendations
-- moved Luck Conversion to Lunar New Year Festival
-- updated Tyrian Exchange Voucher with Dungeon Token values
-- updated Eternal Ice Shards Conversions to be more precise
-Bags
-- moved Chest of Loyalty from Conversions to Bags
-Festivals
-- added Equipment Bags to Festival-of-the-four-Winds
-
+<ul>
+      <li>updates now every 4 hrs (test runs were successful)</li>
+</ul>
+General
+<ul>
+      <li>moved Luck Conversion to Lunar New Year Festival</li>
+</ul>
+https://fast.farming-community.eu/conversions/tale-of-dungeon-delving
+<ul>
+      <li>added Tale of Dungeon Delving</li>
+</ul>
+https://fast.farming-community.eu/conversions/guild-commendation
+<ul>
+      <li>added 20 new conversions</li>
+</ul>
+https://fast.farming-community.eu/item-conversions/eternal-ice-shard
+<ul>
+      <li>updated Eternal Ice Shards Conversions to be more precise</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>moved Chest of Loyalty from Conversions to Bags</li>
+      <li>updated Tyrian Exchange Voucher with Dungeon Token values</li>
+</ul>
+https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<ul>
+      <li>added Equipment Bag</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.08.2020</strong></p>
-Open World Data
-- added new Farmtrain (Drizzlewood - 2x South)
-
+https://fast.farming-community.eu/open-world/farmtrain
+<ul>
+      <li>added Drizzlewood - 2x South</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.08.2020</strong></p>
 General
-- added descriptions / explanations on several categories
-
-Open World Data
-- revamped Unid Gear section (added more categories, such as open vs unopened salvaging and .95 TP order)
-
-Festival of the four Winds
-- updated Boss Blitz Farm with more realistic value (added downtime value)
-- 
+<ul>
+      <li>added descriptions / explanations on several categories</li>
+</ul>
+https://fast.farming-community.eu/salvaging/unid-gear
+<ul>
+      <li>revamped Unid Gear section (added more categories, such as open vs unopened salvaging and .95 TP order)</li>
+</ul>
+https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<ul>
+      <li>updated Boss Blitz Farm with more realistic value (added downtime value)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.08.2020</strong></p>
 General
-- added table headers
-- Tables are sorted now in the Frontend not Spreadsheet
-- added images into headers for better readability
-
-Open World Data
-- changed Salvageables table to show Buy and Sell Order horizontally
-
-Conversions
-- added new Currency (Airship Part, Geode, Ley Line Crystal, Lump of Aurillium)
-- 
+<ul>
+      <li>added table headers</li>
+      <li>Tables are sorted now in the Frontend not Spreadsheet</li>
+      <li>added images into headers for better readability</li>
+</ul>
+https://fast.farming-community.eu/salvaging/salvageables
+<ul>
+      <li>changed Salvageables table to show Buy and Sell Order horizontally</li>
+</ul>
+https://fast.farming-community.eu/conversions/airship-part
+<ul>
+      <li>added Airship Part</li>
+</ul>
+https://fast.farming-community.eu/conversions/geode
+<ul>
+      <li>added Geode</li>
+</ul>
+https://fast.farming-community.eu/conversions/ley-line-crystal
+<ul>
+      <li>added Ley Line Crystal</li>
+</ul>
+https://fast.farming-community.eu/conversions/lump-of-aurillium
+<ul>
+      <li>added Lump of Aurillium</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.08.2020</strong></p>
 General
-- API updates for now automatically every day @ 0:00 GMT+2
-
-Bags
-- added new Tyria Bags (Bag of Crafting Materials, Bag of More Crafting Materials)
-
-Gathering Tools
-- added Frostbitten Orichalcum Tools (not included in Node-Farming calculations, because only available during Wintersday)
-
-Festival of four Winds
-- added Festival Vendor Token Conversions (Heavy Crafting Bag, Tome of Knowledge, Fervid Cernser)
-
+<ul>
+      <li>API updates for now automatically every day @ 0:00 GMT+2</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added Bag of Crafting Materials</li>
+      <li>added Bag of More Crafting Materials</li>
+</ul>
+https://fast.farming-community.eu/gathering/karmic-tools
+<ul>
+      <li>added Frostbitten Orichalcum Tools (not included in Solo-Farming calculations, because only available during Wintersday)</li>
+</ul>
+https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<ul>
+      <li>added Festival Vendor Token Conversions (Heavy Crafting Bag, Tome of Knowledge, Fervid Cernser)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.08.2020</strong></p>
 General
-- updated several tables for better overall readability
-- fixed several table issues not showing the correct values
-- fixed multiple columns to order correctly (mixed: numerical and non-numerical)
-
-Open-World Data
-- updated Drizzlewood Farmtrain (optimized route, gph increase from 24 to 27 gph)
-- added missing Frost Legion and Dominion Commendation to Drizzlewood Material Donation
-
-Bags
-- added more data to the new Frost Legion Chest to decrease variance
-
-Node-Farming
-- added Node Farming Spot Mount Maelstrom - Gauntlet Gulch
-
-Festival of four Winds
-- rounded Karma Values on Boss Blitz Farm for better readability
+<ul>
+      <li>updated several tables for better overall readability</li>
+      <li>fixed several table issues not showing the correct values</li>
+      <li>fixed multiple columns to order correctly (mixed: numerical and non-numerical)</li>
+</ul>
+https://fast.farming-community.eu/open-world/farmtrain
+<ul>
+      <li>updated Drizzlewood Farmtrain (optimized route, gph increase from 24 to 27 gph)</li>  
+</ul>
+https://fast.farming-community.eu/open-world/pve-reward-track
+<ul>
+      <li>added missing Frost Legion and Dominion Commendation to Drizzlewood Material Donation</li>
+</ul>
+https://fast.farming-community.eu/bags/bags
+<ul>
+      <li>added more data to the new Frost Legion Chest to decrease variance</li>
+</ul>
+https://fast.farming-community.eu/open-world/solo-farming
+<ul>
+      <li>added Mount Maelstrom - Gauntlet Gulch</li>
+</ul>
+https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<ul>
+      <li>rounded Karma Values on Boss Blitz Farm for better readability</li>
+</ul>
