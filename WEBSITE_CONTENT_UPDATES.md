@@ -966,7 +966,7 @@ General
 <p style="color: #7289da;"><strong>Website Updates 16.04.2022</strong></p>
 <a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
-      <li></li>added flavor text</li>
+      </li>added flavor text</li>
 </ul>
 <a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
