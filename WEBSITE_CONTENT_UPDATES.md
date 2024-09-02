@@ -1,4 +1,4 @@
-#### Updates on Data Content, for technical Updates on Website Features go to <a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+#### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
 
 <p style="color: #7289da;"><strong>Website Updates 27.08.2024</strong></p>
 fast TacO Marker Pack
