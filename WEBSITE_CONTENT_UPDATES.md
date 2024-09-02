@@ -74,7 +74,7 @@
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.08.2024</strong></p>
-<a href="https://fast.farming-community.eu/farming/guides/fast-taco-marker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/guides/core_fast_taco.png" alt="alt.png" width="32px">&nbsp;fast TacO Marker Pack</a>
+<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>re-added fast TacO Marker Pack download into assets directive</li>
 </ul>
@@ -163,7 +163,7 @@
       <li>Timer will remain 0:00 on active Day or Nighttime Phase</li>
       <li>removed aggregated Day + Nighttime Table</li>
 </ul>
-https://fast.farming-community.eu/conversions/provisioner-token
+<a href="https://fast.farming-community.eu/conversions/provisioner-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/provisioner_token.png" alt="alt.png" width="32px">&nbsp;Provisioner Token</a>
 <ul>
       <li>added new Faction Provisioner Vendor Costs</li>
 </ul>
@@ -199,7 +199,7 @@ https://fast.farming-community.eu/conversions/provisioner-token
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.03.2024</strong></p>
-https://fast.farming-community.eu/open-world/storage-bags
+<a href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
 <ul>
       <li>added new WvW 24-, 28- and 32- Slot Bags (Costs)</li>
 </ul>
@@ -526,7 +526,8 @@ General
 <ul>
       <li>Map Reward returns and is added into PvE Reward Track Category</li>
 </ul>
-https://fast.farming-community.eu/conversions/research-note
+<a href="https://fast.farming-community.eu/conversions/research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/research_note.png" alt="alt.png" width="32px">&nbsp;Research Note</a>
+<ul>
 <ul>
       <li>added 52 new Conversions (Shadow Serpent Weapons, Monastery Armor, Ancient Ritualist Armor)</li>
 </ul>
@@ -980,7 +981,7 @@ General
 <ul>
       <li>added missing Scavenger Protocol: Wood and Scavenger Bag: Wood</li>
 </ul>
-https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery
+<a href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Jade Mastery</a>
 <ul>
       <li>added Gift of Jade Mastery</li>
 </ul>
@@ -1067,6 +1068,7 @@ Top Nav Bar
       <li>fixed search bar to show inline on mobile or screens smaller than 1080px</li>
       <li>clicking on the icon next to search bar hides the sidebar panel</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>End of Dragons Updates 01.03.2022 - 01.07.2022</strong></p>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
@@ -1142,7 +1144,7 @@ Top Nav Bar
 <ul>
       <li>added Imperial Favor</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/jade-sliver" target="_blank"><img src="hhttps://fast.farming-community.eu/assets/icons/sidebar/jade_sliver.png" alt="alt.png" width="32px">&nbsp;Jade Sliver</a>
+<a href="https://fast.farming-community.eu/conversions/jade-sliver" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_sliver.png" alt="alt.png" width="32px">&nbsp;Jade Sliver</a>
 <ul>
       <li>added Jade Sliver</li>
 </ul>
@@ -1161,7 +1163,7 @@ Top Nav Bar
 <a href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Jade Mastery</a>
 <ul>
       <li>added Gift of Jade Mastery</li>
-      <li>related to <a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src=https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a><img src="" alt="" width="36"> <a href="" target="_blank">Gift of Mastery</a></li>
+      <li>related to <a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a></li>
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
@@ -1191,10 +1193,11 @@ Top Nav Bar
 <ul>
       <li>moved Tyrian Exchange Voucher from Currency Conversion Category to Tyria Bag</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/guides/farming-preparation" target="_blank">Farming Preparation</a>
+<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
-      <li>updated changes on Magic Find (750% Max with Boosters)</li>
+      <li>updated changes on Magic Find (750% Max with Boosters) in Farming Preparation</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 15.02.2022</strong></p>
 General
 <ul>
@@ -1221,7 +1224,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.02.2022</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src=https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a><img src="" alt="" width="36"> <a href="" target="_blank">Gift of Mastery</a>
+<a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a><img src="" alt="" width="36"> <a href="" target="_blank">Gift of Mastery</a>
 <ul>
       <li>added new item conversion (Gift of Mastery)</li>
 </ul>
@@ -1242,11 +1245,13 @@ General
 <ul>
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Lunar New Year Festival 25.01.2022</strong></p>
 <a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Item costs to acquire 1000 Luck table</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2022</strong></p>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
@@ -1274,6 +1279,7 @@ Cog Settings
       <li>added Material Listing for bought items - you can now select whether the data presented will have profit calculated using buy order or sell order ("insta-buy") prices for materials used in crafting a certain item</li>
       <li>added/fixed Listing columns for Spirit Shard, Festivals, Item Conversions and Drizzlewood Material Donation</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 12.01.2022</strong></p>
 <a href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
@@ -1844,10 +1850,10 @@ General
 <ul>
       <li>split table (crafting/recipes and vendor) for more clearance on which table is being used for calculations on all dungeon currencies (Ascalonian Tear, Deadly Bloom, Manifesto of the Moletariate, Knowledge Crystal, Seal of Beetletun, Shard of Zhaitan, Symbol of Koda)</li>
 </ul>
-https://fast.farming-community.eu/crafting/branded-mass
-https://fast.farming-community.eu/crafting/eitrite-ingot
-https://fast.farming-community.eu/crafting/inscribed-shard
-https://fast.farming-community.eu/bags/storage-bags
+<a href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
+<a href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
+<a href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
+<a href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
 <ul>
       <li>fixed few missing price icons on several other categories</li>
       <li>added new price Icons to following categories</li>
@@ -1953,9 +1959,9 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.06.2021</strong></p>
-<a href="https://fast.farming-community.eu/farming/guides/farming-preparation" target="_blank">Farming Preparation</a>
+<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
-      <li>updated multiple sections</li>
+      <li>updated Farming Preparation multiple sections</li>
       <li>added video guide explanation for karmic retribution (Farming Buffs)</li>
 </ul>
 <a href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
@@ -2092,7 +2098,7 @@ General
       <li>side navigation bar settings are now saved locally</li>
       <li>If a category is opened/closed, it will remain in that state until you change it again.</li>
 </ul>
-https://fast.farming-community.eu/conversions/tyrian-defense-seal
+<a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
       <li>added Prismaticite Crystal - Discount Vendor</li>
 </ul>
@@ -2135,12 +2141,12 @@ General
 <ul>
       <li>added Olmakhan Supply Box</li>
 </ul>
-https://fast.farming-community.eu/conversions/prismaticite-crystal
+<a href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
 <ul>
       <li>added Prismatium Ingot (5 Crystals)</li>
       <li>added Prismatium Ingot (10 Crystals)</li>
 </ul>
-https://fast.farming-community.eu/instances/dragon-response-mission
+<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
 <ul>
       <li>taking enhancements from new mastery into account for total DRM profit</li>
       <li>added Bloodtide Coast</li>
@@ -2154,9 +2160,9 @@ https://fast.farming-community.eu/instances/dragon-response-mission
 <ul>
       <li>taking enhancements from new mastery into account for total Prismaticite Crystal Node profit</li>
 </ul>
-https://fast.farming-community.eu/farming/guides/weekly-keyfarm
+<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
-      <li>Speedrunning weekly BLK Keyfarm by Tom™</li>
+      <li>added Weekly Black Lion Key Farm</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.03.2021</strong></p>
@@ -2396,7 +2402,7 @@ General
 <ul>
       <li>added Deldrimor Supply Box</li>
 </ul>
-https://fast.farming-community.eu/conversions/tyrian-defense-seal
+<a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
       <li>added new Tyria Defense Seal Conversion (Deldrimor Supply Box)</li>
 </ul>
@@ -2417,7 +2423,7 @@ General
 <ul>
       <li>renamed Node Farming to Solo Farming</li>
 </ul>
-https://fast.farming-community.eu/instances/dragon-response-mission
+<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
 <ul>
       <li>added Dragon Response Missions</li>
 </ul>
@@ -2432,7 +2438,7 @@ API
       <li>added Prismaticite Crystal</li>
       
 </ul>
-https://fast.farming-community.eu/conversions/tyrian-defense-seal
+<a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
       <li>added Tyrian Defense Seal</li>
 </ul>
@@ -2599,7 +2605,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.12.2020</strong></p>
-WvW
+<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added Silverwastes</li>
       <li>added Maguuma Wastes</li>
@@ -2632,21 +2638,21 @@ General Settings (Cog Symbol)
       <li>added Masterwork Sigil Bag</li>
       <li>added Rare Sigil Bag, Masterwork Rune Bag, Rare Rune Bag)</li>
 </ul>
-https://fast.farming-community.eu/conversions/airship-part
+<a href="https://fast.farming-community.eu/conversions/airship-part" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/airship_part.png" alt="alt.png" width="32px">&nbsp;Airship Part</a>
 <ul>
       <li>added Sigil Bags (Masterwork)</li>
       <li>added Sigil Bags (Rare)</li>
       <li>added Rune Bag (Masterwork)</li>
       <li>added Rune Bag (Rare)</li>
 </ul>
-https://fast.farming-community.eu/conversions/ley-line-crystal
+<a href="https://fast.farming-community.eu/conversions/ley-line-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ley_line_crystal.png" alt="alt.png" width="32px">&nbsp;Ley Line Crystal</a>
 <ul>
       <li>added Sigil Bags (Masterwork)</li>
       <li>added Sigil Bags (Rare)</li>
       <li>added Rune Bag (Masterwork)</li>
       <li>added Rune Bag (Rare)</li>
 </ul>
-https://fast.farming-community.eu/conversions/lump-of-aurillium
+<a href="https://fast.farming-community.eu/conversions/lump-of-aurillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_aurillium.png" alt="alt.png" width="32px">&nbsp;</a>
 <ul>
       <li>added Sigil Bags (Masterwork)</li>
       <li>added Sigil Bags (Rare)</li>
@@ -2803,7 +2809,7 @@ General
 <ul>
       <li>fixed Runes / Sigils on Firebrand Build</li>
 </ul>
-[Farming Guides](https://fast.farming-community.eu/farming/guides)
+<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>Icon page for better navigation</li>
       <li>added Videoguides for Dragonfall and Drizzlewood (more to come in future for other farmtrains)</li>
@@ -3144,19 +3150,19 @@ General
 <ul>
       <li>changed Salvageables table to show Buy and Sell Order horizontally</li>
 </ul>
-https://fast.farming-community.eu/conversions/airship-part
+<a href="https://fast.farming-community.eu/conversions/airship-part" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/airship_part.png" alt="alt.png" width="32px">&nbsp;Airship Part</a>
 <ul>
       <li>added Airship Part</li>
 </ul>
-https://fast.farming-community.eu/conversions/geode
+<a href="https://fast.farming-community.eu/conversions/geode" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/geode.png" alt="alt.png" width="32px">&nbsp;Geode</a>
 <ul>
       <li>added Geode</li>
 </ul>
-https://fast.farming-community.eu/conversions/ley-line-crystal
+<a href="https://fast.farming-community.eu/conversions/ley-line-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ley_line_crystal.png" alt="alt.png" width="32px">&nbsp;Ley Line Crystal</a>
 <ul>
       <li>added Ley Line Crystal</li>
 </ul>
-https://fast.farming-community.eu/conversions/lump-of-aurillium
+<a href="https://fast.farming-community.eu/conversions/lump-of-aurillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_aurillium.png" alt="alt.png" width="32px">&nbsp;</a>
 <ul>
       <li>added Lump of Aurillium</li>
 </ul>
