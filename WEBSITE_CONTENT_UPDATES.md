@@ -1107,8 +1107,6 @@ Top Nav Bar
 </ul>
 <a href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
 <ul>
-      <li>added Jade Bot</li>
-<ul>
       <li>added Recycler: Bloodstone Dust</li>
       <li>added Recycler: Dragonite</li>
       <li>added Recycler: Empyreal Fragments</li>
