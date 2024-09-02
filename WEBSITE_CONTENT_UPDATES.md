@@ -2773,7 +2773,7 @@ Features
 <ul>
       <li>added Cache of the Traveler</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/trade-contract" target="_blank"><img src="[https://fast.farming-community.eu/assets/icons/sidebar/karma.png](https://fast.farming-community.eu/assets/icons/sidebar/trade_contract.png)" alt="alt.png" width="32px">&nbsp;Trade Contract</a>
+<a href="https://fast.farming-community.eu/conversions/trade-contract" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/trade_contract.png" alt="alt.png" width="32px">&nbsp;Trade Contract</a>
 <ul>
       <li>added Cache of the Traveler</li>
 </ul>
