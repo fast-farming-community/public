@@ -161,7 +161,7 @@ https://fast.farming-community.eu/item-conversions/empyreal-fragment
 <ul>
       <li>added Waypoints Column</li>
 </ul>
-https://fast.farming-community.eu/open-world/fishing
+<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added Countdown Timer for Day- and Nighttime</li>
       <li>Timer will remain 0:00 on active Day or Nighttime Phase</li>
@@ -252,7 +252,7 @@ General
       <li>updated and improved detailed datasets with Achievements in Festival, Meta, Strike Missions and Dungeon Category</li>
       <li>updated and improved detailed datasets with Bouncy Chest loot instead of aggregated loot in Strike Missions Category</li>
 </ul>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added weekly Strike Missions and Convergences to Weekly Farming Checklist</li>
 </ul>
@@ -267,7 +267,7 @@ https://fast.farming-community.eu/farming/daily
 <ul>
       <li>added Calcified Gasp</li>
 </ul>
-https://fast.farming-community.eu/instances/strike-missions
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Cosmic Observatory CM (Weekly)</li>
 </ul>
@@ -423,7 +423,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.07.2023</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>resets the entire checklist at midnight for now (does not save state after midnight until GW2 reset)</li>
 </ul>
@@ -436,7 +436,7 @@ https://fast.farming-community.eu/farming/daily
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Festival 18.07. - 08.08.2023</strong></p>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Zephyrite Vendor table</li>
       <li>updated Zephyrite Supply Box Loot table</li>
@@ -516,7 +516,7 @@ https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.07.2023</strong></p>
-https://fast.farming-community.eu/salvaging/salvageables
+<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>replaced internal search function to main table showing all salvageables at once</li>
 </ul>
@@ -526,7 +526,7 @@ https://fast.farming-community.eu/salvaging/salvageables
 <ul>
       <li>Black Lion Delivery Box also added into Bags Category</li>
 </ul>
-https://fast.farming-community.eu/open-world/pve-reward-track
+<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
 <ul>
       <li>Map Reward returns and is added into PvE Reward Track Category</li>
 </ul>
@@ -541,7 +541,7 @@ https://fast.farming-community.eu/conversions/research-note
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.07.2023</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Checkboxes are now saved locally and will reset each day at midnight</li>
 </ul>
@@ -555,7 +555,7 @@ https://fast.farming-community.eu/farming/daily
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 29.03.2023</strong></p>
-https://fast.farming-community.eu/festivals/super-adventure-box
+<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added Trader's Generation One Chest</li>
 </ul>
@@ -573,7 +573,7 @@ https://fast.farming-community.eu/festivals/super-adventure-box
 <ul>
       <li>added Gyala Delve - Celestial Pool</li>
 </ul>
-https://fast.farming-community.eu/open-world/fishing
+<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added Cavern Fish Node (Gyala Delve, Nighttime, Shrimpling, 575 Fishing Power)</li>
 </ul>
@@ -601,18 +601,18 @@ https://fast.farming-community.eu/open-world/fishing
       <li>added Mad King's Chest</li>
       <li>added several Subtype-Bags to Main Bag Category</li>
 </ul>
-https://fast.farming-community.eu/festivals/wintersday
+<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added Toypocalypse to Repeatable Farms</li>
 </ul>
-https://fast.farming-community.eu/open-world/fishing
+<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added Domain of Kourna
 </li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Wintersday Festival 13.12.2022 - 03.01.2023</strong></p>
-https://fast.farming-community.eu/festivals/wintersday
+<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>No new content / farms.</li>
 </ul>
@@ -638,7 +638,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.11.2022</strong></p>
-https://fast.farming-community.eu/instances/strike-missions
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Old Lion's Court (Weekly)</li>
 </ul>
@@ -656,7 +656,7 @@ https://fast.farming-community.eu/competitive/pvp-reward-track
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 31.10.2022</strong></p>
-https://fast.farming-community.eu/open-world/fishing
+<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added new Main Table (Day + Night Cycle) to Secondary Table (Day or Night Cycle separated)</li>
       <li>added new Fishing Rotations (Ember Bay, Sandswept Isles, Crystal Oasis-Mackerel, New Kaineng City-Kaineng Docks, Draconis Mons, Straits of Devastation) in Main and Secondary Tables</li>
@@ -778,7 +778,7 @@ Mesmer
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.08.2022</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>new Version 2.0 Beta updated with profit values and durations</li>
       <li>added daily Achievements with profit values and durations</li>
@@ -798,7 +798,7 @@ https://fast.farming-community.eu/item-conversions/charged-quartz-crystal
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Update 02.08.2022</strong></p>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Zephyrite Supply Box Vendors</li>
       <li>added weekly Research Note entries to Zephyrite Supply Box Vendors</li>
@@ -825,7 +825,7 @@ General
       <li>updated Queensdale - Shadow Behemoth</li>
       <li>updated Wayfarer Foothills - Svanir Shaman</li>
 </ul>
-https://fast.farming-community.eu/conversions/magnetite-shard
+<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>Gaeting Crystal retires and is replaced by Magnetite Shards</li>
 </ul>
@@ -840,7 +840,7 @@ https://fast.farming-community.eu/instances/raids
       <li>Settings: Boss and HP Spots have now the option to include or exclude Spirit Shards in the total profit calculation</li>
       <li>added new Alt-Parking Spot: Arborstone - HP</li>
 </ul>
-https://fast.farming-community.eu/open-world/fishing/
+<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>Settings: Fishing has now the option to include or exclude Spirit Shards in the total profit calculation</li>
 </ul>
@@ -850,7 +850,7 @@ https://fast.farming-community.eu/open-world/fishing/
 <ul>
       <li>cannot be looted anymore per map instance and now only once per character per day</li>
 </ul>
-https://fast.farming-community.eu/instances/strike-missions
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>adjusted Antique Summoning Stone and gold amount drops to Weekly Strike CMs</li>
       <li>added Weekly Harvest Temple CM</li>
@@ -861,7 +861,7 @@ https://fast.farming-community.eu/instances/strike-missions
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.06.2022</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added save-state checkboxes and reset buttons</li>
       <li>saves checkboxes until you reset</li>
@@ -925,7 +925,7 @@ https://fast.farming-community.eu/open-world/solo-farming
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.05.2022</strong></p>
-https://fast.farming-community.eu/instances/strike-missions
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Xunlai Junkyard CM</li>
       <li>updated improved rewards on End of Dragons Strike Mission CMs</li>
@@ -938,7 +938,7 @@ https://fast.farming-community.eu/instances/strike-missions
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.05.2022</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Ancient Ambergris from Taro Everclaw Vendor</li>
       <li>added Weekly Guild Missions</li>
@@ -958,7 +958,7 @@ https://fast.farming-community.eu/open-world/solo-farming
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.04.2022</strong></p>
-https://fast.farming-community.eu/instances/strike-missions
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Aetherblade Hideout CM (Weekly)</li>
 </ul>
@@ -980,7 +980,7 @@ https://fast.farming-community.eu/conversions/imperial-favor
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.04.2022</strong></p>
-https://fast.farming-community.eu/open-world/jade-bot
+<a href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
 <ul>
       <li>added missing Scavenger Protocol: Wood and Scavenger Bag: Wood</li>
 </ul>
@@ -990,12 +990,12 @@ https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.04.2022</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>updated with End of Dragons activities</li>
       <li>modified categories by usage</li>
 </ul>
-https://fast.farming-community.eu/farming/daily-fractals
+<a href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
 <ul>
       <li>previous Daily Group Farming Checklist modified into now only being daily fractals</li>
 </ul>
@@ -1005,7 +1005,7 @@ https://fast.farming-community.eu/farming/daily-fractals
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.04.2022</strong></p>
-https://fast.farming-community.eu/conversions/canach-coin
+<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>added Canach Coin</li>
 </ul>
@@ -1053,13 +1053,13 @@ https://fast.farming-community.eu/instances/home-instance
 <ul>
       <li>massive refactor</li>
 </ul>
-https://fast.farming-community.eu/bags/black-lion-delivery-box-bags
+<a href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
 <ul>
       <li>fixed blacklion-delivery-box-bags name to black-lion-delivery-box-bags</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 29.03.2022</strong></p>
-https://fast.farming-community.eu/festivals/super-adventure-box
+<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>No new gold methods or farms</li>
 </ul>
@@ -1072,8 +1072,7 @@ Top Nav Bar
       <li>clicking on the icon next to search bar hides the sidebar panel</li>
 </ul>
 <p style="color: #7289da;"><strong>End of Dragons Updates 01.03.2022 - 01.07.2022</strong></p>
-<strong>Open-World</strong>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank">Daily Farming Checklist</a>
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added  daily and weekly low-effort activities</li>
 </ul>
@@ -1102,8 +1101,13 @@ Top Nav Bar
       <li>added New Kaineng City - Kaineng Blackout Meta</li>
       <li>added Seitung Province  - Aetherblade Assault Meta</li>
 </ul>
-<img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="" width="36"> <a href="https://fast.farming-community.eu/open-world/fishing" target="_blank">Fishing</a>
-<img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="" width="36"> <a href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank">Jade Bot</a>
+<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<ul>
+      <li>added Fishing</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
+<ul>
+      <li>added Jade Bot</li>
 <ul>
       <li>added Recycler: Bloodstone Dust</li>
       <li>added Recycler: Dragonite</li>
@@ -1121,8 +1125,7 @@ Top Nav Bar
       <li>added TP options (900 Entries)</li>
       <li>added Crafting options (400 Entries)</li>
 </ul>
-<strong>Instances</strong>
-    <img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="" width="36"> <a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank">Strike Missions</a>
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Aetherblade Hideout</li>
       <li>added Aetherblade Hideout CM</li>
@@ -1133,12 +1136,11 @@ Top Nav Bar
       <li>added Xunlai Jade Junkyard</li>
       <li>added Xunlai Jade Junkyard CM</li>
 </ul>
-<strong>Conversions</strong>
-<img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="" width="36"> <a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank">Canach Coin</a>
+<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>added Canach Coin</li>
 </ul>
-<img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="" width="36"> <a href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank">Green Prophet Shard</a>
+<a href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="32px">&nbsp;Green Prophet Shard</a>
 <ul>
       <li>added Green Prophet Shard</li>
 </ul>
@@ -1172,9 +1174,11 @@ Top Nav Bar
       <li>added Fish (223 Entries</li>
       <li>added Bags (77 Entries)</li>
 </ul>
-<img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="" width="36"> <a href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank">End of Dragons Expedition Contract</a>
-<strong>WvW</strong>
-<img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="" width="36"> <a href="https://fast.farming-community.eu/gathering/nodes" target="_blank">Nodes</a>
+<a href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
+<ul>
+      <li>added End of Dragons Expedition Contract</li>
+</ul>
+<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
 <ul>
       <li>added Herb Seedlings</li>
       <li>added Soybeans</li>
@@ -1217,7 +1221,7 @@ General
       <li>merged Blacklion Bags into Tyria Bags</li>
       <li>refactored code base and routing on Chests Category - now renamed to Key Category</li>
 </ul>
-https://fast.farming-community.eu/instances/strike-missions
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added separate detailed dataset to Farm table for all Strike Missions</li>
 </ul>
@@ -1229,8 +1233,8 @@ https://fast.farming-community.eu/item-conversions/gift-of-mastery
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.02.2022</strong></p>
-https://fast.farming-community.eu/conversions/blue-prophet-shard
-https://fast.farming-community.eu/conversions/green-prophet-shard
+<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>Blue Prophet Shards will only be rewarded from Icebrood Saga Strike Missions</li>
       <li>Green Prophet Shards will only be rewarded from End of Dragon Strike Missions</li>
@@ -1240,7 +1244,7 @@ https://fast.farming-community.eu/conversions/fractal-relic
 <ul>
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
-https://fast.farming-community.eu/conversions/magnetite-shard
+<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
@@ -1250,7 +1254,7 @@ https://fast.farming-community.eu/conversions/magnetite-shard
       <li>added Item costs to acquire 1000 Luck table</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2022</strong></p>
-https://fast.farming-community.eu/farming/daily-group
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 15-day automatic rotation with detailed datasets</li>
 </ul>
@@ -1264,7 +1268,7 @@ General
       <li>blue hyperlink will open detailed dataset now in an extra tab by right-click, middle-mouse-click or CTRL + left-click</li>
       <li>Open in same tab by left-click</li>
 </ul>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Split Farming Checklist into Daily Solo Farming Checklist and Daily Group Farming Checklist (voted by [fast] discord feedback poll)</li>
 </ul>
@@ -1316,7 +1320,7 @@ https://fast.farming-community.eu/item-conversions/charged-quartz-crystal
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.01.2022</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added most profitable Daily Achievements</li>
 </ul>
@@ -1354,7 +1358,7 @@ https://fast.farming-community.eu/conversions/volatile-magic
 <ul>
       <li>added references to new item conversions (Mistborn Mote)</li>
 </ul>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Duration column to all categories with gold per hour profit columns</li>
 </ul>
@@ -1366,7 +1370,7 @@ General
       <li>changed duration headers in main tables and detailed datasets (only minutes now)</li>
       <li>removed Weekly Farming Category and Weekly Strike Mission Chest (see Chests for new category)</li>
 </ul>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added disclaimer text</li>
       <li>added categories (Farmtrains, Dungeons, Strike Missions)</li>
@@ -1387,7 +1391,7 @@ https://fast.farming-community.eu/
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Wintersday 14.12.2021</strong></p>
-https://fast.farming-community.eu/festivals/wintersday
+<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added new Wintersday Farm (Bell Choir)</li>
 </ul>
@@ -1395,7 +1399,7 @@ https://fast.farming-community.eu/festivals/wintersday
 <p style="color: #7289da;"><strong>Website Updates 03.12.2021</strong></p>
 https://fast.farming-community.eu/conversions/eternal-ice-shard
 https://fast.farming-community.eu/conversions/laurel
-https://fast.farming-community.eu/conversions/magnetite-shard
+<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 https://fast.farming-community.eu/conversions/unbound-magic
 https://fast.farming-community.eu/conversions/volatile-magic
 <ul>
@@ -1502,7 +1506,7 @@ Condi Tempest
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Festival 31.08.2021</strong></p>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>No new changes.</li>
 </ul>
@@ -1768,7 +1772,7 @@ General
       <li>refactored Weekly Strike Chest</li>
       <li>added detailed datasets & descriptions</li>
 </ul>
-https://fast.farming-community.eu/conversions/blue-prophet-shard
+<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <ul>
       <li>split currency conversion table due to profit limitations (Weekly Strike Mission Chest and Vendor)</li>
       <li>added detailed datasets & descriptions</li>
@@ -1779,7 +1783,7 @@ General
 <ul>
       <li>This update contains new categories and a lot of refactoring of tables. The refactoring took place, because a lot of older tables were not being layed out for the later added detailed datasets.</li>
 </ul>
-https://fast.farming-community.eu/open-world/drizzlewood-material-donation
+<a href="https://fast.farming-community.eu/open-world/drizzlewood-material-donation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drizzlewood.png" alt="alt.png" width="32px">&nbsp;Drizzlewood Material Donation</a>
 <ul>
       <li>refactored Drizzlewood Material Donation</li>
       <li>table can now show buy order values</li>
@@ -1789,14 +1793,14 @@ https://fast.farming-community.eu/open-world/drizzlewood-material-donation
 <ul>
       <li>split PSNA / Map Reward in a new sub-category in Karma Conversions</li>
 </ul>
-https://fast.farming-community.eu/open-world/pve-reward-track
+<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
 <ul>
       <li>added new Category Map Reward</li>
       <li>Best Map Reward Current Week is automatically updated if a new week passes</li>
       <li>Map Reward is automatically updated for all other map reward references in JP-Alt-Parking, Farmtrain and Meta</li>
       <li>added Detailed Datasets for all Map Rewards</li>
 </ul>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>refactored tables to be split into sub-categories (Vendor, Weekly Vendor) due to profit limitations</li>
       <li>added profit columns to festival farms</li>
@@ -2050,7 +2054,7 @@ https://fast.farming-community.eu/instances/dungeons
 <ul>
       <li>removed redundant profit columns due to upcoming detailed datasets</li>
 </ul>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>removed Drizzlewood Quaestor table which can not implemented due to missing API info</li>
 </ul>
@@ -2115,7 +2119,7 @@ https://fast.farming-community.eu/conversions/tyrian-defense-seal
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.04.2021</strong></p>
-https://fast.farming-community.eu/festivals/super-adventure-box
+<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added new SAB Vendor item (Amalgamated Draconic Lodestone)</li>
 </ul>
@@ -2256,7 +2260,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.02.2021</strong></p>
-https://fast.farming-community.eu/conversions/magnetite-shard
+<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added Djinn Energy Cluster</li>
 </ul>
@@ -2310,7 +2314,7 @@ General
 <ul>
       <li>removed bug message from Lucky Red Bag 2021. The droprate on higher MF is intended.</li>
 </ul>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>renamed few Crafting Materials to their corresponding daily crafting material (Spool of Silk Weaving Thread: Gossamer Stuffing, Bolt of Damask etc.)</li>
       <li>added Lump of Mithrillium (Carbonized Mithrillium Ingot)</li>
@@ -2437,7 +2441,7 @@ https://fast.farming-community.eu/conversions/tyrian-defense-seal
 <ul>
       <li>added Tyrian Defense Seal</li>
 </ul>
-https://fast.farming-community.eu/salvaging/salvageables
+<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>added tooltip with all salvageable items you can search for</li>
 </ul>
@@ -2525,7 +2529,7 @@ https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added Flush 4 Hemlocked Sword (Level 9, Fine)</li>
 </ul>
-https://fast.farming-community.eu/bags/black-lion-delivery-box-bags
+<a href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
 <ul>
       <li>renamed titles to match GW2 item names</li>
 </ul>
@@ -2621,7 +2625,7 @@ https://fast.farming-community.eu/salvaging/unid-gear
 <ul>
       <li>completely revamped Unid Gear table, now showing all options with full profit values, which can be directly compared instead of difference values</li>
 </ul>
-https://fast.farming-community.eu/salvaging/salvageables
+<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>completely revamped Salvageables, search bar for every salvageable item, that is not armor gear</li>
       <li>added 7 new Salvageables (Ascended Ring, Ascended Attuned Ring, Ascended Infused Ring, Ascended Attuned Infused Ring, Ascended Accessory, Ascended Amulet, Ascended Backpack)</li>
@@ -2725,7 +2729,7 @@ General
       <li>It now shows the amount of currency and other components needed, as well how often it is available per day or week:</li>
       <li>X Currency (Category, limited: Y Amount daily/weekly)</li>
 </ul>
-https://fast.farming-community.eu/conversions/blue-prophet-shard
+<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <ul>
       <li>fixed calculation errors (Prophet Shard, deducted wrong amount of shards)</li>
       <li>added Pristine Fang of the Whisper</li>
@@ -2783,7 +2787,7 @@ General
 <ul>
       <li>updated descriptions on several categories</li>
 </ul>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 16 Daily Achievements</li>
       <li>added 10 Timegated Crafting items</li>
@@ -2795,7 +2799,7 @@ https://fast.farming-community.eu/farming/daily
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.11.2020</strong></p>
-https://fast.farming-community.eu/farming/daily
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Daily Farming Checklist for all of your needs on one page.</li>
       <li>Contains best Dailies, Converter items, Best Alt-Parking spots, Best node-farms, Popular bosses, Daily timegated crafting values.</li>
@@ -2973,7 +2977,7 @@ https://fast.farming-community.eu/gathering/karmic-tools
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.09.2020</strong></p>
-https://fast.farming-community.eu/conversions/magnetite-shard
+<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added Trophy Shipment</li>
 </ul>
@@ -2993,11 +2997,11 @@ General
 <ul>
       <li>updated Drizzlewood South+North</li>
 </ul>
-https://fast.farming-community.eu/conversions/blue-prophet-shard
+<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <ul>
       <li>added Weekly Strike Chest - Lit Echo Combinations</li>
 </ul>
-https://fast.farming-community.eu/salvaging/salvageables
+<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>due to the removal of exception handling this section will be entirely revamped at some point and is currently out of function!</li>
       <li>in near future it will receive a proper table function to split material buy&sell order + item buy&sell order</li>
@@ -3078,7 +3082,7 @@ https://fast.farming-community.eu/instances/home-instance
       <li>fixed Home Garden Nodes not showing the "Best Gathering Tool"</li>
       <li>a future release will also show the best Karmic Tool</li>
 </ul>
-https://fast.farming-community.eu/festivals/wintersday
+<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added 39 "Karma Wintersday Festival" Conversions to Wintersday</li>
 </ul>
@@ -3109,7 +3113,7 @@ https://fast.farming-community.eu/item-conversions/eternal-ice-shard
       <li>moved Chest of Loyalty from Conversions to Bags</li>
       <li>updated Tyrian Exchange Voucher with Dungeon Token values</li>
 </ul>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>added Equipment Bag</li>
 </ul>
@@ -3129,7 +3133,7 @@ https://fast.farming-community.eu/salvaging/unid-gear
 <ul>
       <li>revamped Unid Gear section (added more categories, such as open vs unopened salvaging and .95 TP order)</li>
 </ul>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Boss Blitz Farm with more realistic value (added downtime value)</li>
 </ul>
@@ -3141,7 +3145,7 @@ General
       <li>Tables are sorted now in the Frontend not Spreadsheet</li>
       <li>added images into headers for better readability</li>
 </ul>
-https://fast.farming-community.eu/salvaging/salvageables
+<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>changed Salvageables table to show Buy and Sell Order horizontally</li>
 </ul>
@@ -3176,7 +3180,7 @@ https://fast.farming-community.eu/gathering/karmic-tools
 <ul>
       <li>added Frostbitten Orichalcum Tools (not included in Solo-Farming calculations, because only available during Wintersday)</li>
 </ul>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>added Festival Vendor Token Conversions (Heavy Crafting Bag, Tome of Knowledge, Fervid Cernser)</li>
 </ul>
@@ -3192,7 +3196,7 @@ General
 <ul>
       <li>updated Drizzlewood Farmtrain (optimized route, gph increase from 24 to 27 gph)</li>  
 </ul>
-https://fast.farming-community.eu/open-world/pve-reward-track
+<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
 <ul>
       <li>added missing Frost Legion and Dominion Commendation to Drizzlewood Material Donation</li>
 </ul>
@@ -3204,7 +3208,7 @@ https://fast.farming-community.eu/open-world/solo-farming
 <ul>
       <li>added Mount Maelstrom - Gauntlet Gulch</li>
 </ul>
-https://fast.farming-community.eu/festivals/festival-of-the-four-winds
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>rounded Karma Values on Boss Blitz Farm for better readability</li>
 </ul>
