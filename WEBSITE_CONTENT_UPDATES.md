@@ -2498,12 +2498,12 @@ API
 </ul>
 https://fast.farming-community.eu/item-conversions/prismaticite-crystal
 <ul>
-      <li>added https://fast.farming-community.eu/item-conversions/prismaticite-crystal</li>
+      <li>added Prismaticite Crystal</li>
       
 </ul>
 https://fast.farming-community.eu/conversions/tyrian-defense-seal
 <ul>
-      <li>added https://fast.farming-community.eu/conversions/tyrian-defense-seal</li>
+      <li>added Tyrian Defense Seal</li>
 </ul>
 https://fast.farming-community.eu/salvaging/salvageables
 <ul>
@@ -2685,7 +2685,7 @@ General Settings (Cog Symbol)
 <ul>
       <li>added Average Spirit Shard Calculation (Include / Exclude to Total Profit)</li>
 </ul>
-[Unid Gear](https://fast.farming-community.eu/salvaging/unid-gear)
+https://fast.farming-community.eu/salvaging/unid-gear
 <ul>
       <li>completely revamped Unid Gear table, now showing all options with full profit values, which can be directly compared instead of difference values</li>
 </ul>
