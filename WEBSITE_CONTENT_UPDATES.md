@@ -528,7 +528,6 @@ General
 </ul>
 <a href="https://fast.farming-community.eu/conversions/research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/research_note.png" alt="alt.png" width="32px">&nbsp;Research Note</a>
 <ul>
-<ul>
       <li>added 52 new Conversions (Shadow Serpent Weapons, Monastery Armor, Ancient Ritualist Armor)</li>
 </ul>
 <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
