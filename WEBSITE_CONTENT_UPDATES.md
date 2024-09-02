@@ -1385,6 +1385,7 @@ Cog Settings (upper right corner)
       <li>Data view as new default (change in few categories to remove redundancies)</li>
       <li>Farming view will be completely changed in near future</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 28.12.2021</strong></p>
 <ul>
       <li>changed header karma icons to Karma/hr (previously not clear if total value or per hour value)</li>
@@ -1573,6 +1574,7 @@ Condi Tempest
 <ul>
       <li>Map Rewards now calculate the active current week instead of previously total average</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 08.08.2021</strong></p>
 <a href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
@@ -2331,6 +2333,7 @@ General
       <li>fixed minor calculation mistakes (missing taxes in WvW)</li>
       <li>fixed minor calculation mistakes (wrong summation in several WvW-Bags)</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 31.01.2021</strong></p>
 <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
@@ -2445,6 +2448,7 @@ API
 <ul>
       <li>added tooltip with all salvageable items you can search for</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2021</strong></p>
 General
 <ul>
