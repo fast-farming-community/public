@@ -1,4 +1,4 @@
-#### Technical Updates on Website Features, for Updates on Website Data Content go to <a href="https://fast.farming-community.eu/website-updates" target="_blank">&nbsp;Website Updates</a>.
+#### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
 ## 2024-08-27
 
