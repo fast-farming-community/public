@@ -1,13 +1,6 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
-
-<p style="color: #7289da;"><strong>Website Updates 27.08.2024</strong></p>
-fast TacO Marker Pack
-https://fast.farming-community.eu/farming/guides/fast-taco-marker
-<ul>
-      <li>re-added fast TacO Marker Pack download into assets directive</li>
-</ul>
 <hr>
-<p style="color: #7289da;"><strong>Janthir Wilds Website Updates August 2024</strong></p>
+<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 02.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Of Mists and Monsters Meta</li>
@@ -78,6 +71,12 @@ https://fast.farming-community.eu/farming/guides/fast-taco-marker
 <ul>
       <li>added Janthir Wilds Reward Track</li>
       <li>added Janthir Wilds Reward Track (Non-Repeatable)</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 27.08.2024</strong></p>
+<a href="https://fast.farming-community.eu/farming/guides/fast-taco-marker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/guides/core_fast_taco.png" alt="alt.png" width="32px">&nbsp;fast TacO Marker Pack</a>
+<ul>
+      <li>re-added fast TacO Marker Pack download into assets directive</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.07.2024</strong></p>
@@ -648,7 +647,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.11.2022</strong></p>
-https://fast.farming-community.eu/competitive/pvp-reward-track
+<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added PvP Reward Tracks</li>
       <li>renamed Module Category: WvW -> Competitive</li>
