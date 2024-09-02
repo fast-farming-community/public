@@ -89,75 +89,61 @@ https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.05.2024</strong></p>
-Prismaticite Crystal
 https://fast.farming-community.eu/item-conversions/prismaticite-crystal
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Bags
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Box of Eparch's Prized Possessions</li>
 </ul>
-Fine Rift Essence
 https://fast.farming-community.eu/item-conversions/fine-rift-essence
 <ul>
       <li>added 15 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Masterwork Rift Essence
 https://fast.farming-community.eu/item-conversions/masterwork-rift-essence
 <ul>
       <li>added 15 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Rare Rift Essence
 https://fast.farming-community.eu/item-conversions/rare-rift-essence
 <ul>
       <li>added 20 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Eitrite Ingot
 https://fast.farming-community.eu/item-conversions/eitrite-ingot
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Eternal Ice Shard
 https://fast.farming-community.eu/item-conversions/eternal-ice-shard
 <ul>
       <li>added 1 new Conversion (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Hatched Chili
 https://fast.farming-community.eu/item-conversions/hatched-chili
 <ul>
       <li>added 3 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Pile of Bloodstone Dust
 https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Dragonite Ore
 https://fast.farming-community.eu/item-conversions/dragonite-ore
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Empyreal Fragment
 https://fast.farming-community.eu/item-conversions/empyreal-fragment
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-Bag
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Astral Fluctuating Mass</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.05.2024</strong></p>
-Meta
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Convergences CM</li>
       <li>added Inner Nayos - Into the Spider's Lair</li>
 </ul>
-Bags
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Legendary Weapon Starter Kit - Set 4</li>
@@ -171,19 +157,16 @@ Bags
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.03.2024</strong></p>
-Meta
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Waypoints Column</li>
 </ul>
-Fishing
 https://fast.farming-community.eu/open-world/fishing
 <ul>
       <li>added Countdown Timer for Day- and Nighttime</li>
       <li>Timer will remain 0:00 on active Day or Nighttime Phase</li>
       <li>removed aggregated Day + Nighttime Table</li>
 </ul>
-Provisioner Token
 https://fast.farming-community.eu/conversions/provisioner-token
 <ul>
       <li>added new Faction Provisioner Vendor Costs</li>
@@ -208,21 +191,18 @@ https://fast.farming-community.eu/conversions/provisioner-token
       <li>fixed a major calculation error when the wrong column was used (Sell TP column instead of Best Choice Buy column)</li>
       <li>fixed a major calculation error when the wrong column was used to index the calculated amount on Sell TP column</li>
 </ul>
-Meta
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Countdown "Starts in" column, table updates automatically every minute</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.03.2024</strong></p>
-Gizmos
 <a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>renamed and re-routed all old converter-entries to gizmos like the ingame notation</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.03.2024</strong></p>
-Storage and Slot Bags
 https://fast.farming-community.eu/open-world/storage-bags
 <ul>
       <li>added new WvW 24-, 28- and 32- Slot Bags (Costs)</li>
@@ -247,10 +227,9 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Lunar New Year Festival 30.01.2024 - 20.02.2024</strong></p>
-https://fast.farming-community.eu/festivals/lunar-new-year
-Vendor
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
-      <li>added Mini Amnytas Stormscale to LNY Vendor tab</li>
+      <li>added Mini Amnytas Stormscale</li>
 </ul>
 
 <hr>
@@ -273,30 +252,25 @@ General
       <li>updated and improved detailed datasets with Achievements in Festival, Meta, Strike Missions and Dungeon Category</li>
       <li>updated and improved detailed datasets with Bouncy Chest loot instead of aggregated loot in Strike Missions Category</li>
 </ul>
-Daily Farming Checklist
 https://fast.farming-community.eu/farming/daily
 <ul>
       <li>added weekly Strike Missions and Convergences to Weekly Farming Checklist</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.11.2023</strong></p>
-Meta
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Inner Nayos - The Road to Heitor</li>
       <li>added Convergence</li>
 </ul>
-Currency Conversions
-https://fast.farming-community.eu/conversions/overview
+<a href="https://fast.farming-community.eu/conversions/calcified-gasp" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/calcified_gasp.png" alt="alt.png" width="32px">&nbsp;Calcified Gasp</a>
 <ul>
       <li>added Calcified Gasp</li>
 </ul>
-Strike Missions
 https://fast.farming-community.eu/instances/strike-missions
 <ul>
       <li>added Cosmic Observatory CM (Weekly)</li>
 </ul>
-Bags
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Legendary Weapon Starter Kit - Set 2</li>
@@ -307,8 +281,7 @@ Bags
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>The Shadow of the Mad King Festival Website Update 19.10.2023</strong></p>
-Halloween
-https://fast.farming-community.eu/festivals/halloween
+<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added Ascent to Madness (1 Round)</li>
       <li>added Mad King's Clock Tower (1 Round)</li>
@@ -316,15 +289,13 @@ https://fast.farming-community.eu/festivals/halloween
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.10.2023</strong></p>
-Jade Miner's Keycard
-https://fast.farming-community.eu/conversions/jade-miners-keycard
+<a href="https://fast.farming-community.eu/conversions/jade-miners-keycard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_miners_keycard.png" alt="alt.png" width="32px">&nbsp;Jade Miner's Keycard</a>
 <ul>
-      <li>added new Currency</li>
+      <li>added Jade Miner's Keycard</li>
 </ul>
-Pristine Fractal Relic
-https://fast.farming-community.eu/conversions/pristine-fractal-relic
+<a href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
 <ul>
-      <li>added new Currency</li>
+      <li>added Pristine Fractal Relic</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.09.2023</strong></p>
@@ -335,15 +306,13 @@ https://fast.farming-community.eu/conversions/pristine-fractal-relic
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.09.2023</strong></p>
-Item Conversions
 https://fast.farming-community.eu/item-conversions/charged-quartz-crystal
 <ul>
       <li>added Relic of the Defender</li>
       <li>added Relic of the Pack</li>
       <li>added Relic of the Zephyrite</li>
 </ul>
-Festival
-https://fast.farming-community.eu/festivals/lunar-new-year
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Relic of the Fireworks</li>
 </ul>
@@ -616,7 +585,7 @@ https://fast.farming-community.eu/open-world/fishing
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Lunar New Year Update 23.01.2023</strong></p>
-https://fast.farming-community.eu/festivals/lunar-new-year
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Little Lucky Envelope (750% MF)</li>
@@ -720,7 +689,7 @@ Profit Headers (Detailed Datasets)
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>The Shadow of the Mad King Festival 18.10.2022 - 08.11.2022</strong></p>
-https://fast.farming-community.eu/festivals/halloween
+<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>No new farms, only new skins!</li>
 </ul>
@@ -1276,7 +1245,7 @@ https://fast.farming-community.eu/conversions/magnetite-shard
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
 <p style="color: #7289da;"><strong>Lunar New Year Festival 25.01.2022</strong></p>
-https://fast.farming-community.eu/festivals/lunar-new-year
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Item costs to acquire 1000 Luck table</li>
 </ul>
@@ -1833,7 +1802,7 @@ https://fast.farming-community.eu/festivals/festival-of-the-four-winds
       <li>added profit columns to festival farms</li>
       <li>removed redundant columns from various festival farms</li>
 </ul>
-https://fast.farming-community.eu/festivals/lunar-new-year
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added new Lunar New Year Farm (Celestial Challenge)</li>
 </ul>
@@ -1884,7 +1853,7 @@ https://fast.farming-community.eu/bags/storage-bags
       <li>fixed few missing price icons on several other categories</li>
       <li>added new price Icons to following categories</li>
 </ul>
-https://fast.farming-community.eu/festivals/lunar-new-year
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added lunar new year tables (bags and luck vendor are now split)</li>
 </ul>
@@ -2303,7 +2272,7 @@ https://fast.farming-community.eu/salvaging/unid-gear
       <li>added new Tyria-Bag (Lucky Red Bag 2021 (~600% MF))</li>
       <li>added new Exalted Supply Box</li>
 </ul>
-https://fast.farming-community.eu/festivals/lunar-new-year
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Lucky Red Bag 2021 (~600% MF)</li>
 </ul>
@@ -2337,7 +2306,7 @@ General
       <li>added Lucky Red Bag 2021 (300% MF)</li>
       <li>added Lucky Red Bag 2021 (960% MF)</li>
 </ul>
-https://fast.farming-community.eu/festivals/lunar-new-year
+<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>removed bug message from Lucky Red Bag 2021. The droprate on higher MF is intended.</li>
 </ul>
@@ -2884,7 +2853,7 @@ https://fast.farming-community.eu/conversions/tale-of-dungeon-delving
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.10.2020</strong></p>
-https://fast.farming-community.eu/festivals/halloween
+<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added description of average Bags per Hour and average Magic Find from datasets</li>
 </ul>
