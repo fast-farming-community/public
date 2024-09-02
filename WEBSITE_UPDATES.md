@@ -73,6 +73,12 @@ https://fast.farming-community.eu/farming/guides/fast-taco-marker
 <li>added Provisioner Token Exchange Gaerlar Stormrider</li>
 <li>added Provisioner Token Exchange Shining Isle</li>
 </ul>
+<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<ul>
+      <li>added Janthir Wilds Reward Track</li>
+      <li>added Janthir Wilds Reward Track (Non-Repeatable)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.07.2024</strong></p>
 https://fast.farming-community.eu/conversions/pvp-league-ticket
