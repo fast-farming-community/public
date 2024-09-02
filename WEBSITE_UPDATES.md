@@ -7,7 +7,7 @@ https://fast.farming-community.eu/farming/guides/fast-taco-marker
 <li>re-added fast TacO Marker Pack download into assets directive</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 25.08.2024</strong></p>
+<p style="color: #7289da;"><strong>Janthir Wilds Website Updates August 2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
 <li>added Of Mists and Monsters Meta</li>
