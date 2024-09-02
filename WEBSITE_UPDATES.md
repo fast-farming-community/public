@@ -44,6 +44,7 @@ https://fast.farming-community.eu/farming/guides/fast-taco-marker
 <li>added Legendary Weapon Starter Kit - Set 5</li>
 <li>added Starter Kit: Kamohoali'i Kotaki</li>
 <li>added Starter Kit: Twilight</li>
+<li>added Smooth Berry Dye Kit</li>
 </ul>
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
