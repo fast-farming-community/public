@@ -1673,7 +1673,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.07.2021</strong></p>
-https://fast.farming-community.eu/gathering/unlimited-gathering-tools
+<a href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
 <ul>
       <li>added Unlimited Gathering Tools with Cast Times</li>
 </ul>
@@ -1685,15 +1685,15 @@ https://fast.farming-community.eu/gathering/unlimited-gathering-tools
 <ul>
       <li>added 5 new Item Conversions</li>
 </ul>
-https://fast.farming-community.eu/item-conversions/fire-orchid-blossom
+<a href="https://fast.farming-community.eu/item-conversions/fire-orchid-blossom" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fire_orchid_blossom.png" alt="alt.png" width="32px">&nbsp;Fire Orchid Blossom</a>
 <ul>
       <li>added 5 new Item Conversions</li>
 </ul>
-https://fast.farming-community.eu/item-conversions/fresh-winterberry
+<a href="https://fast.farming-community.eu/item-conversions/fresh-winterberry" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fresh_winterberry.png" alt="alt.png" width="32px">&nbsp;Fresh Winterberry</a>
 <ul>
       <li>added 5 new Item Conversions</li>
 </ul>
-https://fast.farming-community.eu/item-conversions/glob-of-elder-spirit-residue
+<a href="https://fast.farming-community.eu/item-conversions/glob-of-elder-spirit-residue" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glob_of_elder_spirit_residue.png" alt="alt.png" width="32px">&nbsp;Glob of Elder Spirit Residue</a>
 <ul>
       <li>added 3 new Item Conversions</li>
 </ul>
@@ -1701,14 +1701,16 @@ https://fast.farming-community.eu/item-conversions/glob-of-elder-spirit-residue
 <ul>
       <li>added 18 new Item Conversions</li>
 </ul>
-https://fast.farming-community.eu/item-conversions/lump-of-mithrillium
+<a href="https://fast.farming-community.eu/item-conversions/lump-of-mithrillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_mithrillium.png" alt="alt.png" width="32px">&nbsp;Lump of Mithrillium</a>
 <ul>
       <li>added 3 new Item Conversions</li>
 </ul>
+<a href="https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spool_of_silk_weaving_thread.png" alt="alt.png" width="32px">&nbsp;Spool of Silk Weaving Thread</a>
 https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread
 <ul>
       <li>added 3 new Item Conversions</li>
 </ul>
+<a href="" target="_blank"><img src="" alt="alt.png" width="32px">&nbsp;</a>
 https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord
 <ul>
       <li>added 2 new Item Conversions</li>
@@ -1730,11 +1732,11 @@ https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
-      <li>Hoard of the Marionette Warden I</li>
-      <li>Hoard of the Marionette Warden II</li>
-      <li>Hoard of the Marionette Warden III</li>
-      <li>Hoard of the Marionette Warden IV</li>
-      <li>Hoard of the Marionette Warden V</li>
+      <li>added Hoard of the Marionette Warden I</li>
+      <li>added Hoard of the Marionette Warden II</li>
+      <li>added Hoard of the Marionette Warden III</li>
+      <li>added Hoard of the Marionette Warden IV</li>
+      <li>added Hoard of the Marionette Warden V</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/elegy-mosaic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/elegy_mosaic.png" alt="alt.png" width="32px">&nbsp;Elegy Mosaic</a>
 <ul>
@@ -2082,7 +2084,7 @@ General
 <p style="color: #7289da;"><strong>Website Updates 08.05.2021</strong></p>
 <a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
-      <li>WvW Reward Tracks have now detailed datasets!</li>
+      <li>added detailed datasets to WvW Reward Tracks</li>
       <li>Loot tables of all bags and caches of researched reward tracks are now accessible.</li>
       <li>added Super Adventure</li>
       <li>added Kryta</li>
@@ -2234,10 +2236,6 @@ General
       <li>added Crystallized Cache (SCAR)</li>
       <li>added Crystallized Cache (Ogre)</li>
       <li>added Buried Locked Chest</li>
-      <li>added </li>
-      <li>added </li>
-      <li>added </li>
-      <li>added </li>
       <li>moved Fractal Encryption Key to Chest Category</li>
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
