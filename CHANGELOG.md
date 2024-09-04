@@ -1,5 +1,17 @@
 #### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-09-04
+
+### Changed
+
+- updated Bottom Banner and Legal [\#523](https://github.com/fast-farming-community/website/pull/523) ([c0rn1x](https://github.com/c0rn1x))
+
+## 2024-09-02
+
+### Changed
+
+- renamed website updates to website content updates [\#522](https://github.com/fast-farming-community/website/pull/522) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2024-08-27
 
 ### Added
