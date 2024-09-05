@@ -4,6 +4,8 @@
 
 ### Added
 
+- added Janthir Wilds Logos [\#526](https://github.com/fast-farming-community/website/pull/526) ([c0rn1x](https://github.com/c0rn1x))
+- added Janthir Wilds favicon [\#525](https://github.com/fast-farming-community/website/pull/525) ([c0rn1x](https://github.com/c0rn1x))
 - added Icons and Images [\#524](https://github.com/fast-farming-community/website/pull/524) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2024-09-04
