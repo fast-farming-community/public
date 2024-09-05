@@ -1,5 +1,11 @@
 #### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-09-05
+
+### Added
+
+- added Icons and Images [\#524](https://github.com/fast-farming-community/website/pull/524) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2024-09-04
 
 ### Changed
