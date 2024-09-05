@@ -10,6 +10,7 @@
       <li>added Lowland Shore - Bearpaw Fields</li>
       <li>added Lowland Shore - Cabbage Farm</li>
       <li>added Lowland Shore - Grapes Farm</li>
+      <li>added Lowland Shore - Harvest Plots</li>
       <li>added Lowland Shore - Queen's Confidence JP</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Ursus_Oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
