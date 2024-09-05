@@ -1,6 +1,6 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
 <hr>
-<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 02.09.2024</strong></p>
+<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 05.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Of Mists and Monsters Meta</li>
