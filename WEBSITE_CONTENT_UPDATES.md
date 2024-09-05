@@ -13,7 +13,7 @@
       <li>added Lowland Shore - Harvest Plots</li>
       <li>added Lowland Shore - Queen's Confidence JP</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Ursus_Oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
+<a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
 <a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
 <a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma and other Currencies</a>
 <ul>
