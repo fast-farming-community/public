@@ -3,7 +3,7 @@
 <a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
 <ul>
       <li>removed entire farm table</li>
-      <li>added Prismaticite to detailed dataset, was previously hidden in the total value in main table</li>
+      <li>added Prismaticite to detailed datasets, was previously hidden in the total value in main table</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 05.09.2024</strong></p>
