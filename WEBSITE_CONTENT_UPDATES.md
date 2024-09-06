@@ -1,4 +1,10 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 06.09.2024</strong></p>
+<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
+<ul>
+      <li>removed entire farm table</li>
+      <li>added Prismaticite to detailed dataset, was previously hidden in the total value in main table</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 05.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
