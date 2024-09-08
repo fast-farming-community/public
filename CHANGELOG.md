@@ -1,5 +1,11 @@
 #### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-09-08
+
+### Changed
+
+- Use Fast API as GitHub proxy  [\#527](https://github.com/fast-farming-community/website/pull/527)([SamWolfs](https://github.com/SamWolfs))
+
 ## 2024-09-05
 
 ### Added
