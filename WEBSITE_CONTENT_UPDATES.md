@@ -56,8 +56,8 @@
       <li>added Janthir Wilds Kodan Loot Box</li>
       <li>added Lowland Shore Strongbox</li>
       <li>added Janthir Syntri Strongbox</li>
-      <li>added Janthir Wilds Gear Box (2 Mystic Clovers</li>
-      <li>added Janthir Wilds Gear Box (7 Mystic Clovers</li>
+      <li>added Janthir Wilds Gear Box (2 Mystic Clovers)</li>
+      <li>added Janthir Wilds Gear Box (7 Mystic Clovers)</li>
 </ul>
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
