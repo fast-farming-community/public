@@ -46,6 +46,18 @@
       <li>added Starter Kit: Kamohoali'i Kotaki</li>
       <li>added Starter Kit: Twilight</li>
       <li>added Smooth Berry Dye Kit</li>
+      <li>Janthir Wilds Decima Loot Box</li>
+      <li>Janthir Wilds Greer Loot Box</li>
+      <li>Janthir Wilds Mursaat Loot Box</li>
+      <li>Janthir Wilds Jade Construct Loot Box</li>
+      <li>Janthir Wilds Bloodstone Loot Box</li>
+      <li>Janthir Wilds Elemental Loot Box</li>
+      <li>Janthir Wilds Creatures Loot Box</li>
+      <li>Janthir Wilds Kodan Loot Box</li>
+      <li>Lowland Shore Strongbox</li>
+      <li>Janthir Syntri Strongbox</li>
+      <li>Janthir Wilds Gear Box (2 Mystic Clovers</li>
+      <li>Janthir Wilds Gear Box (7 Mystic Clovers</li>
 </ul>
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
