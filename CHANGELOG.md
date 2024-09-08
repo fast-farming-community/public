@@ -4,7 +4,7 @@
 
 ### Changed
 
-- Use Fast API as GitHub proxy  [\#527](https://github.com/fast-farming-community/website/pull/527)([SamWolfs](https://github.com/SamWolfs))
+- Use Fast API as GitHub proxy  [\#527](https://github.com/fast-farming-community/website/pull/527) ([SamWolfs](https://github.com/SamWolfs))
 
 ## 2024-09-05
 
