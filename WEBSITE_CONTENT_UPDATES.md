@@ -3233,3 +3233,5 @@ General
 <ul>
       <li>rounded Karma Values on Boss Blitz Farm for better readability</li>
 </ul>
+<hr>
+Further recordings of the early spreadsheet updates were not archived personally or publicly on the discord channel.
