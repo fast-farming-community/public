@@ -1,12 +1,5 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
-<p style="color: #7289da;"><strong>Website Updates 06.09.2024</strong></p>
-<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
-<ul>
-      <li>removed entire farm table</li>
-      <li>added Prismaticite to detailed datasets, was previously hidden in the total value in main table</li>
-</ul>
-<hr>
-<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 05.09.2024</strong></p>
+<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 13.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Of Mists and Monsters Meta</li>
@@ -66,9 +59,13 @@
       <li>added Major Kodan Cache (Janthir Syntri)</li>
       <li>added Major Kodan Cache with Lowland Kodan Expertise (Lowland Shore)</li>
       <li>added Major Kodan Cache with Lowland Kodan Expertise (Janthir Syntri)</li>
+      <li>added Bonus Chest Event (Janthir Syntri)</li>
+      <li>added Bonus Chest Event (Lowland Shore)</li>
       <li>added Bonus Chest Meta Event (Of Mists and Monsters)</li>
       <li>added Bouncy Chest Meta Event (Of Mists and Monsters)</li>
       <li>added Bouncy Chest Event (Lowland Shore)</li>
+      <li>added Bouncy Chest Event (Lowland Shore, Barbed Vale Event)</li>
+      <li>added Bouncy Chest Event (Lowland Shore, Champion Event)</li>
       <li>added Bouncy Chest Event (Janthir Syntri)</li>
       <li>added Chest (Janthir Wilds)</li>
       <li>added Bouncy Chest Meta Event (Of Mists and Monsters)</li>
@@ -90,6 +87,13 @@
 <ul>
       <li>added Janthir Wilds Reward Track</li>
       <li>added Janthir Wilds Reward Track (Non-Repeatable)</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 06.09.2024</strong></p>
+<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
+<ul>
+      <li>removed entire farm table</li>
+      <li>added Prismaticite to detailed datasets, was previously hidden in the total value in main table</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.08.2024</strong></p>
