@@ -1,4 +1,22 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 14.09.2024</strong></p>
+General
+<ul>
+      <li>added Required Column to all main and detailed tables</li>
+      <li>added Price Column to all main and detailed tables</li>
+      <li>added Limitation Column to all main and detailed tables</li>
+      <li>refactored Note column to not include anymore "Requires:" or "limited:"</li>
+      <li>updated ~1200 automatic references on Chest detailed tables: Price, Required and Limitation</li>
+      <li>refactored ~1000 Notes on Limitation to be now consistent:
+            <ul>
+                  <li>Limit 1x</li>
+                  <li>Limit 1x daily</li>
+                  <li>Limit 1x daily per Char</li>
+                  <li>Limit 1x weekly</li>
+                  <li>Limit 1x per <Special Requirement></li>
+            </ul>
+      </li>
+</ul>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 13.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
