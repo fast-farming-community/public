@@ -13,7 +13,7 @@ General
                   <li>Limit 1x daily</li>
                   <li>Limit 1x daily per Char</li>
                   <li>Limit 1x weekly</li>
-                  <li>Limit 1x per <Special Requirement></li>
+                  <li>Limit 1x per "Achievement/Requirement"</li>
             </ul>
       </li>
 </ul>
