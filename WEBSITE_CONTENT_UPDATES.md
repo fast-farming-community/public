@@ -1,4 +1,11 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 17.09.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<ul>
+      <li>added Lowland Shore - Arena Farm</li>
+      <li>added TacO Tekkit - Lowland Shore - Janthiri Treasure Hunter</li>
+      <li>added TacO Tekkit - Janthir Syntri - Janthiri Treasure Hunter</li>
+</ul>
 <p style="color: #7289da;"><strong>Website Updates 14.09.2024</strong></p>
 General
 <ul>
