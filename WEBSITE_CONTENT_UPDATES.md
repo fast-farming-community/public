@@ -1,4 +1,16 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 19.09.2024</strong></p>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>changed all Dye Kits to be now static with same droprate as stated in the game tooltip</li>
+      <li>added Janthiri Renown Chest</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<ul>
+      <li>added Master Diver Achievement Detailed Dataset instead of direct Achievement loot drops in the TacO Tekkit - Sunken Treasure Hunter Farm Detailed Dataset for better readability</li>
+      <li>added (Repeatable) Lowland Shore: Harvest Den Renown Heart to Arena Farm</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 17.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
