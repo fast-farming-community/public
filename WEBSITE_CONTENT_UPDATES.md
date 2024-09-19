@@ -10,6 +10,11 @@
       <li>added Master Diver Achievement Detailed Dataset instead of direct Achievement loot drops in the TacO Tekkit - Sunken Treasure Hunter Farm Detailed Dataset for better readability</li>
       <li>added (Repeatable) Lowland Shore: Harvest Den Renown Heart to Arena Farm</li>
 </ul>
+<a href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
+<ul>
+      <li>added 2 Sunken Chest to Sirens Queef Fractal</li>
+      <li>added 3 Sunken Chest to Aquatic Fractal</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 17.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
@@ -18,6 +23,8 @@
       <li>added TacO Tekkit - Lowland Shore - Janthiri Treasure Hunter</li>
       <li>added TacO Tekkit - Janthir Syntri - Janthiri Treasure Hunter</li>
 </ul>
+
+
 <p style="color: #7289da;"><strong>Website Updates 14.09.2024</strong></p>
 General
 <ul>
