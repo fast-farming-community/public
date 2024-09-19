@@ -4,6 +4,8 @@
 <ul>
       <li>changed all Dye Kits to be now static with same droprate as stated in the game tooltip</li>
       <li>added Janthiri Renown Chest</li>
+      <li>added Dragonjade-Tier Reward Package</li>
+      <li>added Dragonjade-Tier Reward Package (Non-Repeatable)</li>
 </ul>
 <a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
@@ -15,6 +17,12 @@
       <li>added 2 Sunken Chest to Sirens Queef Fractal</li>
       <li>added 3 Sunken Chest to Aquatic Fractal</li>
 </ul>
+<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<ul>
+      <li>added Xunlai Customer Loyalty Perks Program Reward Track</li>
+      <li>added Xunlai Customer Loyalty Perks Program Reward Track (Non-Repeatable)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 17.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
@@ -23,8 +31,7 @@
       <li>added TacO Tekkit - Lowland Shore - Janthiri Treasure Hunter</li>
       <li>added TacO Tekkit - Janthir Syntri - Janthiri Treasure Hunter</li>
 </ul>
-
-
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 14.09.2024</strong></p>
 General
 <ul>
