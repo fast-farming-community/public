@@ -2,22 +2,22 @@
 <p style="color: #7289da;"><strong>Website Updates 21.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
-      <li>added 4x Daily Exchange Gharr Leadclaw (Arborstone)</li>
+      <li>added 5x Daily Exchange Gharr Leadclaw (Arborstone)</li>
       <li>added 2x Daily Exchange Gharr Leadclaw (Eye of the North)</li>
       <li>added 3x Daily Exchange Gharr Leadclaw (Wizard's Tower / Portable Wizard's Tower Exchange)</li>
       <li>added Astral Fluctuating Mass Gharr Leadclaw (Wizard's Tower / Portable Wizard's Tower Exchange) to Weekly Checklist</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
-      <li>added 68 new Conversions</li>
+      <li>added 85 new Conversions</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/trade-contract" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/trade_contract.png" alt="alt.png" width="32px">&nbsp;Trade Contract</a>
 <ul>
-      <li>added 20 new Conversions</li>
+      <li>added 21 new Conversions</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
-      <li>added 20 new Conversions</li>
+      <li>added 21 new Conversions</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 19.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
