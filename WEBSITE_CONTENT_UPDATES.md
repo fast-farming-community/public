@@ -5,6 +5,7 @@
       <li>added 4x Daily Exchange Gharr Leadclaw (Arborstone)</li>
       <li>added 2x Daily Exchange Gharr Leadclaw (Eye of the North)</li>
       <li>added 3x Daily Exchange Gharr Leadclaw (Wizard's Tower / Portable Wizard's Tower Exchange)</li>
+      <li>added Astral Fluctuating Mass Gharr Leadclaw (Wizard's Tower / Portable Wizard's Tower Exchange) to Weekly Checklist</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
