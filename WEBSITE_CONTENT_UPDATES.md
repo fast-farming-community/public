@@ -1,5 +1,9 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
 <p style="color: #7289da;"><strong>Website Updates 21.09.2024</strong></p>
+General
+<ul>
+      <li>Pays Off Columns now apply to Settings Filter: TP Buy or TP Sell Order</li>
+</ul>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 5x Daily Exchange Gharr Leadclaw (Arborstone)</li>
