@@ -12,6 +12,24 @@ General
             <li>Unlimited Gathering Tool</li>
       </ul>
 </ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Echovald Wilds - Aspenwood</li>
+      <li>updated Province Metrica - Fire Elemental with Bonus Chest</li>
+      <li>updated Wayfarer Hills - Svanir Shaman with Bonus Chest</li>
+      <li>updated Queensdale - Shadow Behemoth with Bonus Chest</li>
+      <li>updated Caledon Forest - Great Jungle Wurm with Bonus Chest</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Filing Cabinet</li>
+      <li>added Filing Cabinet (Aspenwood Meta)</li>
+      <li>added Bouncy Chest Event (Echovald Wilds)</li>
+      <li>added Bonus Chest (Fire Elemental)</li>
+      <li>added Bonus Chest (Great Jungle Wurm)</li>
+      <li>added Bonus Chest (Shadow Behemoth)</li>
+      <li>added Bonus Chest (The Frozen Maw)</li>
+</ul>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 5x Daily Exchange Gharr Leadclaw (Arborstone)</li>
