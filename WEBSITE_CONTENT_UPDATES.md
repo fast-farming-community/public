@@ -49,6 +49,7 @@ General
 <ul>
       <li>added 21 new Conversions</li>
 </ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 19.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
