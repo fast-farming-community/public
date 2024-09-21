@@ -2,7 +2,15 @@
 <p style="color: #7289da;"><strong>Website Updates 21.09.2024</strong></p>
 General
 <ul>
-      <li>Pays Off Columns now apply to Settings Filter: TP Buy or TP Sell Order</li>
+      <li>Pays Off Columns now apply to Settings Filter: TP Buy or TP Sell Order:</li>
+      <ul>
+            <li>Black Lion Delivery Box</li>
+            <li>Gathering Tool</li>
+            <li>Home Nodes</li>
+            <li>Home Garden Nodes</li>
+            <li>Jade Bot</li>
+            <li>Unlimited Gathering Tool</li>
+      </ul>
 </ul>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
