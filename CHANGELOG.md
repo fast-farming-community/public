@@ -1,5 +1,11 @@
 #### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-09-21
+
+### Added
+
+- added TP Settings to Pays off columns [\#528](https://github.com/fast-farming-community/website/pull/528) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2024-09-14
 
 ### Changed
