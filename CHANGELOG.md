@@ -13,7 +13,7 @@
 
 ### Fixed
 
-- fixed separated schedule timer to include fixed schedules in countdow [\#531](https://github.com/fast-farming-community/website/pull/531) ([c0rn1x](https://github.com/c0rn1x))
+- fixed separated schedule timer to include fixed schedules in countdown timer [\#531](https://github.com/fast-farming-community/website/pull/531) ([c0rn1x](https://github.com/c0rn1x))
 - Fix toasts ([SamWolfs](https://github.com/SamWolfs))
 - fixed render AlphaNumericColumn as string ([SamWolfs](https://github.com/SamWolfs))
 
