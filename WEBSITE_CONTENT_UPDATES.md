@@ -1,4 +1,15 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 22.09.2024</strong></p>
+General
+<ul>
+      <li>fixed invalid number on alpha-numeric columns, when the first row entry is not a number</li>
+      <li>fixed copy-Toast to show up again in the bottom right corner when clicking on a auto-copyable column</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>Metas are now sorted by 1. countdown until meta start and new: 2. by gold per hour</li>
+      <li>implemented a beta prototype for irregular timer e.g. for Tequatl, Karka and Triple Trouble</li>
+</ul>
 <p style="color: #7289da;"><strong>Website Updates 21.09.2024</strong></p>
 General
 <ul>
