@@ -1,5 +1,22 @@
 #### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-09-22
+
+### Added
+
+- added separate scheduled timer with additional columns to countdown timer [\#530](https://github.com/fast-farming-community/website/pull/530) ([c0rn1x](https://github.com/c0rn1x))
+- added negative modulo calculations to countdown timer [\#529](https://github.com/fast-farming-community/website/pull/529) ([c0rn1x](https://github.com/c0rn1x))
+
+### Changed
+
+- Meta: sort by (1) countdown (2) profithr ([SamWolfs](https://github.com/SamWolfs))
+
+### Fixed
+
+- fixed separated schedule timer to include fixed schedules in countdow [\#531](https://github.com/fast-farming-community/website/pull/531) ([c0rn1x](https://github.com/c0rn1x))
+- Fix toasts ([SamWolfs](https://github.com/SamWolfs))
+- fixed render AlphaNumericColumn as string ([SamWolfs](https://github.com/SamWolfs))
+
 ## 2024-09-21
 
 ### Added
