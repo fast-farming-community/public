@@ -230,6 +230,12 @@ General
       <li>added WvW Skirmish Claim Ticket</li>
 </ul>
 <hr>
+<p style="color: #7289da;"><strong>Website Updates 06.07.2024</strong></p>
+General
+<ul>
+      <li>fixed regex to not render images if there isn't a number/integer</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 30.05.2024</strong></p>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
@@ -305,6 +311,8 @@ General
       <li>added Countdown Timer for Day- and Nighttime</li>
       <li>Timer will remain 0:00 on active Day or Nighttime Phase</li>
       <li>removed aggregated Day + Nighttime Table</li>
+      <li>added Timer StartTime/Interval Column to Fishing</li>
+      <li>fixed all 24 Fishing guide images, which were removed since Cockpit UI</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/provisioner-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/provisioner_token.png" alt="alt.png" width="32px">&nbsp;Provisioner Token</a>
 <ul>
@@ -339,6 +347,26 @@ General
 <a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>renamed and re-routed all old converter-entries to gizmos like the ingame notation</li>
+      <li>refactored Zepyhrite Supply Box into Zepyhrite Supply Box Vendor</li>
+</ul>
+<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<ul>
+      <li>added Long Lost Tahkayun Weapon Reward Track</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Timer StartTime/Interval/Waypoints Column to Meta (src column)</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<ul>
+      <li>added Guild Missions to Solo-Farming</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 20.03.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<ul>
+      <li>fixed 25 Alt-Parking images which were removed since Cockpit UI</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.03.2024</strong></p>
@@ -347,10 +375,67 @@ General
       <li>added new WvW 24-, 28- and 32- Slot Bags (Costs)</li>
 </ul>
 <hr>
+<p style="color: #7289da;"><strong>Website Updates 15.03.2024</strong></p>
+General
+<ul>
+      <li>fixed broken images category icon in detailed datasets</li>
+      <li>fixed/added category icons back into prices folder</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Inner Nayos - The Fangs that Gnash</li>
+      <li>added </li>
+      <li>added </li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Inner Nayos: Hero's Chest</li>
+      <li>added Knaebelag's Hoard</li>
+      <li>added Knaebelag's Hoard (Repeat Defanger Achievement)</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 13.03.2024</strong></p>
+<a href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
+<ul>
+      <li>refactored daily fractal table with the new fractal</li>
+      <li>fixed multiple wrong fractal referencing and calculations</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 10.03.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Domain of Vabbi - Forged Fire</li>
+      <li>added Thunderhead Peaks - The Oil Floes</li>
+      <li>added Thunderhead Peaks - Thunderhead Keep</li>
+      <li>added Bloodtide Coast - Triple Trouble</li>
+      <li>added Drizzlewood  Coast- Assault on the Frost Citadel</li>
+      <li>added Elon Riverlands  - Doppelganger</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<ul>
+      <li>added Shiverpeaks Strike Mission Bouncy Chest</li>
+</ul>
+<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<ul>
+      <li>refactored Shiverpeaks Pass Strike Mission</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 09.03.2024</strong></p>
 General
 <ul>
       <li>fixed a fast-API stall, when a GW2 API item has no buy or sell orders on TP which caused mismatching item ids</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 29.02.2024</strong></p>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added new Horn of Maguuma Fish</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 18.02.2024</strong></p>
+General
+<ul>
+      <li>added Rarity to fast-API and Rarity Item Borders to ~400.000 entries</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.02.2024</strong></p>
