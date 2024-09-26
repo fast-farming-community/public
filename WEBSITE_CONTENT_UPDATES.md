@@ -1,4 +1,11 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 26.09.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Spirit Shard Profit calculation</li>
+      <li>added special Schedule countdown timers for Tequatl, Karka Queen and TTT</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 22.09.2024</strong></p>
 General
 <ul>
