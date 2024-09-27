@@ -1,10 +1,16 @@
 #### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-09-27
+
+### Added
+
+- added different flavor text to topnavbar [\#533](https://github.com/fast-farming-community/website/pull/533) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2024-09-26
 
 ### Added
 
--  added Spirit Shard Profit calculation to Profit in meta module [\#532](https://github.com/fast-farming-community/website/pull/532) ([c0rn1x](https://github.com/c0rn1x))
+- added Spirit Shard Profit calculation to Profit in meta module [\#532](https://github.com/fast-farming-community/website/pull/532) ([c0rn1x](https://github.com/c0rn1x))
 - added special Schedule countdown timer for Karka Queen and TTT  [\#532](https://github.com/fast-farming-community/website/pull/532) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2024-09-22
