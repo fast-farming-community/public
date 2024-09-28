@@ -1,4 +1,10 @@
-#### Website Updates on technical Features, for Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
+#### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
+
+## 2024-09-28
+
+### Added
+
+- added update info to website content updates, website todos and changelog [\#534](https://github.com/fast-farming-community/website/pull/534) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2024-09-27
 
