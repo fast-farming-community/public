@@ -1,4 +1,23 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 23.10.2024</strong></p>
+<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
+<ul>
+      <li>added Trader's Grim Machine Chest to Weekly Vendor</li>
+</ul>
+<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>previously renamed Bags after Janthir Wilds release are now matched with ingame names:</li>
+      <ul>
+            <li>Kryptis Convergence Extraction => Convergence Extraction</li>
+            <li>Kryptis Rift Extraction => Rift Extraction</li>
+            <li>Nugget of Krpytis Essence => Nugget of Rift Essence</li>
+      </ul>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
+<ul>
+      <li>fixed the last newest added options to be included in the MAX-formula for TP Buy/Sell Profit calculations</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 26.09.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
@@ -69,7 +88,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.09.2024</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>changed all Dye Kits to be now static with same droprate as stated in the game tooltip</li>
       <li>added Janthiri Renown Chest</li>
