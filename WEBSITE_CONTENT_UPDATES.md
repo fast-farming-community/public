@@ -1,4 +1,22 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 29.10.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>updated Dragonfall - The Battle of Dragonfall Meta with Bouncy Chests</li>
+      <li>updated Dragonfall - The Battle of Dragonfall Champtrain with Bouncy Chest Event (Dragonfall)</li>
+      <li>updated Gendarran Fields - Ley-Line Anomaly with Bouncy Chest Meta Event (Ley-Line Anomaly)</li>
+      <li>updated Iron Marches - Ley-Line Anomaly with Bouncy Chest Meta Event (Ley-Line Anomaly)</li>
+      <li>updated Timberline Falls - Ley-Line Anomaly with Bouncy Chest Meta Event (Ley-Line Anomaly)</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Bouncy Chest Meta Event (Ley-Line Anomaly)</li>
+      <li>added Bouncy Chest Event Rewards (Dragonfall)</li>
+      <li>added Bouncy Chest Meta Event (Dragonfall, Legendary Creatures)</li>
+      <li>added Bouncy Chest Meta Event (Dragonfall)</li>
+      <li>added Bouncy Chest Event (Dragonfall)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 23.10.2024</strong></p>
 <a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
