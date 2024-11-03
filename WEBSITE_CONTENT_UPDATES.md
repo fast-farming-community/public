@@ -1,4 +1,22 @@
 #### Website Content Updates, for Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
+<p style="color: #7289da;"><strong>Website Updates 03.11.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Domain of Kourna - Containing the Scarab Plague</li>
+      <li>added Elon Riverlands - The Path to Ascension</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Awakened Chest (Domain of Kourna)</li>
+      <li>added Branded Chest</li>
+      <li>added Branded Chest (The Path to Ascension)</li>
+      <li>added Forgotten Debris</li>
+      <li>added Large Kournan Chest</li>
+      <li>added Small Kournan Chest</li>
+      <li>added Bouncy Chest Meta Event (The Path to Ascenscion)</li>
+      <li>added Bouncy Chest Event (Domain of Kourna)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 29.10.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
