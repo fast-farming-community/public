@@ -6,6 +6,7 @@
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Magnificent Chest (Battle Cry)</li>
+      <li>Bouncy Chest Meta Event (Battle Cry)</li>
       <li>added Bouncy Chest Event (Drizzlewood Coast)</li>
       <li>added Bouncy Chest Event (Defeat the Cache Keeper)</li>
       <li>added Bouncy Chest Meta Event (Battle Cry)</li>
