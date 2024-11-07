@@ -1,3 +1,20 @@
+<p style="color: #7289da;"><strong>Website Updates 07.11.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>updated Drizzlewood Coast - Battle Cry</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Magnificent Chest (Battle Cry)</li>
+      <li>added Bouncy Chest Event (Drizzlewood Coast)</li>
+      <li>added Bouncy Chest Event (Defeat the Cache Keeper)</li>
+      <li>added Bouncy Chest Meta Event (Battle Cry)</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
+<ul>
+      <li>added Drizzlewood Coast Map Reward</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 03.11.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
