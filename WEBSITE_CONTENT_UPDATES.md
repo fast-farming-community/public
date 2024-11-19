@@ -1,3 +1,18 @@
+<p style="color: #7289da;"><strong>Website Updates 19.11.2024</strong></p>
+<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Starter Kit: Howler</li>
+      <li>added Starter Kit: Kudzu</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<ul>
+      <li>added Mists Vault Main Repository</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
+<ul>
+      <li>added Legendary Weapon Starter Key - Set 6</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 07.11.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
