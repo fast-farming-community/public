@@ -1,4 +1,8 @@
 <p style="color: #7289da;"><strong>Website Updates 20.11.2024</strong></p>
+General
+<ul>
+      <li>refactored certain Consumables from Bag Category to individual Item Conversion Category for better readability and distinction to its currency consumption counterpart</li>
+</ul>
 <a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>removed Curious Lowland Honeycomb</li>
