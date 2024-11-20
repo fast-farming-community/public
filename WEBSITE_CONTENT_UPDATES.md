@@ -1,3 +1,38 @@
+<p style="color: #7289da;"><strong>Website Updates 20.11.2024</strong></p>
+<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>removed Curious Lowland Honeycomb</li>
+      <li>removed Curious Mursaat Currency</li>
+      <li>removed Writ of Dragon's End</li>
+      <li>removed Writ of Echovald Wilds</li>
+      <li>removed Writ of New Kaineng City</li>
+      <li>removed Writ of Seitung Province</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Lowland_Honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
+<ul>
+      <li>added Curious Lowland Honeycomb</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
+<ul>
+      <li>added Curious Mursaat Currency</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-dragons-end" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_Dragons_End.png" alt="alt.png" width="32px">&nbsp;Writ of Dragon's End</a>
+<ul>
+      <li>added Writ of Dragon's End</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-echovald-wilds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_Echovald_Wilds.png" alt="alt.png" width="32px">&nbsp;Writ of Echovald Wilds</a>
+<ul>
+      <li>added Writ of Echovald Wilds</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-new-kaineng-city" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_New_Kaineng_City.png" alt="alt.png" width="32px">&nbsp;Writ of New Kaineng City</a>
+<ul>
+      <li>added Writ of New Kaineng City</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-seitung province" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_Seitung_Province.png" alt="alt.png" width="32px">&nbsp;Writ of Seitung Province</a>
+<ul>
+      <li>added Writ of Seitung Province</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 19.11.2024</strong></p>
 <a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
