@@ -1,15 +1,17 @@
 <p style="color: #7289da;"><strong>Website Updates 01.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
-      <li>added 3x Renown Heart - Weekly Shard of Lowland Shore</li>
-      <li>added 3x Renown Heart - Weekly Shard of Janthir Syntri</li>
+      <li>added 3x Renown Heart - Weekly Discounted Shard of Lowland Shore</li>
+      <li>added 3x Renown Heart - Weekly Discounted Shard of Janthir Syntri</li>
 </ul>
 <a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Lowland_Honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
 <ul>
+      <li>added 3x Renown Heart - Weekly Discounted Shard of Lowland Shore</li>
       <li>added 3x Renown Heart - Weekly Shard of Lowland Shore</li>
 </ul>
 <a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
 <ul>
+      <li>added 3x Renown Heart - Weekly Discounted Shard of Janthir Syntri</li>
       <li>added 3x Renown Heart - Weekly Shard of Janthir Syntri</li>
 </ul>
 <a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
