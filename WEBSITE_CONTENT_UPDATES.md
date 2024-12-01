@@ -1,3 +1,16 @@
+<p style="color: #7289da;"><strong>Website Updates 01.12.2024</strong></p>
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<ul>
+      <li>added 3x Renown Heart - Weekly Shard of Lowland Shore</li>
+      <li>added 3x Renown Heart - Weekly Shard of Janthir Syntri</li>
+</ul>
+<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Legendary Gift Starter Kit</li>
+      <li>updated all Starter Kit Tables with Legendary Gift Starter Kit</li>
+      <li>updated Janthiri Renown Chest Loot Choice Table</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 20.11.2024</strong></p>
 General
 <ul>
