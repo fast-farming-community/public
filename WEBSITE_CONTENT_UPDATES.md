@@ -11,9 +11,11 @@
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Bonus Chest Meta Event (Night and the Enemy)</li>
+      <li>removed Verdant Brink: Hero's Choice Chest from Glorious Chest (Wyvern Matriarch)</li>
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
+      <li>added Rare Unidentified Gear to all Hero's Choice Chest for better readability on profit total</li>
       <li>updated Verdant Brink: Hero's Choice Chest with Jungle Grass Seed</li>
       <li>updated Auric Basin: Hero's Choice Chest with Coastal Lumber Core</li>
       <li>updated Tangled Depths: Hero's Choice Chest with Palm Lumber Core</li>
