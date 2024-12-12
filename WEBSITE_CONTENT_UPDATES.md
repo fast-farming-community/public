@@ -14,14 +14,14 @@
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
-      <li>added Jungle Grass Seed Option to Verdant Brink: Hero's Choice Chest</li>
-      <li>added Coastal Lumber Core Option to Auric Basin: Hero's Choice Chest</li>
-      <li>added Palm Lumber Core Option to Tangled Depths: Hero's Choice Chest</li>
-      <li>added Giant Mushroom Spore Option to Dragon's Stand: Hero's Choice Chest</li>
-      <li>added Rare Flower Seed to Crystal Oasis: Hero's Choice Chest</li>
-      <li>added Rare Flower Seed to Elon Riverlands: Hero's Choice Chest</li>
-      <li>added Rare Flower Seed to The Desolation: Hero's Choice Chest</li>
-      <li>added Rare Flower Seed to Domain of Vabbi: Hero's Choice Chest</li>
+      <li>updated Verdant Brink: Hero's Choice Chest with Jungle Grass Seed</li>
+      <li>updated Auric Basin: Hero's Choice Chest with Coastal Lumber Core</li>
+      <li>updated Tangled Depths: Hero's Choice Chest with Palm Lumber Core</li>
+      <li>updated Dragon's Stand: Hero's Choice Chest with Giant Mushroom Spore</li>
+      <li>updated Crystal Oasis: Hero's Choice Chest with Rare Flower Seed</li>
+      <li>updated Elon Riverlands: Hero's Choice Chest with Rare Flower Seed</li>
+      <li>updated The Desolation: Hero's Choice Chest with Rare Flower Seed</li>
+      <li>updated Domain of Vabbi: Hero's Choice Chest with Rare Flower Seed</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.12.2024</strong></p>
