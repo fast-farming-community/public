@@ -1,3 +1,29 @@
+<p style="color: #7289da;"><strong>Website Updates 12.12.2024</strong></p>
+<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
+<ul>
+      <li>added Trader's Sacred Solstice Chest</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>renamed Legendary Matriarch to Wyvern Matriarch</li>
+      <li>updated Verdant Brink - Wyvern Matriarch with Bonus Chest Meta Event (Night and the Enemy)</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Bonus Chest Meta Event (Night and the Enemy)</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Jungle Grass Seed Option to Verdant Brink: Hero's Choice Chest</li>
+      <li>added Coastal Lumber Core Option to Auric Basin: Hero's Choice Chest</li>
+      <li>added Palm Lumber Core Option to Tangled Depths: Hero's Choice Chest</li>
+      <li>added Giant Mushroom Spore Option to Dragon's Stand: Hero's Choice Chest</li>
+      <li>added Rare Flower Seed to Crystal Oasis: Hero's Choice Chest</li>
+      <li>added Rare Flower Seed to Elon Riverlands: Hero's Choice Chest</li>
+      <li>added Rare Flower Seed to The Desolation: Hero's Choice Chest</li>
+      <li>added Rare Flower Seed to Domain of Vabbi: Hero's Choice Chest</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 01.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
@@ -14,7 +40,7 @@
       <li>added 3x Renown Heart - Weekly Discounted Shard of Janthir Syntri</li>
       <li>added 3x Renown Heart - Weekly Shard of Janthir Syntri</li>
 </ul>
-<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Legendary Gift Starter Kit</li>
       <li>updated all Starter Kit Tables with Legendary Gift Starter Kit</li>
@@ -26,7 +52,7 @@ General
 <ul>
       <li>refactored certain Consumables from Bag Category to individual Item Conversion Category for better readability and distinction to its currency consumption counterpart</li>
 </ul>
-<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>removed Curious Lowland Honeycomb</li>
       <li>removed Curious Mursaat Currency</li>
@@ -61,7 +87,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.11.2024</strong></p>
-<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Starter Kit: Howler</li>
       <li>added Starter Kit: Kudzu</li>
@@ -134,7 +160,7 @@ General
 <ul>
       <li>added Trader's Grim Machine Chest to Weekly Vendor</li>
 </ul>
-<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>previously renamed Bags after Janthir Wilds release are now matched with ingame names:</li>
       <ul>
@@ -218,7 +244,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.09.2024</strong></p>
-<a href="https://fast.farming-community.eu//bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>changed all Dye Kits to be now static with same droprate as stated in the game tooltip</li>
       <li>added Janthiri Renown Chest</li>
