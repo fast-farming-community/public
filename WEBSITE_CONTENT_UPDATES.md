@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 13.12.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<ul>
+      <li>sort secondary by gph if countdown has same value</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 12.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
