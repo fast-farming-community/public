@@ -3,6 +3,26 @@
 <ul>
       <li>sort secondary by gph if countdown has same value</li>
 </ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Convergence: Mount Balrior</li>
+      <li>updated Convergences CM with (Weekly) Challenge Mode Convergences: Outer Nayos </li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<ul>
+      <li>updated TacO Tekkit - Lowland Shore - Janthiri Treasure Hunter with (Repeatable) Janthiri Chest Hunter Achievement</li>
+      <li>updated TacO Tekkit - Janthir Syntri - Janthiri Treasure Hunter with (Repeatable) Janthiri Chest Hunter Achievement</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Bonus Chest Event (Convergence: Mount Balrior)</li>
+      <li>added Bouncy Chest Event (Convergence: Mount Balrior)</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Convergences: Mount Balrior Wayfinder's Choice Chest</li>
+      <li>added Magnificent Convergence Extraction</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
