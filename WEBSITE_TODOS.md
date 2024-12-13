@@ -3,7 +3,6 @@
 
 **Monster Features (10-100hrs and beyond)**
 - add new Farming Tracker
-- add Polls (?)
 - add new Infinite Gathering Tools and record animations etc. maybe maybe someday :gladge: 
 - add 2000+ items to Salvaging Costs per Research Note
 
