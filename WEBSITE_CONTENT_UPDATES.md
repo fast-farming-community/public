@@ -24,8 +24,7 @@
       <li>added Bouncy Chest Event (Convergence: Mount Balrior)</li>
       <li>updated Chest (Janthir Wilds) with Charged Titan Ore</li>
       <li>updated Magnificent Chest (Of Mists and Monsters Meta) and removed all old datasets</li>
-      <li>renamed Bouncy Chest Meta Event (Of Mists and Monsters) to Bonus Chest Meta Event (Of Mists and Monsters)</li>
-      <li>updated Bonus Chest Meta Event (Of Mists and Monsters)</li>
+      <li>updated Bouncy Chest Meta Event (Of Mists and Monsters)</li>
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
