@@ -1,5 +1,11 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-12-12
+
+### Added
+
+- sort secondary by gph if countdown has same value in Fishing category [\#536](https://github.com/fast-farming-community/website/pull/536) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2024-09-28
 
 ### Added
