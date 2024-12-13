@@ -13,6 +13,11 @@
       <li>updated TacO Tekkit - Lowland Shore - Janthiri Treasure Hunter with (Repeatable) Janthiri Chest Hunter Achievement</li>
       <li>updated TacO Tekkit - Janthir Syntri - Janthiri Treasure Hunter with (Repeatable) Janthiri Chest Hunter Achievement</li>
 </ul>
+<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<ul>
+      <li>added Mini Blue Cuckoo Hatchling to Black Lion Statuette</li>
+      <li>added Mini Orange Tigris Cub to Black Lion Statuette</li>
+</ul>
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Bonus Chest Event (Convergence: Mount Balrior)</li>
