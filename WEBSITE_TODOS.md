@@ -16,5 +16,4 @@
 
 **Small Features(< 1 hr)**
 - add Greater Arcane Chests Alt-parking
-- add Repeatable Janthiri Chest Hunter Achievement to Solo-Farming Janthiri Chest Hunt
 - JW Black Lion Delivery Box
