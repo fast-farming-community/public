@@ -1,3 +1,17 @@
+<p style="color: #7289da;"><strong>Website Updates 15.12.2024</strong></p>
+<a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
+<ul>
+      <li>updated Vendor token prices and amounts on Blueprints</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
+<ul>
+      <li>updated Vendor token prices and amounts on Blueprints</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
+<ul>
+      <li>updated Vendor token prices and amounts on Blueprints</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 13.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
