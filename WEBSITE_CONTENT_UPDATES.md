@@ -11,6 +11,10 @@
 <ul>
       <li>updated Vendor token prices and amounts on Blueprints</li>
 </ul>
+<a href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
+<ul>
+      <li>removed Vendor token prices and amounts on Blueprints</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
