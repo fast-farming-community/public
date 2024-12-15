@@ -15,6 +15,25 @@
 <ul>
       <li>removed Vendor token prices and amounts on Blueprints</li>
 </ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Black Lion Material Bag: Janthir Wilds</li>
+      <li>added Flowerhead</li>
+      <li>added Indigo Drakefish</li>
+      <li>added Juvenile Frogfish</li>
+      <li>added Longhorn Boxfish</li>
+      <li>added Lowland Grunt</li>
+      <li>added Mohawk Bream</li>
+      <li>added Mouse-Eared Octopus</li>
+      <li>added Queen Parrotfish</li>
+      <li>added Shaderock Salamander</li>
+      <li>added Spectacled Lumper</li>
+      <li>added Violet Screamer</li>
+      <li>added Viperfish (Janthir)</li>
+      <li>added Greer's Coffer</li>
+      <li>added Decima's Coffer</li>
+      <li>added Ura's Coffer</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
