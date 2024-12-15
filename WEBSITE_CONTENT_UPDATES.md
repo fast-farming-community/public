@@ -1,4 +1,9 @@
 <p style="color: #7289da;"><strong>Website Updates 15.12.2024</strong></p>
+<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<ul>
+      <li>added Mursaat Runestone</li>
+      <li>removed Ornamented Bearkin Claw</li>
+</ul>
 <a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
 <ul>
       <li>updated Vendor token prices and amounts on Blueprints</li>
