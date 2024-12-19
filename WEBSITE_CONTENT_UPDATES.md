@@ -17,6 +17,10 @@
       <li>added Homestead Refinement—Farm</li>
       <li>added Taro Everclaw Vendor (Fish Fillet Exchange)</li>
 </ul>
+<a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
+<ul>
+      <li>updated Price description on Precursor weapons for better readability and consistency</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
