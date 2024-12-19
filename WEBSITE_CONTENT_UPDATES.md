@@ -1,3 +1,23 @@
+<p style="color: #7289da;"><strong>Website Updates 19.12.2024</strong></p>
+<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<ul>
+      <li>updated Leviathan with Bonus Chest Event (Fend off the Leviathan)</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>renamed Bouncy Chest Event (Fend off the Leviathan) to Bonus Chest Event (Fend off the Leviathan)</li>
+      <li>updated Bonus Chest Event (Fend off the Leviathan) Loot Table</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/vendor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/vendor.png" alt="alt.png" width="32px">&nbsp;Vendor</a>
+<ul>
+      <li>New Category</li>
+      <li>moved Vendors from Gizmo Category into Vendor Category</li>
+      <li>added Homestead Refinement—Lumber Mill</li>
+      <li>added Homestead Refinement—Metal Forge</li>
+      <li>added Homestead Refinement—Farm</li>
+      <li>added Taro Everclaw Vendor (Fish Fillet Exchange)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 15.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
 <ul>
