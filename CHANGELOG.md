@@ -1,5 +1,11 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-12-20
+
+### Added
+
+- added new Vendor module [\#537](https://github.com/fast-farming-community/website/pull/537) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2024-12-12
 
 ### Added
