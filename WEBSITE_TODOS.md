@@ -1,14 +1,11 @@
-#### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
-#### For Website Updates on technical Features go to<a href="https://fast.farming-community.eu/changelog" target="_blank">&nbsp;Changelog</a>
-
-**Monster Features (10-100hrs and beyond)**
+**Monster Features (10+hrs - 100s of hrs)**
 - add new Farming Tracker
-- add new Infinite Gathering Tools and record animations etc. maybe maybe someday :gladge: 
+- add new Infinite Gathering Tools and record animations etc. maybe maybe someday
 - add 2000+ items to Salvaging Costs per Research Note
 
-**Big Features (1 - 10 hrs)**
-- add Vendor page +  extra Vendor link in Conversions/Item-Conversions
+**Big Features (> 10 hrs)**
+- refactor Alt-Parking Page
 
-**Small Features(< 1 hr)**
+**Small Features(< 10 hrs)**
 - add Greater Arcane Chests Alt-parking
 - JW Black Lion Delivery Box
