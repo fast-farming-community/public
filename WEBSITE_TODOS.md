@@ -8,10 +8,6 @@
 
 **Big Features (1 - 10 hrs)**
 - add Vendor page +  extra Vendor link in Conversions/Item-Conversions
-- refactor Vendors in Gizmos
-- refactor Drizzlewood material donation Vendor
-- add Fish Fillet Exchange Taro Everclaw Vendor
-- add Homestead Vendor
 
 **Small Features(< 1 hr)**
 - add Greater Arcane Chests Alt-parking
