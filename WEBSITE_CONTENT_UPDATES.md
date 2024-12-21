@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 21.12.2024</strong></p>
+General
+<ul>
+      <li>refactored Numeric Columns for decimal separator</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 19.12.2024</strong></p>
 <a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
