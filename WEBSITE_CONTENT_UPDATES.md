@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 23.12.2024</strong></p>
+General
+<ul>
+      <li>fixed ag-grid to compare nullable Numbers in ascending/descending manner</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 21.12.2024</strong></p>
 General
 <ul>
