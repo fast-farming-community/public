@@ -1,5 +1,11 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2024-12-23
+
+### Fixed
+
+- fixed ag-grid to compare nullable Numbers in ascending/descending manner ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2024-12-21
 
 ### Changed
