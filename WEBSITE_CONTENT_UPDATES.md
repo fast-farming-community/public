@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 06.01.2025</strong></p>
+General
+<ul>
+      <li>updated header information on detailed datasets to now include "Requires" and "Limitation"</li>
+      <li>refactored header information to only be visible on existing data</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 23.12.2024</strong></p>
 General
 <ul>
