@@ -1,5 +1,15 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2025-01-10
+
+### Fixed
+
+- fixed unlimited gathering tools module [\#540](https://github.com/fast-farming-community/website/pull/540) ([c0rn1x](https://github.com/c0rn1x))
+
+### Changed
+
+- refactored copyable columns [\#541](https://github.com/fast-farming-community/website/pull/541) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2025-01-06
 
 ### Changed
