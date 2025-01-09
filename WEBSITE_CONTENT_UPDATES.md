@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 10.01.2025</strong></p>
+General
+<ul>
+      <li>fixed unlimited gathering tools module to show Best Choice on correct TP settings</li>
+      <li>refactored copyable columns to have consistent behaviour</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 06.01.2025</strong></p>
 General
 <ul>
