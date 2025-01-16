@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 16.01.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<ul>
+      <li>added Spirit Shard profit calculations to Solo-Farming (change settings to include/exclude Spirit Shards)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 10.01.2025</strong></p>
 General
 <ul>
