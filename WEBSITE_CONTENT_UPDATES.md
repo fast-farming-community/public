@@ -1,8 +1,17 @@
 <p style="color: #7289da;"><strong>Website Updates 17.01.2025</strong></p>
+General
+<ul>
+      <li>updated all Common Charr Salvage, Charr Salvage and Rare Charr Salvage with new bag detailed datasets</li>
+      <li>fixed a reference mistake for not using Mystic Clover calculation</li>
+      <li>fixed using wrong profit calculation for Hatched Chili in Icebrood Saga Reward Track (PvP Reward Track)</li>
+</ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Blood Moon Weapon Box</li>
       <li>updated Janthir Wilds Gear Box with Choice of Blood Moon Weapon Box</li>
+      <li>added Common Charr Salvage</li>
+      <li>added Charr Salvage</li>
+      <li>added Rare Charr Salvage</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.01.2025</strong></p>
