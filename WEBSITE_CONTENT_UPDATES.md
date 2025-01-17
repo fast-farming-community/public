@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 17.01.2025</strong></p>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Blood Moon Weapon Box</li>
+      <li>updated Janthir Wilds Gear Box with Choice of Blood Moon Weapon Box</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 16.01.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
