@@ -1,3 +1,62 @@
+<p style="color: #7289da;"><strong>Website Updates 21.01.2025</strong></p>
+<a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/calcified-gasp" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/calcified_gasp.png" alt="alt.png" width="32px">&nbsp;Calcified Gasp</a>
+<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/elegy-mosaic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/elegy_mosaic.png" alt="alt.png" width="32px">&nbsp;Elegy Mosaic</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
+<ul>
+      <li>moved limited option Mystic Clover from "No Limit" to "Limit" table</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Green Prophet Shard</a>
+<ul>
+      <li>fixed "Limit" Table to show no available options</li>
+</ul>
+<a href="[https://fast.farming-community.eu/conversions/tale-of-dungeon-delving](https://fast.farming-community.eu/conversions/guild-commendation)" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/jade-miners-keycard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_miners_keycard.png" alt="alt.png" width="32px">&nbsp;Jade Miner's Keycard</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+</ul><a href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Pinch_of_Stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/pvp-league-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_league_ticket.png" alt="alt.png" width="32px">&nbsp;PvP League Ticket</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/static-charge" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/static_charge.png" alt="alt.png" width="24px">&nbsp;Static Charge</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 17.01.2025</strong></p>
 General
 <ul>
@@ -3656,7 +3715,7 @@ General
 <ul>
       <li>added Tale of Dungeon Delving</li>
 </ul>
-https://fast.farming-community.eu/conversions/guild-commendation
+<a href="[https://fast.farming-community.eu/conversions/tale-of-dungeon-delving](https://fast.farming-community.eu/conversions/guild-commendation)" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
 <ul>
       <li>added 20 new conversions</li>
 </ul>
