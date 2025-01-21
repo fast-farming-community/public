@@ -4,6 +4,9 @@
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
 <a href="https://fast.farming-community.eu/conversions/calcified-gasp" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/calcified_gasp.png" alt="alt.png" width="32px">&nbsp;Calcified Gasp</a>
+<ul>
+      <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
+</ul>
 <a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
