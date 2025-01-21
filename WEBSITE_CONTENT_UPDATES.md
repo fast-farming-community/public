@@ -23,7 +23,7 @@
 <ul>
       <li>fixed "Limit" Table to show no available options</li>
 </ul>
-<a href="[https://fast.farming-community.eu/conversions/tale-of-dungeon-delving](https://fast.farming-community.eu/conversions/guild-commendation)" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
+<a href="https://fast.farming-community.eu/conversions/guild-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
@@ -3718,7 +3718,7 @@ General
 <ul>
       <li>added Tale of Dungeon Delving</li>
 </ul>
-<a href="[https://fast.farming-community.eu/conversions/tale-of-dungeon-delving](https://fast.farming-community.eu/conversions/guild-commendation)" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
+<a href="https://fast.farming-community.eu/conversions/guild-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
 <ul>
       <li>added 20 new conversions</li>
 </ul>
