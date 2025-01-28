@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 28.01.2025</strong></p>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>exchanged yearly changing dropped items in Divine Lucky Envelope, Little Lucky Envelope and Lucky Red Bag</li>
+      <li>updated New Year's Weapon Chest with 3 new Jade Weapons</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2025</strong></p>
 <a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
 <ul>
