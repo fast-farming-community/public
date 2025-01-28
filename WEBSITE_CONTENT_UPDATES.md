@@ -3,6 +3,16 @@
 <ul>
       <li>exchanged yearly changing dropped items in Divine Lucky Envelope, Little Lucky Envelope and Lucky Red Bag</li>
       <li>updated New Year's Weapon Chest with 3 new Jade Weapons</li>
+      <li>updated New Year's Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
+</ul>
+<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<ul>
+      <li>added Exotic Weapon (Dagger, Sword, Warhorn) with Silver-Fed and Black Lion Salvage Kit</li>
+      <li>added Exotic Weapon (Axe, Mace, Pistol, Shield) with Silver-Fed and Black Lion Salvage Kit</li>
+      <li>added Exotic Weapon (Focus, Torch, Scepter) with Silver-Fed and Black Lion Salvage Kit</li>
+      <li>added Exotic Weapon (Greatsword) with Silver-Fed and Black Lion Salvage Kit</li>
+      <li>added Exotic Weapon (Hammer, Rifle, Spear, Harpoon Gun) with Silver-Fed and Black Lion Salvage Kit</li>
+      <li>added Exotic Weapon (Trident, Staff, Longbow, Short Bow) with Silver-Fed and Black Lion Salvage Kit</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2025</strong></p>
