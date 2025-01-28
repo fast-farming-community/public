@@ -4,6 +4,8 @@
       <li>exchanged yearly changing dropped items in Divine Lucky Envelope, Little Lucky Envelope and Lucky Red Bag</li>
       <li>updated New Year's Weapon Chest with 3 new Jade Weapons</li>
       <li>updated New Year's Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
+      <li>updated Courtly Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
+      <li>updated Wintersday Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
 </ul>
 <a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
