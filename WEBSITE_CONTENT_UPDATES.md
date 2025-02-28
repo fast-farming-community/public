@@ -1,3 +1,11 @@
+<p style="color: #7289da;"><strong>Website Updates 28.02.2025</strong></p>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Gnashblade Dragon Coffer (750% MF)</li>
+      <li>added Gnashblade Zephyrite Supply Box (750% MF)</li>
+      <li>added The Evon Gnashblade Lucky Envelope (750% MF)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 28.01.2025</strong></p>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
