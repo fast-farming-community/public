@@ -4,7 +4,7 @@
 
 ### Added
 
-- added new Vendor module [\#544](https://github.com/fast-farming-community/website/pull/544) ([c0rn1x](https://github.com/c0rn1x))
+- added Curious Mursaat Ruin Shard [\#544](https://github.com/fast-farming-community/website/pull/544) ([c0rn1x](https://github.com/c0rn1x))
 - added auto-generated description [\#543](https://github.com/fast-farming-community/website/pull/543) ([c0rn1x](https://github.com/c0rn1x))
 
 ## 2025-01-10
