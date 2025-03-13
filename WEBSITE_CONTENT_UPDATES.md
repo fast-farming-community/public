@@ -2402,12 +2402,10 @@ General
       <li>added 3 new Item Conversions</li>
 </ul>
 <a href="https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spool_of_silk_weaving_thread.png" alt="alt.png" width="32px">&nbsp;Spool of Silk Weaving Thread</a>
-https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread
 <ul>
       <li>added 3 new Item Conversions</li>
 </ul>
-<a href="" target="_blank"><img src="" alt="alt.png" width="32px">&nbsp;</a>
-https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord
+<a href="https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spool_of_thick_elonian_cord.png" alt="alt.png" width="32px">&nbsp;Spool of Thick Elonian Cord</a>
 <ul>
       <li>added 2 new Item Conversions</li>
 </ul>
