@@ -40,6 +40,10 @@
       <li>added Mursaat Obsidian</li>
       <li>added Titan Heatstone Cluster</li>
 </ul>
+<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<ul>
+      <li>added 17 new Conversions</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.03.2025</strong></p>
 <a href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
