@@ -1,3 +1,46 @@
+<p style="color: #7289da;"><strong>Janthir Wilds Repentance - Website Updates 13.03.2025</strong></p>
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<ul>
+      <li>added Shard of Mistburned Barrens to Weekly Checklist</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-ruin-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
+<ul>
+      <li>added Curious Mursaat Ruin Shard</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Mistburned Barrens - Survey: Into the Valley of Agony</li>
+      <li>added Mistburned Barrens - Survey: The Blood Phenom's Corridor</li>
+      <li>added Mistburned Barrens - Survey: The Wraith's Pass</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Mursaat Ruins Cache</li>
+      <li>added Bouncy Chest Event (Mistburned Barrens)</li>
+      <li>added Grand Chest (Survey: Into the Valley of Agony)</li>
+      <li>added Grand Chest (Survey: The Blood Phenom's Corridor)</li>
+      <li>added Grand Chest (Survey: The Wraith's Pass)</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Scavenged Obsidian Weapon Box</li>
+      <li>added Valley of Agony Survey Result Chest</li>
+      <li>added Bloodstone Corridor Survey Result Chest</li>
+      <li>added Wraith's Pass Survey Result Chest</li>
+</ul>
+<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<ul>
+      <li>added Honey Flower Home Instance Node</li>
+      <li>added Lowland Pine Sapling Home Instance Node</li>
+      <li>added Charged Titan Ore Home Instance Node</li>
+      <li>added Rotted Titan Amber Home Instance Node</li>
+</ul>
+<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
+<ul>
+      <li>added Mursaat Obsidian</li>
+      <li>added Titan Heatstone Cluster</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 04.03.2025</strong></p>
 <a href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
 <ul>
