@@ -7,6 +7,10 @@
 <ul>
       <li>added 13 new Conversions (Limit and No Limit)</li>
 </ul>
+<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<ul>
+      <li>added 17 new Conversions</li>
+</ul>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Mistburned Barrens - Survey: Into the Valley of Agony</li>
@@ -39,10 +43,6 @@
 <ul>
       <li>added Mursaat Obsidian</li>
       <li>added Titan Heatstone Cluster</li>
-</ul>
-<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
-<ul>
-      <li>added 17 new Conversions</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.03.2025</strong></p>
