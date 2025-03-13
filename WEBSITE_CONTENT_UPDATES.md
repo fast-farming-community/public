@@ -3,9 +3,9 @@
 <ul>
       <li>added Shard of Mistburned Barrens to Weekly Checklist</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-ruin-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-ruin-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Ruin_Shard.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Ruin Shard</a>
 <ul>
-      <li>added Curious Mursaat Ruin Shard</li>
+      <li>added 13 new Conversions (Limit and No Limit)</li>
 </ul>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
