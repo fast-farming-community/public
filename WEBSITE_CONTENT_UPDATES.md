@@ -1,9 +1,28 @@
+<p style="color: #7289da;"><strong>Website Updates 22.03.2025</strong></p>
+General
+<ul>
+      <li>removed the individual category Black Lion Delivery Box, instead they are now listed under Bags</li>
+      <li>removed the individual category Home Nodes and Home Overview, instead the Home Nodes are now directly shown in Home Instance / Homestead</li>
+      <li>removed the individual category Home Garden Nodes, instead now its a detailed dataset in Home Nodes</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Black Lion Delivery Box (combined)</li>
+      <li>added Black Lion Delivery Box (End of Dragons)</li>
+      <li>added Black Lion Delivery Box (Janthir Wilds)</li>
+      <li>added Black Lion Delivery Box (Season 4)</li>
+      <li>added Black Lion Delivery Box (Secrets of the Obscure)</li>
+      <li>added Black Lion Delivery Box (Season 3)</li>
+      <li>added Black Lion Delivery Box (Trophies)</li>
+      <li>added Black Lion Delivery Box (basic resources)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Repentance - Website Updates 13.03.2025</strong></p>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Shard of Mistburned Barrens to Weekly Checklist</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-ruin-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Ruin_Shard.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Ruin Shard</a>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-ruin-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_ruin_shard.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Ruin Shard</a>
 <ul>
       <li>added 13 new Conversions (Limit and No Limit)</li>
 </ul>
@@ -115,7 +134,7 @@
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-</ul><a href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Pinch_of_Stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
+</ul><a href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pinch_of_stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
@@ -323,12 +342,12 @@ General
       <li>added 3x Renown Heart - Weekly Discounted Shard of Lowland Shore</li>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Janthir Syntri</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Lowland_Honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
+<a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_lowland_honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
 <ul>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Lowland Shore</li>
       <li>added 3x Renown Heart - Weekly Shard of Lowland Shore</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
 <ul>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Janthir Syntri</li>
       <li>added 3x Renown Heart - Weekly Shard of Janthir Syntri</li>
@@ -354,27 +373,27 @@ General
       <li>removed Writ of New Kaineng City</li>
       <li>removed Writ of Seitung Province</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Lowland_Honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
+<a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_lowland_honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
 <ul>
       <li>added Curious Lowland Honeycomb</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
 <ul>
       <li>added Curious Mursaat Currency</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-dragons-end" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_Dragons_End.png" alt="alt.png" width="32px">&nbsp;Writ of Dragon's End</a>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-dragons-end" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_dragons_end.png" alt="alt.png" width="32px">&nbsp;Writ of Dragon's End</a>
 <ul>
       <li>added Writ of Dragon's End</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-echovald-wilds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_Echovald_Wilds.png" alt="alt.png" width="32px">&nbsp;Writ of Echovald Wilds</a>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-echovald-wilds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_echovald_wilds.png" alt="alt.png" width="32px">&nbsp;Writ of Echovald Wilds</a>
 <ul>
       <li>added Writ of Echovald Wilds</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-new-kaineng-city" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_New_Kaineng_City.png" alt="alt.png" width="32px">&nbsp;Writ of New Kaineng City</a>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-new-kaineng-city" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_new_kaineng_city.png" alt="alt.png" width="32px">&nbsp;Writ of New Kaineng City</a>
 <ul>
       <li>added Writ of New Kaineng City</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-seitung province" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Writ_of_Seitung_Province.png" alt="alt.png" width="32px">&nbsp;Writ of Seitung Province</a>
+<a href="https://fast.farming-community.eu/item-conversions/writ-of-seitung province" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_seitung_province.png" alt="alt.png" width="32px">&nbsp;Writ of Seitung Province</a>
 <ul>
       <li>added Writ of Seitung Province</li>
 </ul>
@@ -1042,7 +1061,7 @@ General
 <ul>
       <li>moved Conversions from Green Prophet Shard to Blue Prophet Shard</li>
       <li>added Green Prophet Shard</li>
-</ul><a href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Pinch_of_Stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
+</ul><a href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pinch_of_stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
 <ul>
       <li>added Pinch of Stardust</li>
 </ul>
