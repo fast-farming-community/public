@@ -8,4 +8,4 @@
 
 **Small Features(< 10 hrs)**
 - add Greater Arcane Chests Alt-parking
-- JW Black Lion Delivery Box
+- add Domain of Istan Metas
