@@ -7,14 +7,14 @@ General
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
-      <li>added Black Lion Delivery Box (combined)</li>
-      <li>added Black Lion Delivery Box (End of Dragons)</li>
       <li>added Black Lion Delivery Box (Janthir Wilds)</li>
-      <li>added Black Lion Delivery Box (Season 4)</li>
       <li>added Black Lion Delivery Box (Secrets of the Obscure)</li>
-      <li>added Black Lion Delivery Box (Season 3)</li>
-      <li>added Black Lion Delivery Box (Trophies)</li>
-      <li>added Black Lion Delivery Box (basic resources)</li>
+      <li>refactored Black Lion Delivery Box (combined)</li>
+      <li>refactored Black Lion Delivery Box (End of Dragons)</li>
+      <li>refactored Black Lion Delivery Box (Season 4)</li>
+      <li>refactored Black Lion Delivery Box (Season 3)</li>
+      <li>refactored Black Lion Delivery Box (Trophies)</li>
+      <li>refactored Black Lion Delivery Box (basic resources)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Repentance - Website Updates 13.03.2025</strong></p>
