@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 17.04.2025</strong></p>
+<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
+<ul>
+      <li>added Trader's Golem-Buster Weapons Locker</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 22.03.2025</strong></p>
 General
 <ul>
