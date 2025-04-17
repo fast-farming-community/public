@@ -9,7 +9,7 @@ General
 <ul>
       <li>removed the individual category Black Lion Delivery Box, instead they are now listed under Bags</li>
       <li>removed the individual category Home Nodes and Home Overview, instead the Home Nodes are now directly shown in Home Instance / Homestead</li>
-      <li>removed the individual category Home Garden Nodes, instead now its a detailed dataset in Home Nodes</li>
+      <li>removed the individual category Home Garden Nodes, instead now its a detailed dataset in Home Instance</li>
 </ul>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
