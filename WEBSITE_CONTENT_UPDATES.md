@@ -1,3 +1,20 @@
+<p style="color: #7289da;"><strong>Website Updates 22.04.2025</strong></p>
+General
+<ul>
+      <li>re-added Black Lion Delivery Box to Home Instance (they can still be found in Bags (/bags/bags) Category)</li>
+</ul>
+<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<ul>
+      <li>re-added Black Lion Delivery Box (Janthir Wilds)</li>
+      <li>re-added Black Lion Delivery Box (Secrets of the Obscure)</li>
+      <li>re-added Black Lion Delivery Box (combined)</li>
+      <li>re-added Black Lion Delivery Box (End of Dragons)</li>
+      <li>re-added Black Lion Delivery Box (Season 4)</li>
+      <li>re-added Black Lion Delivery Box (Season 3)</li>
+      <li>re-added Black Lion Delivery Box (Trophies)</li>
+      <li>re-added Black Lion Delivery Box (basic resources)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 17.04.2025</strong></p>
 <a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
