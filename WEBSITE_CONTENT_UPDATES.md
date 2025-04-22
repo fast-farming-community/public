@@ -5,6 +5,8 @@ General
 </ul>
 <a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
+      <li>Pays off after # days Column now only calculates for best option to reduce data clutter instead for all options</li>
+      <br>
       <li>re-added Black Lion Delivery Box (Janthir Wilds)</li>
       <li>re-added Black Lion Delivery Box (Secrets of the Obscure)</li>
       <li>re-added Black Lion Delivery Box (combined)</li>
