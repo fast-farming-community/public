@@ -1,3 +1,22 @@
+<p style="color: #7289da;"><strong>Website Updates 01.05.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<ul>
+      <li>merged all Jumping Puzzle JP Alt-Parking entries into following Detailed Datasets:</li>
+      <ul>
+            <li>Grand Chest</li>
+            <li>Magnificent Chest</li>
+            <li>Splendid Chest</li>
+      </ul>
+      <li>merged all Node Alt-Parking entries into following Detailed Datasets:</li>
+      <ul>
+            <li>Artichoke, Blackberry, Butternut Squash, Cabbage, Carrot, Cauliflower, Clam, Elder Wood Log, Flax, Grapes, Lentils, Lettuce, Potato, Seaweed, Snow Truffle, Spinach, Strawberry, Sugar Pumpkin, Varietal Cilantro Seed, Varietal Peppercorn Seed</li>   
+      </ul> 
+      <li>merged all Hero Point Alt-Parking entries into following Detailed Dataset:</li>
+      <ul>
+            <li>Hero Point</li>
+      </ul>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 22.04.2025</strong></p>
 General
 <ul>
