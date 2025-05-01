@@ -4,7 +4,7 @@
 - add 2000+ items to Salvaging Costs per Research Note
 
 **Big Features (> 10 hrs)**
-- 
+- /
 
 **Small Features(< 10 hrs)**
 - add Greater Arcane Chests Alt-parking
