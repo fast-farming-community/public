@@ -1,38 +1,41 @@
 <p style="color: #7289da;"><strong>Website Updates 01.05.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
-      <li>merged all Jumping Puzzle JP Alt-Parking entries into following Detailed Datasets:</li>
-      <ul>
-            <li>Grand Chest</li>
-            <li>Magnificent Chest</li>
-            <li>Splendid Chest</li>
-      </ul>
-      <li>merged all Node Alt-Parking entries into following Detailed Datasets:</li>
-      <ul>
-            <li>Artichoke
-            <li>Blackberry</li>
-            <li>Butternut Squash</li>
-            <li>Cabbage</li>
-            <li>Carrot</li>
-            <li>Cauliflower</li>
-            <li>Clam</li>
-            <li>Elder Wood Log</li>
-            <li>Flax</li>
-            <li>Grapes</li>
-            <li>Lentils</li>
-            <li>Lettuce</li>
-            <li>Potato</li>
-            <li>Seaweed</li>
-            <li>Snow Truffle</li>
-            <li>Spinach</li>
-            <li>Strawberry</li> 
-            <li>Sugar Pumpkin</li>
-            <li>Varietal Cilantro Seed</li>
-            <li>Varietal Peppercorn Seed</li>   
-      </ul> 
-      <li>merged all Hero Point Alt-Parking entries into following Detailed Dataset:</li>
-      <ul>
-            <li>Hero Point</li>
+      <li>refactored Alt-Parking entries into a more readable and compressed table:</li>
+            <ul>
+            <li>merged all Jumping Puzzle JP Alt-Parking entries into following Detailed Datasets:</li>
+            <ul>
+                  <li>Grand Chest</li>
+                  <li>Magnificent Chest</li>
+                  <li>Splendid Chest</li>
+            </ul>
+            <li>merged all Node Alt-Parking entries into following Detailed Datasets:</li>
+            <ul>
+                  <li>Artichoke
+                  <li>Blackberry</li>
+                  <li>Butternut Squash</li>
+                  <li>Cabbage</li>
+                  <li>Carrot</li>
+                  <li>Cauliflower</li>
+                  <li>Clam</li>
+                  <li>Elder Wood Log</li>
+                  <li>Flax</li>
+                  <li>Grapes</li>
+                  <li>Lentils</li>
+                  <li>Lettuce</li>
+                  <li>Potato</li>
+                  <li>Seaweed</li>
+                  <li>Snow Truffle</li>
+                  <li>Spinach</li>
+                  <li>Strawberry</li> 
+                  <li>Sugar Pumpkin</li>
+                  <li>Varietal Cilantro Seed</li>
+                  <li>Varietal Peppercorn Seed</li>   
+            </ul> 
+            <li>merged all Hero Point Alt-Parking entries into following Detailed Dataset:</li>
+            <ul>
+                  <li>Hero Point</li>
+            </ul>
       </ul>
 </ul>
 <hr>
