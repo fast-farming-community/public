@@ -9,7 +9,26 @@
       </ul>
       <li>merged all Node Alt-Parking entries into following Detailed Datasets:</li>
       <ul>
-            <li>Artichoke, Blackberry, Butternut Squash, Cabbage, Carrot, Cauliflower, Clam, Elder Wood Log, Flax, Grapes, Lentils, Lettuce, Potato, Seaweed, Snow Truffle, Spinach, Strawberry, Sugar Pumpkin, Varietal Cilantro Seed, Varietal Peppercorn Seed</li>   
+            <li>Artichoke
+            <li>Blackberry</li>
+            <li>Butternut Squash</li>
+            <li>Cabbage</li>
+            <li>Carrot</li>
+            <li>Cauliflower</li>
+            <li>Clam</li>
+            <li>Elder Wood Log</li>
+            <li>Flax</li>
+            <li>Grapes</li>
+            <li>Lentils</li>
+            <li>Lettuce</li>
+            <li>Potato</li>
+            <li>Seaweed</li>
+            <li>Snow Truffle</li>
+            <li>Spinach</li>
+            <li>Strawberry</li> 
+            <li>Sugar Pumpkin</li>
+            <li>Varietal Cilantro Seed</li>
+            <li>Varietal Peppercorn Seed</li>   
       </ul> 
       <li>merged all Hero Point Alt-Parking entries into following Detailed Dataset:</li>
       <ul>
