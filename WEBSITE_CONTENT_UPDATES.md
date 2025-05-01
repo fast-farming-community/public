@@ -8,6 +8,7 @@
                   <li>Grand Chest</li>
                   <li>Magnificent Chest</li>
                   <li>Splendid Chest</li>
+                  <li>Grand Chest (End of Dragons)</li>
             </ul>
             <li>merged all Node Alt-Parking entries into following Detailed Datasets:</li>
             <ul>
