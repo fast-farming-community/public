@@ -1,3 +1,14 @@
+<p style="color: #7289da;"><strong>Website Updates 02.05.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<ul>
+      <li>added Greater Arcane Chest</li>
+      <ul>
+            <li>added 11 Greater Arcane Chest (Skywatch Archipelago)</li>
+            <li>added 3 Greater Arcane Chest (Amnytas)</li>
+            <li>added 6 Greater Arcane Chest (Inner Nayos)</li>
+      </ul>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 01.05.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
