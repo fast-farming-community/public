@@ -7,5 +7,4 @@
 - /
 
 **Small Features(< 10 hrs)**
-- add Greater Arcane Chests Alt-parking
 - add Domain of Istan Metas
