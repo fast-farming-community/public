@@ -1,3 +1,34 @@
+<p style="color: #7289da;"><strong>Website Updates 08.05.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<ul>
+      <li>added missing images and description to all Chest of Essences</li>
+      <li>refactored Chest of Essences to avoid clutter on main page:</li>
+      <ul>
+            <li>added Large Chest of Essence</li>
+            <ul>
+                  <li>added Bjora Marches - Large Chest of Resilience</li>
+                  <li>added Bjora Marches - Large Chest of Valor</li>
+                  <li>added Bjora Marches - Large Chest of Vigilance</li>
+            </ul>
+            <li>added Medium Chest of Essence</li>
+            <ul>
+                  <li>added Bjora Marches - Ice Spire Peaks</li>
+                  <li>added Bjora Marches - Cerulean Hollows</li>
+                  <li>added Bjora Marches - Rime Glen</li>
+                  <li>added Bjora Marches - Ravenfrost Caverns</li>
+                  <li>added Bjora Marches - Fallen Ruins</li>
+                  <li>adedd Bjora Marches - Darkrime Delves</li>
+            </ul>
+            <li>added Small Chest of Essence</li>
+            <ul>
+                  <li>added Bjora Marches - Asgeir's Legacy Raven's Portal</li>
+                  <li>added Bjora Marches - Aberrant Forest</li>
+                  <li>added Bjora Marches - Darkrime Ruins</li>
+                  <li>added Bjora Marches - Fallen Mountains</li>
+            </ul>
+      </ul>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 02.05.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
