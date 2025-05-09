@@ -1,3 +1,27 @@
+<p style="color: #7289da;"><strong>Website Updates 09.05.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>refactored Grand Chest to contain all Character Levels</li>
+      <li>added Grand Chest</li>
+      <ul>
+            <li>added Grand Chest (1-20)</li>
+            <li>added Grand Chest (21-35)</li>
+            <li>added Grand Chest (36-50)</li>
+            <li>added Grand Chest (51-70)</li>
+            <li>merged Grand Chest (71-80)</li>
+      </ul>
+      <li>refactored Magnificent Chest to contain all Character Levels</li>
+      <li>added Magnificent Chest</li>
+      <ul>
+            <li>added missing Magnificent Chest (1-20)</li>
+            <li>merged Magnificent Chest (21-35)</li>
+            <li>merged Magnificent Chest (36-50)</li>
+            <li>merged Magnificent Chest (51-70)</li>
+            <li>merged Magnificent Chest (71-80)</li>
+      </ul>
+      <li>added Chest (Displaced Towers) and changed Alt-Parking entry Jahai Bluffs - Displaced Vizier's Tower JP to now contain the correct chest</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 08.05.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
@@ -32,11 +56,11 @@
 <p style="color: #7289da;"><strong>Website Updates 02.05.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
-      <li>added Greater Arcane Chest</li>
+      <li>added Greater Arcane </li>
       <ul>
-            <li>added 11 Greater Arcane Chest (Skywatch Archipelago)</li>
-            <li>added 3 Greater Arcane Chest (Amnytas)</li>
-            <li>added 6 Greater Arcane Chest (Inner Nayos)</li>
+            <li>added 11 Greater Arcane  (Skywatch Archipelago)</li>
+            <li>added 3 Greater Arcane  (Amnytas)</li>
+            <li>added 6 Greater Arcane  (Inner Nayos)</li>
       </ul>
 </ul>
 <hr>
@@ -47,10 +71,10 @@
             <ul>
             <li>merged all Jumping Puzzle JP Alt-Parking entries into following Detailed Datasets:</li>
             <ul>
-                  <li>Grand Chest</li>
-                  <li>Magnificent Chest</li>
-                  <li>Splendid Chest</li>
-                  <li>Grand Chest (End of Dragons)</li>
+                  <li>Grand </li>
+                  <li>Magnificent </li>
+                  <li>Splendid </li>
+                  <li>Grand  (End of Dragons)</li>
             </ul>
             <li>merged all Node Alt-Parking entries into following Detailed Datasets:</li>
             <ul>
