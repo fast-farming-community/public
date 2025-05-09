@@ -24,6 +24,9 @@
       <li>added Bouncy Chest Event (Sandswept Isles)</li>
       <li>added Bouncy Chest Event (Jahai Bluffs)</li>
       <li>added Bouncy Chest Event (Thunderhead Peaks)</li>
+      <li>added Istani Chest</li>
+      <li>added Bouncy Chest Meta Event (Sunspear Uprising, Palawadan)</li>
+      <li>added Bouncy Chest Meta Event (Sunspear Uprising, Mordant Crescent Great Hall)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.05.2025</strong></p>
