@@ -1,4 +1,9 @@
 <p style="color: #7289da;"><strong>Website Updates 09.05.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Domain of Istan - Sunspear Uprising, Mordant Crescent Great Hall</li>
+      <li>added Domain of Istan - Sunspear Uprising, Palawadan</li>
+</ul>
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>refactored Grand Chest to contain all Character Levels</li>
@@ -25,7 +30,7 @@
       <li>added Bouncy Chest Event (Jahai Bluffs)</li>
       <li>added Bouncy Chest Event (Thunderhead Peaks)</li>
       <li>added Istani Chest</li>
-      <li>added Bouncy Chest Meta Event (Sunspear Uprising, Palawadan)</li>
+      <li>added Bouncy Chest  Event (Sunspear Uprising, Palawadan)</li>
       <li>added Bouncy Chest Meta Event (Sunspear Uprising, Mordant Crescent Great Hall)</li>
 </ul>
 <hr>
