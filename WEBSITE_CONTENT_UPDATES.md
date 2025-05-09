@@ -20,6 +20,10 @@
             <li>merged Magnificent Chest (71-80)</li>
       </ul>
       <li>added Chest (Displaced Towers) and changed Alt-Parking entry Jahai Bluffs - Displaced Vizier's Tower JP to now contain the correct chest</li>
+      <li>added Bouncy Chest Event (Domain of Istan)</li>
+      <li>added Bouncy Chest Event (Sandswept Isles)</li>
+      <li>added Bouncy Chest Event (Jahai Bluffs)</li>
+      <li>added Bouncy Chest Event (Thunderhead Peaks)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.05.2025</strong></p>
