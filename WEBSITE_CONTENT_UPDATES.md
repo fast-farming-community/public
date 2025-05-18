@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 18.05.2025</strong></p>
+<a href="https://fast.farming-community.eu/conversions/racing-medallion" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/racing_medallion.png" alt="alt.png" width="32px">&nbsp;Racing Medallion</a>
+<ul>
+      <li>added Racing Medallion</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 09.05.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
