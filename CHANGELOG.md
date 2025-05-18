@@ -1,5 +1,11 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2025-05-18
+
+### Added
+
+- added Racing Medallion
+
 ## 2025-03-13
 
 ### Added
