@@ -15,7 +15,7 @@
 <a href="https://fast.farming-community.eu/conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
 <a href="https://fast.farming-community.eu/conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
 <ul>
-      <li>moved moved rift essences to Currency Conversions</li>
+      <li>moved rift essences to Currency Conversions</li>
 </ul>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
