@@ -1,3 +1,30 @@
+<p style="color: #7289da;"><strong>Janthir Wilds Absolution - Website Updates 05.06.2025</strong></p>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
+<ul>
+      <li>added 31 new Conversions</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
+<ul>
+      <li>added 17 new Conversions</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<ul>
+      <li>added Bava Nisos - Traversing the Titan JP</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Magnificent Chest (Traversing the Titan)</li>
+      <li>added Bonus Chest Meta Event (A Titanic Voyage)</li>
+      <li>added Bouncy Chest Event (Bava Nisos)</li>
+      <li>added Bouncy Chest Meta Event (A Titanic Voyage)</li>
+      <li>added Bouncy Chest Pre Meta Event (A Titanic Voyage)</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Bava Nisos: Commander's Choice Chest</li>
+      <li>added Slime-Encrusted Mursaat Strongbox</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 18.05.2025</strong></p>
 <a href="https://fast.farming-community.eu/conversions/racing-medallion" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/racing_medallion.png" alt="alt.png" width="32px">&nbsp;Racing Medallion</a>
 <ul>
