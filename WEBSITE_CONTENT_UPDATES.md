@@ -7,6 +7,10 @@
 <ul>
       <li>added 17 new Conversions</li>
 </ul>
+<a href="https://fast.farming-community.eu/conversions/provisioner-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/provisioner_token.png" alt="alt.png" width="32px">&nbsp;Provisioner Token</a>
+<ul>
+      <li>increased the purchase limit from 1 per day to 7 per week from provisioner token vendors in Central Tyria and Heart of Maguuma.</li>
+</ul>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Bava Nisos - A Titanic Voyage</li>
