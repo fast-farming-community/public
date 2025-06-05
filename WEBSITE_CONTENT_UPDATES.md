@@ -2,6 +2,7 @@
 General
 <ul>
       <li>Essence of luck text has been updated to include the rarity in the item name.</li>
+      <li>fixed the PSNA Vendors to now show the correct locations</li>
 </ul>
 <a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
 <ul>
