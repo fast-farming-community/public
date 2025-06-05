@@ -5,6 +5,9 @@
 
 - added Curious mursaat remnants [\#548](https://github.com/fast-farming-community/website/pull/548) ([c0rn1x](https://github.com/c0rn1x))
 
+### Changed
+- moved rift essences to Currency Conversions Module [\#549](https://github.com/fast-farming-community/website/pull/549) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2025-05-18
 
 ### Added
