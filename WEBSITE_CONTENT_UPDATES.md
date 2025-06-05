@@ -1,4 +1,8 @@
 <p style="color: #7289da;"><strong>Janthir Wilds Absolution - Website Updates 05.06.2025</strong></p>
+General
+<ul>
+      <li>Essence of luck text has been updated to include the rarity in the item name.</li>
+</ul>
 <a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
 <ul>
       <li>added 31 new Conversions</li>
