@@ -11,6 +11,12 @@
 <ul>
       <li>increased the purchase limit from 1 per day to 7 per week from provisioner token vendors in Central Tyria and Heart of Maguuma.</li>
 </ul>
+<a href="https://fast.farming-community.eu/conversions/fine-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fine_rift_essence.png" alt="alt.png" width="32px">&nbsp;Fine Rift Essence</a>
+<a href="https://fast.farming-community.eu/conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
+<a href="https://fast.farming-community.eu/conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
+<ul>
+      <li>moved moved rift essences to Currency Conversions</li>
+</ul>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Bava Nisos - A Titanic Voyage</li>
@@ -920,15 +926,15 @@ General
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/fine-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fine_rift_essence.png" alt="alt.png" width="32px">&nbsp;Fine Rift Essence</a>
+<a href="https://fast.farming-community.eu/conversions/fine-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fine_rift_essence.png" alt="alt.png" width="32px">&nbsp;Fine Rift Essence</a>
 <ul>
       <li>added 15 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
+<a href="https://fast.farming-community.eu/conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
 <ul>
       <li>added 15 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
+<a href="https://fast.farming-community.eu/conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
 <ul>
       <li>added 20 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
