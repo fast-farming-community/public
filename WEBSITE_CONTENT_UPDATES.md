@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Dragon Bash - Website Updates 20.06.2025</strong></p>
+<a href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
+<ul>
+      <li>added Trader's Sacred Crystal Chest</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Absolution - Website Updates 05.06.2025</strong></p>
 General
 <ul>
