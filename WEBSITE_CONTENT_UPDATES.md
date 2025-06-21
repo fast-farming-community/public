@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 21.06.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<ul>
+      <li>added Bava Nisos</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Dragon Bash - Website Updates 20.06.2025</strong></p>
 <a href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
