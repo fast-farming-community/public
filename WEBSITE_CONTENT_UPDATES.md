@@ -11,6 +11,15 @@
       <li>updated Fractal Tier List</li>
       <li>added Kinfall CM</li>
 </ul>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>renamed Convergences CM (Demon Knight, Dreadwing)</li>
+      <li>added Convergences CM (Hell Sister, Sorrow)</li>
+      <li>added Convergences CM (Umbriel)</li>
+      <li>added Convergence: Mount Balrior CM (Decima)</li>
+      <li>added Convergence: Mount Balrior CM (Ura)</li>
+      <li>added Convergence: Mount Balrior CM (Greer)</li>
+</ul>
 <a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
 <ul>
       <li>added 4 new Limited Conversions</li>
@@ -33,6 +42,19 @@
       <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Decima)</li>
       <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Ura)</li>
       <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Greer)</li>
+</ul>
+<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Bronze - Convergence: Mount Balrior)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Bronze - Convergence: Outer Nayos)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Silver - Convergence: Mount Balrior)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Silver - Convergence: Outer Nayos)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Gold - Convergence: Mount Balrior, Decima)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Gold - Convergence: Mount Balrior, Ura)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Gold - Convergence: Mount Balrior, Greer)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Gold - Convergence: Outer Nayos, Demon Knight, Dreadwing)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Gold - Convergence: Outer Nayos, Hell Sister, Sorrow)</li>
+      <li>added Bonus Chest Event (Convergence Challenge Mode: Gold - Convergence: Outer Nayos, Umbriel)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.06.2025</strong></p>
