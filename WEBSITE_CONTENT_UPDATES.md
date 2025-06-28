@@ -1,3 +1,30 @@
+<p style="color: #7289da;"><strong>Website Updates 28.06.2025</strong></p>
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<ul>
+      <li>added 5 Curious Lowland Honeycomb to Daily Checklist</li>
+      <li>added 5 Curious Mursaat Currency to Daily Checklist</li>
+      <li>added 5 Curious Mursaat Ruin Shard to Daily Checklist</li>
+      <li>added Shard of Bava Nisos to Weekly Checklist</li>
+</ul>
+<a href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
+<ul>
+      <li>updated Fractal Tier List</li>
+      <li>added Kinfall CM</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
+<ul>
+      <li>added 4 new Limited Conversions</li>
+</ul>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
+<ul>
+      <li>added 4 new Limited Conversions</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Swampworn Lowland Shore Gear Box</li>
+      <li>added Bava Nisos Hoard</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 21.06.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
@@ -16,7 +43,7 @@ General
       <li>Essence of luck text has been updated to include the rarity in the item name.</li>
       <li>fixed the PSNA Vendors to now show the correct locations</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Curious_Mursaat_Remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
+<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
 <ul>
       <li>added 31 new Conversions</li>
 </ul>
