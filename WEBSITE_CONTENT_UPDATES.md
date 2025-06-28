@@ -23,6 +23,16 @@
 <ul>
       <li>added Swampworn Lowland Shore Gear Box</li>
       <li>added Bava Nisos Hoard</li>
+      <li>added Convergence Challenge Mode: Bronze (Convergence: Outer Nayos)</li>
+      <li>added Convergence Challenge Mode: Silver (Convergence: Outer Nayos)</li>
+      <li>added Convergence Challenge Mode: Gold (Convergence: Outer Nayos, Umbriel)</li>
+      <li>added Convergence Challenge Mode: Gold (Convergence: Outer Nayos, Demon Knight, Dreadwing)</li>
+      <li>added Convergence Challenge Mode: Gold (Convergence: Outer Nayos, Hell Sister, Sorrow)</li>
+      <li>added Convergence Challenge Mode: Bronze (Convergence: Mount Balrior)</li>
+      <li>added Convergence Challenge Mode: Silver (Convergence: Mount Balrior)</li>
+      <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Decima)</li>
+      <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Ura)</li>
+      <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Greer)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.06.2025</strong></p>
