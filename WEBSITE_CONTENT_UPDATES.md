@@ -13,9 +13,10 @@
 </ul>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
-      <li>renamed Convergences CM (Demon Knight, Dreadwing)</li>
-      <li>added Convergences CM (Hell Sister, Sorrow)</li>
-      <li>added Convergences CM (Umbriel)</li>
+      <li>renamed Convergence: Outer Nayos</li>
+      <li>renamed Convergence: Outer Nayos CM (Demon Knight, Dreadwing)</li>
+      <li>added Convergence: Outer Nayos CM (Hell Sister, Sorrow)</li>
+      <li>added Convergence: Outer Nayos CM (Umbriel)</li>
       <li>added Convergence: Mount Balrior CM (Decima)</li>
       <li>added Convergence: Mount Balrior CM (Ura)</li>
       <li>added Convergence: Mount Balrior CM (Greer)</li>
