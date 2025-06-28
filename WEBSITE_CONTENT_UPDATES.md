@@ -13,6 +13,7 @@
 </ul>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
+      <li>added The Desolation - Maws of Torment</li>
       <li>renamed Convergence: Outer Nayos</li>
       <li>renamed Convergence: Outer Nayos CM (Demon Knight, Dreadwing)</li>
       <li>added Convergence: Outer Nayos CM (Hell Sister, Sorrow)</li>
@@ -50,6 +51,9 @@
       <li>added Forgotten Cache (Thunderhead Peaks)</li>
       <li>added Hidden Chest (Thunderhead Peaks)</li>
       <li>added Hidden Chest (The Hammer's Hoard)</li>
+      <li>added Bonus Chest Meta Event (The Desolation)</li>
+      <li>added Bouncy Chest Meta Event (Maws of Torment)</li>
+      <li>added Chest (Maws of Torment)</li>
       <li>added Bonus Chest Event (Convergence Challenge Mode: Bronze - Convergence: Mount Balrior)</li>
       <li>added Bonus Chest Event (Convergence Challenge Mode: Bronze - Convergence: Outer Nayos)</li>
       <li>added Bonus Chest Event (Convergence Challenge Mode: Silver - Convergence: Mount Balrior)</li>
