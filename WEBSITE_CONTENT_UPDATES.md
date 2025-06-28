@@ -46,6 +46,10 @@
 </ul>
 <a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
+      <li>added Dwarven Chest</li>
+      <li>added Forgotten Cache (Thunderhead Peaks)</li>
+      <li>added Hidden Chest (Thunderhead Peaks)</li>
+      <li>added Hidden Chest (The Hammer's Hoard)</li>
       <li>added Bonus Chest Event (Convergence Challenge Mode: Bronze - Convergence: Mount Balrior)</li>
       <li>added Bonus Chest Event (Convergence Challenge Mode: Bronze - Convergence: Outer Nayos)</li>
       <li>added Bonus Chest Event (Convergence Challenge Mode: Silver - Convergence: Mount Balrior)</li>
