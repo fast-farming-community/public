@@ -1,3 +1,8 @@
+<p style="color: #7289da;"><strong>Website Updates 29.06.2025</strong></p>
+<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<ul>
+      <li>added Peer Reviewed Research Variants</li>
+</ul>
 <p style="color: #7289da;"><strong>Website Updates 28.06.2025</strong></p>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
