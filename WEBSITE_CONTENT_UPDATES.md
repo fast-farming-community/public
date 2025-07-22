@@ -1,3 +1,18 @@
+<p style="color: #7289da;"><strong>Website Updates 22.07.2025</strong></p>
+<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<ul>
+      <li>updated all entries of salvaging Costs per Research Note to use a more realistic value of "Crafting" costs instead of "buying from TP" costs.</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Angler Eel</li>
+      <li>added Feathered Snail</li>
+      <li>added Fishtailed Frog</li>
+      <li>added Hermit Titancrab</li>
+      <li>added Longbeak Parrotfish</li>
+      <li>added Spineback Crab</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 29.06.2025</strong></p>
 <a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
