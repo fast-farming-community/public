@@ -1,3 +1,49 @@
+<p style="color: #7289da;"><strong>Website Updates 02.08.2025</strong></p>
+<a href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
+<ul>
+      <li>updated Glyph Column to show Glyph names as ingame</li>
+      <li>updated outdated static (non-discounted) Gemstore Prices on a few Gathering Tools</li>
+      <li>added Best Glyph Choices on Gathering Tool Sets with Black Lion Glyph Selection Containers:</li>
+      <br>
+      <li>added Choya Harvesting Tool (Infinite Choya Gathering Tools Pack)</li>
+      <li>added Choya Logging Tool (Infinite Choya Gathering Tools Pack)</li>
+      <li>added Choya Mining Tool (Infinite Choya Gathering Tools Pack)</li>
+      <li>added Cosmic Harvesting Tool (Infinite Cosmic Gathering Tools Pack)</li>
+      <li>added Cosmic Logging Tool (Infinite Cosmic Gathering Tools Pack)</li>
+      <li>added Cosmic Mining Tool (Infinite Cosmic Gathering Tools Pack)</li>
+      <li>added Earthshaker Mining Tool (Infinite Elemental Gathering Tools Pack)</li>
+      <li>added Firestorm Logging Tool (Infinite Elemental Gathering Tools Pack)</li>
+      <li>added Glacial Harvesting Tool (Infinite Glacial Gathering Tools Pack)</li>
+      <li>added Glacial Logging Tool (Infinite Glacial Gathering Tools Pack)</li>
+      <li>added Glacial Mining Tool (Infinite Glacial Gathering Tools Pack)</li>
+      <li>added Herald of Aurene Harvesting Tool (Infinite Herald of Aurene Gathering Tools Pack)</li>
+      <li>added Herald of Aurene Logging Tool (Infinite Herald of Aurene Gathering Tools Pack)</li>
+      <li>added Herald of Aurene Mining Tool (Infinite Herald of Aurene Gathering Tools Pack)</li>
+      <li>added Holy Barrage Harvesting Tool (Infinite Holy Barrage Gathering Tools Pack)</li>
+      <li>added Holy Barrage Logging Tool (Infinite Holy Barrage Gathering Tools Pack)</li>
+      <li>added Holy Barrage Mining Tool (Infinite Holy Barrage Gathering Tools Pack)</li>
+      <li>added Skyscale Hatchling Harvesting Tool (Infinite Skyscale Gathering Tools Pack)</li>
+      <li>added Skyscale Hatchling Logging Tool (Infinite Skyscale Gathering Tools Pack)</li>
+      <li>added Skyscale Hatchling Mining Tool (Infinite Skyscale Gathering Tools Pack)</li>
+      <li>added Spirit of Bear Mining Tool (Infinite Spirits of the Wild Gathering Tools Pack)</li>
+      <li>added Spirit of Raven Harvesting Tool (Infinite Spirits of the Wild Gathering Tools Pack)</li>
+      <li>added Spirit of Wolf Logging Tool (Infinite Spirits of the Wild Gathering Tools Pack)</li>
+      <li>added Sweet Treat Harvesting Tool (Sweet Treat Gathering Tools Pack)</li>
+      <li>added Sweet Treat Logging Tool (Sweet Treat Gathering Tools Pack)</li>
+      <li>added Sweet Treat Mining Tool (Sweet Treat Gathering Tools Pack)</li>
+      <li>added Thunderstrike Harvesting Tool (Infinite Elemental Gathering Tools Pack)</li>
+      <li>added Vermilion Harvesting Tool (Infinite Vermilion Gathering Tools Pack)</li>
+      <li>added Vermilion Logging Tool (Infinite Vermilion Gathering Tools Pack)</li>
+      <li>added Vermilion Mining Tool (Infinite Vermilion Gathering Tools Pack)</li>
+      <br>
+      <li>updated Unbound Magic Harvesting Blast (Infinite Unbound Magic Gathering Tools Pack)</li>
+      <li>updated Unbound Magic Logging Pulse (Infinite Unbound Magic Gathering Tools Pack)</li>
+      <li>updated Unbound Magic Mining Beam (Infinite Unbound Magic Gathering Tools Pack)</li>
+      <li>updated Volatile Magic Harvesting Tool (Infinite Volatile Magic Gathering Tools Pack)</li>
+      <li>updated Volatile Magic Logging Tool (Infinite Volatile Magic Gathering Tools Pack)</li>
+      <li>updated Volatile Magic Mining Tool (Infinite Volatile Magic Gathering Tools Pack)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 22.07.2025</strong></p>
 <a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
