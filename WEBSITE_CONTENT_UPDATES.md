@@ -1,6 +1,9 @@
 <p style="color: #7289da;"><strong>Website Updates 02.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
 <ul>
+      <li>This is not an update on cast, channel or animation aftercast times! Check the ToDo List on its progress.</li>
+</ul>
+<ul>
       <li>updated Glyph Column to show Glyph names as ingame</li>
       <li>updated outdated static (non-discounted) Gemstore Prices on a few Gathering Tools</li>
       <li>added Best Glyph Choices on Gathering Tool Sets with Black Lion Glyph Selection Containers:</li>
