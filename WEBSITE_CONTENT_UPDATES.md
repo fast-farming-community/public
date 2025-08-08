@@ -1,3 +1,14 @@
+<p style="color: #7289da;"><strong>Festival of the four Winds Updates 08.08.2025</strong></p>
+<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<ul>
+      <li>added Trader's Sandswept Chest</li>
+      <li>updated Zephyrite Supply Box Vendor</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Bazaar-Traded Weapon Chest</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 02.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
 <ul>
