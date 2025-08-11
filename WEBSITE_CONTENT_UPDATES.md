@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 11.08.2025</strong></p>
+General
+<ul>
+      <li>updated search to show up to 12 items</li>
+      <li>updated search sorting so exact matches always appear first in results</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Updates 08.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
