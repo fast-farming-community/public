@@ -1,4 +1,24 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
+
+## 2025-08-12
+
+### Added
+
+-added fix to queryParams [\#554](https://github.com/fast-farming-community/website/pull/554) ([c0rn1x](https://github.com/c0rn1x))
+-added fix to queryParams [\#552](https://github.com/fast-farming-community/website/pull/552) ([c0rn1x](https://github.com/c0rn1x))
+
+### Fixed
+
+- fixed an exports error thrown by a markdown component from global script
+- fixed an error that caused a stream to break if no token is present
+
+## 2025-07-05
+
+### Added
+
+- added module Calculator [\#551](https://github.com/fast-farming-community/website/pull/551) ([c0rn1x](https://github.com/c0rn1x))
+- added new items to Calculator [\#550](https://github.com/fast-farming-community/website/pull/550) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2025-06-05
 
 ### Added
