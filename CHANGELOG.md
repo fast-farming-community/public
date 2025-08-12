@@ -11,6 +11,9 @@
 
 - fixed an exports error thrown by a markdown component from global script
 - fixed an error that caused a stream to break if no token is present
+- fixed ag-grid table rendering by adding null checks to value formatters
+- updated ag-grid columnDefs and paginationPageSize [\#555](https://github.com/fast-farming-community/website/pull/555) ([c0rn1x](https://github.com/c0rn1x))
+- updated paginationPageSize to handle all pagination cases
 
 ## 2025-07-05
 
