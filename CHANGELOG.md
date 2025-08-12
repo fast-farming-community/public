@@ -4,8 +4,8 @@
 
 ### Added
 
--added fix to queryParams [\#554](https://github.com/fast-farming-community/website/pull/554) ([c0rn1x](https://github.com/c0rn1x))
--added fix to queryParams [\#552](https://github.com/fast-farming-community/website/pull/552) ([c0rn1x](https://github.com/c0rn1x))
+- added fix to queryParams [\#554](https://github.com/fast-farming-community/website/pull/554) ([c0rn1x](https://github.com/c0rn1x))
+- added fix to queryParams [\#552](https://github.com/fast-farming-community/website/pull/552) ([c0rn1x](https://github.com/c0rn1x))
 
 ### Fixed
 
