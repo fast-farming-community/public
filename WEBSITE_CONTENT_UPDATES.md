@@ -1,3 +1,15 @@
+
+<p style="color: #7289da;"><strong>Website Updates 12.08.2025</strong></p>
+General
+<ul>
+      <li>fixed an exports error thrown by a markdown component from global script</li>
+      <li>fixed an error that caused a stream to break if no token is present</li>
+      <li>fixed ag-grid table rendering by adding null checks to value formatters</li>
+      <li>fixed pagination size now updates reactively from settings without requiring a page refresh</li>
+      <li>updated ag-grid columnDefs and paginationPageSize</li>
+      <li>updated paginationPageSize to handle all pagination cases</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 11.08.2025</strong></p>
 General
 <ul>
