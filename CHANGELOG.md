@@ -2,6 +2,11 @@
 
 ## 2025-08-15
 
+### Added
+
+- added CellStyle Profit Gradient to CurrencyColumns [\#557](https://github.com/fast-farming-community/website/pull/557) ([c0rn1x](https://github.com/c0rn1x))
+- added invertGradient for CurrencyColumns calculating Costs instead of Profit
+
 ### Changed
 
 - changed ag-grid size columns [\#556](https://github.com/fast-farming-community/website/pull/556) ([c0rn1x](https://github.com/c0rn1x))
