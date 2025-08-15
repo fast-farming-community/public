@@ -1,12 +1,17 @@
 <p style="color: #7289da;"><strong>Website Updates 15.08.2025</strong></p>
 General
 <ul>
-      <li>changed ag-grid size columns:</li>
+      <li>Ag-grid Column Size</li>
       <ul>
             <li>Name Columns fixed 300 width</li>
             <li>CurrencyColumn fixed 160 width for up to 3-digit gold values, suppressSizeToFit: true</li>
             <li>ImageColumn fixed 75 width</li>
             <li>All other Columns suppressSizeToFit: false with sizeColumnsToFit(); deactivating horizontal scrollbar, because most users don't know how to hold shift+scroll-on-mouse to horizontally move in the table</li>
+      </ul>
+      <li>Visualization</li>
+      <ul>
+            <li>added CellStyle Profit Gradient to CurrencyColumns</li>
+            <li>added invertGradient for CurrencyColumns calculating Costs instead of Profit</li>
       </ul>
 </ul>
 <hr>
