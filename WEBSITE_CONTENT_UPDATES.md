@@ -1,3 +1,14 @@
+<p style="color: #7289da;"><strong>Website Updates 16.08.2025</strong></p>
+General
+<ul>
+      <li>Auto-generated descriptions: Related Category</li>
+      <ul>
+            <li>added auto-generated descriptions</li>
+            <li>added auto-generated extra-categories for certain items that can convert into currencies such as Imperial Favor, Ursus Oblige, Unbound Magic or Volatile Magic</li>
+            <li>fixed Related category self-referencing, it does not work currently for currencies that contain extra-categories, but I will leave that for now...</li>
+      </ul>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 15.08.2025</strong></p>
 General
 <ul>
