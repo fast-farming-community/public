@@ -1,3 +1,35 @@
+<p style="color: #7289da;"><strong>Website Updates 18.08.2025</strong></p>
+<a href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<ul>
+      <li>added new Farming Tracker (BETA Version)</li>
+      <li>Implemented functions</li>
+      <ul>
+            <li>Tracker shows tracked items by Total tab and individual tabs: bank, material storage, wallet and shared Inventory and each individual character.
+            <li>Tracker shows the last tracked items as first entry table.</li>
+            <li>Tracks all items and item movements.</li>
+            <li>Download tracked items as csv-file by Total tab and individual tabs: bank, material storage, wallet and shared Inventory and and individual character.</li>
+            <li>Profit calculation.</li>
+            <li>Gold per hour calculation in **real-time**.</li>
+            <li></li>
+      </ul>
+      <li>Improvements</li>
+      <ul>
+            <li>Does not stall if more than 200 items were tracked. (current bug in old tracker)</li>
+            <li>Does not track geared items by characters anymore. (current in old tracker)</li>
+            <li>Does not track TP movements.</li>
+            <li>Updates now more often in intervals. But be patient, i'll try to improve it, see TODO</li>
+      </ul>
+      <li>TODO</li>
+      <ul>
+            <li>Link fast-api Data (BIG ONE), lets see if thats possible </li>
+            <li>Countdown to next update interval (instead of last time tracked due to ambiguity)</li>
+            <li>CORS Errors (calm down, i know they are there, also stop sneaking around browser console)</li>
+            <li>unfetched ERROR when GW2API doesn't respond (Timeout etc.)</li>
+            <li></li>
+            <li></li>
+      </ul>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 17.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
