@@ -25,8 +25,6 @@
             <li>Countdown to next update interval (instead of last time tracked due to ambiguity)</li>
             <li>CORS Errors (calm down, i know they are there, also stop sneaking around browser console)</li>
             <li>unfetched ERROR when GW2API doesn't respond (Timeout etc.)</li>
-            <li></li>
-            <li></li>
       </ul>
 </ul>
 <hr>
