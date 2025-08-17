@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 17.08.2025</strong></p>
+<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>fixed Karka Queen, Tequatl and Triple Trouble boss timers in meta category</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 16.08.2025</strong></p>
 General
 <ul>
