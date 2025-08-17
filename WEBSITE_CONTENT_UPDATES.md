@@ -10,7 +10,6 @@
             <li>Download tracked items as csv-file by Total tab and individual tabs: bank, material storage, wallet and shared Inventory and and individual character.</li>
             <li>Profit calculation.</li>
             <li>Gold per hour calculation in **real-time**.</li>
-            <li></li>
       </ul>
       <li>Improvements</li>
       <ul>
