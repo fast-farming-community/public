@@ -37,6 +37,7 @@
             <li>Show/hide sections in Local Storage. Sections default-open when they have data.</li>
             <li>Instant tick on start. Timer and gold-per-hour update immediately on start (loss of around 20 seconds, but feels cleaner than a "Wait for GW2API Status".</li>
             <li>Better refresh protection. We still warn if you try to refresh while tracking so you don’t lose your session accidentally.</li>
+            <li>Prevents “false stop” on users who navigate too fast</li>
       </ul>
 </ul>
 <hr>
