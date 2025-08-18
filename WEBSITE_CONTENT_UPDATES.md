@@ -18,12 +18,25 @@
             <li>Does not track TP movements.</li>
             <li>Updates now more often in intervals. But be patient, i'll try to improve it, see TODO</li>
       </ul>
-      <li>TODO</li>
+      <li>Fixed Bugs</li>
       <ul>
-            <li>Link fast-api Data (BIG ONE), lets see if thats possible </li>
+            <li>After starting the tracker and tracking files => stop tracker => you cannot start the tracker properly again</li>
+            <li>Wrong calculation taking TP price instead of vendor pice for trophy item</li>
+            <li>Wrong calculation of all currencies</li>
+            <li>Total Amount was not applied and added to UI and CSV download</li>
+            <li>Negative Values were not applied to profit / total profit</li>
+            <li>Coin is calculated double squared instead of 1</li>
             <li>Countdown to next update interval (instead of last time tracked due to ambiguity)</li>
-            <li>CORS Errors (calm down, i know they are there, also stop sneaking around browser console)</li>
-            <li>unfetched ERROR when GW2API doesn't respond (Timeout etc.)</li>
+      </ul>
+      <li>Further improvements</li>
+      <ul>
+            <li>Tracker keeps running while you browse the fast-Website. You can navigate anywhere on the site and the tracker continues in the background. Coming back to the page just re-attaches the Farming Tracker UI.</li>
+            <li>New floating tracker widget. A compact panel in the bottom-right shows time + GPH and a Stop button. It stays visible while tracking and can’t be closed (stop tracking to dismiss).</li>
+            <li>Stop requires two clicks. First click arms it (“Click again to stop”), second click (within 3s) actually stops—prevents accidental stops.</li>
+            <li>“Save” feedback for API key. After saving/resetting your key, a small green message confirms it, fades within 3 seconds.</li>
+            <li>Show/hide sections in Local Storage. Sections default-open when they have data.</li>
+            <li>Instant tick on start. Timer and gold-per-hour update immediately on start (loss of around 20 seconds, but feels cleaner than a "Wait for GW2API Status".</li>
+            <li>Better refresh protection. We still warn if you try to refresh while tracking so you don’t lose your session accidentally.</li>
       </ul>
 </ul>
 <hr>
