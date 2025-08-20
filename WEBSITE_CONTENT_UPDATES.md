@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 20.08.2025</strong></p>
+<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<ul>
+      <li>added Detailed Dataset for Homegrown Cactus</li>
+      <li>removed Nopal Data Row only considering 2 Nopal as drop (Dataset from 2018)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 18.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
 <ul>
