@@ -1,3 +1,17 @@
+<p style="color: #7289da;"><strong>Website Updates 24.08.2025</strong></p>
+<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<ul>
+      <li>updated info text to table for better readability</li>
+      <li>due to a future release the main tables have to be adapted to the usual style, main pages are now not allowed to have multiple calculation tables with links to detailed datasets, they have to be distinct for future calculations</li>
+      <li>the calculation comparison tables have now moved down a layer into detailed tables within detailed datasets</li>
+      <li>main table => detailed tables (to compare) => detailed datasets</li>
+</ul>
+<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
+<ul>
+      <li>updated Farming Experience for all expansions with links</li>
+      <li>refactored farming XP booster and XP calculations text into table for better readability</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 20.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
