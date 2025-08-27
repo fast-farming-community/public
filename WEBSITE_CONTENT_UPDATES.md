@@ -1,4 +1,4 @@
-<p style="color: #7289da;"><strong>Website Updates 24.08.2025</strong></p>
+<p style="color: #7289da;"><strong>Website Updates 27.08.2025</strong></p>
 Improved Data Quality and Referencing, fixed following entries:
 <ul>
       <li>achievement : eternal-seitung-province-meta-event => deprecated, new key: eternal-seitung-province-meta-event-achievement </li>
