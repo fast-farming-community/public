@@ -1,4 +1,48 @@
 <p style="color: #7289da;"><strong>Website Updates 24.08.2025</strong></p>
+Improved Data Quality and Referencing, fixed following entries:
+<ul>
+      <li>achievement : eternal-seitung-province-meta-event => deprecated, new key: eternal-seitung-province-meta-event-achievement </li>
+      <li>alt-parking : elon-riverlands-flax => deprecated, new key: elon-riverlands-whispering-grottos</li>
+      <li>alt-parking : drizzlewood-coast-herbs  => deprecated, new key: drizzlewood-coast-leadfoot-village-herbs</li>
+      <li>bag : dredge-loot-resonator-box => fixed typo</li>
+      <li>bag : dredge-sonic-reverberantloot-box => fixed typo</li>
+      <li>bag : flame-legiong-axe-fiend-loot-box => fixed typo</li>
+      <li>bag : gilded-strongbox-basic => deprecated loot table</li>
+      <li>bag : inner-nayos-heros-chest => was referencing wrong bag in spreadsheet</li>
+      <li>bag : black-lion-material-bag-orr => removed, doesn't exist</li>
+      <li>bag : black-lion-material-bag-elona => removed, doesn't exist</li>
+      <li>bag : black-lion-material-bag-istan => removed, doesn't exist</li>
+      <li>bag : black-lion-material-bag-thunderhead => removed, doesn't exist</li>
+      <li>bag : black-lion-material-bag-dragonfall => removed, doesn't exist</li>
+      <li>bag : knaebelags-hoard => was referencing wrong bag in spreadsheet</li>
+      <li>bag : unlocked-rift-essence-coffer-detailed => wrong feature_id bag:'12', must be tp-bag:'27'</li>
+      <li>bag : chest-of-the-canthan-hero => missing NamedRange in Spreadsheet and in DB</li>
+      <li>bag : veteran-mushroom-cache => duplicate entry with wrong key in table, removed</li>
+      <li>bag-opener : masterwork-gear-level-66 => missing in DB; added to DB</li>
+      <li>bag-opener : level-37 => missing in DB; added to DB</li>
+      <li>fractals : thaumanova-reactor => correct reference: thaumanova-reactor-21-40</li>
+      <li>fractals : fractal-detailed-dataset-title => removed, doesn't exist</li>
+      <li>fractals : fractal-title => wrong fractals:'26', must be tracker:'11'</li>
+      <li>key : bonus-chest-meta-event-the-desolation => was wrong in spreadsheet "bouncy"</li>
+      <li>key : grand-chest-end-detailed-of-dragons => typo</li>
+      <li>key : bouncy-chest-meta-event-the-desolation => bouncy typo</li>
+      <li>key : bouncy-chest-event-janthir-syntri => missing in DB; added to DB</li>
+      <li>map-reward : thunderhead-peaks => removed, doesn't exist</li>
+      <li>map-reward : jahai-bluffs => removed, doesn't exist</li>
+      <li>meta : convergence-mount-balrior-cm-greer => was referencing decima</li>
+      <li>meta : convergences-cm-demon-knight-dreadwing => fixed typo</li>
+      <li>meta : matriarch => deprecated, new key: wyvern-matriarch</li>
+      <li>meta : ley-line-anomaly => deprecated, new key: ley-line-anomaly-timberline-falls</li>
+      <li>meta : convergences => deprecated, new key: convergence-outer-nayos, also updated Name in Weekly Checklist</li>
+      <li>node : blackberry-node => was referencing blackberry-node-hidden-garden</li>
+      <li>node : butternut-squash-node => was referencing butternut-squash-node-hidden-garden</li>
+      <li>node : spinach-node-node => fixed typo</li>
+      <li>tp-bag : bag-of-testing-materials-detailed => fixed typo</li>
+      <li>tp-bag : bag-of-theroretical-materials-detailed => fixed typo</li>
+      <li>tp-bag : heavy-icy-bag-detailed => fixed typo</li>
+</ul>
+<hr>
+<p style="color: #7289da;"><strong>Website Updates 24.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>updated info text to table for better readability</li>
