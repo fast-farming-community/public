@@ -1,3 +1,13 @@
+<p style="color: #7289da;"><strong>Website Updates 29.08.2025</strong></p>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+Due to a future update old data structures that do not follow the standardized approach are being refactored: 
+<ul>
+      <li>removed Fractal Encryption Key Category</li>
+      <li>changed Cracked Fractal Encryption in Bags Category to Fractal Enryption (Overview)</li>
+      <li>changed all occurrences to link now to Fractal Encryption (Overview)</li>
+      <li>added the Fractal Encryption to the Cracked Fractal Encryption detailed dataset to increase calculation clarifications and removed the hidden calculation from the Overview</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 27.08.2025</strong></p>
 Improved Data Quality and Referencing, fixed following entries:
 <ul>
@@ -2653,10 +2663,6 @@ Cog Settings (upper right corner)
 <ul>
       <li>added new Column Limitations</li>
       <li>fixed broken images</li>
-</ul>
-<a href="https://fast.farming-community.eu/item-conversions/fractal-encryption-key" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_encryption_key.png" alt="alt.png" width="32px">&nbsp;Fractal Encryption Key</a>
-<ul>
-      <li>added additional table to Fractal Encryption Key to indicate if the Fractal Encryption was dropped or bought from the TP</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Farming Builds Updates 16.11.2021</strong></p>
