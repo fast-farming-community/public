@@ -4,6 +4,7 @@ Due to a future update all Mystic Clover Calculations are removed. The Mystic Cl
 <ul>
       <li>removed Mystic Clover Calculations</li>
       <li>removed Mystic Clover descriptions</li>
+      <li>removed Mystic Clover settings</li>
       <li>changed Mystic Clover calculations to zero/empty</li>
 </ul>
 <hr>
