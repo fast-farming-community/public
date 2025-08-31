@@ -1,3 +1,12 @@
+<p style="color: #7289da;"><strong>Website Updates 31.08.2025</strong></p>
+General
+Due to a future update all Mystic Clover Calculations are removed. The Mystic Clover opportunity costs can still be found in conversions/spirit-shard.
+<ul>
+      <li>removed Mystic Clover Calculations</li>
+      <li>removed Mystic Clover descriptions</li>
+      <li>changed Mystic Clover calculations to zero/empty</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 29.08.2025</strong></p>
 <a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 Due to a future update old data structures that do not follow the standardized approach are being refactored: 
