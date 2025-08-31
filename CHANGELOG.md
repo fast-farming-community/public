@@ -1,5 +1,11 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2025-08-31
+
+### Added
+
+- removed Mystic Clover Calculations [\#563](https://github.com/fast-farming-community/website/pull/563) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2025-08-16
 
 ### Added
