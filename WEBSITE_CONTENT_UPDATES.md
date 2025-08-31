@@ -1,5 +1,5 @@
 <p style="color: #7289da;"><strong>Website Updates 31.08.2025</strong></p>
-General
+General<br></br>
 Due to a future update all Mystic Clover Calculations are removed. The Mystic Clover opportunity costs can still be found in conversions/spirit-shard.
 <ul>
       <li>removed Mystic Clover Calculations</li>
