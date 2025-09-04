@@ -1,3 +1,63 @@
+<p style="color: #7289da;"><strong>Website Updates 04.09.2025</strong></p>
+<a href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+Merged following pages to the calculator that will make following pages in the future obsolete:
+<ul>
+      <li>Salvaging Costs per Research Note</li>
+      <li>Blood Ruby</li>
+      <li>Branded Mass</li>
+      <li>Charged Quartz Crystal</li>
+      <li>Curious Lowland Honeycomb</li>
+      <li>Curious Mursaat Currency</li>
+      <li>Curious Mursaat Remnants</li>
+      <li>Curious Mursaat Ruin Shard</li>
+      <li>Difluorite Crystal</li>
+      <li>Dragonite Ore</li>
+      <li>Eitrite Ingot</li>
+      <li>Empyreal Fragment</li>
+      <li>Eternal Ice Shard</li>
+      <li>Fire Orchid Blossom</li>
+      <li>Found Belonging</li>
+      <li>Fractal Encryption Key</li>
+      <li>Fresh Winterberry</li>
+      <li>Gift of Jade Mastery</li>
+      <li>Gift of Mastery</li>
+      <li>Glob of Elder Spirit Residue</li>
+      <li>Hatched Chili</li>
+      <li>Inscribed Shard</li>
+      <li>Jade Shard</li>
+      <li>Kralkatite Ore</li>
+      <li>Lump of Mithrillium</li>
+      <li>Mistborn Mote</li>
+      <li>Orrian Pearl</li>
+      <li>Pile of Bloodstone Dust</li>
+      <li>Prismaticite Crystal</li>
+      <li>Spool of Silk Weaving Thread</li>
+      <li>Writ of Dragon's End</li>
+      <li>Writ of Echovald Wilds</li>
+      <li>Writ of New Kaineng City</li>
+      <li>Writ of Seitung Province</li>
+</ul>
+Pros:
+<ul>
+      <li>Combined Salvaging Costs per Research notes with Crafting items</li>
+      <li>Items in Crafting can now be looked up if TP or Crafting is more profitable for each individual item</li>
+      <li>Cost of crafting items can be found using main filter</li>
+      <li>Faster switch through different items to craft</li>
+</ul>
+Pros - technical:
+<ul>
+      <li>less work creating new sub-categories in Item Conversions</li>
+      <li>less work adding new data</li>
+      <li>improved formulas</li>
+</ul>
+Cons:
+<ul>
+      <li>Item Conversions can not be found anymore in Search</li>
+      <li>Items with multiple "Item Conversions" will be duplicates or show wrong Profit/Item</li>
+      <li>No individual categories with separation of limits (still visible in Calculator)</li>
+      <li>No direct links currently available (Solution: query Params via link soonTM)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 31.08.2025</strong></p>
 General<br>
 Due to a future update all Mystic Clover Calculations are removed. The Mystic Clover opportunity costs can still be found in conversions/spirit-shard.
