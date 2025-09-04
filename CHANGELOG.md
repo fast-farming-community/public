@@ -1,5 +1,11 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2025-09-04
+
+### Added
+
+- added new Farming Calculator and deleted deprecated routing [\#564](https://github.com/fast-farming-community/website/pull/564) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2025-08-31
 
 ### Added
