@@ -1,5 +1,5 @@
 <p style="color: #7289da;"><strong>Website Updates 04.09.2025</strong></p>
-<a href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 Merged following pages to the calculator that will make following pages in the future obsolete:
 <ul>
       <li>Salvaging Costs per Research Note</li>
