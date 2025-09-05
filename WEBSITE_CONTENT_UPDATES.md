@@ -1,3 +1,12 @@
+<p style="color: #7289da;"><strong>Website Updates 05.09.2025</strong></p>
+General
+<ul>
+      <li>Improved the old image modal in all detailed datasets</li>
+      <li>now you can check all images as a gallery</li>
+      <li>works in nested detailed datasets</li>
+      <li>(- removed technical detail.Map column) => saves work time for myself (Cornix)</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 04.09.2025</strong></p>
 <a href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 Merged following pages to the calculator that will make following pages in the future obsolete:
