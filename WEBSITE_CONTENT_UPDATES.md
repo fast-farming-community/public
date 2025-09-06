@@ -1,3 +1,24 @@
+<p style="color: #7289da;"><strong>Website Updates 06.09.2025</strong></p>
+Website Layout User Experience Improvements
+<br>
+Side Navigation Bar
+<ul>
+      <li>Full Item-component is now clickable, not just the text link</li>
+      <li>Chevron has a refined opening style and functions as a separate button</li>
+      <li>Adjusted spacing between items for improved readability</li>
+      <li>Sidebar can collapse for more space while keeping items clickable</li>
+      <li>Sidebar can be fully hidden via the burger icon (three dashes in the top nav)</li>
+      <li>Mobile menu updated to align with the new style</li>
+      <li></li>
+      <li></li>
+</ul>
+
+Top Navigation Bar
+<ul>
+      <li>Removed duplicate top navigation bar to improve spacing</li>
+      <li>Tips now display as rotating announcements</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 05.09.2025</strong></p>
 General
 <ul>
