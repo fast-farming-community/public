@@ -9,8 +9,6 @@ Side Navigation Bar
       <li>Sidebar can collapse for more space while keeping items clickable</li>
       <li>Sidebar can be fully hidden via the burger icon (three dashes in the top nav)</li>
       <li>Mobile menu updated to align with the new style</li>
-      <li></li>
-      <li></li>
 </ul>
 
 Top Navigation Bar
