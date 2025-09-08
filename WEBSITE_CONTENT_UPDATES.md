@@ -1,3 +1,13 @@
+<p style="color: #7289da;"><strong>Website Updates 08.09.2025</strong></p>
+Improved Website Layout and Design
+<ul>
+      <li>added Light Theme with Toggle (Dark as default) in Top Nav Bar for you sickos</li>
+      <li>added indent for Sub-Categories in Side-Nav Bar with guide-line</li>
+      <li>improved Main Page Layout to two columns for Desktop/Tablet and one column on mobile</li>
+      <li>improved Layout Design for Bottom Banner</li>
+      <li>improved Layout Design (Search Bar and Buttons) for Top Nav Banner for Desktop/Tablet and mobile</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 06.09.2025</strong></p>
 Website Layout User Experience Improvements
 <br>
