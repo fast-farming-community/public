@@ -1,3 +1,24 @@
+<p style="color: #7289da;"><strong>Website Updates 10.09.2025</strong></p>
+<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<ul>
+      <li>improved Daily Checklist timers</li>
+</ul>
+<a href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<ul>
+      <li>fixed API unresolved error handling</li>
+      <li>fixed start, save and reset buttons to hide when empty or invalid API-Key is used</li>
+</ul>
+<a href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
+<ul>
+      <li>added Lucent Crystal Vault Bag</li>
+      <li>added Mystic Coin Vault Bag</li>
+</ul>
+<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Lucent Crystal Vault Bag</li>
+      <li>added Mystic Coin Vault Bag</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 08.09.2025</strong></p>
 Improved Website Layout and Design
 <ul>
