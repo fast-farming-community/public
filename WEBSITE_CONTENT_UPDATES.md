@@ -1,4 +1,8 @@
 <p style="color: #7289da;"><strong>Website Updates 10.09.2025</strong></p>
+General
+<ul>
+      <li>improved Website design by using same CSS Styles for elements and components</li>
+</ul>
 <a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>improved Daily Checklist timers</li>
