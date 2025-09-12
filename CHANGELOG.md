@@ -1,5 +1,12 @@
 #### For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.
 
+## 2025-09-12
+
+### Added
+
+- add Tooltip standalone module [\#567](https://github.com/fast-farming-community/website/pull/567) ([c0rn1x](https://github.com/c0rn1x))
+- add API Health Service [\#566](https://github.com/fast-farming-community/website/pull/566) ([c0rn1x](https://github.com/c0rn1x))
+
 ## 2025-09-05
 
 ### Added
