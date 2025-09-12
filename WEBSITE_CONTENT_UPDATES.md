@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 12.09.2025</strong></p>
+General
+<ul>
+      <li>added basic tooltips for new users</li>
+      <li>added Fast-API Health Service — now monitoring Fast-API availability and shows a message in the top navigation bar if the API is down</li>
+</ul>
 <p style="color: #7289da;"><strong>Website Updates 10.09.2025</strong></p>
 General
 <ul>
