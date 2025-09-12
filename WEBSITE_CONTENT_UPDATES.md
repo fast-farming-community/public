@@ -3,6 +3,8 @@ General
 <ul>
       <li>added basic tooltips for new users</li>
       <li>added Fast-API Health Service — now monitoring Fast-API availability and shows a message in the top navigation bar if the API is down</li>
+      <li>improved mobile fast Menu to include Top Nav bar items (Settings, Light/Dark mode, Fast-API status and social links as well as Side-Nav Bar components</li>
+      <li>cleaned up Top Nav Bar on mobile for better user experience (burger button opens Mobile Menu with all options of side and top nav bar)</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 10.09.2025</strong></p>
 General
