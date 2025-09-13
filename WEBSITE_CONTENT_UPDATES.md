@@ -11,21 +11,21 @@ General
 <ul>
       <li>improved Website design by using same CSS Styles for elements and components</li>
 </ul>
-<a class="btn-chip" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>improved Daily Checklist timers</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
 <ul>
       <li>fixed API unresolved error handling</li>
       <li>fixed start, save and reset buttons to hide when empty or invalid API-Key is used</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
 <ul>
       <li>added Lucent Crystal Vault Bag</li>
       <li>added Mystic Coin Vault Bag</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Lucent Crystal Vault Bag</li>
       <li>added Mystic Coin Vault Bag</li>
@@ -70,7 +70,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.09.2025</strong></p>
-<a href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 Merged following pages to the calculator that will make following pages in the future obsolete:
 <ul>
       <li>Salvaging Costs per Research Note</li>
@@ -140,7 +140,7 @@ Due to a future update all Mystic Clover Calculations are removed. The Mystic Cl
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.08.2025</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 Due to a future update old data structures that do not follow the standardized approach are being refactored: 
 <ul>
       <li>removed Fractal Encryption Key Category</li>
@@ -194,28 +194,28 @@ Improved Data Quality and Referencing, fixed following entries:
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.08.2025</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>updated info text to table for better readability</li>
       <li>due to a future release the main tables have to be adapted to the usual style, main pages are now not allowed to have multiple calculation tables with links to detailed datasets, they have to be distinct for future calculations</li>
       <li>the calculation comparison tables have now moved down a layer into detailed tables within detailed datasets</li>
       <li>main table => detailed tables (to compare) => detailed datasets</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>updated Farming Experience for all expansions with links</li>
       <li>refactored farming XP booster and XP calculations text into table for better readability</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.08.2025</strong></p>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>added Detailed Dataset for Homegrown Cactus</li>
       <li>removed Nopal Data Row only considering 2 Nopal as drop (Dataset from 2018)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.08.2025</strong></p>
-<a href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
 <ul>
       <li>added new Farming Tracker (BETA Version)</li>
       <li>Implemented functions</li>
@@ -258,7 +258,7 @@ Improved Data Quality and Referencing, fixed following entries:
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 17.08.2025</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>fixed Karka Queen, Tequatl and Triple Trouble boss timers in meta category</li>
 </ul>
@@ -310,18 +310,18 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Updates 08.08.2025</strong></p>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>added Trader's Sandswept Chest</li>
       <li>updated Zephyrite Supply Box Vendor</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Bazaar-Traded Weapon Chest</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 02.08.2025</strong></p>
-<a href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
 <ul>
       <li>This is not an update on cast, channel or animation aftercast times! Check the ToDo List on its progress.</li>
 </ul>
@@ -370,11 +370,11 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 22.07.2025</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>updated all entries of salvaging Costs per Research Note to use a more realistic value of "Crafting" costs instead of "buying from TP" costs.</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Angler Eel</li>
       <li>added Feathered Snail</li>
@@ -385,24 +385,24 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.06.2025</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>added Peer Reviewed Research Variants</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 28.06.2025</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 5 Curious Lowland Honeycomb to Daily Checklist</li>
       <li>added 5 Curious Mursaat Currency to Daily Checklist</li>
       <li>added 5 Curious Mursaat Ruin Shard to Daily Checklist</li>
       <li>added Shard of Bava Nisos to Weekly Checklist</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
 <ul>
       <li>updated Fractal Tier List</li>
       <li>added Kinfall CM</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added The Desolation - Maws of Torment</li>
       <li>renamed Convergence: Outer Nayos</li>
@@ -413,15 +413,15 @@ General
       <li>added Convergence: Mount Balrior CM (Ura)</li>
       <li>added Convergence: Mount Balrior CM (Greer)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
 <ul>
       <li>added 4 new Limited Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
 <ul>
       <li>added 4 new Limited Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Swampworn Lowland Shore Gear Box</li>
       <li>added Bava Nisos Hoard</li>
@@ -436,7 +436,7 @@ General
       <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Ura)</li>
       <li>added Convergence Challenge Mode: Gold (Convergence: Mount Balrior, Greer)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Dwarven Chest</li>
       <li>added Forgotten Cache (Thunderhead Peaks)</li>
@@ -458,13 +458,13 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.06.2025</strong></p>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Bava Nisos</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Dragon Bash - Website Updates 20.06.2025</strong></p>
-<a href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
       <li>added Trader's Sacred Crystal Chest</li>
 </ul>
@@ -475,33 +475,33 @@ General
       <li>Essence of luck text has been updated to include the rarity in the item name.</li>
       <li>fixed the PSNA Vendors to now show the correct locations</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/curious-mursaat-remnants" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_remnants.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Remnants</a>
 <ul>
       <li>added 31 new Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
 <ul>
       <li>added 17 new Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/provisioner-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/provisioner_token.png" alt="alt.png" width="32px">&nbsp;Provisioner Token</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/provisioner-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/provisioner_token.png" alt="alt.png" width="32px">&nbsp;Provisioner Token</a>
 <ul>
       <li>increased the purchase limit from 1 per day to 7 per week from provisioner token vendors in Central Tyria and Heart of Maguuma.</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/fine-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fine_rift_essence.png" alt="alt.png" width="32px">&nbsp;Fine Rift Essence</a>
-<a href="https://fast.farming-community.eu/conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
-<a href="https://fast.farming-community.eu/conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/fine-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fine_rift_essence.png" alt="alt.png" width="32px">&nbsp;Fine Rift Essence</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
 <ul>
       <li>moved rift essences to Currency Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Bava Nisos - A Titanic Voyage</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Bava Nisos - Traversing the Titan JP</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Magnificent Chest (Traversing the Titan)</li>
       <li>added Bonus Chest Meta Event (A Titanic Voyage)</li>
@@ -509,25 +509,25 @@ General
       <li>added Bouncy Chest Meta Event (A Titanic Voyage)</li>
       <li>added Bouncy Chest Pre Meta Event (A Titanic Voyage)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Bava Nisos: Commander's Choice Chest</li>
       <li>added Slime-Encrusted Mursaat Strongbox</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.05.2025</strong></p>
-<a href="https://fast.farming-community.eu/conversions/racing-medallion" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/racing_medallion.png" alt="alt.png" width="32px">&nbsp;Racing Medallion</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/racing-medallion" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/racing_medallion.png" alt="alt.png" width="32px">&nbsp;Racing Medallion</a>
 <ul>
       <li>added Racing Medallion</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.05.2025</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Domain of Istan - Sunspear Uprising, Mordant Crescent Great Hall</li>
       <li>added Domain of Istan - Sunspear Uprising, Palawadan</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>refactored Grand Chest to contain all Character Levels</li>
       <li>added Grand Chest</li>
@@ -558,7 +558,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.05.2025</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added missing images and description to all Chest of Essences</li>
       <li>refactored Chest of Essences to avoid clutter on main page:</li>
@@ -589,7 +589,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 02.05.2025</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Greater Arcane </li>
       <ul>
@@ -600,7 +600,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.05.2025</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>refactored Alt-Parking entries into a more readable and compressed table:</li>
             <ul>
@@ -646,7 +646,7 @@ General
 <ul>
       <li>re-added Black Lion Delivery Box to Home Instance (they can still be found in Bags (/bags/bags) Category)</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>Pays off after # days Column now only calculates for best option to reduce data clutter instead for all options</li>
       <br>
@@ -661,7 +661,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 17.04.2025</strong></p>
-<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added Trader's Golem-Buster Weapons Locker</li>
       <li>changed Bauble Bubble Profit to now calculate Weekly Vendor Profit instead of normal Vendor (negative profit due to Super Loot Bag drops)</li>
@@ -674,7 +674,7 @@ General
       <li>removed the individual category Home Nodes and Home Overview, instead the Home Nodes are now directly shown in Home Instance / Homestead</li>
       <li>removed the individual category Home Garden Nodes, instead now its a detailed dataset in Home Instance</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Black Lion Delivery Box (Janthir Wilds)</li>
       <li>added Black Lion Delivery Box (Secrets of the Obscure)</li>
@@ -687,25 +687,25 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Repentance - Website Updates 13.03.2025</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Shard of Mistburned Barrens to Weekly Checklist</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-ruin-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_ruin_shard.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Ruin Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/curious-mursaat-ruin-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_ruin_shard.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Ruin Shard</a>
 <ul>
       <li>added 13 new Conversions (Limit and No Limit)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
 <ul>
       <li>added 17 new Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Mistburned Barrens - Survey: Into the Valley of Agony</li>
       <li>added Mistburned Barrens - Survey: The Blood Phenom's Corridor</li>
       <li>added Mistburned Barrens - Survey: The Wraith's Pass</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Mursaat Ruins Cache</li>
       <li>added Bouncy Chest Event (Mistburned Barrens)</li>
@@ -713,34 +713,34 @@ General
       <li>added Grand Chest (Survey: The Blood Phenom's Corridor)</li>
       <li>added Grand Chest (Survey: The Wraith's Pass)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Scavenged Obsidian Weapon Box</li>
       <li>added Valley of Agony Survey Result Chest</li>
       <li>added Bloodstone Corridor Survey Result Chest</li>
       <li>added Wraith's Pass Survey Result Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>added Honey Flower Home Instance Node</li>
       <li>added Lowland Pine Sapling Home Instance Node</li>
       <li>added Charged Titan Ore Home Instance Node</li>
       <li>added Rotted Titan Amber Home Instance Node</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
 <ul>
       <li>added Mursaat Obsidian</li>
       <li>added Titan Heatstone Cluster</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.03.2025</strong></p>
-<a href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
 <ul>
       <li>added Fractal Troubleshooter's Star</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.02.2025</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Gnashblade Dragon Coffer (750% MF)</li>
       <li>added Gnashblade Zephyrite Supply Box (750% MF)</li>
@@ -748,7 +748,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.01.2025</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>exchanged yearly changing dropped items in Divine Lucky Envelope, Little Lucky Envelope and Lucky Red Bag</li>
       <li>updated New Year's Weapon Chest with 3 new Jade Weapons</li>
@@ -756,7 +756,7 @@ General
       <li>updated Courtly Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
       <li>updated Wintersday Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>added Exotic Weapon (Dagger, Sword, Warhorn) with Silver-Fed and Black Lion Salvage Kit</li>
       <li>added Exotic Weapon (Axe, Mace, Pistol, Shield) with Silver-Fed and Black Lion Salvage Kit</li>
@@ -767,63 +767,63 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2025</strong></p>
-<a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/calcified-gasp" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/calcified_gasp.png" alt="alt.png" width="32px">&nbsp;Calcified Gasp</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/calcified-gasp" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/calcified_gasp.png" alt="alt.png" width="32px">&nbsp;Calcified Gasp</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/elegy-mosaic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/elegy_mosaic.png" alt="alt.png" width="32px">&nbsp;Elegy Mosaic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/elegy-mosaic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/elegy_mosaic.png" alt="alt.png" width="32px">&nbsp;Elegy Mosaic</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
 <ul>
       <li>moved limited option Mystic Clover from "No Limit" to "Limit" table</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Green Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Green Prophet Shard</a>
 <ul>
       <li>fixed "Limit" Table to show no available options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/guild-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/guild-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/jade-miners-keycard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_miners_keycard.png" alt="alt.png" width="32px">&nbsp;Jade Miner's Keycard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/jade-miners-keycard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_miners_keycard.png" alt="alt.png" width="32px">&nbsp;Jade Miner's Keycard</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-</ul><a href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pinch_of_stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
+</ul><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pinch_of_stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/pvp-league-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_league_ticket.png" alt="alt.png" width="32px">&nbsp;PvP League Ticket</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pvp-league-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_league_ticket.png" alt="alt.png" width="32px">&nbsp;PvP League Ticket</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/static-charge" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/static_charge.png" alt="alt.png" width="24px">&nbsp;Static Charge</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/static-charge" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/static_charge.png" alt="alt.png" width="24px">&nbsp;Static Charge</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
@@ -835,7 +835,7 @@ General
       <li>fixed a reference mistake for not using Mystic Clover calculation</li>
       <li>fixed using wrong profit calculation for Hatched Chili in Icebrood Saga Reward Track (PvP Reward Track)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Blood Moon Weapon Box</li>
       <li>updated Janthir Wilds Gear Box with Choice of Blood Moon Weapon Box</li>
@@ -845,7 +845,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.01.2025</strong></p>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Spirit Shard profit calculations to Solo-Farming (change settings to include/exclude Spirit Shards)</li>
 </ul>
@@ -877,16 +877,16 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.12.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>updated Leviathan with Bonus Chest Event (Fend off the Leviathan)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>renamed Bouncy Chest Event (Fend off the Leviathan) to Bonus Chest Event (Fend off the Leviathan)</li>
       <li>updated Bonus Chest Event (Fend off the Leviathan) Loot Table</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/vendor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/vendor.png" alt="alt.png" width="32px">&nbsp;Vendor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/vendor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/vendor.png" alt="alt.png" width="32px">&nbsp;Vendor</a>
 <ul>
       <li>New Category</li>
       <li>moved Vendors from Gizmo Category into Vendor Category</li>
@@ -895,35 +895,35 @@ General
       <li>added Homestead Refinement—Farm</li>
       <li>added Taro Everclaw Vendor (Fish Fillet Exchange)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
       <li>updated Price description on Precursor weapons for better readability and consistency</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.12.2024</strong></p>
-<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
 <ul>
       <li>added Mursaat Runestone</li>
       <li>added Full Moon Weapons</li>
       <li>removed Ornamented Bearkin Claw</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
 <ul>
       <li>updated Vendor token prices and amounts on Blueprints</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
 <ul>
       <li>updated Vendor token prices and amounts on Blueprints</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
 <ul>
       <li>updated Vendor token prices and amounts on Blueprints</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
 <ul>
       <li>removed Vendor token prices and amounts on Blueprints</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Black Lion Material Bag: Janthir Wilds</li>
       <li>added Flowerhead</li>
@@ -944,26 +944,26 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.12.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>sort secondary by gph if countdown has same value</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Convergence: Mount Balrior</li>
       <li>updated Convergences CM with (Weekly) Challenge Mode Convergences: Outer Nayos </li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>updated TacO Tekkit - Lowland Shore - Janthiri Treasure Hunter with (Repeatable) Janthiri Chest Hunter Achievement</li>
       <li>updated TacO Tekkit - Janthir Syntri - Janthiri Treasure Hunter with (Repeatable) Janthiri Chest Hunter Achievement</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>added Mini Blue Cuckoo Hatchling to Black Lion Statuette</li>
       <li>added Mini Orange Tigris Cub to Black Lion Statuette</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Bonus Chest Event (Convergence: Mount Balrior)</li>
       <li>added Bouncy Chest Event (Convergence: Mount Balrior)</li>
@@ -971,28 +971,28 @@ General
       <li>updated Magnificent Chest (Of Mists and Monsters Meta) and removed all old datasets</li>
       <li>updated Bouncy Chest Meta Event (Of Mists and Monsters)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Convergences: Mount Balrior Wayfinder's Choice Chest</li>
       <li>added Magnificent Convergence Extraction</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.12.2024</strong></p>
-<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added Trader's Sacred Solstice Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>renamed Legendary Matriarch to Wyvern Matriarch</li>
       <li>updated Verdant Brink - Wyvern Matriarch with Bonus Chest Meta Event (Night and the Enemy)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Bonus Chest Meta Event (Night and the Enemy)</li>
       <li>removed Verdant Brink: Hero's Choice Chest from Glorious Chest (Wyvern Matriarch)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added guaranteed Drops to all Hero's Choice Chest for better readability on profit total (entries were previously hidden in total sum)</li>
       <li>updated Verdant Brink: Hero's Choice Chest with Jungle Grass Seed</li>
@@ -1006,22 +1006,22 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.12.2024</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Lowland Shore</li>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Janthir Syntri</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_lowland_honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_lowland_honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
 <ul>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Lowland Shore</li>
       <li>added 3x Renown Heart - Weekly Shard of Lowland Shore</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
 <ul>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Janthir Syntri</li>
       <li>added 3x Renown Heart - Weekly Shard of Janthir Syntri</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Legendary Gift Starter Kit</li>
       <li>updated all Starter Kit Tables with Legendary Gift Starter Kit</li>
@@ -1033,7 +1033,7 @@ General
 <ul>
       <li>refactored certain Consumables from Bag Category to individual Item Conversion Category for better readability and distinction to its currency consumption counterpart</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>removed Curious Lowland Honeycomb</li>
       <li>removed Curious Mursaat Currency</li>
@@ -1042,52 +1042,52 @@ General
       <li>removed Writ of New Kaineng City</li>
       <li>removed Writ of Seitung Province</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_lowland_honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/curious-lowland-honeycomb" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_lowland_honeycomb.png" alt="alt.png" width="32px">&nbsp;Curious Lowland Honeycomb</a>
 <ul>
       <li>added Curious Lowland Honeycomb</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/curious-mursaat-currency" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/curious_mursaat_currency.png" alt="alt.png" width="32px">&nbsp;Curious Mursaat Currency</a>
 <ul>
       <li>added Curious Mursaat Currency</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-dragons-end" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_dragons_end.png" alt="alt.png" width="32px">&nbsp;Writ of Dragon's End</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/writ-of-dragons-end" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_dragons_end.png" alt="alt.png" width="32px">&nbsp;Writ of Dragon's End</a>
 <ul>
       <li>added Writ of Dragon's End</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-echovald-wilds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_echovald_wilds.png" alt="alt.png" width="32px">&nbsp;Writ of Echovald Wilds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/writ-of-echovald-wilds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_echovald_wilds.png" alt="alt.png" width="32px">&nbsp;Writ of Echovald Wilds</a>
 <ul>
       <li>added Writ of Echovald Wilds</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-new-kaineng-city" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_new_kaineng_city.png" alt="alt.png" width="32px">&nbsp;Writ of New Kaineng City</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/writ-of-new-kaineng-city" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_new_kaineng_city.png" alt="alt.png" width="32px">&nbsp;Writ of New Kaineng City</a>
 <ul>
       <li>added Writ of New Kaineng City</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/writ-of-seitung province" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_seitung_province.png" alt="alt.png" width="32px">&nbsp;Writ of Seitung Province</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/writ-of-seitung province" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/writ_of_seitung_province.png" alt="alt.png" width="32px">&nbsp;Writ of Seitung Province</a>
 <ul>
       <li>added Writ of Seitung Province</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.11.2024</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Starter Kit: Howler</li>
       <li>added Starter Kit: Kudzu</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>added Mists Vault Main Repository</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
 <ul>
       <li>added Legendary Weapon Starter Key - Set 6</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 07.11.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated Drizzlewood Coast - Battle Cry</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Magnificent Chest (Battle Cry)</li>
       <li>added Bouncy Chest Meta Event (Battle Cry)</li>
@@ -1095,18 +1095,18 @@ General
       <li>added Bouncy Chest Event (Defeat the Cache Keeper)</li>
       <li>added Bouncy Chest Meta Event (Battle Cry)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
 <ul>
       <li>added Drizzlewood Coast Map Reward</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 03.11.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Domain of Kourna - Containing the Scarab Plague</li>
       <li>added Elon Riverlands - The Path to Ascension</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Awakened Chest (Domain of Kourna)</li>
       <li>added Branded Chest</li>
@@ -1119,7 +1119,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.10.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated Dragonfall - The Battle of Dragonfall Meta with Bouncy Chests</li>
       <li>updated Dragonfall - The Battle of Dragonfall Champtrain with Bouncy Chest Event (Dragonfall)</li>
@@ -1127,7 +1127,7 @@ General
       <li>updated Iron Marches - Ley-Line Anomaly with Bouncy Chest Meta Event (Ley-Line Anomaly)</li>
       <li>updated Timberline Falls - Ley-Line Anomaly with Bouncy Chest Meta Event (Ley-Line Anomaly)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Bouncy Chest Meta Event (Ley-Line Anomaly)</li>
       <li>added Bouncy Chest Event Rewards (Dragonfall)</li>
@@ -1137,11 +1137,11 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 23.10.2024</strong></p>
-<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added Trader's Grim Machine Chest to Weekly Vendor</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>previously renamed Bags after Janthir Wilds release are now matched with ingame names:</li>
       <ul>
@@ -1150,13 +1150,13 @@ General
             <li>Nugget of Krpytis Essence => Nugget of Rift Essence</li>
       </ul>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
 <ul>
       <li>fixed the last newest added options to be included in the MAX-formula for TP Buy/Sell Profit calculations</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 26.09.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Spirit Shard Profit calculation</li>
       <li>added special Schedule countdown timers for Tequatl, Karka Queen and TTT</li>
@@ -1168,7 +1168,7 @@ General
       <li>fixed invalid number on alpha-numeric columns, when the first row entry is not a number</li>
       <li>fixed copy-Toast to show up again in the bottom right corner when clicking on a auto-copyable column</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>Metas are now sorted by 1. countdown until meta start and new: 2. by gold per hour</li>
       <li>implemented a beta prototype for irregular timer e.g. for Tequatl, Karka and Triple Trouble</li>
@@ -1186,7 +1186,7 @@ General
             <li>Unlimited Gathering Tool</li>
       </ul>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Echovald Wilds - Aspenwood</li>
       <li>updated Province Metrica - Fire Elemental with Bonus Chest</li>
@@ -1194,7 +1194,7 @@ General
       <li>updated Queensdale - Shadow Behemoth with Bonus Chest</li>
       <li>updated Caledon Forest - Great Jungle Wurm with Bonus Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Filing Cabinet</li>
       <li>added Filing Cabinet (Aspenwood Meta)</li>
@@ -1204,53 +1204,53 @@ General
       <li>added Bonus Chest (Shadow Behemoth)</li>
       <li>added Bonus Chest (The Frozen Maw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 5x Daily Exchange Gharr Leadclaw (Arborstone)</li>
       <li>added 2x Daily Exchange Gharr Leadclaw (Eye of the North)</li>
       <li>added 3x Daily Exchange Gharr Leadclaw (Wizard's Tower / Portable Wizard's Tower Exchange)</li>
       <li>added Astral Fluctuating Mass Gharr Leadclaw (Wizard's Tower / Portable Wizard's Tower Exchange) to Weekly Checklist</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
       <li>added 85 new Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/trade-contract" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/trade_contract.png" alt="alt.png" width="32px">&nbsp;Trade Contract</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/trade-contract" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/trade_contract.png" alt="alt.png" width="32px">&nbsp;Trade Contract</a>
 <ul>
       <li>added 21 new Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
       <li>added 21 new Conversions</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.09.2024</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>changed all Dye Kits to be now static with same droprate as stated in the game tooltip</li>
       <li>added Janthiri Renown Chest</li>
       <li>added Dragonjade-Tier Reward Package</li>
       <li>added Dragonjade-Tier Reward Package (Non-Repeatable)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Master Diver Achievement Detailed Dataset instead of direct Achievement loot drops in the TacO Tekkit - Sunken Treasure Hunter Farm Detailed Dataset for better readability</li>
       <li>added (Repeatable) Lowland Shore: Harvest Den Renown Heart to Arena Farm</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
 <ul>
       <li>added 2 Sunken Chest to Sirens Queef Fractal</li>
       <li>added 3 Sunken Chest to Aquatic Fractal</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
-<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added Xunlai Customer Loyalty Perks Program Reward Track</li>
       <li>added Xunlai Customer Loyalty Perks Program Reward Track (Non-Repeatable)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 17.09.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Lowland Shore - Arena Farm</li>
       <li>added TacO Tekkit - Lowland Shore - Janthiri Treasure Hunter</li>
@@ -1276,11 +1276,11 @@ General
       </li>
 </ul>
 <p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 13.09.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Of Mists and Monsters Meta</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Lowland Shore - Bearpaw Fields</li>
       <li>added Lowland Shore - Cabbage Farm</li>
@@ -1288,15 +1288,15 @@ General
       <li>added Lowland Shore - Harvest Plots</li>
       <li>added Lowland Shore - Queen's Confidence JP</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
-<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma and other Currencies</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/ursus-oblige" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ursus_oblige.png" alt="alt.png" width="32px">&nbsp;Ursus Oblige</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma and other Currencies</a>
 <ul>
       <li>added Ursus Oblige (40 Conversions)</li>
       <li>added Unusual Coin (18 Conversions)</li>
       <li>added Karma and other Currencies (9 Conversions)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Curious Lowland Honeycomb</li>
       <li>added Curious Mursaat Currency</li>
@@ -1328,7 +1328,7 @@ General
       <li>added Janthir Wilds Gear Box (2 Mystic Clovers)</li>
       <li>added Janthir Wilds Gear Box (7 Mystic Clovers)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Detected Treasure</li>
       <li>added Major Kodan Cache (Lowland Shore)</li>
@@ -1346,41 +1346,41 @@ General
       <li>added Chest (Janthir Wilds)</li>
       <li>added Bouncy Chest Meta Event (Of Mists and Monsters)</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
 <ul>
       <li>added Lowland Pine Sapling with Mastery Lowland Kodan 4 - Bearkin Harvesting Techniques</li>
       <li>added Honey Flower with Mastery Lowland Kodan 4 - Bearkin Harvesting Techniques</li>
       <li>added Rotted Titan Amber Node with Mastery Lowland Kodan 4 - Bearkin Harvesting Techniques</li>
       <li>added Charged Titan Ore Node with Mastery Lowland Kodan 4 - Bearkin Harvesting Techniques</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>added Provisioner Token Exchange Gaerlar Stormrider</li>
       <li>added Provisioner Token Exchange Shining Isle</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
-<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added Janthir Wilds Reward Track</li>
       <li>added Janthir Wilds Reward Track (Non-Repeatable)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.09.2024</strong></p>
-<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
 <ul>
       <li>removed entire farm table</li>
       <li>added Prismaticite to detailed datasets, was previously hidden in the total value in main table</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.08.2024</strong></p>
-<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>re-added fast TacO Marker Pack download into assets directive</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.07.2024</strong></p>
-<a href="https://fast.farming-community.eu/conversions/pvp-league-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_league_ticket.png" alt="alt.png" width="32px">&nbsp;PvP League Ticket</a>
-<a href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pvp-league-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_league_ticket.png" alt="alt.png" width="32px">&nbsp;PvP League Ticket</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
 <ul>
       <li>added PvP League Ticket</li>
       <li>added WvW Skirmish Claim Ticket</li>
@@ -1393,59 +1393,59 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.05.2024</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Box of Eparch's Prized Possessions</li>
        <li>added Astral Fluctuating Mass</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/fine-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fine_rift_essence.png" alt="alt.png" width="32px">&nbsp;Fine Rift Essence</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/fine-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fine_rift_essence.png" alt="alt.png" width="32px">&nbsp;Fine Rift Essence</a>
 <ul>
       <li>added 15 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/masterwork-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/masterwork_rift_essence.png" alt="alt.png" width="32px">&nbsp;Masterwork Rift Essence</a>
 <ul>
       <li>added 15 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/rare-rift-essence" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/rare_rift_essence.png" alt="alt.png" width="32px">&nbsp;Rare Rift Essence</a>
 <ul>
       <li>added 20 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
 <ul>
       <li>added 1 new Conversion (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/hatched-chili" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/hatched_chili.png" alt="alt.png" width="32px">&nbsp;Hatched Chili</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/hatched-chili" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/hatched_chili.png" alt="alt.png" width="32px">&nbsp;Hatched Chili</a>
 <ul>
       <li>added 3 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pile_of_bloodstone_dust.png" alt="alt.png" width="32px">&nbsp;Pile of Bloodstone Dust</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pile_of_bloodstone_dust.png" alt="alt.png" width="32px">&nbsp;Pile of Bloodstone Dust</a>
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/dragonite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragonite_ore.png" alt="alt.png" width="32px">&nbsp;Dragonite Ore</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/dragonite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragonite_ore.png" alt="alt.png" width="32px">&nbsp;Dragonite Ore</a>
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/empyreal-fragment" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/empyreal_fragment.png" alt="alt.png" width="32px">&nbsp;Empyreal Fragment</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/empyreal-fragment" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/empyreal_fragment.png" alt="alt.png" width="32px">&nbsp;Empyreal Fragment</a>
 <ul>
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.05.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Convergences CM</li>
       <li>added Inner Nayos - Into the Spider's Lair</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Legendary Weapon Starter Kit - Set 4</li>
       <li>added Starter Kit: Incinerator</li>
@@ -1458,11 +1458,11 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.03.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Waypoints Column</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added Countdown Timer for Day- and Nighttime</li>
       <li>Timer will remain 0:00 on active Day or Nighttime Phase</li>
@@ -1470,63 +1470,63 @@ General
       <li>added Timer StartTime/Interval Column to Fishing</li>
       <li>fixed all 24 Fishing guide images, which were removed since Cockpit UI</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/provisioner-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/provisioner_token.png" alt="alt.png" width="32px">&nbsp;Provisioner Token</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/provisioner-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/provisioner_token.png" alt="alt.png" width="32px">&nbsp;Provisioner Token</a>
 <ul>
       <li>added new Faction Provisioner Vendor Costs</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 23.03.2024</strong></p>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
-<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added Long-Lost Tahkayun's Weapon Reward Track</li>
       <li>added Long-Lost Tahkayun's Weapon Reward Track (Non-Repeatable)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Bouncy Chest Event (Guild Mission Easy Weekly Opportunity)</li>
       <li>added Bouncy Chest Event (Guild Mission Hard Weekly Opportunity)</li>
       <li>added Bouncy Chest Event (Guild Mission Medium Weekly Opportunity)</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>fixed a calculation error when the amount of crafted items was added to the note per item</li>
       <li>fixed a major calculation error when the wrong column was used (Sell TP column instead of Best Choice Buy column)</li>
       <li>fixed a major calculation error when the wrong column was used to index the calculated amount on Sell TP column</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Countdown "Starts in" column, table updates automatically every minute</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.03.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>renamed and re-routed all old converter-entries to gizmos like the ingame notation</li>
       <li>refactored Zepyhrite Supply Box into Zepyhrite Supply Box Vendor</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
-<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added Long Lost Tahkayun Weapon Reward Track</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Timer StartTime/Interval/Waypoints Column to Meta (src column)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Guild Missions to Solo-Farming</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.03.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>fixed 25 Alt-Parking images which were removed since Cockpit UI</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.03.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
 <ul>
       <li>added new WvW 24-, 28- and 32- Slot Bags (Costs)</li>
 </ul>
@@ -1537,13 +1537,13 @@ General
       <li>fixed broken images category icon in detailed datasets</li>
       <li>fixed/added category icons back into prices folder</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Inner Nayos - The Fangs that Gnash</li>
       <li>added </li>
       <li>added </li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Inner Nayos: Hero's Chest</li>
       <li>added Knaebelag's Hoard</li>
@@ -1551,14 +1551,14 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.03.2024</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
 <ul>
       <li>refactored daily fractal table with the new fractal</li>
       <li>fixed multiple wrong fractal referencing and calculations</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.03.2024</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Domain of Vabbi - Forged Fire</li>
       <li>added Thunderhead Peaks - The Oil Floes</li>
@@ -1567,11 +1567,11 @@ General
       <li>added Drizzlewood  Coast- Assault on the Frost Citadel</li>
       <li>added Elon Riverlands  - Doppelganger</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Shiverpeaks Strike Mission Bouncy Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>refactored Shiverpeaks Pass Strike Mission</li>
 </ul>
@@ -1583,7 +1583,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.02.2024</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new Horn of Maguuma Fish</li>
 </ul>
@@ -1607,7 +1607,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Lunar New Year Festival 30.01.2024 - 20.02.2024</strong></p>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Mini Amnytas Stormscale</li>
 </ul>
@@ -1618,7 +1618,7 @@ General
 <ul>
       <li>Trader's Key now contains Caches and they also can be found in Chests Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>merged crafting costs and TP costs rows into columns for each item</li>
       <li>crafting costs column is now calculated to the material costs in settings (buy on default)</li>
@@ -1632,26 +1632,26 @@ General
       <li>updated and improved detailed datasets with Achievements in Festival, Meta, Strike Missions and Dungeon Category</li>
       <li>updated and improved detailed datasets with Bouncy Chest loot instead of aggregated loot in Strike Missions Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added weekly Strike Missions and Convergences to Weekly Farming Checklist</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.11.2023</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Inner Nayos - The Road to Heitor</li>
       <li>added Convergence</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/calcified-gasp" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/calcified_gasp.png" alt="alt.png" width="32px">&nbsp;Calcified Gasp</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/calcified-gasp" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/calcified_gasp.png" alt="alt.png" width="32px">&nbsp;Calcified Gasp</a>
 <ul>
       <li>added Calcified Gasp</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Cosmic Observatory CM (Weekly)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Legendary Weapon Starter Kit - Set 2</li>
       <li>added Inner Nayos: Hero's Choice Chest</li>
@@ -1661,7 +1661,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>The Shadow of the Mad King Festival Website Update 19.10.2023</strong></p>
-<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added Ascent to Madness (1 Round)</li>
       <li>added Mad King's Clock Tower (1 Round)</li>
@@ -1669,11 +1669,11 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.10.2023</strong></p>
-<a href="https://fast.farming-community.eu/conversions/jade-miners-keycard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_miners_keycard.png" alt="alt.png" width="32px">&nbsp;Jade Miner's Keycard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/jade-miners-keycard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_miners_keycard.png" alt="alt.png" width="32px">&nbsp;Jade Miner's Keycard</a>
 <ul>
       <li>added Jade Miner's Keycard</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
 <ul>
       <li>added Pristine Fractal Relic</li>
 </ul>
@@ -1686,28 +1686,28 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.09.2023</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added Relic of the Defender</li>
       <li>added Relic of the Pack</li>
       <li>added Relic of the Zephyrite</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Relic of the Fireworks</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Secrets of the Obscure Website Updates 2023</strong></p>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Skywatch Archipelago</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="24px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="24px">&nbsp;Meta</a>
 <ul>
       <li>added Skywatch Archipelago - Unlocking the Wizard's Tower</li>
       <li>added Amnytas - The Defense of Amnytas</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Rift Tier 1 Farm</li>
       <li>added Rift Tier 2 Farm</li>
@@ -1716,40 +1716,40 @@ General
       <li>added Rift Tier 2 Farm (w/ Motivation)</li>
       <li>added Rift Tier 3 Farm (w/ Motivation)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
 <ul>
       <li>added Astral Acclaim</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/ancient-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ancient_coin.png" alt="alt.png" width="24px">&nbsp;Ancient Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/ancient-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ancient_coin.png" alt="alt.png" width="24px">&nbsp;Ancient Coin</a>
 <ul>
       <li>added Ancient Coin</li>
       <li>moved Conversions from Unusual Coin to Ancient Coin</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Green Prophet Shard</a>
-<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Green Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <ul>
       <li>moved Conversions from Green Prophet Shard to Blue Prophet Shard</li>
       <li>added Green Prophet Shard</li>
-</ul><a href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pinch_of_stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
+</ul><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pinch-of-stardust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pinch_of_stardust.png" alt="alt.png" width="24px">&nbsp;Pinch of Stardust</a>
 <ul>
       <li>added Pinch of Stardust</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/static-charge" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/static_charge.png" alt="alt.png" width="24px">&nbsp;Static Charge</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/static-charge" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/static_charge.png" alt="alt.png" width="24px">&nbsp;Static Charge</a>
 <ul>
       <li>added Static Charge</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Cosmic Observatory (Priority, Weekly)</li>
       <li>added Temple of Febe (Priority, Weekly)</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
-<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added Secrets of the Obscure Reward Track</li>
       <li>added Secrets of the Obscure Reward Track (Non-Repeatable)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="24px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="24px">&nbsp;Bags</a>
 <ul>
       <li>added Amnytas: Hero's Choice Chest</li>
       <li>added Skywatch Archipelago: Hero's Choice Chest</li>
@@ -1773,7 +1773,7 @@ General
       <li>added Starter Kit: Quip</li>
       <li>added Starter Kit: The Bifrost</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Bouncy Chest Event Amnytas</li>
       <li>added Bouncy Chest Event Rift Tier 1</li>
@@ -1803,11 +1803,11 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.07.2023</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>resets the entire checklist at midnight for now (does not save state after midnight until GW2 reset)</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>added 30 "missing" Potions (Tuning Crystal, Maintenance Oil, Sharpening Stones)</li>
       <li>added 80 "missing" Barbaric Heavy Armor</li>
@@ -1816,22 +1816,22 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Festival 18.07. - 08.08.2023</strong></p>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Zephyrite Vendor table</li>
       <li>updated Zephyrite Supply Box Loot table</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.07.2023</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/dragonite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragonite_ore.png" alt="alt.png" width="32px">&nbsp;Dragonite Ore</a>
-<a href="https://fast.farming-community.eu/item-conversions/empyreal-fragment" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/empyreal_fragment.png" alt="alt.png" width="32px">&nbsp;Empyreal Fragment</a>
-<a href="https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pile_of_bloodstone_dust.png" alt="alt.png" width="32px">&nbsp;Pile of Bloodstone Dust</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/dragonite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragonite_ore.png" alt="alt.png" width="32px">&nbsp;Dragonite Ore</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/empyreal-fragment" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/empyreal_fragment.png" alt="alt.png" width="32px">&nbsp;Empyreal Fragment</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pile_of_bloodstone_dust.png" alt="alt.png" width="32px">&nbsp;Pile of Bloodstone Dust</a>
 <ul>
       <li>fixed Profit per item values on Gizmos</li>
       <li>the actual Gizmo are now used instead of their respective bags for profit calculations</li>
       <li>added Herta Gizmo with Glowing Stone bag to Pile of Bloodstone Dust</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>updated Personalized Trick-or-Treat Bag</li>
       <li>updated Personalized Wintersday Gift</li>
@@ -1896,38 +1896,38 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.07.2023</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>replaced internal search function to main table showing all salvageables at once</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.07.2023</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>Black Lion Delivery Box also added into Bags Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
 <ul>
       <li>Map Reward returns and is added into PvE Reward Track Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/research_note.png" alt="alt.png" width="32px">&nbsp;Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/research_note.png" alt="alt.png" width="32px">&nbsp;Research Note</a>
 <ul>
       <li>added 52 new Conversions (Shadow Serpent Weapons, Monastery Armor, Ancient Ritualist Armor)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>switched Map Rewards from "current weekly" to "total average (8 weeks)"</li>
       <li>The current weekly Map rewards can still be found in the PvE Reward Track Category (Open-World).</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.07.2023</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Checkboxes are now saved locally and will reset each day at midnight</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 22.04.2023</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Echovald Wilds - Melandru's Hope</li>
       <li>added Echovald Wilds - Quarry Forelands South</li>
@@ -1935,29 +1935,29 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 29.03.2023</strong></p>
-<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added Trader's Generation One Chest</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 25.03.2023</strong></p>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Gyala Delve</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Gyala Delve - Delve into the Haze Meta + Fishing</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Gyala Delve - Celestial Pool</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added Cavern Fish Node (Gyala Delve, Nighttime, Shrimpling, 575 Fishing Power)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Ancient Outcast's Mining Cache</li>
       <li>added Gyala Delve Mining Cache</li>
@@ -1965,8 +1965,8 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Lunar New Year Update 23.01.2023</strong></p>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Little Lucky Envelope (750% MF)</li>
       <li>added Lucky Red Bag (750% MF)</li>
@@ -1974,31 +1974,31 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.12.2022</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new 50.000 Wintersday Gift Dataset (2022)</li>
       <li>added Jolly Wintersday Gift</li>
       <li>added Mad King's Chest</li>
       <li>added several Subtype-Bags to Main Bag Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added Toypocalypse to Repeatable Farms</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added Domain of Kourna
 </li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Wintersday Festival 13.12.2022 - 03.01.2023</strong></p>
-<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>No new content / farms.</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 22.11.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added End of Dragons - Leviathan Farm</li>
       <li>added Desert Highlands - The Search for Buried Treasure</li>
@@ -2009,7 +2009,7 @@ General
 <ul>
       <li>An automatic pagination of 100 has been added to the Bag Category to decrease loading times, because now the Bag Category contains close to 1200 different bags.</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>merged 222 Fish into Bags Category</li>
       <li>merged 129 TP Bags (formerly Goody Bags) into Bags Category</li>
@@ -2018,17 +2018,17 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.11.2022</strong></p>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Old Lion's Court (Weekly)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Assault Knight's Coffer</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.11.2022</strong></p>
-<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added PvP Reward Tracks</li>
       <li>renamed Module Category: WvW -> Competitive</li>
@@ -2036,13 +2036,13 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 31.10.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added new Main Table (Day + Night Cycle) to Secondary Table (Day or Night Cycle separated)</li>
       <li>added new Fishing Rotations (Ember Bay, Sandswept Isles, Crystal Oasis-Mackerel, New Kaineng City-Kaineng Docks, Draconis Mons, Straits of Devastation) in Main and Secondary Tables</li>
       <li>added new Fishing Power Research (Crystal Oasis-Scorpion 625 Fishing Power ) in Secondary Table</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added new Alt-Parking Spot (Dragon's End - Argo Crawler)</li>
 </ul>
@@ -2058,34 +2058,34 @@ Profit Headers (Detailed Datasets)
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.10.2022</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Trick-or-Treat Bag</li>
       <li>added Halloween Prize Bag</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated all World-Bosses to have static main datasets as detailed datasets contain now Boss Chest, Bouncy Chest, static Map-Reward and/or static champion bag loot</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>The Shadow of the Mad King Festival 18.10.2022 - 08.11.2022</strong></p>
-<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>No new farms, only new skins!</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.10.2022</strong></p>
-<a href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
 <ul>
       <li>added detailed datasets</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.10.2022</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added 353 Reward Track Bags</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added automatic referencing to all WvW Bags (eliminates manual calculation errors) Website Search</li>
       <li>added 353 Reward Track Bags to Search Index</li>
@@ -2144,21 +2144,21 @@ Mesmer
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.09.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Kessex Hills - The Tower of Nightmares (Public)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>End of Dragon HPs do not give Map Rewards anymore</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Tri-Key Chest</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.08.2022</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>new Version 2.0 Beta updated with profit values and durations</li>
       <li>added daily Achievements with profit values and durations</li>
@@ -2171,21 +2171,21 @@ Mesmer
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.08.2022</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added 40 Sinister Armor, Weapons and Trinkets</li>
       <li>added 37 Trailblazer's Armor and Weapons</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Update 02.08.2022</strong></p>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Zephyrite Supply Box Vendors</li>
       <li>added weekly Research Note entries to Zephyrite Supply Box Vendors</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 02.08.2022</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>added 252 Crafting Exotic Armors</li>
 </ul>
@@ -2199,49 +2199,49 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.07.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated Caledon Forest - Great Jungle Worm</li>
       <li>updated Queensdale - Shadow Behemoth</li>
       <li>updated Wayfarer Foothills - Svanir Shaman</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>Gaeting Crystal retires and is replaced by Magnetite Shards</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
 <ul>
       <li>Top-Tiered Terror Toppler (Weekly CMs) retires. Replaced by extra 2 Provisioner Token, 2 Gold and 1 Exotic Drop for each CM</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.07.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>/
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>/
 <ul>
       <li>Settings: Boss and HP Spots have now the option to include or exclude Spirit Shards in the total profit calculation</li>
       <li>added new Alt-Parking Spot: Arborstone - HP</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>Settings: Fishing has now the option to include or exclude Spirit Shards in the total profit calculation</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.06.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>cannot be looted anymore per map instance and now only once per character per day</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>adjusted Antique Summoning Stone and gold amount drops to Weekly Strike CMs</li>
       <li>added Weekly Harvest Temple CM</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Void's Magnificent Coffer</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.06.2022</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added save-state checkboxes and reset buttons</li>
       <li>saves checkboxes until you reset</li>
@@ -2252,20 +2252,20 @@ Settings
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 07.06.2022</strong></p>
-<a href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>ArenaNet combined all old dungeon currencies into default currency</li>
       <li>updated all references in Achievement Bags, Dungeons, Reward Tracks and Core Bags</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Dragon Bash Festival 07.06.2022 - 28.06.2022</strong></p>
-<a href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
       <li>no new updates or gold farms</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 25.05.2022</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>Research Kits now have a Research Stack option in their right-click menu</li>
       <li>added 224 Superior-, Major-, Minor- Sigils and Runes</li>
@@ -2273,44 +2273,44 @@ Settings
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 23.05.2022</strong></p>
-<a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
       <li>added Crafting - Precursor Conversions Category</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 22.05.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Dragonfall - Burning Forest Mob Farm</li>
       <li>added TacO Tekkit - Bjora Marches Chest Farm</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.05.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Echovald Wilds
 </li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added guaranteed Ancient Sapling Node to Training Grounds HP</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added further explanation to Treasure Hunter Farm</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>now sorted by profit instead of name</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 10.05.2022</strong></p>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Xunlai Junkyard CM</li>
       <li>updated improved rewards on End of Dragons Strike Mission CMs</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Can of Glow Worms</li>
       <li>added Can of Worms</li>
@@ -2318,7 +2318,7 @@ Settings
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.05.2022</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Ancient Ambergris from Taro Everclaw Vendor</li>
       <li>added Weekly Guild Missions</li>
@@ -2332,27 +2332,27 @@ General
       <li>optimized setting-component button highlight toggle color</li>
       <li>updated legal-component</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Sunken Treasure Hunter Farm</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.04.2022</strong></p>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Aetherblade Hideout CM (Weekly)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Mai Trin's Magnificent Chest</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.04.2022</strong></p>
-<a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
       </li>added flavor text</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>added flavor text</li>
       <li>added more items</li>
@@ -2360,86 +2360,86 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.04.2022</strong></p>
-<a href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
 <ul>
       <li>added missing Scavenger Protocol: Wood and Scavenger Bag: Wood</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Jade Mastery</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Jade Mastery</a>
 <ul>
       <li>added Gift of Jade Mastery</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.04.2022</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>updated with End of Dragons activities</li>
       <li>modified categories by usage</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
 <ul>
       <li>previous Daily Group Farming Checklist modified into now only being daily fractals</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>Mystic Clover toggle option in profit settings now active</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.04.2022</strong></p>
-<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>added Canach Coin</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
 <ul>
       <li>moved Eternal Ice Shard to Item-Conversions Category</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.04.2022</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Doggy Bag</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.03.2022</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>Recipes for lower-level potions of slaying have been adjusted. Weak recipes produce 1 potion, minor recipes produce 2, powerful recipes still produce 10, and all other recipes produce 3</li>
       <li>removed Cup of Light-Roasted Coffee (no longer yields research notes)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>Improved rewards on Dragon's End Meta (insignificant, garbage improvement)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
 <ul>
       <li>moved Badge of Honor to Conversions Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/testimony-of-desert-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_desert_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Desert Heroics</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-desert-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_desert_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Desert Heroics</a>
 <ul>
       <li>fixed naming of Testimony of Desert Heroics</li>
       <li>moved Testimony of Desert Heroics to Conversions Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
 <ul>
       <li>added conversion Testimony of Desert Heroics</li>
       <li>moved Testimony of Jade Heroics to Conversions Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Super Loot Bag</li>
       <li>moved Skirmish Chest to Bags Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>massive refactor</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
 <ul>
       <li>fixed blacklion-delivery-box-bags name to black-lion-delivery-box-bags</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 29.03.2022</strong></p>
-<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>No new gold methods or farms</li>
 </ul>
@@ -2453,16 +2453,16 @@ Top Nav Bar
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>End of Dragons Updates 01.03.2022 - 01.07.2022</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added  daily and weekly low-effort activities</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Dragon's End</li>
       <li>added Seitung Province</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Echovald Wilds - Qinkaishi Basin (80)</li>
       <li>added Echovald Wilds - Quarry Forelands</li>
@@ -2475,18 +2475,18 @@ Top Nav Bar
       <li>added Seitung Province - Training Grounds HP (80)</li>
       <li>added Dragon's End - The Jade Swirl - Jadeite Vein Farm (80)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Dragon's End - The Battle of the Jade Sea Meta</li>
       <li>added Echovald Wilds - Gang War Meta</li>
       <li>added New Kaineng City - Kaineng Blackout Meta</li>
       <li>added Seitung Province  - Aetherblade Assault Meta</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added Fishing</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
 <ul>
       <li>added Recycler: Bloodstone Dust</li>
       <li>added Recycler: Dragonite</li>
@@ -2499,12 +2499,12 @@ Top Nav Bar
       <li>added Scavenger Protocol: Metal</li>
       <li>added Scavenger Protocol: Might Trophies</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>added TP options (900 Entries)</li>
       <li>added Crafting options (400 Entries)</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Aetherblade Hideout</li>
       <li>added Aetherblade Hideout CM</li>
@@ -2515,68 +2515,68 @@ Top Nav Bar
       <li>added Xunlai Jade Junkyard</li>
       <li>added Xunlai Jade Junkyard CM</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>added Canach Coin</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="32px">&nbsp;Green Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="32px">&nbsp;Green Prophet Shard</a>
 <ul>
       <li>added Green Prophet Shard</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
       <li>added Imperial Favor</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/jade-sliver" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_sliver.png" alt="alt.png" width="32px">&nbsp;Jade Sliver</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/jade-sliver" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_sliver.png" alt="alt.png" width="32px">&nbsp;Jade Sliver</a>
 <ul>
       <li>added Jade Sliver</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/research_note.png" alt="alt.png" width="32px">&nbsp;Research Note</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/research_note.png" alt="alt.png" width="32px">&nbsp;Research Note</a>
 <ul>
       <li>added Research Note</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-jade-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_jade_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Jade Heroics</a>
 <ul>
       <li>added Testimony of Jade Heroics</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
 <ul>
       <li>added Unusual Coin</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Jade Mastery</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/gift-of-jade-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_jade_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Jade Mastery</a>
 <ul>
       <li>added Gift of Jade Mastery</li>
-      <li>related to <a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a></li>
+      <li>related to <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a></li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Fish (223 Entries</li>
       <li>added Bags (77 Entries)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
 <ul>
       <li>added End of Dragons Expedition Contract</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
 <ul>
       <li>added Herb Seedlings</li>
       <li>added Soybeans</li>
       <li>added Jadeite Vein</li>
       <li>added Petrified Echovald Sapling</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
-<a href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added End of Dragons (Non-Repeatable)</li>
       <li>added End of Dragons (Repeatable)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.02.2022</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>moved Tyrian Exchange Voucher from Currency Conversion Category to Tyria Bag</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>updated changes on Magic Find (750% Max with Boosters) in Farming Preparation</li>
 </ul>
@@ -2601,46 +2601,46 @@ General
       <li>merged Blacklion Bags into Tyria Bags</li>
       <li>refactored code base and routing on Chests Category - now renamed to Key Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added separate detailed dataset to Farm table for all Strike Missions</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.02.2022</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a>
 <ul>
       <li>added new item conversion (Gift of Mastery)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.02.2022</strong></p>
-<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
-<a href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>Blue Prophet Shards will only be rewarded from Icebrood Saga Strike Missions</li>
       <li>Green Prophet Shards will only be rewarded from End of Dragon Strike Missions</li>
       <li>removed combined Prophet Shard currency</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
 <ul>
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Lunar New Year Festival 25.01.2022</strong></p>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Item costs to acquire 1000 Luck table</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.01.2022</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 15-day automatic rotation with detailed datasets</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
 <ul>
       <li>added Fractals 1-100</li>
       <li>added Fractals CMs</li>
@@ -2651,7 +2651,7 @@ General
       <li>blue hyperlink will open detailed dataset now in an extra tab by right-click, middle-mouse-click or CTRL + left-click</li>
       <li>Open in same tab by left-click</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Split Farming Checklist into Daily Solo Farming Checklist and Daily Group Farming Checklist (voted by [fast] discord feedback poll)</li>
 </ul>
@@ -2664,12 +2664,12 @@ Cog Settings
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.01.2022</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added 78 new conversions (Commander's Weapons, Commander's Armor, Wanderer's Weapons, Wanderer's Armor, Sigils/Runes)</li>
 </ul>
 <p style="color: #7289da;"><strong>Website Updates 11.01.2022</strong></p>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added missing detailed datasets to following bags:</li>
 </ul>
@@ -2697,14 +2697,14 @@ Cog Settings
       <li>added Balthazar Backpack Box</li>
       <li>added Ultimate Wintersday Gift</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Chest of Exotic Equipment</li>
       <li>added 8 remaining Chest of Exotic Equipment Bags</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.01.2022</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added most profitable Daily Achievements</li>
 </ul>
@@ -2714,7 +2714,7 @@ General
 <ul>
       <li>refactored and changed ~120.000 INDEX formulas to calculate now via ID instead of name</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added detailed datasets to all main tables</li>
       <li>added Unidentified Dye</li>
@@ -2722,28 +2722,28 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.01.2022</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/blood-ruby" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blood_ruby.png" alt="alt.png" width="32px">&nbsp;Blood Ruby</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/blood-ruby" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blood_ruby.png" alt="alt.png" width="32px">&nbsp;Blood Ruby</a>
 <ul>
       <li>added Blood Ruby</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/mistborn-mote" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/mistborn_mote.png" alt="alt.png" width="32px">&nbsp;Mistborn Mote</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/mistborn-mote" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/mistborn_mote.png" alt="alt.png" width="32px">&nbsp;Mistborn Mote</a>
 <ul>
       <li>added Mistborn Mote</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/orrian-pearl" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/orrian_pearl.png" alt="alt.png" width="32px">&nbsp;Orrian Pearl</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/orrian-pearl" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/orrian_pearl.png" alt="alt.png" width="32px">&nbsp;Orrian Pearl</a>
 
 <ul>
       <li>added Orrian Pearl</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
 <ul>
       <li>added references to new item conversions (Blood Ruby, Orrian Pearl)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
       <li>added references to new item conversions (Mistborn Mote)</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Duration column to all categories with gold per hour profit columns</li>
 </ul>
@@ -2755,12 +2755,12 @@ General
       <li>changed duration headers in main tables and detailed datasets (only minutes now)</li>
       <li>removed Weekly Farming Category and Weekly Strike Mission Chest (see Chests for new category)</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added disclaimer text</li>
       <li>added categories (Farmtrains, Dungeons, Strike Missions)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Weekly Strike Chest</li>
 </ul>
@@ -2776,38 +2776,38 @@ Cog Settings (upper right corner)
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Wintersday 14.12.2021</strong></p>
-<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added new Wintersday Farm (Bell Choir)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 03.12.2021</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
-<a href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
-<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
-<a href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
-<a href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
       <li>added new Conversions in each conversion category above (Ascended Amulet Salvaging). Read the warning notices.</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.11.2021</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>added ~240 detailed datasets to all salvageable entries</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Dragonstorm</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
 <ul>
       <li>added new Column Limitations</li>
       <li>fixed broken images</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Farming Builds Updates 16.11.2021</strong></p>
-<a href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 <ul>
       <li>fixed Template Codes on following builds:</li>
       <li>Condi Quickness Firebrand</li>
@@ -2829,17 +2829,17 @@ Website Searchbar (Top Nav Bar)
       <li>now indexes all categories on the website</li>
       <li>updates itself automatically via fast-api</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>added Spearmarshal's Plea</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Sunspear Redemption Wish</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Farming Builds Updates 04.09.2021</strong></p>
-<a href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 <ul>
       <li>The choices and flavor text made for each build can be read on the website. This announcement only briefly summarizes newly added or changed builds.</li>
 </ul>
@@ -2887,17 +2887,17 @@ Condi Tempest
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Festival of the four Winds Festival 31.08.2021</strong></p>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>No new changes.</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.08.2021</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>added Piece of Unidentified Gear: Open unid, extract Upgrade, salvage (Green→Copper, Yellow→Silver) and sell (15% taxes)</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>The WvW Reward Track Data Project is finally completed!</li>
       <li>added Honor of the Waves Reward Track</li>
@@ -2914,14 +2914,14 @@ Condi Tempest
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.08.2021</strong></p>
-<a href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
-<a href="https://fast.farming-community.eu/item-conversions/difluorite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/difluorite_crystal.png" alt="alt.png" width="32px">&nbsp;Difluorite Crystal</a>
-<a href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
-<a href="https://fast.farming-community.eu/item-conversions/jade-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_shard.png" alt="alt.png" width="32px">&nbsp;Jade Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/difluorite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/difluorite_crystal.png" alt="alt.png" width="32px">&nbsp;Difluorite Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/jade-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_shard.png" alt="alt.png" width="32px">&nbsp;Jade Shard</a>
 <ul>
       <li>added consumption to VM/UM as default values and an extra table on Inscribed Shard, Difluorite Crystal, Branded Mass and Jade Shard due to unrealistic TP prices</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Bag of Personalized Wintersday Gifts (Accountbound)</li>
       <li>added Bag of Educational Supplies</li>
@@ -2930,37 +2930,37 @@ Condi Tempest
       <li>updated Little Lucky Envelope 2021 (340% MF)</li>
       <li>added Bag of Educational Supplies</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added PSNA - Torn Page from "Tyria Pact Survival Handbook"</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.08.2021</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>added Rare Unidentified Gear with Upgrade Extractor</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Verdant Brink - Creeping Crevasse HP</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.08.2021</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>Map Rewards now calculate the active current week instead of previously total average</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>Map Rewards now calculate the active current week instead of previously total average</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.08.2021</strong></p>
-<a href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
       <li>added 5 new Volatile Magic Conversions (Limited Purchases Category)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added Triforge Ring (Level 23, Fine, not salvaged)</li>
       <li>added Hatchet (Level 20, Fine, not salvaged)</li>
@@ -2982,7 +2982,7 @@ Condi Tempest
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Farming Builds Updates 22.07.2021</strong></p>
-<a href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 Power DPS Daredevil
 <ul>
       <li>No changes</li>
@@ -3027,7 +3027,7 @@ Condi DPS Renegade
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 21.07.2021</strong></p>
-<a href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
 <ul>
       <li>Value is calculated now with average positive profit from T5-T6 Trophy Conversions only instead of previously all average positive profits.</li>
 </ul>
@@ -3046,69 +3046,69 @@ General
       <li>fixed few columns not showing anything (Unlimited Gathering Tools)</li>
       <li>fixed column headers in Alt-Parking, Farmtrain and Solo-Farming</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Lake Doric - Jade Crystal Node Run TacO Route</li>
       <li>added Thunderhead Peaks - Dragon Crystal Node Run TacO Route</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.07.2021</strong></p>
-<a href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
 <ul>
       <li>added Unlimited Gathering Tools with Cast Times</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added 37 new Charged Quartz Crystal Conversions (Celestial Armor / Weapons / Trinkets)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/difluorite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/difluorite_crystal.png" alt="alt.png" width="32px">&nbsp;Difluorite Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/difluorite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/difluorite_crystal.png" alt="alt.png" width="32px">&nbsp;Difluorite Crystal</a>
 <ul>
       <li>added 5 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/fire-orchid-blossom" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fire_orchid_blossom.png" alt="alt.png" width="32px">&nbsp;Fire Orchid Blossom</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/fire-orchid-blossom" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fire_orchid_blossom.png" alt="alt.png" width="32px">&nbsp;Fire Orchid Blossom</a>
 <ul>
       <li>added 5 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/fresh-winterberry" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fresh_winterberry.png" alt="alt.png" width="32px">&nbsp;Fresh Winterberry</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/fresh-winterberry" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fresh_winterberry.png" alt="alt.png" width="32px">&nbsp;Fresh Winterberry</a>
 <ul>
       <li>added 5 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/glob-of-elder-spirit-residue" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glob_of_elder_spirit_residue.png" alt="alt.png" width="32px">&nbsp;Glob of Elder Spirit Residue</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/glob-of-elder-spirit-residue" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glob_of_elder_spirit_residue.png" alt="alt.png" width="32px">&nbsp;Glob of Elder Spirit Residue</a>
 <ul>
       <li>added 3 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/jade-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_shard.png" alt="alt.png" width="32px">&nbsp;Jade Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/jade-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_shard.png" alt="alt.png" width="32px">&nbsp;Jade Shard</a>
 <ul>
       <li>added 18 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/lump-of-mithrillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_mithrillium.png" alt="alt.png" width="32px">&nbsp;Lump of Mithrillium</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/lump-of-mithrillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_mithrillium.png" alt="alt.png" width="32px">&nbsp;Lump of Mithrillium</a>
 <ul>
       <li>added 3 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spool_of_silk_weaving_thread.png" alt="alt.png" width="32px">&nbsp;Spool of Silk Weaving Thread</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/spool-of-silk-weaving-thread" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spool_of_silk_weaving_thread.png" alt="alt.png" width="32px">&nbsp;Spool of Silk Weaving Thread</a>
 <ul>
       <li>added 3 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spool_of_thick_elonian_cord.png" alt="alt.png" width="32px">&nbsp;Spool of Thick Elonian Cord</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/spool-of-thick-elonian-cord" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spool_of_thick_elonian_cord.png" alt="alt.png" width="32px">&nbsp;Spool of Thick Elonian Cord</a>
 <ul>
       <li>added 2 new Item Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Domain of Kourna - Kournan Supply Cache Run TacO Route</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Kournan Supply Cache</li>
       <li>added Kournan Chest</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.07.2021</strong></p>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Twisted Marionette</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Hoard of the Marionette Warden I</li>
       <li>added Hoard of the Marionette Warden II</li>
@@ -3116,7 +3116,7 @@ General
       <li>added Hoard of the Marionette Warden IV</li>
       <li>added Hoard of the Marionette Warden V</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/elegy-mosaic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/elegy_mosaic.png" alt="alt.png" width="32px">&nbsp;Elegy Mosaic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/elegy-mosaic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/elegy_mosaic.png" alt="alt.png" width="32px">&nbsp;Elegy Mosaic</a>
 <ul>
       <li>added Mournstone Ring</li>
       <li>added Mournstone Earring</li>
@@ -3129,15 +3129,15 @@ General
       <li>This update contains an important qol feature: a search function for the website!</li>
       <li>added searchbar for all your needs</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Grothmar Valley - Burning Effigy</li>
       <li>added Grothmar Valley - Doomlore Shrine</li>
       <li>added Grothmar Valley - Ooze Pits</li>
       <li>added Thunderhead Peaks - Thunderhead Peak</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
-<a href="https://fast.farming-community.eu/gathering/glyphs" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glyphs.png" alt="alt.png" width="32px">&nbsp;Glyphs</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/glyphs" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glyphs.png" alt="alt.png" width="32px">&nbsp;Glyphs</a>
 <ul>
       <li>separated tables to show Sickle and Axe/Pick individually for Glyphs and Karmic Tools</li>
 </ul>
@@ -3149,12 +3149,12 @@ General
       <li>added Best Choice column for detailed datasets to show best Gathering Tools, Bag Opener Level or Salvage/Sell Options</li>
       <li>Many Best Choice entries will be filled until the next update</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>refactored Weekly Strike Chest</li>
       <li>added detailed datasets & descriptions</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <ul>
       <li>split currency conversion table due to profit limitations (Weekly Strike Mission Chest and Vendor)</li>
       <li>added detailed datasets & descriptions</li>
@@ -3165,40 +3165,40 @@ General
 <ul>
       <li>This update contains new categories and a lot of refactoring of tables. The refactoring took place, because a lot of older tables were not being layed out for the later added detailed datasets.</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/drizzlewood-material-donation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drizzlewood.png" alt="alt.png" width="32px">&nbsp;Drizzlewood Material Donation</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/drizzlewood-material-donation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drizzlewood.png" alt="alt.png" width="32px">&nbsp;Drizzlewood Material Donation</a>
 <ul>
       <li>refactored Drizzlewood Material Donation</li>
       <li>table can now show buy order values</li>
       <li>improved visualization of the data and clickable detailed datasets now possible</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>split PSNA / Map Reward in a new sub-category in Karma Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
 <ul>
       <li>added new Category Map Reward</li>
       <li>Best Map Reward Current Week is automatically updated if a new week passes</li>
       <li>Map Reward is automatically updated for all other map reward references in JP-Alt-Parking, Farmtrain and Meta</li>
       <li>added Detailed Datasets for all Map Rewards</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>refactored tables to be split into sub-categories (Vendor, Weekly Vendor) due to profit limitations</li>
       <li>added profit columns to festival farms</li>
       <li>removed redundant columns from various festival farms</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added new Lunar New Year Farm (Celestial Challenge)</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
 <ul>
       <li>added new Category Nodes showing Best Gathering Tool for each node</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 30.06.2021</strong></p>
-<a href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
 <ul>
       <li>refactored entire Spirit Shard Conversions on spreadsheet and code implementation:</li>
       <li>removed per Conversion columns to standardized profit and profit per shard columns</li>
@@ -3212,11 +3212,11 @@ General
 <ul>
       <li>links in multiple categories are now clickable hyperlinks</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added daily chests to detailed dataset and not in main farmtrain table</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>removed potential profit on Hero's Choice Chests due to limited converter gold conversions</li>
       <li>added added Airship Engine Case</li>
@@ -3227,27 +3227,27 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 27.06.2021</strong></p>
-<a href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>split table (crafting/recipes and vendor) for more clearance on which table is being used for calculations on all dungeon currencies (Ascalonian Tear, Deadly Bloom, Manifesto of the Moletariate, Knowledge Crystal, Seal of Beetletun, Shard of Zhaitan, Symbol of Koda)</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
-<a href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
-<a href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
-<a href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
 <ul>
       <li>fixed few missing price icons on several other categories</li>
       <li>added new price Icons to following categories</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added lunar new year tables (bags and luck vendor are now split)</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>fixed Reward Track columns showing now only one profit column at a time (Non-repeatable Reward Tracks)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added missing Best Choice column to Tyria Bags</li>
       <li>added missing Datasets column to Achievement Bags</li>
@@ -3260,11 +3260,11 @@ General
       <li>fixed multiple calculation errors (Spirit Shard calculated now with conversion-materials on buy order only with Profit on chosen cog-settings (upper right corner))</li>
       <li>added function: clicking on an image will now pop-up a high-resolution image</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
 <ul>
       <li>added Storage and Slot Bags</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>removed individual Category (Chest of Loyalty) and moved as detailed dataset to Tyria Bags Category</li>
       <li>moved Achievement to Bags Category</li>
@@ -3283,29 +3283,29 @@ General
       <li>fixed calculation error (Minimum instead of maximum value shown for eternal ice shard conversions)</li>
       <li>This affects mostly "Karma with currency" conversions.</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
       <li>No new conversion methods or farms. Enjoy the festivities.</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.06.2021</strong></p>
-<a href="https://fast.farming-community.eu/contributors" target="_blank">Contributors</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/contributors" target="_blank">Contributors</a>
 <ul>
       <li>updated Contributors / Supporters list</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unbound-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unbound_magic.png" alt="alt.png" width="32px">&nbsp;Unbound Magic</a>
 <ul>
       <li>added new Unbound Magic conversion (Offering Basket)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Retrospective Runaround JP Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
 <ul>
       <li>added 37 new Branded Mass Crafting Recipes</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
 <ul>
       <li>added 37 new Inscribed Shard Crafting Recipes</li>
 </ul>
@@ -3317,35 +3317,35 @@ General
       <li>To show the best tool for every gathering tool node it will be added as an additional column next to the node value, so website users do not have to click on every node to check the best tool individually.</li>
       <li>Aggregates of gathering tools are removed.</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added detailed datasets to nodes</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added detailed datasets to nodes</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>added detailed datasets to nodes and home nodes</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Transcendent Chest (Exotic)</li>
       <li>added Transcendent Chest (Rare)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Bjora Marches - Storms of Winter</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.06.2021</strong></p>
-<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>updated Farming Preparation multiple sections</li>
       <li>added video guide explanation for karmic retribution (Farming Buffs)</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
 <ul>
       <li>fixed calculation errors (double taxation on profit values)</li>
       <li>added detailed datasets to all dungeon paths</li>
@@ -3359,49 +3359,49 @@ General
       <li>split ascended junk into single items (Dragonite Ore, Empyreal Fragment and Pile of Bloodstone Dust)</li>
       <li>removed Champions Material Donations</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
 <ul>
       <li>added Branded Mass</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added Charged Quartz Crystal</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/dragonite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragonite_ore.png" alt="alt.png" width="32px">&nbsp;Dragonite Ore</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/dragonite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragonite_ore.png" alt="alt.png" width="32px">&nbsp;Dragonite Ore</a>
 <ul>
       <li>added Dragonite Ore</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/empyreal-fragment" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/empyreal_fragment.png" alt="alt.png" width="32px">&nbsp;Empyreal Fragment</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/empyreal-fragment" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/empyreal_fragment.png" alt="alt.png" width="32px">&nbsp;Empyreal Fragment</a>
 <ul>
       <li>added Empyreal Fragment</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
 <ul>
       <li>added Inscribed Shard</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/kralkatite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/kralkatite_ore.png" alt="alt.png" width="32px">&nbsp;Kralkatite Ore</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/kralkatite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/kralkatite_ore.png" alt="alt.png" width="32px">&nbsp;Kralkatite Ore</a>
 <ul>
       <li>added Kralkatite Ore</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pile_of_bloodstone_dust.png" alt="alt.png" width="32px">&nbsp;Pile of Bloodstone Dust</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pile_of_bloodstone_dust.png" alt="alt.png" width="32px">&nbsp;Pile of Bloodstone Dust</a>
 <ul>
       <li>added Pile of Bloodstone Dust</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eitrite-ingot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eitrite_ingot.png" alt="alt.png" width="32px">&nbsp;Eitrite Ingot</a>
 <ul>
       <li>moved Eitrite Ingot</li>
       <li>moved Hatched Chili</li>
       <li>moved Prismaticite Crystal</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/hatched-chili" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/hatched_chili.png" alt="alt.png" width="32px">&nbsp;Hatched Chili</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/hatched-chili" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/hatched_chili.png" alt="alt.png" width="32px">&nbsp;Hatched Chili</a>
 <ul>
       <li>moved Hatched Chili</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
 <ul>
       <li>moved Prismaticite Crystal</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
 <ul>
       <li>added Sorrow's Embrace P2</li>
       <li>added Sorrow's Embrace P3</li>
@@ -3410,11 +3410,11 @@ General
       <li>added Citadel of Flames P1</li>
       <li>added Citadel of Flames P3</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>split Karma Mystic Forge Conversions from conventional Karma Conversions into separate tables</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>removed volcanic box profit from Shiver WvW track (change to accountbound)</li>
 </ul>
@@ -3432,35 +3432,35 @@ General
 <ul>
       <li>Price columns now contain icons instead of words. Hover above the icon to reveal the item.</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
 <ul>
       <li>removed redundant profit columns due to upcoming detailed datasets</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>removed Drizzlewood Quaestor table which can not implemented due to missing API info</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>removed Duration column which can now only be accessed by clicking on individual Alt-Parking spots</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
-<a href="https://fast.farming-community.eu/conversions/testimony-of-desert-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_desert_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Desert Heroics</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-desert-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_desert_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Desert Heroics</a>
 <ul>
       <li>added missing price columns for Badge of Honor and Testimony of Heroics</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
 <ul>
       <li>bag opener table is now sorted by profit</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>garden node table is now sorted by profit</li>
       <li>removed redundant columns due to upcoming detailed datasets</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.05.2021</strong></p>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added detailed datasets to WvW Reward Tracks</li>
       <li>Loot tables of all bags and caches of researched reward tracks are now accessible.</li>
@@ -3479,29 +3479,29 @@ General
       <li>side navigation bar settings are now saved locally</li>
       <li>If a category is opened/closed, it will remain in that state until you change it again.</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
       <li>added Prismaticite Crystal - Discount Vendor</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 22.04.2021</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new Icebrood-Saga Bag (Kodan Supply Box)</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added Shiver Emote Tome Reward Track</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.04.2021</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>reworked the Goody Bags page to show each entity not in an entire table, but on its own</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.04.2021</strong></p>
-<a href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added new SAB Vendor item (Amalgamated Draconic Lodestone)</li>
 </ul>
@@ -3518,16 +3518,16 @@ General
       <li>fixed multiple reference mistakes with revamped Hero's Choice Chests</li>
       <li>fixed multiple bag reference mistakes (Farmtrains)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Olmakhan Supply Box</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
 <ul>
       <li>added Prismatium Ingot (5 Crystals)</li>
       <li>added Prismatium Ingot (10 Crystals)</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
 <ul>
       <li>taking enhancements from new mastery into account for total DRM profit</li>
       <li>added Bloodtide Coast</li>
@@ -3537,17 +3537,17 @@ General
       <li>added Caledon Forest CM</li>
       <li>added Fireheart Rise CM</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>taking enhancements from new mastery into account for total Prismaticite Crystal Node profit</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>added Weekly Black Lion Key Farm</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 19.03.2021</strong></p>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added new Category (Chests)</li>
       <li>added Large Essence Chest</li>
@@ -3616,11 +3616,11 @@ General
       <li>added Buried Locked Chest</li>
       <li>moved Fractal Encryption Key to Chest Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Lucky Red Bag (969% MF)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Jahai Bluffs - Death-Branded Shatterer</li>
 </ul>
@@ -3638,27 +3638,27 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.02.2021</strong></p>
-<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added Djinn Energy Cluster</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>added Open Green unid, salvage (Green=Copper-Fed, Yellow=Silver) and sell (15% taxes)</li>
       <li>changed descriptions to distinguish salvage options</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.02.2021</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new Tyria-Bag (Lucky Red Bag 2021 (~600% MF))</li>
       <li>added new Exalted Supply Box</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Lucky Red Bag 2021 (~600% MF)</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>added Open Unid, salvage and sell (15% taxes) + Luck calculation to Common and Masterwork Unid Gear</li>
 </ul>
@@ -3683,16 +3683,16 @@ General
       <li>fixed few broken tables due to missing references</li>
       <li>fixed few double taxes in tables due to the Detailed Dataset refactoring</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Lucky Red Bag 2021 (300% MF)</li>
       <li>added Lucky Red Bag 2021 (960% MF)</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>removed bug message from Lucky Red Bag 2021. The droprate on higher MF is intended.</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>renamed few Crafting Materials to their corresponding daily crafting material (Spool of Silk Weaving Thread: Gossamer Stuffing, Bolt of Damask etc.)</li>
       <li>added Lump of Mithrillium (Carbonized Mithrillium Ingot)</li>
@@ -3711,7 +3711,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 31.01.2021</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Bjora Marches - Essence Chest Spot 5</li>
       <li>added Bjora Marches - Essence Chest Spot 3</li>
@@ -3770,17 +3770,17 @@ General
 <ul>
       <li>updated Metatrain Guide with more detailed information</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>fixed final Chest loot on the Icebrood Saga Reward Track</li>
       <li>shows now best Choice option on Icebrood Saga Reward Track</li>
       <li>fixed smaller calculation mistakes (GW2API ID checks)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Deldrimor Supply Box</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
       <li>added new Tyria Defense Seal Conversion (Deldrimor Supply Box)</li>
 </ul>
@@ -3793,15 +3793,15 @@ General
       <li>added two views: Data (Expert Mode) & Farming (Beginner Mode)</li>
       <li>Farming view is the default view, but you can change back to the old view</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Strike Mission Weekly Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>renamed Node Farming to Solo Farming</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
 <ul>
       <li>added Dragon Response Missions</li>
 </ul>
@@ -3811,16 +3811,16 @@ API
 <ul>
       <li>API data is now saved to mongoDB</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/prismaticite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/prismaticite_crystal.png" alt="alt.png" width="32px">&nbsp;Prismaticite Crystal</a>
 <ul>
       <li>added Prismaticite Crystal</li>
       
 </ul>
-<a href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tyrian-defense-seal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tyrian_defense_seal.png" alt="alt.png" width="32px">&nbsp;Tyrian Defense Seal</a>
 <ul>
       <li>added Tyrian Defense Seal</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>added tooltip with all salvageable items you can search for</li>
 </ul>
@@ -3830,20 +3830,20 @@ General
 <ul>
       <li>added Metatrain Guide</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 Builds
 <ul>
       <li>added Power Quickness Chronomancer</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added new rotation on Metatrain</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added value for Brandspark Jewelry drops from Branded Geodermites</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added Ascalon Shield (Level 11, Fine)</li>
       <li>added Gear-locked Greatblade (Level 33, Masterwork)</li>
@@ -3857,7 +3857,7 @@ General
 <ul>
       <li>removed Spirit Shards Drops from Champion  on drop tables and all its dependencies: Farmtrain, Drizzlewood Reward Track, Alt-Parking, Home, Dungeon, Raid, Strikes</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added Corsair Sharpening Stone</li>
       <li>added Corsair Maintenance Oil</li>
@@ -3872,25 +3872,25 @@ General
       <li>added Seraph Sword (Level 20, Fine)</li>
       <li>added Lucky Rabbit's Foot (Level 80, Masterwork)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>moved Superior Buried Treasure and Buried Treasures to Chest Category</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>added price calculation for previous non-ascended accountbound food on Black Lion Delivery Boxes</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>fixed calculation error (Sandswept Isles, added missing Daily Chests)</li>
       <li>fixed Spirit Shard values (excluded Spirit Shards from Tyria-, Heart of Thorns & Path of Fire Bags)</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
 <ul>
       <li>fixed calculation mistake (Karmic Tools)</li>
       
 </ul>
-<a href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/nodes" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/nodes.png" alt="alt.png" width="32px">&nbsp;Nodes</a>
 <ul>
       <li>researched Maguuma Lily Drop Rate on Jungle Plants (flat increase from 1% to 5%)</li>
 </ul>
@@ -3900,26 +3900,26 @@ Alt-Parking
 <ul>
       <li>added Lion's Arch - Troll's Revenge (Node Field)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Lion's Arch - Rolan's Chest</li>
       <li>added Domain of Istan - Sunspear Cache TacO Route</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added Flush 4 Hemlocked Sword (Level 9, Fine)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/black-lion-delivery-box-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/black_lion_delivery_box.png" alt="alt.png" width="32px">&nbsp;Black Lion Delivery Box Bags</a>
 <ul>
       <li>renamed titles to match GW2 item names</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 09.01.2021</strong></p>
-<a href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
 <ul>
       <li>split up Fractal Relic table (Fractal Relic Vendors & Fractal Reliquary Converter)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Best Choice Column</li>
 </ul>
@@ -3929,30 +3929,30 @@ Festival
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 07.01.2021</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added more detailed information about passive Bjora Essence Chest Farm</li>
       <li>added Alt-Parking Information about parking Alts and routes to Bjora Essence Chests (Bjora Marches Guide)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Personalized Wintersday Gift</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.01.2021</strong></p>
-<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>fixed minor calculation error</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added Bottle of Putrid Wine</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
       <li>added description text to Volatile Magic on how to increase your profit margin from Trophy & Leather Shipments</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
 <ul>
       <li>added a detailed description text to be more clear how the values are being calculated</li>
 </ul>
@@ -3963,15 +3963,15 @@ General
       <li>added copyable Waypoint Links to every Non-instanciated Vendor</li>
       <li>fixed minor mistakes in linking wrong waypoints (Karma Conversions)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Bjora Marches - Verdant Herbs</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>fixed major calculation mistake (calculated by node instead of by plot, added missing TP taxes)</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Crystal Oasis: Hero's Choice Chest</li>
       <li>added Elon Riverlands: Hero's Choice Chest</li>
@@ -3984,7 +3984,7 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 18.12.2020</strong></p>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added Silverwastes</li>
       <li>added Maguuma Wastes</li>
@@ -4001,65 +4001,65 @@ General Settings (Cog Symbol)
 <ul>
       <li>added Average Spirit Shard Calculation (Include / Exclude to Total Profit)</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>completely revamped Unid Gear table, now showing all options with full profit values, which can be directly compared instead of difference values</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>completely revamped Salvageables, search bar for every salvageable item, that is not armor gear</li>
       <li>added 7 new Salvageables (Ascended Ring, Ascended Attuned Ring, Ascended Infused Ring, Ascended Attuned Infused Ring, Ascended Accessory, Ascended Amulet, Ascended Backpack)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 14.12.2020</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Masterwork Sigil Bag</li>
       <li>added Rare Sigil Bag, Masterwork Rune Bag, Rare Rune Bag)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/airship-part" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/airship_part.png" alt="alt.png" width="32px">&nbsp;Airship Part</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/airship-part" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/airship_part.png" alt="alt.png" width="32px">&nbsp;Airship Part</a>
 <ul>
       <li>added Sigil Bags (Masterwork)</li>
       <li>added Sigil Bags (Rare)</li>
       <li>added Rune Bag (Masterwork)</li>
       <li>added Rune Bag (Rare)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/ley-line-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ley_line_crystal.png" alt="alt.png" width="32px">&nbsp;Ley Line Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/ley-line-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ley_line_crystal.png" alt="alt.png" width="32px">&nbsp;Ley Line Crystal</a>
 <ul>
       <li>added Sigil Bags (Masterwork)</li>
       <li>added Sigil Bags (Rare)</li>
       <li>added Rune Bag (Masterwork)</li>
       <li>added Rune Bag (Rare)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/lump-of-aurillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_aurillium.png" alt="alt.png" width="32px">&nbsp;</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/lump-of-aurillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_aurillium.png" alt="alt.png" width="32px">&nbsp;</a>
 <ul>
       <li>added Sigil Bags (Masterwork)</li>
       <li>added Sigil Bags (Rare)</li>
       <li>added Rune Bag (Masterwork)</li>
       <li>added Rune Bag (Rare)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added 30 new Karma Conversions (Mystic Forge)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.12.2020</strong></p>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>added Prismaticite Node</li>
       <li>fixed Buy Order Listings</li>
       <li>fixed Buy Order Listings to show on Daily Farming Checklist correctly</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Ebon Vanguard Supply Box</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Dry Top - Skritt Queen Rich Quartz Vein</li>
       <li>added Verdant Brink - Matriarch</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Dry Top - Skritt Queen Rich Quartz Vein</li>
 </ul>
@@ -4071,17 +4071,17 @@ API
       <li>changed Google API to not call fast-API anymore due to error-prone activities</li>
       <li>fixed adding new items to the list</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added Mystic Forge - NPC Heart Vendors</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 01.12.2020</strong></p>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Dry Top</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Tootsie's Speed Pack</li>
       <li>added Traveler's Sack</li>
@@ -4089,15 +4089,15 @@ API
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.11.2020</strong></p>
-<a href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
       <li>added Diviner's Jewelry Recipe Book</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
 <ul>
       <li>added Diviner's Jewelry Recipe Book</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>fixed calculation errors (Karma, corrected Journeyman's Salvage Kit cost)</li>
 </ul>
@@ -4109,7 +4109,7 @@ General
       <li>It now shows the amount of currency and other components needed, as well how often it is available per day or week:</li>
       <li>X Currency (Category, limited: Y Amount daily/weekly)</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <ul>
       <li>fixed calculation errors (Prophet Shard, deducted wrong amount of shards)</li>
       <li>added Pristine Fang of the Whisper</li>
@@ -4119,7 +4119,7 @@ General
       <li>added Frozen Spark of Life</li>
       <li>added Ice Pearl</li>
 </ul>
-<a href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>fixed calculation errors (Badge of Honor, added missing crafting materials)</li>
 </ul>
@@ -4145,19 +4145,19 @@ Features
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.11.2020</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Cache of the Traveler</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added Cache of the Traveler</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/trade-contract" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/trade_contract.png" alt="alt.png" width="32px">&nbsp;Trade Contract</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/trade-contract" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/trade_contract.png" alt="alt.png" width="32px">&nbsp;Trade Contract</a>
 <ul>
       <li>added Cache of the Traveler</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>added 456 Exotic Weapons</li>
 </ul>
@@ -4167,64 +4167,64 @@ General
 <ul>
       <li>updated descriptions on several categories</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 16 Daily Achievements</li>
       <li>added 10 Timegated Crafting items</li>
       <li>updated descriptions</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>removed Dragonfall tricom</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.11.2020</strong></p>
-<a href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Daily Farming Checklist for all of your needs on one page.</li>
       <li>Contains best Dailies, Converter items, Best Alt-Parking spots, Best node-farms, Popular bosses, Daily timegated crafting values.</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 <ul>
       <li>fixed Runes / Sigils on Firebrand Build</li>
 </ul>
-<a href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>Icon page for better navigation</li>
       <li>added Videoguides for Dragonfall and Drizzlewood (more to come in future for other farmtrains)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>added Gizmos</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Goody Bags</li>
       <li>added Bag Opener</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>fixed Karma Wintersday table in Karma conversions</li>
       <li>added feature to show Buy and Sell Order independently (upper right corner)</li>
       <li>This feature will expand to other categories in the future including turning off specific currencies such as spirit shards and other profit dependencies etc.</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dungeons" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dungeons.png" alt="alt.png" width="32px">&nbsp;Dungeons</a>
 <ul>
       <li>added Dungeons</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.11.2020</strong></p>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added all Karmic Tools instead of showing only the best option on Karma Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Personalized Trick-or-Treat Bag Accountbound</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 31.10.2020</strong></p>
-<a href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>added 61 new Ascalonian Tear Conversions (Exotic Armor, Aether, Azureflame, Eidolon, ...)</li>
       <li>added 55 new Deadly Blossom Conversions (Exotic Armor, The Mad Moon)</li>
@@ -4237,29 +4237,29 @@ General
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 16.10.2020</strong></p>
-<a href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added description of average Bags per Hour and average Magic Find from datasets</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 13.10.2020</strong></p>
-<a href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
       <li>Supporters, Commanders, Developers and Data Research Team as well as Members who handed in good amount of research data are now being credited on our Contributor page!</li>
       <li>Thank you for supporting me on this journey!</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 08.10.2020</strong></p>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>fixed a major calculation mistake - adding taxes to Unid Gear: We are comparing Unid Gear, which is sold with taxes on the TP vs Salvaging Materials which are also sold with taxes on the TP</li>
       <li>If you are buying Unid Gear off the TP, you have to remove the taxes, which will lower the profit margin! This category is going to be added in the future.</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>integrated the new best Bag Opener Level (Salvage only) to Tyria- and HoT-Bag Categories</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
 <ul>
       <li>added Top-Tiered Terror Toppler (Weekly CMs)</li>
 </ul>
@@ -4272,16 +4272,16 @@ General
       <li>added images on Alt-Parking</li>
       <li>added images on Farmtrain</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>added explanation for new TP Buy / Sell header descriptions</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>fixed sorting on Karma with Currency</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>fixed calculations on best sickle and best axe/pick on Solo-Farming</li>
       <li>fixed calculations on best sickle and best axe/pick on Alt-Parking</li>
@@ -4296,15 +4296,15 @@ General
       <li>changed all NET Gold / hr occurences to TP Sell Profit / hr</li>
       <li>changed all Profit occurences to TP Sell Profit</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
-<a href="https://fast.farming-community.eu/gathering/glyphs" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glyphs.png" alt="alt.png" width="32px">&nbsp;Glyphs</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/glyphs" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glyphs.png" alt="alt.png" width="32px">&nbsp;Glyphs</a>
 <ul>
       <li>removed Best Glyph and Karmic Tool due to same outcome (Profit per Strike is used) in Solo-Farming</li>
       <li>added Best Sickle and Best Axe/Pick depending on the node in Solo-Farming</li>
       <li>added images to Solo-Farming for better readability</li>
       <li>added Profit / Strike to Karmic Tools tables</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
 <ul>
       <li>changed duration from decimal to HH:MM format</li>
 </ul>
@@ -4314,7 +4314,7 @@ API
 <ul>
       <li>updates now every hour</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
 <ul>
       <li>merged Level 41-55 and Level 56-70 into Level 1-70 table</li>
       <li>merged Sickle and Mining/Logging tables due to same profit per strike</li>
@@ -4337,11 +4337,11 @@ API
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 28.09.2020</strong></p>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Dragonfall - Tricom</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Crystallized Cache (Rata Novus)</li>
       <li>added Crystallized Cache (Nuhoch)</li>
@@ -4351,17 +4351,17 @@ API
       <li>added Large Airship Cargo</li>
       <li>added Tarnished Traitor Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Treasure Shroom</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 15.09.2020</strong></p>
-<a href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added Trophy Shipment</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Mistborn Coffer (Capped)</li>
 </ul>
@@ -4373,38 +4373,38 @@ General
       <li>fixed overall minor calculations</li>
       <li>fixed Unid Gear calculation using Material Buy Order instead of Sell Order</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>updated Drizzlewood South+North</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <ul>
       <li>added Weekly Strike Chest - Lit Echo Combinations</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>due to the removal of exception handling this section will be entirely revamped at some point and is currently out of function!</li>
       <li>in near future it will receive a proper table function to split material buy&sell order + item buy&sell order</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 06.09.2020</strong></p>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Exalted Chest</li>
       <li>added Grand Exalted Chest</li>
       <li>added Great Exalted Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated Auric Basin - Octovine data to be now static using Chest data to lower variance</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>fixed a calculation error</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.09.2020</strong></p>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Bags of Loot</li>
       <li>added Big Bag of Junk</li>
@@ -4425,44 +4425,44 @@ General
       <li>added Metal Shipment</li>
       <li>added Wood Shipment</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Mistborn Coffer</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Dragonfall Meta</li>
       <li>added Dragonfall Champtrain</li>
       <li>added Dragonfall Meta & Champtrain</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>reworked / renewed Common Unid Gear Data</li>
       <li>reworked / renewed Masterwork Unid Gear Data</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 04.09.2020</strong></p>
-<a href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>readded Bjora Marches - Small Chest</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
-<a href="https://fast.farming-community.eu/gathering/glyphs" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glyphs.png" alt="alt.png" width="32px">&nbsp;Glyphs</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/glyphs" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/glyphs.png" alt="alt.png" width="32px">&nbsp;Glyphs</a>
 <ul>
       <li>Category Gathering Tools is now split into Glyphs and Karmic Tools</li>
       <li>fixed Solo-Farming not showing the correct "Best Glyph"</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>festival-specific Karma Conversions have now their own table</li>
       <li>added 39 "Karma Wintersday Festival" Conversions to Karma Conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>fixed Home Garden Nodes not showing the "Best Gathering Tool"</li>
       <li>a future release will also show the best Karmic Tool</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added 39 "Karma Wintersday Festival" Conversions to Wintersday</li>
 </ul>
@@ -4476,30 +4476,30 @@ General
 <ul>
       <li>moved Luck Conversion to Lunar New Year Festival</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>added Tale of Dungeon Delving</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/guild-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/guild-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
 <ul>
       <li>added 20 new conversions</li>
 </ul>
-<a href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
 <ul>
       <li>updated Eternal Ice Shards Conversions to be more precise</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>moved Chest of Loyalty from Conversions to Bags</li>
       <li>updated Tyrian Exchange Voucher with Dungeon Token values</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>added Equipment Bag</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 20.08.2020</strong></p>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Drizzlewood - 2x South</li>
 </ul>
@@ -4509,11 +4509,11 @@ General
 <ul>
       <li>added descriptions / explanations on several categories</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>revamped Unid Gear section (added more categories, such as open vs unopened salvaging and .95 TP order)</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Boss Blitz Farm with more realistic value (added downtime value)</li>
 </ul>
@@ -4525,23 +4525,23 @@ General
       <li>Tables are sorted now in the Frontend not Spreadsheet</li>
       <li>added images into headers for better readability</li>
 </ul>
-<a href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>changed Salvageables table to show Buy and Sell Order horizontally</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/airship-part" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/airship_part.png" alt="alt.png" width="32px">&nbsp;Airship Part</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/airship-part" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/airship_part.png" alt="alt.png" width="32px">&nbsp;Airship Part</a>
 <ul>
       <li>added Airship Part</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/geode" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/geode.png" alt="alt.png" width="32px">&nbsp;Geode</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/geode" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/geode.png" alt="alt.png" width="32px">&nbsp;Geode</a>
 <ul>
       <li>added Geode</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/ley-line-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ley_line_crystal.png" alt="alt.png" width="32px">&nbsp;Ley Line Crystal</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/ley-line-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/ley_line_crystal.png" alt="alt.png" width="32px">&nbsp;Ley Line Crystal</a>
 <ul>
       <li>added Ley Line Crystal</li>
 </ul>
-<a href="https://fast.farming-community.eu/conversions/lump-of-aurillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_aurillium.png" alt="alt.png" width="32px">&nbsp;</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/lump-of-aurillium" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lump_of_aurillium.png" alt="alt.png" width="32px">&nbsp;</a>
 <ul>
       <li>added Lump of Aurillium</li>
 </ul>
@@ -4551,16 +4551,16 @@ General
 <ul>
       <li>API updates for now automatically every day @ 0:00 GMT+2</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Bag of Crafting Materials</li>
       <li>added Bag of More Crafting Materials</li>
 </ul>
-<a href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/karmic-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karmic_tools.png" alt="alt.png" width="32px">&nbsp;Karmic Tools</a>
 <ul>
       <li>added Frostbitten Orichalcum Tools (not included in Solo-Farming calculations, because only available during Wintersday)</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>added Festival Vendor Token Conversions (Heavy Crafting Bag, Tome of Knowledge, Fervid Cernser)</li>
 </ul>
@@ -4572,23 +4572,23 @@ General
       <li>fixed several table issues not showing the correct values</li>
       <li>fixed multiple columns to order correctly (mixed: numerical and non-numerical)</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>updated Drizzlewood Farmtrain (optimized route, gph increase from 24 to 27 gph)</li>  
 </ul>
-<a href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
 <ul>
       <li>added missing Frost Legion and Dominion Commendation to Drizzlewood Material Donation</li>
 </ul>
-<a href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added more data to the new Frost Legion Chest to decrease variance</li>
 </ul>
-<a href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Mount Maelstrom - Gauntlet Gulch</li>
 </ul>
-<a href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>rounded Karma Values on Boss Blitz Farm for better readability</li>
 </ul>
