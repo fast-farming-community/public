@@ -7,6 +7,11 @@
       <li>Selections are saved more efficiently in the background, reducing unnecessary work in your browser</li>
       <li>Page performance has been improved, making tables load and respond faster when selecting or deselecting items</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
+<ul>
+      <li>improved bag opener guide: now shown in a clear table</li>
+      <li>add Level guide: clarified Rarity splits and salvage kit choices</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
       <li>added Splendid Chest (Detailed)</li>
