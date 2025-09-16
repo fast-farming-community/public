@@ -1,4 +1,9 @@
 <p style="color: #7289da;"><strong>Website Updates 16.09.2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>Meta Auto-Reload Timer can now be manually stopped/resumed</li>
+      <li>Auto-reload button: Stop (red) and Resume (green).</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Timers now update immediately when you open the page, so you always see the correct countdown without delay</li>
