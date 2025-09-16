@@ -7,6 +7,15 @@
       <li>Selections are saved more efficiently in the background, reducing unnecessary work in your browser</li>
       <li>Page performance has been improved, making tables load and respond faster when selecting or deselecting items</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Splendid Chest (Detailed)</li>
+      <li>added Splendid Chest 1-20</li>
+      <li>added Splendid Chest 21-35</li>
+      <li>added Splendid Chest 36-50</li>
+      <li>added Splendid Chest 51-70</li>
+      <li>moved Splendid Chest 71-80 into Splendid Chest (Detailed)</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.09.2025</strong></p>
 General
