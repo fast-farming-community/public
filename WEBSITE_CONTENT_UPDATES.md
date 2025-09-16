@@ -2,7 +2,7 @@
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Timers now update immediately when you open the page, so you always see the correct countdown without delay</li>
-      <li>Weekly reset now happens exactly at Monday 07:30, matching the official reset time</li>
+      <li>Weekly reset now happens at the current week's Monday instead of comparing against the upcoming Monday, which previously caused weekly selections to reset every day</li>
       <li>Old or removed checklist items are automatically cleared to keep your selections up to date</li>
       <li>Selections are saved more efficiently in the background, reducing unnecessary work in your browser</li>
       <li>Page performance has been improved, making tables load and respond faster when selecting or deselecting items</li>
@@ -15,6 +15,7 @@
       <li>added Splendid Chest 36-50</li>
       <li>added Splendid Chest 51-70</li>
       <li>moved Splendid Chest 71-80 into Splendid Chest (Detailed)</li>
+      <li>updated Alt-Parking entries with Splendid Chest (Detailed)</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 12.09.2025</strong></p>
