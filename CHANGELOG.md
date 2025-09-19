@@ -1,4 +1,9 @@
 <h4>For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.</h4>
+<h2>2025-09-19</h2>
+<h3>Added</h3>
+<ul>
+<li>add dynamic headers to detailed data <a href="https://github.com/fast-farming-community/website/pull/569">#569</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
+</ul>
 <h2>2025-09-16</h2>
 <h3>Added</h3>
 <ul>
