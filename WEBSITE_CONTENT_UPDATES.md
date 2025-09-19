@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 19.09.2025</strong></p>
+General
+<ul>
+      <li>improved Headers to only show the relevant profit values and selected Fractal Title profit values</li>
+      <li>added dynamic layout to show all columns from main table: e.g. Duration, Pays Off, Costs per item variations...</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 16.09.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
