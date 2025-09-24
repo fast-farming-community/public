@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 24.09.2025</strong></p>
+User Account
+<ul>
+      <li>You can now change your password in Profile. This previously missing safety feature is live—currently on the legacy backend.</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 19.09.2025</strong></p>
 General
 <ul>
