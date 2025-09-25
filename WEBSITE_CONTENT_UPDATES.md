@@ -3,6 +3,12 @@ General User Experience
 <ul>
       <li>Outdated or broken detail links now show a ‘Page Not Found’ message instead of doing nothing. Legacy Backend now sends a 404 return code instead of logging an error message.</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<ul>
+      <li>moved legacy reward tracks that are no longer repeatable to Non-Repeatable Table</li>
+      <li>updated Limitation columns on reward tracks</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 24.09.2025</strong></p>
 User Account
