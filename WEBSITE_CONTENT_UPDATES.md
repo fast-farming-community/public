@@ -1,3 +1,9 @@
+<p style="color: #7289da;"><strong>Website Updates 25.09.2025</strong></p>
+General User Experience
+<ul>
+      <li>Outdated or broken detail links now show a ‘Page Not Found’ message instead of doing nothing. Legacy Backend now sends a 404 return code instead of logging an error message.</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 24.09.2025</strong></p>
 User Account
 <ul>
