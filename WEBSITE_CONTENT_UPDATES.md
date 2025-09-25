@@ -2,7 +2,7 @@
 General User Experience
 <ul>
       <li>Outdated or broken detail links now show a ‘Page Not Found’ message instead of doing nothing. Legacy Backend now sends a 404 return code instead of logging an error message.</li>
-      <li>The data fetching has been optimized — Main and Detailed Tables now run seamlessly one after the other, with no unnecessary 15-minute gap, due to my efforts on improving Google API data fetching.</li>
+      <li>The spreadsheet data fetching has been optimized — Main and Detailed Tables now run seamlessly one after the other, with no unnecessary 15-minute gap, due to my efforts on improving spreadsheet API data fetching.</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
