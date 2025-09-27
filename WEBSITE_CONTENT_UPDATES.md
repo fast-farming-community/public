@@ -8,6 +8,7 @@
       <li>removed brittle spreadsheet formulas that were error-prone and often updated incorrectly</li>
       <li>added precise reset flips respecting client's timezone for PSNA vendor, and map reward rotations</li>
       <li>added clock timers for PSNA vendor and map reward so users can see the next reset countdown</li>
+      <li>added dual-filtering for PSNA vendors to support Map Reward cycles simultaneously</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
 <ul>
