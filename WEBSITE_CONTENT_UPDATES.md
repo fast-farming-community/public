@@ -1,3 +1,14 @@
+<p style="color: #7289da;"><strong>Website Updates 27.09.2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
+<ul>
+      <li>fixed Fractals extras data loading so Savant/Prodigy/Champion/God values are properly applied and removed old fractal headers</li>
+      <li>moved extra profit calculation into the frontend for faster updates and future-proofing, since the new backend focuses purely on clean data delivery</li>
+      <li>moved the entire increment calculation into the frontend, removing the old spreadsheet logic and ensuring it updates cleanly at reset</li>
+      <li>added a daily reset timer clock (same style as Farming Daily)</li>
+      <li>added three filter buttons for Daily Fractals: Show Today, Show Next Day, and Show All</li>
+      <li>added active increment (today’s, next day’s, or “all increments”) in header next to the new filter buttons</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 25.09.2025</strong></p>
 General User Experience
 <ul>
