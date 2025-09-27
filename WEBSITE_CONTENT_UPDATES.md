@@ -1,4 +1,14 @@
 <p style="color: #7289da;"><strong>Website Updates 27.09.2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma and other Currencies</a>
+<ul>
+      <li>added PSNA Vendor table to Daily Farming Checklist</li>
+      <li>moved all daily, weekly, and vendor rotation logic from spreadsheets into the frontend</li>
+      <li>moved expiration handling for checklist selections (daily vs. weekly) into the frontend</li>
+      <li>removed brittle spreadsheet formulas that were error-prone and often updated incorrectly</li>
+      <li>added precise reset flips respecting client's timezone for PSNA vendor, and map reward rotations</li>
+      <li>added clock timers for PSNA vendor and map reward so users can see the next reset countdown</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
 <ul>
       <li>fixed Fractals extras data loading so Savant/Prodigy/Champion/God values are properly applied and removed old fractal headers</li>
