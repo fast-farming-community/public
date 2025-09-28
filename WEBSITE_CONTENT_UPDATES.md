@@ -1,3 +1,17 @@
+<p style="color: #7289da;"><strong>Website Updates 29.09.2025</strong></p>
+General
+<ul>
+      <li>added built-in ag-grid tooltips, showing for about 3 secs when hovering above squished columns</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<ul>
+      <li>added Daily Strike Missions table to Daily Farming Checklist</li>
+      <li>removed Daily Instance table</li>
+      <li>moved Dragonstorm entry to Daily Active PvE table</li>
+      <li>moved Strike Mission rotation logic from spreadsheets into the frontend</li>
+      <li>removed last remaining brittle spreadsheet formulas that were error-prone and often updated incorrectly</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 27.09.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma and other Currencies</a>
