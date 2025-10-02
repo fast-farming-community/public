@@ -1,3 +1,18 @@
+<p style="color: #7289da;"><strong>Website Updates 02.10.2025</strong></p>
+General
+<ul>
+      <li>Supporters now get faster data refreshes — finally something extra after all these years</li>
+      <li>Free users still get updates every hour, so nothing changes for you</li>
+      <li>The faster refreshes are a little way to give something back for all the support</li>
+      <li>Big thanks to everyone helping out — you’re the reason the fast-project is still alive</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<ul>
+      <li>The farming tracker had issues in the frontend due to repeated CORS errors, so I moved the tracker logic to the backend</li>
+      <li>With this change, the API key validation issues are also resolved</li>
+      <li>The tracker is now running stable and smooth again</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 29.09.2025</strong></p>
 General
 <ul>
@@ -109,7 +124,7 @@ General
 <ul>
       <li>improved Daily Checklist timers</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
 <ul>
       <li>fixed API unresolved error handling</li>
       <li>fixed start, save and reset buttons to hide when empty or invalid API-Key is used</li>
