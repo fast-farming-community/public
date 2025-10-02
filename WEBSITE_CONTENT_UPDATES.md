@@ -6,7 +6,7 @@ General
       <li>The faster refreshes are a little way to give something back for all the support</li>
       <li>Big thanks to everyone helping out — you’re the reason the fast-project is still alive</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
 <ul>
       <li>The farming tracker had issues in the frontend due to repeated CORS errors, so I moved the tracker logic to the backend</li>
       <li>With this change, the API key validation issues are also resolved</li>
