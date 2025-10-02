@@ -11,6 +11,8 @@ General
       <li>The farming tracker had issues in the frontend due to repeated CORS errors, so I moved the tracker logic to the backend</li>
       <li>With this change, the API key validation issues are also resolved</li>
       <li>The tracker is now running stable and smooth again</li>
+      <li>API keys are now managed via profile after upon registering on the fast-website</li>
+      <li>The tracker service now just uses the key provided by the profile, making it simpler and more reliable</li>
 </ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 29.09.2025</strong></p>
