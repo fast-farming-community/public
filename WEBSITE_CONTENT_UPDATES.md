@@ -1,3 +1,11 @@
+<p style="color: #7289da;"><strong>Website Updates 05.10.2025</strong></p>
+General
+<ul>
+      <li>added a completely new global search that uses all main table data rows from the backend</li>
+      <li>added search results that now display relevant pages, tables, and entries directly from the API</li>
+      <li>removed the old search system that only indexed once per day simple table data</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 02.10.2025</strong></p>
 General
 <ul>
