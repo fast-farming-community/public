@@ -1,3 +1,17 @@
+<p style="color: #7289da;"><strong>Website Updates 10.10.2025</strong></p>
+General
+<ul>
+<li>added live status checks for public GW2 API with real-time updates</li>
+      <ul>
+            <li>Website-relevant GW2 API endpoints:</li>
+            <li>/v2/items</li>
+            <li>/v2/currencies</li>
+            <li>/v2/commerce/listings</li>
+            <li>/v2/commerce/prices</li>
+            <li>/v2/commerce/exchange/gems</li>
+      </ul>
+<li>added indicators in the top and mobile navigation menu</li>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 05.10.2025</strong></p>
 General
 <ul>
