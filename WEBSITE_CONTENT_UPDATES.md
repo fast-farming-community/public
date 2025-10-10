@@ -11,6 +11,7 @@ General
             <li>/v2/commerce/exchange/gems</li>
       </ul>
 <li>added indicators in the top and mobile navigation menu</li>
+</ul>
 <hr>
 <p style="color: #7289da;"><strong>Website Updates 05.10.2025</strong></p>
 General
