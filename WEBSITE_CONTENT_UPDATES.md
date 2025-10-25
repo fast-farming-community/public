@@ -1,3 +1,11 @@
+<p style="color: #7289da;"><strong>Website Updates 25.10.2025</strong></p>
+General
+<ul>
+      <li>added a neutral gray status while the website checks the Fast-API connection</li>
+      <li>changed the red status to appear faster when the Fast-API service is unreachable</li>
+      <li>improved overall API status handling for more accurate and user-friendly behavior</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 10.10.2025</strong></p>
 General
 <ul>
