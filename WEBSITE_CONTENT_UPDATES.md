@@ -1,3 +1,10 @@
+<p style="color: #7289da;"><strong>Website Updates 26.10.2025</strong></p>
+General
+<ul>
+      <li>added password reset feature (including email verification, cooldown protection and validation for password requirements)</li>
+      <li>added password reset requests to be limited to every 30 seconds</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 25.10.2025</strong></p>
 General
 <ul>
