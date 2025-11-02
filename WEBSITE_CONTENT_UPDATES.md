@@ -1,3 +1,75 @@
+<p style="color: #7289da;"><strong>Visions of Eternity Expansion Website Updates November 2025</strong></p>
+General
+<ul>
+      <li>changed all previous Unusual Coins into Ancient Coins</li>
+      <li>added Daily Orb Cavern Jumping Puzzle Achievement</li>
+      <li>added Daily Inquest Hologram Achievement</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>Shipwreck Strand - Hammerhart Rumble</li>
+      <li>Starlit Weald - Secrets of the Weald</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<ul>
+      <li>Magic Mirror</li>
+      <li>Starlit Weald - Magic Mirror</li>
+      <li>Shipwreck Strand - Magic Mirror</li>
+      <li>Ancient Wood Log</li>
+      <li>Saffron Thread</li>
+      <li>Shipwreck Strand - Flotsam Grotto Skimmerway</li>
+      <li>Shipwreck Strand - Sailor's Heart Grotto</li>
+      <li>Shipwreck Strand - Glimmering Arches</li>
+      <li>Shipwreck Strand - Pub Canach Waypoint</li>
+      <li>Shipwreck Strand - Orb Cavern JP</li>
+      <li>Starlit Weald - Inquest Hologram JP</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>Aetherlocation Treasure</li>
+      <li>Rare Aetherlocation Treasure</li>
+      <li>Small Obscured Chest (Shipwreck Strand)</li>
+      <li>Medium Obscured Chest (Shipwreck Strand)</li>
+      <li>Magic Mirror Chest (Shipwreck Strand)</li>
+      <li>Small Obscured Chest (Starlit Weald)</li>
+      <li>Medium Obscured Chest (Starlit Weald)</li>
+      <li>Magic Mirror Chest (Starlit Weald)</li>
+      <li>Magnificent Chest (Hammerhart Rumble Meta)</li>
+      <li>Magnificent Chest (Secrets of the Weald Meta)</li>
+      <li>Seer Storage Chest</li>
+      <li>Large Seer Storage Chest</li>
+      <li>Seneschal's Chest</li>
+      <li>Treasure Chest (Orb Cavern)</li>
+      <li>Chest (Inquest Hologram)</li>
+      <li>Bouncy Chest Event (Shipwreck Strand)</li>
+      <li>Bouncy Chest Event (Starlit Weald)</li>
+      <li>Bouncy Chest Group Event (Shipwreck Strand)</li>
+      <li>Bouncy Chest Group Event (Starlit Weald)</li>
+      <li>Bouncy Chest Meta Event (Hammerhart Rumble Meta)</li>
+      <li>Bouncy Chest Meta Event (Secrets of the Weald Meta)</li>
+      <li>Bonus Chest Event (Castoran Survivalist - Natural Abundance)</li>
+      <li>Bonus Chest Event (Visions of Eternity)</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>Tropical Beach Gear Bag (Orb Cavern JP)</li>
+      <li>Tropical Beach Gear Bag (Inquest Hologram JP)</li>
+      <li>Castoran Cache of Riches</li>
+      <li>Castora Cache</li>
+      <li>Hammerhart's "Recovered" Hoard</li>
+      <li>Castora: Hero's Choice Chest</li>
+      <li>Bearded Sunfish</li>
+      <li>Seaseed-Cutting Scythetail</li>
+      <li>Sapphire-Scaled Moonfish</li>
+      <li>Ruby-Scaled Goatfish</li>
+      <li>Emerald-Scaled Grouper</li>
+      <li>Castoran Bicorn</li>
+      <li>Secret Squid</li>
+      <li>Illustrious Opah</li>
+      <li>Elusive Boxcrab</li>
+      <li>Illusive Jellycrab</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 26.10.2025</strong></p>
 General
 <ul>
@@ -130,7 +202,7 @@ General
       <li>Selections are saved more efficiently in the background, reducing unnecessary work in your browser</li>
       <li>Page performance has been improved, making tables load and respond faster when selecting or deselecting items</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu//bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
 <ul>
       <li>improved bag opener guide: now shown in a clear table</li>
       <li>add Level guide: clarified Rarity splits and salvage kit choices</li>
