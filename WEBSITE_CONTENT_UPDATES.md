@@ -70,6 +70,12 @@ General
       <li>Illusive Jellycrab</li>
 </ul>
 <hr>
+<p style="color: #7289da;"><strong>Website Updates 04.11.2025</strong></p>
+General
+<ul>
+      <li>The detailed data pages have been updated to now be displayed in browser tabs for a more informative user experience.</li>
+</ul>
+<hr>
 <p style="color: #7289da;"><strong>Website Updates 26.10.2025</strong></p>
 General
 <ul>
