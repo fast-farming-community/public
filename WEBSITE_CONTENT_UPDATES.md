@@ -1,3 +1,14 @@
+<p style="color: #7289da;"><strong>Website Updates November 2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/monthly-raffle" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/monthly_raffle.png" alt="alt.png" width="32px">&nbsp;Monthly Raffle</a>
+The [fast] Monthly Raffle is now available to everyone.
+Winners are drawn randomly at the end of each month.
+Once the raffle is drawn, the results and prices are frozen for history.
+Free users can sign up each month on the raffle page after logging in with just one click. Supporters are auto-signed monthly.
+Make sure a valid GW2 API key is added in your profile so we can link your IGN — without it, you can’t win.
+https://fast.farming-community.eu/auth/profile
+Thanks to every supporter for keeping the [fast] project alive. ❤️
+Good luck in the draw! 🍀
+<hr>
 <p style="color: #7289da;"><strong>Visions of Eternity Expansion Website Updates November 2025</strong></p>
 General
 <ul>
