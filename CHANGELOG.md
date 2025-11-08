@@ -1,4 +1,9 @@
 <h4>For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.</h4>
+<h2>2025-11-08</h2>
+<h3>Added</h3>
+<ul>
+<li>add Monthly Raffle <a href="https://github.com/fast-farming-community/website/pull/574">#574</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
+</ul>
 <h2>2025-10-26</h2>
 <h3>Added</h3>
 <ul>
