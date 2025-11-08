@@ -1,4 +1,4 @@
-<p style="color: #7289da;"><strong>Website Updates November 2025</strong></p>
+<p><strong>Website Updates November 2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/monthly-raffle" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/monthly_raffle.png" alt="alt.png" width="32px">&nbsp;Monthly Raffle</a>
 <ul>
       <li>The [fast] Monthly Raffle is now available to everyone.</li>
@@ -11,7 +11,7 @@
       <li>Good luck in the draw! 🍀</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Visions of Eternity Expansion Website Updates November 2025</strong></p>
+<p><strong>Visions of Eternity Expansion Website Updates November 2025</strong></p>
 General
 <ul>
       <li>changed all previous Unusual Coins into Ancient Coins</li>
@@ -83,20 +83,20 @@ General
       <li>Illusive Jellycrab</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.11.2025</strong></p>
+<p><strong>Website Updates 04.11.2025</strong></p>
 General
 <ul>
       <li>The detailed data pages have been updated to now be displayed in browser tabs for a more informative user experience.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 26.10.2025</strong></p>
+<p><strong>Website Updates 26.10.2025</strong></p>
 General
 <ul>
       <li>added password reset feature (including email verification, cooldown protection and validation for password requirements)</li>
       <li>added password reset requests to be limited to every 30 seconds</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 25.10.2025</strong></p>
+<p><strong>Website Updates 25.10.2025</strong></p>
 General
 <ul>
       <li>added a neutral gray status while the website checks the Fast-API connection</li>
@@ -104,7 +104,7 @@ General
       <li>improved overall API status handling for more accurate and user-friendly behavior</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.10.2025</strong></p>
+<p><strong>Website Updates 10.10.2025</strong></p>
 General
 <ul>
 <li>added live status checks for public GW2 API with real-time updates</li>
@@ -119,7 +119,7 @@ General
 <li>added indicators in the top and mobile navigation menu</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 05.10.2025</strong></p>
+<p><strong>Website Updates 05.10.2025</strong></p>
 General
 <ul>
       <li>added a completely new global search that uses all main table data rows from the backend</li>
@@ -127,7 +127,7 @@ General
       <li>removed the old search system that only indexed once per day simple table data</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 02.10.2025</strong></p>
+<p><strong>Website Updates 02.10.2025</strong></p>
 General
 <ul>
       <li>Supporters now get faster data refreshes — finally something extra after all these years</li>
@@ -144,7 +144,7 @@ General
       <li>The tracker service now just uses the key provided by the profile, making it simpler and more reliable</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.09.2025</strong></p>
+<p><strong>Website Updates 29.09.2025</strong></p>
 General
 <ul>
       <li>added built-in ag-grid tooltips, showing for about 3 secs when hovering above squished columns</li>
@@ -158,7 +158,7 @@ General
       <li>removed last remaining brittle spreadsheet formulas that were error-prone and often updated incorrectly</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 27.09.2025</strong></p>
+<p><strong>Website Updates 27.09.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma and other Currencies</a>
 <ul>
@@ -180,7 +180,7 @@ General
       <li>added active increment (today’s, next day’s, or “all increments”) in header next to the new filter buttons</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 25.09.2025</strong></p>
+<p><strong>Website Updates 25.09.2025</strong></p>
 General User Experience
 <ul>
       <li>Outdated or broken detail links now show a ‘Page Not Found’ message instead of doing nothing. Legacy Backend now sends a 404 return code instead of logging an error message.</li>
@@ -194,20 +194,20 @@ General User Experience
       <li>updated Limitation columns on reward tracks</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.09.2025</strong></p>
+<p><strong>Website Updates 24.09.2025</strong></p>
 User Account
 <ul>
       <li>You can now change your password in Profile. This previously missing safety feature is live—currently on the legacy backend.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.09.2025</strong></p>
+<p><strong>Website Updates 19.09.2025</strong></p>
 General
 <ul>
       <li>improved Headers to only show the relevant profit values and selected Fractal Title profit values</li>
       <li>added dynamic layout to show all columns from main table: e.g. Duration, Pays Off, Costs per item variations...</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.09.2025</strong></p>
+<p><strong>Website Updates 16.09.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>Meta Auto-Reload Timer can now be manually stopped/resumed</li>
@@ -237,7 +237,7 @@ General
       <li>updated Alt-Parking entries with Splendid Chest (Detailed)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 12.09.2025</strong></p>
+<p><strong>Website Updates 12.09.2025</strong></p>
 General
 <ul>
       <li>added basic tooltips for new users</li>
@@ -246,7 +246,7 @@ General
       <li>cleaned up Top Nav Bar on mobile for better user experience (burger button opens Mobile Menu with all options of side and top nav bar)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.09.2025</strong></p>
+<p><strong>Website Updates 10.09.2025</strong></p>
 General
 <ul>
       <li>improved Website design by using same CSS Styles for elements and components</li>
@@ -271,7 +271,7 @@ General
       <li>added Mystic Coin Vault Bag</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 08.09.2025</strong></p>
+<p><strong>Website Updates 08.09.2025</strong></p>
 Improved Website Layout and Design
 <ul>
       <li>added Light Theme with Toggle (Dark as default) in Top Nav Bar for you sickos</li>
@@ -281,7 +281,7 @@ Improved Website Layout and Design
       <li>improved Layout Design (Search Bar and Buttons) for Top Nav Banner for Desktop/Tablet and mobile</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.09.2025</strong></p>
+<p><strong>Website Updates 06.09.2025</strong></p>
 Website Layout User Experience Improvements
 <br>
 Side Navigation Bar
@@ -300,7 +300,7 @@ Top Navigation Bar
       <li>Tips now display as rotating announcements</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 05.09.2025</strong></p>
+<p><strong>Website Updates 05.09.2025</strong></p>
 General
 <ul>
       <li>Improved the old image modal in all detailed datasets</li>
@@ -309,7 +309,7 @@ General
       <li>(- removed technical detail.Map column) => saves work time for myself (Cornix)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.09.2025</strong></p>
+<p><strong>Website Updates 04.09.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 Merged following pages to the calculator that will make following pages in the future obsolete:
 <ul>
@@ -369,7 +369,7 @@ Cons:
       <li>No direct links currently available (Solution: query Params via link soonTM)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 31.08.2025</strong></p>
+<p><strong>Website Updates 31.08.2025</strong></p>
 General<br>
 Due to a future update all Mystic Clover Calculations are removed. The Mystic Clover opportunity costs can still be found in conversions/spirit-shard.
 <ul>
@@ -379,7 +379,7 @@ Due to a future update all Mystic Clover Calculations are removed. The Mystic Cl
       <li>changed Mystic Clover calculations to zero/empty</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.08.2025</strong></p>
+<p><strong>Website Updates 29.08.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 Due to a future update old data structures that do not follow the standardized approach are being refactored: 
 <ul>
@@ -389,7 +389,7 @@ Due to a future update old data structures that do not follow the standardized a
       <li>added the Fractal Encryption to the Cracked Fractal Encryption detailed dataset to increase calculation clarifications and removed the hidden calculation from the Overview</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 27.08.2025</strong></p>
+<p><strong>Website Updates 27.08.2025</strong></p>
 Improved Data Quality and Referencing, fixed following entries:
 <ul>
       <li>achievement : eternal-seitung-province-meta-event => deprecated, new key: eternal-seitung-province-meta-event-achievement </li>
@@ -433,7 +433,7 @@ Improved Data Quality and Referencing, fixed following entries:
       <li>tp-bag : heavy-icy-bag-detailed => fixed typo</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.08.2025</strong></p>
+<p><strong>Website Updates 24.08.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>updated info text to table for better readability</li>
@@ -447,14 +447,14 @@ Improved Data Quality and Referencing, fixed following entries:
       <li>refactored farming XP booster and XP calculations text into table for better readability</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.08.2025</strong></p>
+<p><strong>Website Updates 20.08.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>added Detailed Dataset for Homegrown Cactus</li>
       <li>removed Nopal Data Row only considering 2 Nopal as drop (Dataset from 2018)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 18.08.2025</strong></p>
+<p><strong>Website Updates 18.08.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
 <ul>
       <li>added new Farming Tracker (BETA Version)</li>
@@ -497,13 +497,13 @@ Improved Data Quality and Referencing, fixed following entries:
       </ul>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 17.08.2025</strong></p>
+<p><strong>Website Updates 17.08.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>fixed Karka Queen, Tequatl and Triple Trouble boss timers in meta category</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.08.2025</strong></p>
+<p><strong>Website Updates 16.08.2025</strong></p>
 General
 <ul>
       <li>Auto-generated descriptions: Related Category</li>
@@ -514,7 +514,7 @@ General
       </ul>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.08.2025</strong></p>
+<p><strong>Website Updates 15.08.2025</strong></p>
 General
 <ul>
       <li>Ag-grid Column Size</li>
@@ -531,7 +531,7 @@ General
       </ul>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 12.08.2025</strong></p>
+<p><strong>Website Updates 12.08.2025</strong></p>
 General
 <ul>
       <li>fixed an exports error thrown by a markdown component from global script</li>
@@ -542,14 +542,14 @@ General
       <li>updated paginationPageSize to handle all pagination cases</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 11.08.2025</strong></p>
+<p><strong>Website Updates 11.08.2025</strong></p>
 General
 <ul>
       <li>updated search to show up to 12 items</li>
       <li>updated search sorting so exact matches always appear first in results</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Festival of the four Winds Updates 08.08.2025</strong></p>
+<p><strong>Festival of the four Winds Updates 08.08.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>added Trader's Sandswept Chest</li>
@@ -560,7 +560,7 @@ General
       <li>added Bazaar-Traded Weapon Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 02.08.2025</strong></p>
+<p><strong>Website Updates 02.08.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
 <ul>
       <li>This is not an update on cast, channel or animation aftercast times! Check the ToDo List on its progress.</li>
@@ -609,7 +609,7 @@ General
       <li>updated Volatile Magic Mining Tool (Infinite Volatile Magic Gathering Tools Pack)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.07.2025</strong></p>
+<p><strong>Website Updates 22.07.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>updated all entries of salvaging Costs per Research Note to use a more realistic value of "Crafting" costs instead of "buying from TP" costs.</li>
@@ -624,12 +624,12 @@ General
       <li>added Spineback Crab</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.06.2025</strong></p>
+<p><strong>Website Updates 29.06.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>added Peer Reviewed Research Variants</li>
 </ul>
-<p style="color: #7289da;"><strong>Website Updates 28.06.2025</strong></p>
+<p><strong>Website Updates 28.06.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 5 Curious Lowland Honeycomb to Daily Checklist</li>
@@ -697,19 +697,19 @@ General
       <li>added Bonus Chest Event (Convergence Challenge Mode: Gold - Convergence: Outer Nayos, Umbriel)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.06.2025</strong></p>
+<p><strong>Website Updates 21.06.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Bava Nisos</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Dragon Bash - Website Updates 20.06.2025</strong></p>
+<p><strong>Dragon Bash - Website Updates 20.06.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
       <li>added Trader's Sacred Crystal Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Janthir Wilds Absolution - Website Updates 05.06.2025</strong></p>
+<p><strong>Janthir Wilds Absolution - Website Updates 05.06.2025</strong></p>
 General
 <ul>
       <li>Essence of luck text has been updated to include the rarity in the item name.</li>
@@ -755,13 +755,13 @@ General
       <li>added Slime-Encrusted Mursaat Strongbox</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 18.05.2025</strong></p>
+<p><strong>Website Updates 18.05.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/racing-medallion" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/racing_medallion.png" alt="alt.png" width="32px">&nbsp;Racing Medallion</a>
 <ul>
       <li>added Racing Medallion</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 09.05.2025</strong></p>
+<p><strong>Website Updates 09.05.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Domain of Istan - Sunspear Uprising, Mordant Crescent Great Hall</li>
@@ -797,7 +797,7 @@ General
       <li>added Bouncy Chest Meta Event (Sunspear Uprising, Mordant Crescent Great Hall)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 08.05.2025</strong></p>
+<p><strong>Website Updates 08.05.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added missing images and description to all Chest of Essences</li>
@@ -828,7 +828,7 @@ General
       </ul>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 02.05.2025</strong></p>
+<p><strong>Website Updates 02.05.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Greater Arcane </li>
@@ -839,7 +839,7 @@ General
       </ul>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.05.2025</strong></p>
+<p><strong>Website Updates 01.05.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>refactored Alt-Parking entries into a more readable and compressed table:</li>
@@ -881,7 +881,7 @@ General
       </ul>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.04.2025</strong></p>
+<p><strong>Website Updates 22.04.2025</strong></p>
 General
 <ul>
       <li>re-added Black Lion Delivery Box to Home Instance (they can still be found in Bags (/bags/bags) Category)</li>
@@ -900,14 +900,14 @@ General
       <li>re-added Black Lion Delivery Box (basic resources)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 17.04.2025</strong></p>
+<p><strong>Super Adventure Box Festival Updates 17.04.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added Trader's Golem-Buster Weapons Locker</li>
       <li>changed Bauble Bubble Profit to now calculate Weekly Vendor Profit instead of normal Vendor (negative profit due to Super Loot Bag drops)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.03.2025</strong></p>
+<p><strong>Website Updates 22.03.2025</strong></p>
 General
 <ul>
       <li>removed the individual category Black Lion Delivery Box, instead they are now listed under Bags</li>
@@ -926,7 +926,7 @@ General
       <li>refactored Black Lion Delivery Box (basic resources)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Janthir Wilds Repentance - Website Updates 13.03.2025</strong></p>
+<p><strong>Janthir Wilds Repentance - Website Updates 13.03.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Shard of Mistburned Barrens to Weekly Checklist</li>
@@ -973,13 +973,13 @@ General
       <li>added Titan Heatstone Cluster</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.03.2025</strong></p>
+<p><strong>Website Updates 04.03.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pristine-fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pristine_fractal_relic.png" alt="alt.png" width="32px">&nbsp;Pristine Fractal Relic</a>
 <ul>
       <li>added Fractal Troubleshooter's Star</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.02.2025</strong></p>
+<p><strong>Website Updates 28.02.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Gnashblade Dragon Coffer (750% MF)</li>
@@ -987,7 +987,7 @@ General
       <li>added The Evon Gnashblade Lucky Envelope (750% MF)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.01.2025</strong></p>
+<p><strong>Website Updates 28.01.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>exchanged yearly changing dropped items in Divine Lucky Envelope, Little Lucky Envelope and Lucky Red Bag</li>
@@ -1006,7 +1006,7 @@ General
       <li>added Exotic Weapon (Trident, Staff, Longbow, Short Bow) with Silver-Fed and Black Lion Salvage Kit</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.01.2025</strong></p>
+<p><strong>Website Updates 21.01.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/badge-of-honor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/badge_of_honor.png" alt="alt.png" width="32px">&nbsp;Badge of Honor</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
@@ -1068,7 +1068,7 @@ General
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 17.01.2025</strong></p>
+<p><strong>Website Updates 17.01.2025</strong></p>
 General
 <ul>
       <li>updated all Common Charr Salvage, Charr Salvage and Rare Charr Salvage with new bag detailed datasets</li>
@@ -1084,39 +1084,39 @@ General
       <li>added Rare Charr Salvage</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.01.2025</strong></p>
+<p><strong>Website Updates 16.01.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Spirit Shard profit calculations to Solo-Farming (change settings to include/exclude Spirit Shards)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.01.2025</strong></p>
+<p><strong>Website Updates 10.01.2025</strong></p>
 General
 <ul>
       <li>fixed unlimited gathering tools module to show Best Choice on correct TP settings</li>
       <li>refactored copyable columns to have consistent behaviour</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.01.2025</strong></p>
+<p><strong>Website Updates 06.01.2025</strong></p>
 General
 <ul>
       <li>updated header information on detailed datasets to now include "Requires" and "Limitation"</li>
       <li>refactored header information to only be visible on existing data</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 23.12.2024</strong></p>
+<p><strong>Website Updates 23.12.2024</strong></p>
 General
 <ul>
       <li>fixed ag-grid to compare nullable Numbers in ascending/descending manner</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.12.2024</strong></p>
+<p><strong>Website Updates 21.12.2024</strong></p>
 General
 <ul>
       <li>refactored Numeric Columns for decimal separator</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.12.2024</strong></p>
+<p><strong>Website Updates 19.12.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>updated Leviathan with Bonus Chest Event (Fend off the Leviathan)</li>
@@ -1140,7 +1140,7 @@ General
       <li>updated Price description on Precursor weapons for better readability and consistency</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.12.2024</strong></p>
+<p><strong>Website Updates 15.12.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
 <ul>
       <li>added Mursaat Runestone</li>
@@ -1183,7 +1183,7 @@ General
       <li>added Ura's Coffer</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.12.2024</strong></p>
+<p><strong>Website Updates 13.12.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>sort secondary by gph if countdown has same value</li>
@@ -1217,7 +1217,7 @@ General
       <li>added Magnificent Convergence Extraction</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 12.12.2024</strong></p>
+<p><strong>Website Updates 12.12.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added Trader's Sacred Solstice Chest</li>
@@ -1245,7 +1245,7 @@ General
       <li>updated Domain of Vabbi: Hero's Choice Chest with Rare Flower Seed</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.12.2024</strong></p>
+<p><strong>Website Updates 01.12.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 3x Renown Heart - Weekly Discounted Shard of Lowland Shore</li>
@@ -1268,7 +1268,7 @@ General
       <li>updated Janthiri Renown Chest Loot Choice Table</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.11.2024</strong></p>
+<p><strong>Website Updates 20.11.2024</strong></p>
 General
 <ul>
       <li>refactored certain Consumables from Bag Category to individual Item Conversion Category for better readability and distinction to its currency consumption counterpart</li>
@@ -1307,7 +1307,7 @@ General
       <li>added Writ of Seitung Province</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.11.2024</strong></p>
+<p><strong>Website Updates 19.11.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Starter Kit: Howler</li>
@@ -1322,7 +1322,7 @@ General
       <li>added Legendary Weapon Starter Key - Set 6</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 07.11.2024</strong></p>
+<p><strong>Website Updates 07.11.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated Drizzlewood Coast - Battle Cry</li>
@@ -1340,7 +1340,7 @@ General
       <li>added Drizzlewood Coast Map Reward</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 03.11.2024</strong></p>
+<p><strong>Website Updates 03.11.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Domain of Kourna - Containing the Scarab Plague</li>
@@ -1358,7 +1358,7 @@ General
       <li>added Bouncy Chest Event (Domain of Kourna)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.10.2024</strong></p>
+<p><strong>Website Updates 29.10.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated Dragonfall - The Battle of Dragonfall Meta with Bouncy Chests</li>
@@ -1376,7 +1376,7 @@ General
       <li>added Bouncy Chest Event (Dragonfall)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 23.10.2024</strong></p>
+<p><strong>Website Updates 23.10.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added Trader's Grim Machine Chest to Weekly Vendor</li>
@@ -1395,14 +1395,14 @@ General
       <li>fixed the last newest added options to be included in the MAX-formula for TP Buy/Sell Profit calculations</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 26.09.2024</strong></p>
+<p><strong>Website Updates 26.09.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Spirit Shard Profit calculation</li>
       <li>added special Schedule countdown timers for Tequatl, Karka Queen and TTT</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.09.2024</strong></p>
+<p><strong>Website Updates 22.09.2024</strong></p>
 General
 <ul>
       <li>fixed invalid number on alpha-numeric columns, when the first row entry is not a number</li>
@@ -1413,7 +1413,7 @@ General
       <li>Metas are now sorted by 1. countdown until meta start and new: 2. by gold per hour</li>
       <li>implemented a beta prototype for irregular timer e.g. for Tequatl, Karka and Triple Trouble</li>
 </ul>
-<p style="color: #7289da;"><strong>Website Updates 21.09.2024</strong></p>
+<p><strong>Website Updates 21.09.2024</strong></p>
 General
 <ul>
       <li>Pays Off Columns now apply to Settings Filter: TP Buy or TP Sell Order:</li>
@@ -1464,7 +1464,7 @@ General
       <li>added 21 new Conversions</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.09.2024</strong></p>
+<p><strong>Website Updates 19.09.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>changed all Dye Kits to be now static with same droprate as stated in the game tooltip</li>
@@ -1489,7 +1489,7 @@ General
       <li>added Xunlai Customer Loyalty Perks Program Reward Track (Non-Repeatable)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 17.09.2024</strong></p>
+<p><strong>Janthir Wilds Website Updates 17.09.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Lowland Shore - Arena Farm</li>
@@ -1497,7 +1497,7 @@ General
       <li>added TacO Tekkit - Janthir Syntri - Janthiri Treasure Hunter</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.09.2024</strong></p>
+<p><strong>Website Updates 14.09.2024</strong></p>
 General
 <ul>
       <li>added Required Column to all main and detailed tables</li>
@@ -1515,7 +1515,7 @@ General
             </ul>
       </li>
 </ul>
-<p style="color: #7289da;"><strong>Janthir Wilds Website Updates 20.08.2024 - 13.09.2024</strong></p>
+<p><strong>Janthir Wilds Website Updates 20.08.2024 - 13.09.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Of Mists and Monsters Meta</li>
@@ -1605,20 +1605,20 @@ General
       <li>added Janthir Wilds Reward Track (Non-Repeatable)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.09.2024</strong></p>
+<p><strong>Website Updates 06.09.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/dragon-response-mission" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drms.png" alt="alt.png" width="32px">&nbsp;Dragon Response Missions</a>
 <ul>
       <li>removed entire farm table</li>
       <li>added Prismaticite to detailed datasets, was previously hidden in the total value in main table</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 27.08.2024</strong></p>
+<p><strong>Website Updates 27.08.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>re-added fast TacO Marker Pack download into assets directive</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.07.2024</strong></p>
+<p><strong>Website Updates 21.07.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/pvp-league-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_league_ticket.png" alt="alt.png" width="32px">&nbsp;PvP League Ticket</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/wvw-skirmish-claim-ticket" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_skirmish_claim_ticket.png" alt="alt.png" width="32px">&nbsp;WvW Skirmish Claim Ticket</a>
 <ul>
@@ -1626,13 +1626,13 @@ General
       <li>added WvW Skirmish Claim Ticket</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.07.2024</strong></p>
+<p><strong>Website Updates 06.07.2024</strong></p>
 General
 <ul>
       <li>fixed regex to not render images if there isn't a number/integer</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 30.05.2024</strong></p>
+<p><strong>Website Updates 30.05.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Box of Eparch's Prized Possessions</li>
@@ -1679,7 +1679,7 @@ General
       <li>added 2 new Conversions (Portable Wizard's Tower Exchange / Gharr Leadclaw)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.05.2024</strong></p>
+<p><strong>Website Updates 24.05.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Convergences CM</li>
@@ -1697,7 +1697,7 @@ General
       <li>added Convergence Challenge Mode: Bronze</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 27.03.2024</strong></p>
+<p><strong>Website Updates 27.03.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Waypoints Column</li>
@@ -1715,7 +1715,7 @@ General
       <li>added new Faction Provisioner Vendor Costs</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 23.03.2024</strong></p>
+<p><strong>Website Updates 23.03.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
@@ -1739,7 +1739,7 @@ General
       <li>added Countdown "Starts in" column, table updates automatically every minute</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.03.2024</strong></p>
+<p><strong>Website Updates 21.03.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>renamed and re-routed all old converter-entries to gizmos like the ingame notation</li>
@@ -1759,19 +1759,19 @@ General
       <li>added Guild Missions to Solo-Farming</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.03.2024</strong></p>
+<p><strong>Website Updates 20.03.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>fixed 25 Alt-Parking images which were removed since Cockpit UI</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.03.2024</strong></p>
+<p><strong>Website Updates 19.03.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/storage-bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/storage_and_slot_bags.png" alt="alt.png" width="32px">&nbsp;Storage and Slot Bags</a>
 <ul>
       <li>added new WvW 24-, 28- and 32- Slot Bags (Costs)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.03.2024</strong></p>
+<p><strong>Website Updates 15.03.2024</strong></p>
 General
 <ul>
       <li>fixed broken images category icon in detailed datasets</li>
@@ -1790,14 +1790,14 @@ General
       <li>added Knaebelag's Hoard (Repeat Defanger Achievement)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.03.2024</strong></p>
+<p><strong>Website Updates 13.03.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily-fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_fractals.png" alt="alt.png" width="32px">&nbsp;Daily Fractals</a>
 <ul>
       <li>refactored daily fractal table with the new fractal</li>
       <li>fixed multiple wrong fractal referencing and calculations</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.03.2024</strong></p>
+<p><strong>Website Updates 10.03.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Domain of Vabbi - Forged Fire</li>
@@ -1816,25 +1816,25 @@ General
       <li>refactored Shiverpeaks Pass Strike Mission</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 09.03.2024</strong></p>
+<p><strong>Website Updates 09.03.2024</strong></p>
 General
 <ul>
       <li>fixed a fast-API stall, when a GW2 API item has no buy or sell orders on TP which caused mismatching item ids</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.02.2024</strong></p>
+<p><strong>Website Updates 29.02.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new Horn of Maguuma Fish</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 18.02.2024</strong></p>
+<p><strong>Website Updates 18.02.2024</strong></p>
 General
 <ul>
       <li>added Rarity to fast-API and Rarity Item Borders to ~400.000 entries</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.02.2024</strong></p>
+<p><strong>Website Updates 04.02.2024</strong></p>
 Profit Selectors
 <ul>
       <li>After reviewing your positive feedback about Profit Selectors on a few SIngle Table Pages, I decided to add them to all remaining pages on the website.</li>
@@ -1846,14 +1846,14 @@ General
       <li>added / fixed icons, that remained unrendered</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Lunar New Year Festival 30.01.2024 - 20.02.2024</strong></p>
+<p><strong>Lunar New Year Festival 30.01.2024 - 20.02.2024</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Mini Amnytas Stormscale</li>
 </ul>
 
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.01.2024</strong></p>
+<p><strong>Website Updates 14.01.2024</strong></p>
 General
 <ul>
       <li>Trader's Key now contains Caches and they also can be found in Chests Category</li>
@@ -1866,7 +1866,7 @@ General
       <li>approx. 400 items are temporarily removed due to missing crafting costs</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.12.2023</strong></p>
+<p><strong>Website Updates 24.12.2023</strong></p>
 General
 <ul>
       <li>updated and improved detailed datasets with Achievements in Festival, Meta, Strike Missions and Dungeon Category</li>
@@ -1877,7 +1877,7 @@ General
       <li>added weekly Strike Missions and Convergences to Weekly Farming Checklist</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.11.2023</strong></p>
+<p><strong>Website Updates 10.11.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Inner Nayos - The Road to Heitor</li>
@@ -1900,7 +1900,7 @@ General
       <li>added Saryx Weapon Box</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>The Shadow of the Mad King Festival Website Update 19.10.2023</strong></p>
+<p><strong>The Shadow of the Mad King Festival Website Update 19.10.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added Ascent to Madness (1 Round)</li>
@@ -1908,7 +1908,7 @@ General
       <li>added Stopped Clock Tower (1 Round)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.10.2023</strong></p>
+<p><strong>Website Updates 06.10.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/jade-miners-keycard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_miners_keycard.png" alt="alt.png" width="32px">&nbsp;Jade Miner's Keycard</a>
 <ul>
       <li>added Jade Miner's Keycard</li>
@@ -1918,14 +1918,14 @@ General
       <li>added Pristine Fractal Relic</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 30.09.2023</strong></p>
+<p><strong>Website Updates 30.09.2023</strong></p>
 <ul>
       <li>Due to the increased amount of balance patches in the past and also in future it is not feasible for me (Cornix) to keep up with the farming builds updates. Instead check out recommended and up-to-date DPS, quickness and alacrity builds on snowcrows.com</li>
       <li>removed all outdated builds</li>
       <li>added list of equipment, masteries, and abilities crucial to effective open world gameplay</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.09.2023</strong></p>
+<p><strong>Website Updates 15.09.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added Relic of the Defender</li>
@@ -1937,7 +1937,7 @@ General
       <li>added Relic of the Fireworks</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Secrets of the Obscure Website Updates 2023</strong></p>
+<p><strong>Secrets of the Obscure Website Updates 2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Skywatch Archipelago</li>
@@ -2033,7 +2033,7 @@ General
       <li>added Greater Arcane Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 03.08.2023</strong></p>
+<p><strong>Website Updates 03.08.2023</strong></p>
 General
 <ul>
       <li>added Best Choice option with links for salvagable items in all existing detailed datasets</li>
@@ -2042,7 +2042,7 @@ General
       <li>Chest of Legendary Shards contain accountbound items which were misleading to the shown profit, therefore now set on all instances to 0g profit</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.07.2023</strong></p>
+<p><strong>Website Updates 29.07.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>resets the entire checklist at midnight for now (does not save state after midnight until GW2 reset)</li>
@@ -2055,14 +2055,14 @@ General
       <li>added 4 unique Weapon Variations</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Festival of the four Winds Festival 18.07. - 08.08.2023</strong></p>
+<p><strong>Festival of the four Winds Festival 18.07. - 08.08.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Zephyrite Vendor table</li>
       <li>updated Zephyrite Supply Box Loot table</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.07.2023</strong></p>
+<p><strong>Website Updates 16.07.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/dragonite-ore" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragonite_ore.png" alt="alt.png" width="32px">&nbsp;Dragonite Ore</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/empyreal-fragment" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/empyreal_fragment.png" alt="alt.png" width="32px">&nbsp;Empyreal Fragment</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/pile-of-bloodstone-dust" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pile_of_bloodstone_dust.png" alt="alt.png" width="32px">&nbsp;Pile of Bloodstone Dust</a>
@@ -2135,13 +2135,13 @@ General
       <li>added Zhaitan Dye Kit</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.07.2023</strong></p>
+<p><strong>Website Updates 15.07.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>replaced internal search function to main table showing all salvageables at once</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.07.2023</strong></p>
+<p><strong>Website Updates 13.07.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>Black Lion Delivery Box also added into Bags Category</li>
@@ -2160,13 +2160,13 @@ General
       <li>The current weekly Map rewards can still be found in the PvE Reward Track Category (Open-World).</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.07.2023</strong></p>
+<p><strong>Website Updates 01.07.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Checkboxes are now saved locally and will reset each day at midnight</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.04.2023</strong></p>
+<p><strong>Website Updates 22.04.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Echovald Wilds - Melandru's Hope</li>
@@ -2174,13 +2174,13 @@ General
       <li>added Echovald Wilds - Quarry Forelands Cave</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 29.03.2023</strong></p>
+<p><strong>Super Adventure Box Festival Updates 29.03.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added Trader's Generation One Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 25.03.2023</strong></p>
+<p><strong>Website Updates 25.03.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Gyala Delve</li>
@@ -2204,7 +2204,7 @@ General
       <li>added Unnamed Chest (Delve into the Haze)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Lunar New Year Update 23.01.2023</strong></p>
+<p><strong>Lunar New Year Update 23.01.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
@@ -2213,7 +2213,7 @@ General
       <li>added Lunar Gift Box</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.12.2022</strong></p>
+<p><strong>Website Updates 24.12.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new 50.000 Wintersday Gift Dataset (2022)</li>
@@ -2231,20 +2231,20 @@ General
 </li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Wintersday Festival 13.12.2022 - 03.01.2023</strong></p>
+<p><strong>Wintersday Festival 13.12.2022 - 03.01.2023</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>No new content / farms.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.11.2022</strong></p>
+<p><strong>Website Updates 22.11.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added End of Dragons - Leviathan Farm</li>
       <li>added Desert Highlands - The Search for Buried Treasure</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 12.11.2022</strong></p>
+<p><strong>Website Updates 12.11.2022</strong></p>
 General
 <ul>
       <li>An automatic pagination of 100 has been added to the Bag Category to decrease loading times, because now the Bag Category contains close to 1200 different bags.</li>
@@ -2257,7 +2257,7 @@ General
       <li>automatic referencing has been added to all occurences of sellable TP Bags in Farmtrain, Meta, Solo-farming and Festival.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.11.2022</strong></p>
+<p><strong>Website Updates 10.11.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Old Lion's Court (Weekly)</li>
@@ -2267,7 +2267,7 @@ General
       <li>added Assault Knight's Coffer</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 05.11.2022</strong></p>
+<p><strong>Website Updates 05.11.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
 <ul>
       <li>added PvP Reward Tracks</li>
@@ -2275,7 +2275,7 @@ General
       <li>New Routing WvW Reward Track: wvw/reward-track -> competitive/wvw-reward-track</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 31.10.2022</strong></p>
+<p><strong>Website Updates 31.10.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
 <ul>
       <li>added new Main Table (Day + Night Cycle) to Secondary Table (Day or Night Cycle separated)</li>
@@ -2287,7 +2287,7 @@ General
       <li>added new Alt-Parking Spot (Dragon's End - Argo Crawler)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.10.2022</strong></p>
+<p><strong>Website Updates 28.10.2022</strong></p>
 Floating Filters
 <ul>
       <li>added floating filters additionally to our column filters, because people can't seem to find and use our column filters</li>
@@ -2297,7 +2297,7 @@ Profit Headers (Detailed Datasets)
       <li>fixed Profit header values to now correspond to active Settings state (TP, Spirit Shard and Mystic Clover)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.10.2022</strong></p>
+<p><strong>Website Updates 21.10.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Trick-or-Treat Bag</li>
@@ -2308,19 +2308,19 @@ Profit Headers (Detailed Datasets)
       <li>updated all World-Bosses to have static main datasets as detailed datasets contain now Boss Chest, Bouncy Chest, static Map-Reward and/or static champion bag loot</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>The Shadow of the Mad King Festival 18.10.2022 - 08.11.2022</strong></p>
+<p><strong>The Shadow of the Mad King Festival 18.10.2022 - 08.11.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>No new farms, only new skins!</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.10.2022</strong></p>
+<p><strong>Website Updates 14.10.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bag-opener" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bag_opener.png" alt="alt.png" width="32px">&nbsp;Bag Opener</a>
 <ul>
       <li>added detailed datasets</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.10.2022</strong></p>
+<p><strong>Website Updates 10.10.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added 353 Reward Track Bags</li>
@@ -2331,7 +2331,7 @@ Profit Headers (Detailed Datasets)
       <li>added 353 Reward Track Bags to Search Index</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Farming Builds Updates 02.10.2022</strong></p>
+<p><strong>Farming Builds Updates 02.10.2022</strong></p>
 General
 <ul>
       <li>Template codes are now copyable by just clicking on them</li>
@@ -2383,7 +2383,7 @@ Mesmer
       <li>Maximum Tagging Mirage: no changes</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.09.2022</strong></p>
+<p><strong>Website Updates 13.09.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Kessex Hills - The Tower of Nightmares (Public)</li>
@@ -2397,7 +2397,7 @@ Mesmer
       <li>added Tri-Key Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.08.2022</strong></p>
+<p><strong>Website Updates 28.08.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>new Version 2.0 Beta updated with profit values and durations</li>
@@ -2410,27 +2410,27 @@ Mesmer
       
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.08.2022</strong></p>
+<p><strong>Website Updates 21.08.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added 40 Sinister Armor, Weapons and Trinkets</li>
       <li>added 37 Trailblazer's Armor and Weapons</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Festival of the four Winds Update 02.08.2022</strong></p>
+<p><strong>Festival of the four Winds Update 02.08.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>updated Zephyrite Supply Box Vendors</li>
       <li>added weekly Research Note entries to Zephyrite Supply Box Vendors</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 02.08.2022</strong></p>
+<p><strong>Website Updates 02.08.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>added 252 Crafting Exotic Armors</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 23.07.2022</strong></p>
+<p><strong>Website Updates 23.07.2022</strong></p>
 General
 <ul>
       <li>Contributor Names were added to all existing main datasets and detailed datasets</li>
@@ -2438,7 +2438,7 @@ General
       <li>Detailed datasets are blue hyperlinks within a table</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.07.2022</strong></p>
+<p><strong>Website Updates 19.07.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>updated Caledon Forest - Great Jungle Worm</li>
@@ -2454,7 +2454,7 @@ General
       <li>Top-Tiered Terror Toppler (Weekly CMs) retires. Replaced by extra 2 Provisioner Token, 2 Gold and 1 Exotic Drop for each CM</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.07.2022</strong></p>
+<p><strong>Website Updates 01.07.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>/
 <ul>
       <li>Settings: Boss and HP Spots have now the option to include or exclude Spirit Shards in the total profit calculation</li>
@@ -2465,7 +2465,7 @@ General
       <li>Settings: Fishing has now the option to include or exclude Spirit Shards in the total profit calculation</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.06.2022</strong></p>
+<p><strong>Website Updates 28.06.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>cannot be looted anymore per map instance and now only once per character per day</li>
@@ -2480,7 +2480,7 @@ General
       <li>added Void's Magnificent Coffer</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.06.2022</strong></p>
+<p><strong>Website Updates 14.06.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added save-state checkboxes and reset buttons</li>
@@ -2491,20 +2491,20 @@ Settings
       <li>added pagination options in settings upper right corner (Disable, 10, 25, 50, 100) to reduce loading times on very large tables, refresh the page for changes</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 07.06.2022</strong></p>
+<p><strong>Website Updates 07.06.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>ArenaNet combined all old dungeon currencies into default currency</li>
       <li>updated all references in Achievement Bags, Dungeons, Reward Tracks and Core Bags</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Dragon Bash Festival 07.06.2022 - 28.06.2022</strong></p>
+<p><strong>Dragon Bash Festival 07.06.2022 - 28.06.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
       <li>no new updates or gold farms</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 25.05.2022</strong></p>
+<p><strong>Website Updates 25.05.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>Research Kits now have a Research Stack option in their right-click menu</li>
@@ -2512,20 +2512,20 @@ Settings
       <li>added 628 Craftable Exotic Weapons</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 23.05.2022</strong></p>
+<p><strong>Website Updates 23.05.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
       <li>added Crafting - Precursor Conversions Category</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.05.2022</strong></p>
+<p><strong>Website Updates 22.05.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/solo-farming" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/solo_farming.png" alt="alt.png" width="24px">&nbsp;Solo-Farming</a>
 <ul>
       <li>added Dragonfall - Burning Forest Mob Farm</li>
       <li>added TacO Tekkit - Bjora Marches Chest Farm</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 18.05.2022</strong></p>
+<p><strong>Website Updates 18.05.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Echovald Wilds
@@ -2544,7 +2544,7 @@ Settings
       <li>now sorted by profit instead of name</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.05.2022</strong></p>
+<p><strong>Website Updates 10.05.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Xunlai Junkyard CM</li>
@@ -2557,7 +2557,7 @@ Settings
       <li>added Ankka Magnificent Coffer</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 09.05.2022</strong></p>
+<p><strong>Website Updates 09.05.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added Ancient Ambergris from Taro Everclaw Vendor</li>
@@ -2565,7 +2565,7 @@ Settings
       <li>fixed some typos and inconsistencies</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 02.05.2022</strong></p>
+<p><strong>Website Updates 02.05.2022</strong></p>
 General
 <ul>
       <li>"fixed" Toast-component color</li>
@@ -2577,7 +2577,7 @@ General
       <li>added Sunken Treasure Hunter Farm</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.04.2022</strong></p>
+<p><strong>Website Updates 19.04.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/strike-missions" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/strike_missions.png" alt="alt.png" width="24px">&nbsp;Strike Missions</a>
 <ul>
       <li>added Aetherblade Hideout CM (Weekly)</li>
@@ -2587,7 +2587,7 @@ General
       <li>added Mai Trin's Magnificent Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.04.2022</strong></p>
+<p><strong>Website Updates 16.04.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/imperial-favor" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/imperial_favor.png" alt="alt.png" width="32px">&nbsp;Imperial Favor</a>
 <ul>
       </li>added flavor text</li>
@@ -2599,7 +2599,7 @@ General
       <li>fixed some calculations</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.04.2022</strong></p>
+<p><strong>Website Updates 14.04.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/jade-bot" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/jade_bot.png" alt="alt.png" width="32px">&nbsp;Jade Bot</a>
 <ul>
       <li>added missing Scavenger Protocol: Wood and Scavenger Bag: Wood</li>
@@ -2609,7 +2609,7 @@ General
       <li>added Gift of Jade Mastery</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.04.2022</strong></p>
+<p><strong>Website Updates 06.04.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>updated with End of Dragons activities</li>
@@ -2624,7 +2624,7 @@ General
       <li>Mystic Clover toggle option in profit settings now active</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.04.2022</strong></p>
+<p><strong>Website Updates 04.04.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>added Canach Coin</li>
@@ -2634,13 +2634,13 @@ General
       <li>moved Eternal Ice Shard to Item-Conversions Category</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.04.2022</strong></p>
+<p><strong>Website Updates 01.04.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Doggy Bag</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 30.03.2022</strong></p>
+<p><strong>Website Updates 30.03.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/costs-per-research-note" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvaging_costs_per_research_note.png" alt="alt.png" width="24px">&nbsp;Salvaging Costs per Research Note</a>
 <ul>
       <li>Recipes for lower-level potions of slaying have been adjusted. Weak recipes produce 1 potion, minor recipes produce 2, powerful recipes still produce 10, and all other recipes produce 3</li>
@@ -2678,13 +2678,13 @@ General
       <li>fixed blacklion-delivery-box-bags name to black-lion-delivery-box-bags</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Super Adventure Box Festival Updates 29.03.2022</strong></p>
+<p><strong>Super Adventure Box Festival Updates 29.03.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>No new gold methods or farms</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.03.2022</strong></p>
+<p><strong>Website Updates 29.03.2022</strong></p>
 Top Nav Bar
 <ul>
       <li>fixed top nav bar components to not collide with each other</li>
@@ -2692,7 +2692,7 @@ Top Nav Bar
       <li>clicking on the icon next to search bar hides the sidebar panel</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>End of Dragons Updates 01.03.2022 - 01.07.2022</strong></p>
+<p><strong>End of Dragons Updates 01.03.2022 - 01.07.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added  daily and weekly low-effort activities</li>
@@ -2811,7 +2811,7 @@ Top Nav Bar
       <li>added End of Dragons (Repeatable)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 27.02.2022</strong></p>
+<p><strong>Website Updates 27.02.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>moved Tyrian Exchange Voucher from Currency Conversion Category to Tyria Bag</li>
@@ -2821,7 +2821,7 @@ Top Nav Bar
       <li>updated changes on Magic Find (750% Max with Boosters) in Farming Preparation</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.02.2022</strong></p>
+<p><strong>Website Updates 15.02.2022</strong></p>
 General
 <ul>
       <li>An option regarding inclusion or exclusion of Mystic Clovers from farmtrain and reward track profit calculations was added to the cog settings, as the game lacks methods of directly converting clovers to gold.</li>
@@ -2833,7 +2833,7 @@ Cog Settings
       <li>added Mystic Clover to be included / excluded from total profit calculations for Farmtrains, Drizzlewood Reward Track and Drizzlewood Material Donation</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.02.2022</strong></p>
+<p><strong>Website Updates 14.02.2022</strong></p>
 General
 <ul>
       <li>moved several categories from Open-World Farming into Misc (Bottom)</li>
@@ -2846,13 +2846,13 @@ General
       <li>added separate detailed dataset to Farm table for all Strike Missions</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.02.2022</strong></p>
+<p><strong>Website Updates 13.02.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/gift-of-mastery" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gift_of_mastery.png" alt="alt.png" width="32px">&nbsp;Gift of Mastery</a>
 <ul>
       <li>added new item conversion (Gift of Mastery)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 12.02.2022</strong></p>
+<p><strong>Website Updates 12.02.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
@@ -2869,13 +2869,13 @@ General
       <li>added new Conversion (Mystic Clover + Mystic Coins)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Lunar New Year Festival 25.01.2022</strong></p>
+<p><strong>Lunar New Year Festival 25.01.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/lunar-new-year" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/lunar_new_year.png" alt="alt.png" width="32px">&nbsp;Lunar New Year</a>
 <ul>
       <li>added Item costs to acquire 1000 Luck table</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.01.2022</strong></p>
+<p><strong>Website Updates 21.01.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added 15-day automatic rotation with detailed datasets</li>
@@ -2885,7 +2885,7 @@ General
       <li>added Fractals 1-100</li>
       <li>added Fractals CMs</li>
 </ul>
-<p style="color: #7289da;"><strong>Website Updates 17.01.2022</strong></p>
+<p><strong>Website Updates 17.01.2022</strong></p>
 General
 <ul>
       <li>blue hyperlink will open detailed dataset now in an extra tab by right-click, middle-mouse-click or CTRL + left-click</li>
@@ -2896,19 +2896,19 @@ General
       <li>Split Farming Checklist into Daily Solo Farming Checklist and Daily Group Farming Checklist (voted by [fast] discord feedback poll)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.01.2022</strong></p>
+<p><strong>Website Updates 13.01.2022</strong></p>
 Cog Settings
 <ul>
       <li>added Material Listing for bought items - you can now select whether the data presented will have profit calculated using buy order or sell order ("insta-buy") prices for materials used in crafting a certain item</li>
       <li>added/fixed Listing columns for Spirit Shard, Festivals, Item Conversions and Drizzlewood Material Donation</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 12.01.2022</strong></p>
+<p><strong>Website Updates 12.01.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/charged-quartz-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/charged_quartz_crystal.png" alt="alt.png" width="24px">&nbsp;Charged Quartz Crystal</a>
 <ul>
       <li>added 78 new conversions (Commander's Weapons, Commander's Armor, Wanderer's Weapons, Wanderer's Armor, Sigils/Runes)</li>
 </ul>
-<p style="color: #7289da;"><strong>Website Updates 11.01.2022</strong></p>
+<p><strong>Website Updates 11.01.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added missing detailed datasets to following bags:</li>
@@ -2943,13 +2943,13 @@ Cog Settings
       <li>added 8 remaining Chest of Exotic Equipment Bags</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 09.01.2022</strong></p>
+<p><strong>Website Updates 09.01.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>added most profitable Daily Achievements</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 07.01.2022</strong></p>
+<p><strong>Website Updates 07.01.2022</strong></p>
 General
 <ul>
       <li>refactored and changed ~120.000 INDEX formulas to calculate now via ID instead of name</li>
@@ -2961,7 +2961,7 @@ General
       <li>added Wintersday Gift</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 05.01.2022</strong></p>
+<p><strong>Website Updates 05.01.2022</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/blood-ruby" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blood_ruby.png" alt="alt.png" width="32px">&nbsp;Blood Ruby</a>
 <ul>
       <li>added Blood Ruby</li>
@@ -2988,7 +2988,7 @@ General
       <li>added Duration column to all categories with gold per hour profit columns</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.01.2022</strong></p>
+<p><strong>Website Updates 01.01.2022</strong></p>
 General
 <ul>
       <li>fixed few minor calculation mistakes and references in several categories</li>
@@ -3010,18 +3010,18 @@ Cog Settings (upper right corner)
       <li>Farming view will be completely changed in near future</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.12.2021</strong></p>
+<p><strong>Website Updates 28.12.2021</strong></p>
 <ul>
       <li>changed header karma icons to Karma/hr (previously not clear if total value or per hour value)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Wintersday 14.12.2021</strong></p>
+<p><strong>Wintersday 14.12.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/wintersday" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wintersday.png" alt="alt.png" width="32px">&nbsp;Wintersday</a>
 <ul>
       <li>added new Wintersday Farm (Bell Choir)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 03.12.2021</strong></p>
+<p><strong>Website Updates 03.12.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/eternal-ice-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/eternal_ice_shard.png" alt="alt.png" width="32px">&nbsp;Eternal Ice Shard</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/laurel" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/laurel.png" alt="alt.png" width="32px">&nbsp;Laurel</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
@@ -3031,7 +3031,7 @@ Cog Settings (upper right corner)
       <li>added new Conversions in each conversion category above (Ascended Amulet Salvaging). Read the warning notices.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.11.2021</strong></p>
+<p><strong>Website Updates 28.11.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
       <li>added ~240 detailed datasets to all salvageable entries</li>
@@ -3046,7 +3046,7 @@ Cog Settings (upper right corner)
       <li>fixed broken images</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Farming Builds Updates 16.11.2021</strong></p>
+<p><strong>Farming Builds Updates 16.11.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 <ul>
       <li>fixed Template Codes on following builds:</li>
@@ -3063,7 +3063,7 @@ Cog Settings (upper right corner)
       <li>Condi DPS Scourge</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.10.2021</strong></p>
+<p><strong>Website Updates 10.10.2021</strong></p>
 Website Searchbar (Top Nav Bar)
 <ul>
       <li>now indexes all categories on the website</li>
@@ -3078,7 +3078,7 @@ Website Searchbar (Top Nav Bar)
       <li>added Sunspear Redemption Wish</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Farming Builds Updates 04.09.2021</strong></p>
+<p><strong>Farming Builds Updates 04.09.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 <ul>
       <li>The choices and flavor text made for each build can be read on the website. This announcement only briefly summarizes newly added or changed builds.</li>
@@ -3126,13 +3126,13 @@ Condi Tempest
       <li>utility skills are optimized for tagging</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Festival of the four Winds Festival 31.08.2021</strong></p>
+<p><strong>Festival of the four Winds Festival 31.08.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/festival-of-the-four-winds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/festival_of_the_four_winds.png" alt="alt.png" width="32px">&nbsp;Festival of the four Winds</a>
 <ul>
       <li>No new changes.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.08.2021</strong></p>
+<p><strong>Website Updates 29.08.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>added Piece of Unidentified Gear: Open unid, extract Upgrade, salvage (Green→Copper, Yellow→Silver) and sell (15% taxes)</li>
@@ -3153,7 +3153,7 @@ Condi Tempest
       <li>added Siren's Landing Reward Track</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.08.2021</strong></p>
+<p><strong>Website Updates 20.08.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/branded-mass" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/branded_mass.png" alt="alt.png" width="32px">&nbsp;Branded Mass</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/difluorite-crystal" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/difluorite_crystal.png" alt="alt.png" width="32px">&nbsp;Difluorite Crystal</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/item-conversions/inscribed-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/inscribed_shard.png" alt="alt.png" width="32px">&nbsp;Inscribed Shard</a>
@@ -3175,7 +3175,7 @@ Condi Tempest
       <li>added PSNA - Torn Page from "Tyria Pact Survival Handbook"</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.08.2021</strong></p>
+<p><strong>Website Updates 16.08.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>added Rare Unidentified Gear with Upgrade Extractor</li>
@@ -3185,7 +3185,7 @@ Condi Tempest
       <li>added Verdant Brink - Creeping Crevasse HP</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 09.08.2021</strong></p>
+<p><strong>Website Updates 09.08.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>Map Rewards now calculate the active current week instead of previously total average</li>
@@ -3195,7 +3195,7 @@ Condi Tempest
       <li>Map Rewards now calculate the active current week instead of previously total average</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 08.08.2021</strong></p>
+<p><strong>Website Updates 08.08.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
       <li>added 5 new Volatile Magic Conversions (Limited Purchases Category)</li>
@@ -3221,7 +3221,7 @@ Condi Tempest
       <li>added Southwatch Horn (Level 57, Fine, not salvaged)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Farming Builds Updates 22.07.2021</strong></p>
+<p><strong>Farming Builds Updates 22.07.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/builds" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_builds.png" alt="alt.png" width="32px">&nbsp;Farming Builds</a>
 Power DPS Daredevil
 <ul>
@@ -3266,19 +3266,19 @@ Condi DPS Renegade
       <li>changed Grandmaster Trait in "Renegade" to "Righteous Rebel"</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.07.2021</strong></p>
+<p><strong>Website Updates 21.07.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
 <ul>
       <li>Value is calculated now with average positive profit from T5-T6 Trophy Conversions only instead of previously all average positive profits.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.07.2021</strong></p>
+<p><strong>Website Updates 20.07.2021</strong></p>
 General
 <ul>
       <li>added requirements to all farmtrains in detailed datasets</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.07.2021</strong></p>
+<p><strong>Website Updates 19.07.2021</strong></p>
 General
 <ul>
       <li>fixed few columns not showing the correct rounded numbers (Solo-Farming)</li>
@@ -3292,7 +3292,7 @@ General
       <li>added Thunderhead Peaks - Dragon Crystal Node Run TacO Route</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 18.07.2021</strong></p>
+<p><strong>Website Updates 18.07.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/gathering/unlimited-gathering-tools" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unlimited_gathering_tools.png" alt="alt.png" width="32px">&nbsp;Unlimited Gathering Tools</a>
 <ul>
       <li>added Unlimited Gathering Tools with Cast Times</li>
@@ -3343,7 +3343,7 @@ General
       <li>added Kournan Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.07.2021</strong></p>
+<p><strong>Website Updates 13.07.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
       <li>added Twisted Marionette</li>
@@ -3363,7 +3363,7 @@ General
       <li>added Mournstone Amulet</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 08.07.2021</strong></p>
+<p><strong>Website Updates 08.07.2021</strong></p>
 General
 <ul>
       <li>This update contains an important qol feature: a search function for the website!</li>
@@ -3382,7 +3382,7 @@ General
       <li>separated tables to show Sickle and Axe/Pick individually for Glyphs and Karmic Tools</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 07.07.2021</strong></p>
+<p><strong>Website Updates 07.07.2021</strong></p>
 General
 <ul>
       <li>This update evolves around extending detailed datasets and an overhaul of the Weekly Strike Mission Chest page.</li>
@@ -3400,7 +3400,7 @@ General
       <li>added detailed datasets & descriptions</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.07.2021</strong></p>
+<p><strong>Website Updates 01.07.2021</strong></p>
 General
 <ul>
       <li>This update contains new categories and a lot of refactoring of tables. The refactoring took place, because a lot of older tables were not being layed out for the later added detailed datasets.</li>
@@ -3437,7 +3437,7 @@ General
       <li>added new Category Nodes showing Best Gathering Tool for each node</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 30.06.2021</strong></p>
+<p><strong>Website Updates 30.06.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
 <ul>
       <li>refactored entire Spirit Shard Conversions on spreadsheet and code implementation:</li>
@@ -3447,7 +3447,7 @@ General
       <li>added price column icons</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.06.2021</strong></p>
+<p><strong>Website Updates 29.06.2021</strong></p>
 General
 <ul>
       <li>links in multiple categories are now clickable hyperlinks</li>
@@ -3466,7 +3466,7 @@ General
       <li>added Dragon Coffer</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 27.06.2021</strong></p>
+<p><strong>Website Updates 27.06.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>split table (crafting/recipes and vendor) for more clearance on which table is being used for calculations on all dungeon currencies (Ascalonian Tear, Deadly Bloom, Manifesto of the Moletariate, Knowledge Crystal, Seal of Beetletun, Shard of Zhaitan, Symbol of Koda)</li>
@@ -3493,7 +3493,7 @@ General
       <li>added missing Datasets column to Achievement Bags</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 23.06.2021</strong></p>
+<p><strong>Website Updates 23.06.2021</strong></p>
 General
 <ul>
       <li>fixed an implementation error that stalls API updates on Bags</li>
@@ -3517,7 +3517,7 @@ General
       <li>added Chest of Plants</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.06.2021</strong></p>
+<p><strong>Website Updates 22.06.2021</strong></p>
 General
 <ul>
       <li>fixed calculation error (Minimum instead of maximum value shown for eternal ice shard conversions)</li>
@@ -3528,7 +3528,7 @@ General
       <li>No new conversion methods or farms. Enjoy the festivities.</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.06.2021</strong></p>
+<p><strong>Website Updates 20.06.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/contributors" target="_blank">Contributors</a>
 <ul>
       <li>updated Contributors / Supporters list</li>
@@ -3550,7 +3550,7 @@ General
       <li>added 37 new Inscribed Shard Crafting Recipes</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.06.2021</strong></p>
+<p><strong>Website Updates 10.06.2021</strong></p>
 General
 <ul>
       <li>The best gathering tool is now calculated and contained in every detailed dataset node.</li>
@@ -3579,7 +3579,7 @@ General
       <li>added Bjora Marches - Storms of Winter</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.06.2021</strong></p>
+<p><strong>Website Updates 06.06.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/guides" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_guides.png" alt="alt.png" width="32px">&nbsp;Farming Guides</a>
 <ul>
       <li>updated Farming Preparation multiple sections</li>
@@ -3591,7 +3591,7 @@ General
       <li>added detailed datasets to all dungeon paths</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.05.2021</strong></p>
+<p><strong>Website Updates 22.05.2021</strong></p>
 General
 <ul>
       <li>added new category crafting for accountbound materials</li>
@@ -3659,7 +3659,7 @@ General
       <li>removed volcanic box profit from Shiver WvW track (change to accountbound)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.05.2021</strong></p>
+<p><strong>Website Updates 14.05.2021</strong></p>
 General
 <ul>
       <li>added multiple updates on recipes</li>
@@ -3667,7 +3667,7 @@ General
       <li>updated / added all recipes in farmtrains, chests and bags</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 09.05.2021</strong></p>
+<p><strong>Website Updates 09.05.2021</strong></p>
 General
 <ul>
       <li>Price columns now contain icons instead of words. Hover above the icon to reveal the item.</li>
@@ -3699,7 +3699,7 @@ General
       <li>removed redundant columns due to upcoming detailed datasets</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 08.05.2021</strong></p>
+<p><strong>Website Updates 08.05.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added detailed datasets to WvW Reward Tracks</li>
@@ -3713,7 +3713,7 @@ General
       <li>added Heart of Maguuma</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 30.04.2021</strong></p>
+<p><strong>Website Updates 30.04.2021</strong></p>
 General
 <ul>
       <li>side navigation bar settings are now saved locally</li>
@@ -3724,7 +3724,7 @@ General
       <li>added Prismaticite Crystal - Discount Vendor</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 22.04.2021</strong></p>
+<p><strong>Website Updates 22.04.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new Icebrood-Saga Bag (Kodan Supply Box)</li>
@@ -3734,25 +3734,25 @@ General
       <li>added Shiver Emote Tome Reward Track</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.04.2021</strong></p>
+<p><strong>Website Updates 13.04.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>reworked the Goody Bags page to show each entity not in an entire table, but on its own</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.04.2021</strong></p>
+<p><strong>Website Updates 06.04.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/super-adventure-box" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/super_adventure_box.png" alt="alt.png" width="32px">&nbsp;Super Adventure Box</a>
 <ul>
       <li>added new SAB Vendor item (Amalgamated Draconic Lodestone)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.04.2021</strong></p>
+<p><strong>Website Updates 06.04.2021</strong></p>
 General
 <ul>
       <li>Introduction of Detailed Datasets</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.03.2021</strong></p>
+<p><strong>Website Updates 24.03.2021</strong></p>
 General
 <ul>
       <li>fixed multiple reference mistakes with revamped Hero's Choice Chests</li>
@@ -3786,7 +3786,7 @@ General
       <li>added Weekly Black Lion Key Farm</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.03.2021</strong></p>
+<p><strong>Website Updates 19.03.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added new Category (Chests)</li>
@@ -3865,7 +3865,7 @@ General
       <li>added Jahai Bluffs - Death-Branded Shatterer</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 07.03.2021</strong></p>
+<p><strong>Website Updates 07.03.2021</strong></p>
 General
 <ul>
       <li>Strike missions: changed headers to Profit/hr and Profit, now working with the global Buy/Sell TP order global setting</li>
@@ -3877,7 +3877,7 @@ General
       <li>Spirit Shard: removed duplicated columns, renamed headers to be more accurate and removed 'per Conversion' profit data for now</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.02.2021</strong></p>
+<p><strong>Website Updates 24.02.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added Djinn Energy Cluster</li>
@@ -3888,7 +3888,7 @@ General
       <li>changed descriptions to distinguish salvage options</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.02.2021</strong></p>
+<p><strong>Website Updates 20.02.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added new Tyria-Bag (Lucky Red Bag 2021 (~600% MF))</li>
@@ -3917,7 +3917,7 @@ Solo Farming
       <li>Draconis Mons - Jungle Plants TacO Route (80)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.02.2021</strong></p>
+<p><strong>Website Updates 16.02.2021</strong></p>
 General
 <ul>
       <li>fixed few broken tables due to missing references</li>
@@ -3941,7 +3941,7 @@ General
       <li>added Spool of Silk Weaving Thread (Square of Vabbian Silk)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.02.2021</strong></p>
+<p><strong>Website Updates 13.02.2021</strong></p>
 General
 <ul>
       <li>changed 135.000 formulas to calculate taxes directly instead in the total sum</li>
@@ -3950,7 +3950,7 @@ General
       <li>fixed minor calculation mistakes (wrong summation in several WvW-Bags)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 31.01.2021</strong></p>
+<p><strong>Website Updates 31.01.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added Bjora Marches - Essence Chest Spot 5</li>
@@ -4005,7 +4005,7 @@ General
       <li>removed Magnificent JP Chest (71-80)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 26.01.2021</strong></p>
+<p><strong>Website Updates 26.01.2021</strong></p>
 General
 <ul>
       <li>updated Metatrain Guide with more detailed information</li>
@@ -4025,7 +4025,7 @@ General
       <li>added new Tyria Defense Seal Conversion (Deldrimor Supply Box)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 24.01.2021</strong></p>
+<p><strong>Website Updates 24.01.2021</strong></p>
 https://fast.farming-community.eu/
 General
 <ul>
@@ -4046,7 +4046,7 @@ General
       <li>added Dragon Response Missions</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 23.01.2021</strong></p>
+<p><strong>Website Updates 23.01.2021</strong></p>
 API
 <ul>
       <li>API data is now saved to mongoDB</li>
@@ -4065,7 +4065,7 @@ API
       <li>added tooltip with all salvageable items you can search for</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.01.2021</strong></p>
+<p><strong>Website Updates 21.01.2021</strong></p>
 General
 <ul>
       <li>added Metatrain Guide</li>
@@ -4092,7 +4092,7 @@ Builds
       <li>added Flaying Razor (Level 32, Masterwork)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.01.2021</strong></p>
+<p><strong>Website Updates 19.01.2021</strong></p>
 General
 <ul>
       <li>removed Spirit Shards Drops from Champion  on drop tables and all its dependencies: Farmtrain, Drizzlewood Reward Track, Alt-Parking, Home, Dungeon, Raid, Strikes</li>
@@ -4135,7 +4135,7 @@ General
       <li>researched Maguuma Lily Drop Rate on Jungle Plants (flat increase from 1% to 5%)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.01.2021</strong></p>
+<p><strong>Website Updates 13.01.2021</strong></p>
 Alt-Parking
 <ul>
       <li>added Lion's Arch - Troll's Revenge (Node Field)</li>
@@ -4154,7 +4154,7 @@ Alt-Parking
       <li>renamed titles to match GW2 item names</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 09.01.2021</strong></p>
+<p><strong>Website Updates 09.01.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/fractal-relic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractal_relic.png" alt="alt.png" width="32px">&nbsp;Fractal Relic</a>
 <ul>
       <li>split up Fractal Relic table (Fractal Relic Vendors & Fractal Reliquary Converter)</li>
@@ -4168,7 +4168,7 @@ Festival
       <li>added Price Column for Lunar New Year, Super Adventure Box, Dragon Bash, Festival of the four Winds, Halloween & Wintersday</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 07.01.2021</strong></p>
+<p><strong>Website Updates 07.01.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>added more detailed information about passive Bjora Essence Chest Farm</li>
@@ -4179,7 +4179,7 @@ Festival
       <li>added Personalized Wintersday Gift</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.01.2021</strong></p>
+<p><strong>Website Updates 04.01.2021</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/gizmos" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/gizmos.png" alt="alt.png" width="32px">&nbsp;Gizmos</a>
 <ul>
       <li>fixed minor calculation error</li>
@@ -4197,7 +4197,7 @@ Festival
       <li>added a detailed description text to be more clear how the values are being calculated</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 02.01.2021</strong></p>
+<p><strong>Website Updates 02.01.2021</strong></p>
 General
 <ul>
       <li>added copyable Waypoint Links to every Non-instanciated Vendor</li>
@@ -4223,7 +4223,7 @@ General
       <li>added Verdant Brink: Hero's Choice Chest</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 18.12.2020</strong></p>
+<p><strong>Website Updates 18.12.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
 <ul>
       <li>added Silverwastes</li>
@@ -4231,7 +4231,7 @@ General
       <li>added Triumphant Armor</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 17.12.2020</strong></p>
+<p><strong>Website Updates 17.12.2020</strong></p>
 General
 <ul>
       <li>added a new column with the price of the conversion</li>
@@ -4251,7 +4251,7 @@ General Settings (Cog Symbol)
       <li>added 7 new Salvageables (Ascended Ring, Ascended Attuned Ring, Ascended Infused Ring, Ascended Attuned Infused Ring, Ascended Accessory, Ascended Amulet, Ascended Backpack)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 14.12.2020</strong></p>
+<p><strong>Website Updates 14.12.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Masterwork Sigil Bag</li>
@@ -4283,7 +4283,7 @@ General Settings (Cog Symbol)
       <li>added 30 new Karma Conversions (Mystic Forge)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.12.2020</strong></p>
+<p><strong>Website Updates 13.12.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/home-instance" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/home.png" alt="alt.png" width="32px">&nbsp;Home Instance</a>
 <ul>
       <li>added Prismaticite Node</li>
@@ -4304,7 +4304,7 @@ General Settings (Cog Symbol)
       <li>added Dry Top - Skritt Queen Rich Quartz Vein</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 10.12.2020</strong></p>
+<p><strong>Website Updates 10.12.2020</strong></p>
 API
 <ul>
       <li>updates itself now automatically every hour</li>
@@ -4316,7 +4316,7 @@ API
       <li>added Mystic Forge - NPC Heart Vendors</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 01.12.2020</strong></p>
+<p><strong>Website Updates 01.12.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Dry Top</li>
@@ -4328,7 +4328,7 @@ API
       <li>added Crystal Bloom Supply Box</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 29.11.2020</strong></p>
+<p><strong>Website Updates 29.11.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/volatile-magic" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/volatile_magic.png" alt="alt.png" width="32px">&nbsp;Volatile Magic</a>
 <ul>
       <li>added Diviner's Jewelry Recipe Book</li>
@@ -4342,7 +4342,7 @@ API
       <li>fixed calculation errors (Karma, corrected Journeyman's Salvage Kit cost)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.11.2020</strong></p>
+<p><strong>Website Updates 28.11.2020</strong></p>
 General
 <ul>
       <li>added & standardized notes on all Conversions / Festival columns</li>
@@ -4364,7 +4364,7 @@ General
       <li>fixed calculation errors (Badge of Honor, added missing crafting materials)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 21.11.2020</strong></p>
+<p><strong>Website Updates 21.11.2020</strong></p>
 General Fixes
 <ul>
       <li>fixed Farming Builds</li>
@@ -4384,7 +4384,7 @@ Features
       <li>TP Buy Listing and TP Sell Listing now for more tables available (cog symbol upper right corner)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.11.2020</strong></p>
+<p><strong>Website Updates 20.11.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Cache of the Traveler</li>
@@ -4402,7 +4402,7 @@ Features
       <li>added 456 Exotic Weapons</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 19.11.2020</strong></p>
+<p><strong>Website Updates 19.11.2020</strong></p>
 General
 <ul>
       <li>updated descriptions on several categories</li>
@@ -4418,7 +4418,7 @@ General
       <li>removed Dragonfall tricom</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.11.2020</strong></p>
+<p><strong>Website Updates 13.11.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>Daily Farming Checklist for all of your needs on one page.</li>
@@ -4453,7 +4453,7 @@ General
       <li>added Dungeons</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.11.2020</strong></p>
+<p><strong>Website Updates 04.11.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/karma" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/karma.png" alt="alt.png" width="32px">&nbsp;Karma</a>
 <ul>
       <li>added all Karmic Tools instead of showing only the best option on Karma Conversions</li>
@@ -4463,7 +4463,7 @@ General
       <li>added Personalized Trick-or-Treat Bag Accountbound</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 31.10.2020</strong></p>
+<p><strong>Website Updates 31.10.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/tale-of-dungeon-delving" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/tale_of_dungeon_delving.png" alt="alt.png" width="32px">&nbsp;Tale of Dungeon Delving</a>
 <ul>
       <li>added 61 new Ascalonian Tear Conversions (Exotic Armor, Aether, Azureflame, Eidolon, ...)</li>
@@ -4476,20 +4476,20 @@ General
       <li>added 56 new Symbol of Koda Conversions (Exotic Armor, Wintersbark, Wintersbite)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.10.2020</strong></p>
+<p><strong>Website Updates 16.10.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/halloween" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/halloween.png" alt="alt.png" width="32px">&nbsp;Halloween</a>
 <ul>
       <li>added description of average Bags per Hour and average Magic Find from datasets</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 13.10.2020</strong></p>
+<p><strong>Website Updates 13.10.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/festivals/dragon-bash" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/dragon_bash.png" alt="alt.png" width="32px">&nbsp;Dragon Bash</a>
 <ul>
       <li>Supporters, Commanders, Developers and Data Research Team as well as Members who handed in good amount of research data are now being credited on our Contributor page!</li>
       <li>Thank you for supporting me on this journey!</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 08.10.2020</strong></p>
+<p><strong>Website Updates 08.10.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/unid-gear" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unidentified_gear.png" alt="alt.png" width="24px">&nbsp;Unid Gear</a>
 <ul>
       <li>fixed a major calculation mistake - adding taxes to Unid Gear: We are comparing Unid Gear, which is sold with taxes on the TP vs Salvaging Materials which are also sold with taxes on the TP</li>
@@ -4504,7 +4504,7 @@ General
       <li>added Top-Tiered Terror Toppler (Weekly CMs)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 02.10.2020</strong></p>
+<p><strong>Website Updates 02.10.2020</strong></p>
 General
 <ul>
       <li>added button to hide sidebar for slightly better usability on mobile version (see image below)</li>
@@ -4549,7 +4549,7 @@ General
       <li>changed duration from decimal to HH:MM format</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 30.09.2020</strong></p>
+<p><strong>Website Updates 30.09.2020</strong></p>
 API
 <ul>
       <li>updates now every hour</li>
@@ -4576,7 +4576,7 @@ API
       <li>changed Prospector Level 41-55 to Prospector Level 41-45, Prospector Level 46-50, Prospector Level 51-55</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 28.09.2020</strong></p>
+<p><strong>Website Updates 28.09.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Dragonfall - Tricom</li>
@@ -4596,7 +4596,7 @@ API
       <li>added Treasure Shroom</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.09.2020</strong></p>
+<p><strong>Website Updates 15.09.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
       <li>added Trophy Shipment</li>
@@ -4606,7 +4606,7 @@ API
       <li>added Mistborn Coffer (Capped)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 08.09.2020</strong></p>
+<p><strong>Website Updates 08.09.2020</strong></p>
 General
 <ul>
       <li>removed exception handling in the spreadsheet which prevents finding mistakes (typos, calculation errors, etc.)</li>
@@ -4627,7 +4627,7 @@ General
       <li>in near future it will receive a proper table function to split material buy&sell order + item buy&sell order</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 06.09.2020</strong></p>
+<p><strong>Website Updates 06.09.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="24px">&nbsp;Chest</a>
 <ul>
       <li>added Exalted Chest</li>
@@ -4643,7 +4643,7 @@ General
       <li>fixed a calculation error</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 05.09.2020</strong></p>
+<p><strong>Website Updates 05.09.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Bags of Loot</li>
@@ -4681,7 +4681,7 @@ General
       <li>reworked / renewed Masterwork Unid Gear Data</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 04.09.2020</strong></p>
+<p><strong>Website Updates 04.09.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
       <li>readded Bjora Marches - Small Chest</li>
@@ -4707,7 +4707,7 @@ General
       <li>added 39 "Karma Wintersday Festival" Conversions to Wintersday</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 03.09.2020</strong></p>
+<p><strong>Website Updates 03.09.2020</strong></p>
 API
 <ul>
       <li>updates now every 4 hrs (test runs were successful)</li>
@@ -4738,13 +4738,13 @@ General
       <li>added Equipment Bag</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 20.08.2020</strong></p>
+<p><strong>Website Updates 20.08.2020</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/farmtrain" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/farmtrain.png" alt="alt.png" width="24px">&nbsp;Farmtrain</a>
 <ul>
       <li>added Drizzlewood - 2x South</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 16.08.2020</strong></p>
+<p><strong>Website Updates 16.08.2020</strong></p>
 General
 <ul>
       <li>added descriptions / explanations on several categories</li>
@@ -4758,7 +4758,7 @@ General
       <li>updated Boss Blitz Farm with more realistic value (added downtime value)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 15.08.2020</strong></p>
+<p><strong>Website Updates 15.08.2020</strong></p>
 General
 <ul>
       <li>added table headers</li>
@@ -4786,7 +4786,7 @@ General
       <li>added Lump of Aurillium</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 12.08.2020</strong></p>
+<p><strong>Website Updates 12.08.2020</strong></p>
 General
 <ul>
       <li>API updates for now automatically every day @ 0:00 GMT+2</li>
@@ -4805,7 +4805,7 @@ General
       <li>added Festival Vendor Token Conversions (Heavy Crafting Bag, Tome of Knowledge, Fervid Cernser)</li>
 </ul>
 <hr>
-<p style="color: #7289da;"><strong>Website Updates 05.08.2020</strong></p>
+<p><strong>Website Updates 05.08.2020</strong></p>
 General
 <ul>
       <li>updated several tables for better overall readability</li>
