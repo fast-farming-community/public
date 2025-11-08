@@ -2,7 +2,6 @@
 <ul>
     <li>add new Infinite Gathering Tools and record animations etc. maybe maybe someday</li>
     <li>add 2000+ items to Salvaging Costs per Research Note</li>
-    <li>create new Backend to optimize Google API fetching and GW2API price update</li>
 </ul>
 <p><strong>Big Features (&gt; 10 hrs)</strong></p>
 <ul>
