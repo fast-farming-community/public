@@ -10,6 +10,14 @@
       <li>Thanks to every supporter for keeping the [fast] project alive. ❤️</li>
       <li>Good luck in the draw! 🍀</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<ul>
+      <li>added automatic validation of saved API keys on the profile page with clear indication when the GW2 API is unavailable.</li>
+      <li>improved timeout handling to detect and display temporary GW2 API outages instead of marking keys as invalid.</li>
+      <li>added a unified outage banner on both the tracker and profile pages, pausing validation and saving during GW2 API downtime.</li>
+      <li>fixed validation and error messages for consistency and clarity across the tracker and profile pages.</li>
+      <li>fixed navigation to remember and return users to their previous page after successful login or registration.</li>
+</ul>
 <hr>
 <p><strong>Visions of Eternity Expansion Website Updates November 2025</strong></p>
 General
