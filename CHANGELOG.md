@@ -1,4 +1,9 @@
 <h4>For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.</h4>
+<h2>2025-11-16</h2>
+<h3>Changed</h3>
+<ul>
+<li>updated from Angular 17 to Angular 20</li>
+</ul>
 <h2>2025-11-08</h2>
 <h3>Added</h3>
 <ul>
