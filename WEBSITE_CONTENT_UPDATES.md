@@ -1,4 +1,10 @@
 <p><strong>Website Updates November 2025</strong></p>
+Local Browser Storage
+<ul>
+      <li>In the latest update I refactored and renamed some of the internal browser storage keys to keep things cleaner going forward.
+Because of that you might see a few small resets (checkboxes, tooltips, UI preferences, etc.).</li>
+      <li>If anything looks off, just hit <strong>CTRL+F5</strong> once and it should sort itself out.</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/monthly-raffle" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/monthly_raffle.png" alt="alt.png" width="32px">&nbsp;Monthly Raffle</a>
 <ul>
       <li>The [fast] Monthly Raffle is now available to everyone.</li>
