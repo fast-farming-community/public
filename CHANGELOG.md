@@ -2,7 +2,7 @@
 <h2>2025-11-21</h2>
 <h3>Changed</h3>
 <ul>
-<li>updated fromg ag-grid 31 to 34 <a href="https://github.com/fast-farming-community/website/pull/576">#576</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
+<li>updated from ag-grid 31 to 34 <a href="https://github.com/fast-farming-community/website/pull/576">#576</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
 </ul>
 <h2>2025-11-18</h2>
 <h3>Changed</h3>
