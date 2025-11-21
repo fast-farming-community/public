@@ -57,9 +57,11 @@ General
       <li>Rare Aetherlocation Treasure</li>
       <li>Small Obscured Chest (Shipwreck Strand)</li>
       <li>Medium Obscured Chest (Shipwreck Strand)</li>
+      <li>Large Obscured Chest (Shipwreck Strand)</li>
       <li>Magic Mirror Chest (Shipwreck Strand)</li>
       <li>Small Obscured Chest (Starlit Weald)</li>
       <li>Medium Obscured Chest (Starlit Weald)</li>
+      <li>Large Obscured Chest (Starlit Weald)</li>
       <li>Magic Mirror Chest (Starlit Weald)</li>
       <li>Magnificent Chest (Hammerhart Rumble Meta)</li>
       <li>Magnificent Chest (Secrets of the Weald Meta)</li>
@@ -95,6 +97,7 @@ General
       <li>Illustrious Opah</li>
       <li>Elusive Boxcrab</li>
       <li>Illusive Jellycrab</li>
+      <li>Black Lion Material Bag: Visions of Eternity</li>
 </ul>
 <hr>
 <p><strong>Website Updates 04.11.2025</strong></p>
