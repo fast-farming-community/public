@@ -1,4 +1,9 @@
 <p><strong>Website Updates November 2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Gift from Mawdrey II</li>
+      <li>added Gunk-Covered Pellet</li>
+</ul>
 Local Browser Storage
 <ul>
       <li>In the latest update I refactored and renamed some of the internal browser storage keys to keep things cleaner going forward.
