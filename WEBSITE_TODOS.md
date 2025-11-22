@@ -10,6 +10,4 @@
 <p><strong>Small Features(&lt; 10 hrs)</strong></p>
 <ul>
     <li>add Glorious Canthan Chest (Shrine Guardian)</li>
-    <li>add Gunk-Covered Pellet</li>
-    <li>add Gift from Mawdrey II</li>
 </ul>
