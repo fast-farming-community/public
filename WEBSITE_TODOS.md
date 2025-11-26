@@ -5,9 +5,9 @@
 </ul>
 <p><strong>Big Features (&gt; 10 hrs)</strong></p>
 <ul>
-    <li>/</li>
+    <li>—</li>
 </ul>
 <p><strong>Small Features(&lt; 10 hrs)</strong></p>
 <ul>
-    <li>add Glorious Canthan Chest (Shrine Guardian)</li>
+    <li>—</li>
 </ul>
