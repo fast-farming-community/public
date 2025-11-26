@@ -49,11 +49,13 @@ General
       <li>Shipwreck Strand - Magic Mirror</li>
       <li>Ancient Wood Log</li>
       <li>Saffron Thread</li>
+      <li>Raspberry</li>
       <li>Shipwreck Strand - Flotsam Grotto Skimmerway</li>
-      <li>Shipwreck Strand - Sailor's Heart Grotto</li>
       <li>Shipwreck Strand - Glimmering Arches</li>
-      <li>Shipwreck Strand - Pub Canach Waypoint</li>
       <li>Shipwreck Strand - Orb Cavern JP</li>
+      <li>Shipwreck Strand - Pub Canach Waypoint</li>
+      <li>Shipwreck Strand - Quiggles's Hideaway</li>
+      <li>Shipwreck Strand - Sailor's Heart Grotto</li>
       <li>Starlit Weald - Inquest Hologram JP</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
