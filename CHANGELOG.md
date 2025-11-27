@@ -1,4 +1,9 @@
 <h4>For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.</h4>
+<h2>2025-11-27</h2>
+<h3>Removed</h3>
+<ul>
+<li>remove item-conversions module <a href="https://github.com/fast-farming-community/website/pull/577">#577</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
+</ul>
 <h2>2025-11-21</h2>
 <h3>Changed</h3>
 <ul>
