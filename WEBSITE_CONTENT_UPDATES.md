@@ -1,4 +1,9 @@
 <p><strong>Website Updates November 2025</strong></p>
+General
+<ul>
+      <li>changed desktop behavior so the settings dropdown now replaces the old settings modal entirely, while the modal is only used on mobile</li>
+      <li>added unified profit settings so top-nav and profit-selection panel stay full in sync</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Gift from Mawdrey II</li>
