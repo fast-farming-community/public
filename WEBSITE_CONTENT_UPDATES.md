@@ -32,7 +32,7 @@
       <li>added Exotic Weapon Rabid (Axe, Mace, Pistol, Shield)</li>
       <li>added Exotic Weapon Rabid (Focus, Torch, Scepter)</li>
       <li>added Exotic Weapon Rabid (Greatsword)</li>
-      <li>added Exotic Weapon Rabid (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Rabid (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon Rabid (Trident, Staff, Longbow, Short Bow)</li>
       <li>added Exotic Weapon Shaman (Dagger, Sword, Warhorn)</li>
       <li>added Exotic Weapon Shaman (Axe, Mace, Pistol, Shield)</li>
