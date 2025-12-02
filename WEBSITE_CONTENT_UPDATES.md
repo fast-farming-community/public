@@ -8,25 +8,25 @@
       <li>added Exotic Weapon (Axe, Mace, Pistol, Shield)</li>
       <li>added Exotic Weapon (Focus, Torch, Scepter)</li>
       <li>added Exotic Weapon (Greatsword)</li>
-      <li>added Exotic Weapon (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon (Trident, Staff, Longbow, Short Bow)</li>
       <li>added Exotic Weapon Cavalier (Dagger, Sword, Warhorn)</li>
       <li>added Exotic Weapon Cavalier (Axe, Mace, Pistol, Shield)</li>
       <li>added Exotic Weapon Cavalier (Focus, Torch, Scepter)</li>
       <li>added Exotic Weapon Cavalier (Greatsword)</li>
-      <li>added Exotic Weapon Cavalier (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Cavalier (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon Cavalier (Trident, Staff, Longbow, Short Bow)</li>
       <li>added Exotic Weapon Dire (Dagger, Sword, Warhorn)</li>
       <li>added Exotic Weapon Dire (Axe, Mace, Pistol, Shield)</li>
       <li>added Exotic Weapon Dire (Focus, Torch, Scepter)</li>
       <li>added Exotic Weapon Dire (Greatsword)</li>
-      <li>added Exotic Weapon Dire (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Dire (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon Dire (Trident, Staff, Longbow, Short Bow)</li>
       <li>added Exotic Weapon Magi (Dagger, Sword, Warhorn)</li>
       <li>added Exotic Weapon Magi (Axe, Mace, Pistol, Shield)</li>
       <li>added Exotic Weapon Magi (Focus, Torch, Scepter)</li>
       <li>added Exotic Weapon Magi (Greatsword)</li>
-      <li>added Exotic Weapon Magi (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Magi (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon Magi (Trident, Staff, Longbow, Short Bow)</li>
       <li>added Exotic Weapon Rabid (Dagger, Sword, Warhorn)</li>
       <li>added Exotic Weapon Rabid (Axe, Mace, Pistol, Shield)</li>
@@ -38,13 +38,13 @@
       <li>added Exotic Weapon Shaman (Axe, Mace, Pistol, Shield)</li>
       <li>added Exotic Weapon Shaman (Focus, Torch, Scepter)</li>
       <li>added Exotic Weapon Shaman (Greatsword)</li>
-      <li>added Exotic Weapon Shaman (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Shaman (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon Shaman (Trident, Staff, Longbow, Short Bow)</li>
       <li>added Exotic Weapon Soldier (Dagger, Sword, Warhorn)</li>
       <li>added Exotic Weapon Soldier (Axe, Mace, Pistol, Shield)</li>
       <li>added Exotic Weapon Soldier (Focus, Torch, Scepter)</li>
       <li>added Exotic Weapon Soldier (Greatsword)</li>
-      <li>added Exotic Weapon Soldier (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Soldier (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon Soldier (Trident, Staff, Longbow, Short Bow)</li>
       <li>Exotic Armor (Light Head)</li>
       <li>Exotic Armor (Light Shoulders)</li>
