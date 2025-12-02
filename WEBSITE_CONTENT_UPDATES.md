@@ -46,132 +46,132 @@
       <li>added Exotic Weapon Soldier (Greatsword)</li>
       <li>added Exotic Weapon Soldier (Hammer, Rifle, Spear, Harpoon Gun)</li>
       <li>added Exotic Weapon Soldier (Trident, Staff, Longbow, Short Bow)</li>
-      <li>Exotic Armor (Light Head)</li>
-      <li>Exotic Armor (Light Shoulders)</li>
-      <li>Exotic Armor (Light Chest)</li>
-      <li>Exotic Armor (Light Gloves)</li>
-      <li>Exotic Armor (Light Leggings)</li>
-      <li>Exotic Armor (Light Boots)</li>
-      <li>Exotic Armor (Medium Head)</li>
-      <li>Exotic Armor (Medium Shoulders)</li>
-      <li>Exotic Armor (Medium Chest)</li>
-      <li>Exotic Armor (Medium Gloves)</li>
-      <li>Exotic Armor (Medium Leggings)</li>
-      <li>Exotic Armor (Medium Boots)</li>
-      <li>Exotic Armor (Heavy Head)</li>
-      <li>Exotic Armor (Heavy Shoulders)</li>
-      <li>Exotic Armor (Heavy Chest)</li>
-      <li>Exotic Armor (Heavy Gloves)</li>
-      <li>Exotic Armor (Heavy Leggings)</li>
-      <li>Exotic Armor (Heavy Boots)</li>
-      <li>Exotic Armor Cavalier (Light Head)</li>
-      <li>Exotic Armor Cavalier (Light Shoulders)</li>
-      <li>Exotic Armor Cavalier (Light Chest)</li>
-      <li>Exotic Armor Cavalier (Light Gloves)</li>
-      <li>Exotic Armor Cavalier (Light Leggings)</li>
-      <li>Exotic Armor Cavalier (Light Boots)</li>
-      <li>Exotic Armor Cavalier (Medium Head)</li>
-      <li>Exotic Armor Cavalier (Medium Shoulders)</li>
-      <li>Exotic Armor Cavalier (Medium Chest)</li>
-      <li>Exotic Armor Cavalier (Medium Gloves)</li>
-      <li>Exotic Armor Cavalier (Medium Leggings)</li>
-      <li>Exotic Armor Cavalier (Medium Boots)</li>
-      <li>Exotic Armor Cavalier (Heavy Head)</li>
-      <li>Exotic Armor Cavalier (Heavy Shoulders)</li>
-      <li>Exotic Armor Cavalier (Heavy Chest)</li>
-      <li>Exotic Armor Cavalier (Heavy Gloves)</li>
-      <li>Exotic Armor Cavalier (Heavy Leggings)</li>
-      <li>Exotic Armor Cavalier (Heavy Boots)</li>
-      <li>Exotic Armor Dire (Light Head)</li>
-      <li>Exotic Armor Dire (Light Shoulders)</li>
-      <li>Exotic Armor Dire (Light Chest)</li>
-      <li>Exotic Armor Dire (Light Gloves)</li>
-      <li>Exotic Armor Dire (Light Leggings)</li>
-      <li>Exotic Armor Dire (Light Boots)</li>
-      <li>Exotic Armor Dire (Medium Head)</li>
-      <li>Exotic Armor Dire (Medium Shoulders)</li>
-      <li>Exotic Armor Dire (Medium Chest)</li>
-      <li>Exotic Armor Dire (Medium Gloves)</li>
-      <li>Exotic Armor Dire (Medium Leggings)</li>
-      <li>Exotic Armor Dire (Medium Boots)</li>
-      <li>Exotic Armor Dire (Heavy Head)</li>
-      <li>Exotic Armor Dire (Heavy Shoulders)</li>
-      <li>Exotic Armor Dire (Heavy Chest)</li>
-      <li>Exotic Armor Dire (Heavy Gloves)</li>
-      <li>Exotic Armor Dire (Heavy Leggings)</li>
-      <li>Exotic Armor Dire (Heavy Boots)</li>
-      <li>Exotic Armor Magi (Light Head)</li>
-      <li>Exotic Armor Magi (Light Shoulders)</li>
-      <li>Exotic Armor Magi (Light Chest)</li>
-      <li>Exotic Armor Magi (Light Gloves)</li>
-      <li>Exotic Armor Magi (Light Leggings)</li>
-      <li>Exotic Armor Magi (Light Boots)</li>
-      <li>Exotic Armor Magi (Medium Head)</li>
-      <li>Exotic Armor Magi (Medium Shoulders)</li>
-      <li>Exotic Armor Magi (Medium Chest)</li>
-      <li>Exotic Armor Magi (Medium Gloves)</li>
-      <li>Exotic Armor Magi (Medium Leggings)</li>
-      <li>Exotic Armor Magi (Medium Boots)</li>
-      <li>Exotic Armor Magi (Heavy Head)</li>
-      <li>Exotic Armor Magi (Heavy Shoulders)</li>
-      <li>Exotic Armor Magi (Heavy Chest)</li>
-      <li>Exotic Armor Magi (Heavy Gloves)</li>
-      <li>Exotic Armor Magi (Heavy Leggings)</li>
-      <li>Exotic Armor Magi (Heavy Boots)</li>
-      <li>Exotic Armor Shaman (Light Head)</li>
-      <li>Exotic Armor Shaman (Light Shoulders)</li>
-      <li>Exotic Armor Shaman (Light Chest)</li>
-      <li>Exotic Armor Shaman (Light Gloves)</li>
-      <li>Exotic Armor Shaman (Light Leggings)</li>
-      <li>Exotic Armor Shaman (Light Boots)</li>
-      <li>Exotic Armor Shaman (Medium Head)</li>
-      <li>Exotic Armor Shaman (Medium Shoulders)</li>
-      <li>Exotic Armor Shaman (Medium Chest)</li>
-      <li>Exotic Armor Shaman (Medium Gloves)</li>
-      <li>Exotic Armor Shaman (Medium Leggings)</li>
-      <li>Exotic Armor Shaman (Medium Boots)</li>
-      <li>Exotic Armor Shaman (Heavy Head)</li>
-      <li>Exotic Armor Shaman (Heavy Shoulders)</li>
-      <li>Exotic Armor Shaman (Heavy Chest)</li>
-      <li>Exotic Armor Shaman (Heavy Gloves)</li>
-      <li>Exotic Armor Shaman (Heavy Leggings)</li>
-      <li>Exotic Armor Shaman (Heavy Boots)</li>
-      <li>Exotic Armor Soldier (Light Head)</li>
-      <li>Exotic Armor Soldier (Light Shoulders)</li>
-      <li>Exotic Armor Soldier (Light Chest)</li>
-      <li>Exotic Armor Soldier (Light Gloves)</li>
-      <li>Exotic Armor Soldier (Light Leggings)</li>
-      <li>Exotic Armor Soldier (Light Boots)</li>
-      <li>Exotic Armor Soldier (Medium Head)</li>
-      <li>Exotic Armor Soldier (Medium Shoulders)</li>
-      <li>Exotic Armor Soldier (Medium Chest)</li>
-      <li>Exotic Armor Soldier (Medium Gloves)</li>
-      <li>Exotic Armor Soldier (Medium Leggings)</li>
-      <li>Exotic Armor Soldier (Medium Boots)</li>
-      <li>Exotic Armor Soldier (Heavy Head)</li>
-      <li>Exotic Armor Soldier (Heavy Shoulders)</li>
-      <li>Exotic Armor Soldier (Heavy Chest)</li>
-      <li>Exotic Armor Soldier (Heavy Gloves)</li>
-      <li>Exotic Armor Soldier (Heavy Leggings)</li>
-      <li>Exotic Armor Soldier (Heavy Boots)</li>
-      <li>Exotic Armor Rabid (Light Head)</li>
-      <li>Exotic Armor Rabid (Light Shoulders)</li>
-      <li>Exotic Armor Rabid (Light Chest)</li>
-      <li>Exotic Armor Rabid (Light Gloves)</li>
-      <li>Exotic Armor Rabid (Light Leggings)</li>
-      <li>Exotic Armor Rabid (Light Boots)</li>
-      <li>Exotic Armor Rabid (Medium Head)</li>
-      <li>Exotic Armor Rabid (Medium Shoulders)</li>
-      <li>Exotic Armor Rabid (Medium Chest)</li>
-      <li>Exotic Armor Rabid (Medium Gloves)</li>
-      <li>Exotic Armor Rabid (Medium Leggings)</li>
-      <li>Exotic Armor Rabid (Medium Boots)</li>
-      <li>Exotic Armor Rabid (Heavy Head)</li>
-      <li>Exotic Armor Rabid (Heavy Shoulders)</li>
-      <li>Exotic Armor Rabid (Heavy Chest)</li>
-      <li>Exotic Armor Rabid (Heavy Gloves)</li>
-      <li>Exotic Armor Rabid (Heavy Leggings)</li>
-      <li>Exotic Armor Rabid (Heavy Boots)</li>
+      <li>added Exotic Armor (Light Head)</li>
+      <li>added Exotic Armor (Light Shoulders)</li>
+      <li>added Exotic Armor (Light Chest)</li>
+      <li>added Exotic Armor (Light Gloves)</li>
+      <li>added Exotic Armor (Light Leggings)</li>
+      <li>added Exotic Armor (Light Boots)</li>
+      <li>added Exotic Armor (Medium Head)</li>
+      <li>added Exotic Armor (Medium Shoulders)</li>
+      <li>added Exotic Armor (Medium Chest)</li>
+      <li>added Exotic Armor (Medium Gloves)</li>
+      <li>added Exotic Armor (Medium Leggings)</li>
+      <li>added Exotic Armor (Medium Boots)</li>
+      <li>added Exotic Armor (Heavy Head)</li>
+      <li>added Exotic Armor (Heavy Shoulders)</li>
+      <li>added Exotic Armor (Heavy Chest)</li>
+      <li>added Exotic Armor (Heavy Gloves)</li>
+      <li>added Exotic Armor (Heavy Leggings)</li>
+      <li>added Exotic Armor (Heavy Boots)</li>
+      <li>added Exotic Armor Cavalier (Light Head)</li>
+      <li>added Exotic Armor Cavalier (Light Shoulders)</li>
+      <li>added Exotic Armor Cavalier (Light Chest)</li>
+      <li>added Exotic Armor Cavalier (Light Gloves)</li>
+      <li>added Exotic Armor Cavalier (Light Leggings)</li>
+      <li>added Exotic Armor Cavalier (Light Boots)</li>
+      <li>added Exotic Armor Cavalier (Medium Head)</li>
+      <li>added Exotic Armor Cavalier (Medium Shoulders)</li>
+      <li>added Exotic Armor Cavalier (Medium Chest)</li>
+      <li>added Exotic Armor Cavalier (Medium Gloves)</li>
+      <li>added Exotic Armor Cavalier (Medium Leggings)</li>
+      <li>added Exotic Armor Cavalier (Medium Boots)</li>
+      <li>added Exotic Armor Cavalier (Heavy Head)</li>
+      <li>added Exotic Armor Cavalier (Heavy Shoulders)</li>
+      <li>added Exotic Armor Cavalier (Heavy Chest)</li>
+      <li>added Exotic Armor Cavalier (Heavy Gloves)</li>
+      <li>added Exotic Armor Cavalier (Heavy Leggings)</li>
+      <li>added Exotic Armor Cavalier (Heavy Boots)</li>
+      <li>added Exotic Armor Dire (Light Head)</li>
+      <li>added Exotic Armor Dire (Light Shoulders)</li>
+      <li>added Exotic Armor Dire (Light Chest)</li>
+      <li>added Exotic Armor Dire (Light Gloves)</li>
+      <li>added Exotic Armor Dire (Light Leggings)</li>
+      <li>added Exotic Armor Dire (Light Boots)</li>
+      <li>added Exotic Armor Dire (Medium Head)</li>
+      <li>added Exotic Armor Dire (Medium Shoulders)</li>
+      <li>added Exotic Armor Dire (Medium Chest)</li>
+      <li>added Exotic Armor Dire (Medium Gloves)</li>
+      <li>added Exotic Armor Dire (Medium Leggings)</li>
+      <li>added Exotic Armor Dire (Medium Boots)</li>
+      <li>added Exotic Armor Dire (Heavy Head)</li>
+      <li>added Exotic Armor Dire (Heavy Shoulders)</li>
+      <li>added Exotic Armor Dire (Heavy Chest)</li>
+      <li>added Exotic Armor Dire (Heavy Gloves)</li>
+      <li>added Exotic Armor Dire (Heavy Leggings)</li>
+      <li>added Exotic Armor Dire (Heavy Boots)</li>
+      <li>added Exotic Armor Magi (Light Head)</li>
+      <li>added Exotic Armor Magi (Light Shoulders)</li>
+      <li>added Exotic Armor Magi (Light Chest)</li>
+      <li>added Exotic Armor Magi (Light Gloves)</li>
+      <li>added Exotic Armor Magi (Light Leggings)</li>
+      <li>added Exotic Armor Magi (Light Boots)</li>
+      <li>added Exotic Armor Magi (Medium Head)</li>
+      <li>added Exotic Armor Magi (Medium Shoulders)</li>
+      <li>added Exotic Armor Magi (Medium Chest)</li>
+      <li>added Exotic Armor Magi (Medium Gloves)</li>
+      <li>added Exotic Armor Magi (Medium Leggings)</li>
+      <li>added Exotic Armor Magi (Medium Boots)</li>
+      <li>added Exotic Armor Magi (Heavy Head)</li>
+      <li>added Exotic Armor Magi (Heavy Shoulders)</li>
+      <li>added Exotic Armor Magi (Heavy Chest)</li>
+      <li>added Exotic Armor Magi (Heavy Gloves)</li>
+      <li>added Exotic Armor Magi (Heavy Leggings)</li>
+      <li>added Exotic Armor Magi (Heavy Boots)</li>
+      <li>added Exotic Armor Shaman (Light Head)</li>
+      <li>added Exotic Armor Shaman (Light Shoulders)</li>
+      <li>added Exotic Armor Shaman (Light Chest)</li>
+      <li>added Exotic Armor Shaman (Light Gloves)</li>
+      <li>added Exotic Armor Shaman (Light Leggings)</li>
+      <li>added Exotic Armor Shaman (Light Boots)</li>
+      <li>added Exotic Armor Shaman (Medium Head)</li>
+      <li>added Exotic Armor Shaman (Medium Shoulders)</li>
+      <li>added Exotic Armor Shaman (Medium Chest)</li>
+      <li>added Exotic Armor Shaman (Medium Gloves)</li>
+      <li>added Exotic Armor Shaman (Medium Leggings)</li>
+      <li>added Exotic Armor Shaman (Medium Boots)</li>
+      <li>added Exotic Armor Shaman (Heavy Head)</li>
+      <li>added Exotic Armor Shaman (Heavy Shoulders)</li>
+      <li>added Exotic Armor Shaman (Heavy Chest)</li>
+      <li>added Exotic Armor Shaman (Heavy Gloves)</li>
+      <li>added Exotic Armor Shaman (Heavy Leggings)</li>
+      <li>added Exotic Armor Shaman (Heavy Boots)</li>
+      <li>added Exotic Armor Soldier (Light Head)</li>
+      <li>added Exotic Armor Soldier (Light Shoulders)</li>
+      <li>added Exotic Armor Soldier (Light Chest)</li>
+      <li>added Exotic Armor Soldier (Light Gloves)</li>
+      <li>added Exotic Armor Soldier (Light Leggings)</li>
+      <li>added Exotic Armor Soldier (Light Boots)</li>
+      <li>added Exotic Armor Soldier (Medium Head)</li>
+      <li>added Exotic Armor Soldier (Medium Shoulders)</li>
+      <li>added Exotic Armor Soldier (Medium Chest)</li>
+      <li>added Exotic Armor Soldier (Medium Gloves)</li>
+      <li>added Exotic Armor Soldier (Medium Leggings)</li>
+      <li>added Exotic Armor Soldier (Medium Boots)</li>
+      <li>added Exotic Armor Soldier (Heavy Head)</li>
+      <li>added Exotic Armor Soldier (Heavy Shoulders)</li>
+      <li>added Exotic Armor Soldier (Heavy Chest)</li>
+      <li>added Exotic Armor Soldier (Heavy Gloves)</li>
+      <li>added Exotic Armor Soldier (Heavy Leggings)</li>
+      <li>added Exotic Armor Soldier (Heavy Boots)</li>
+      <li>added Exotic Armor Rabid (Light Head)</li>
+      <li>added Exotic Armor Rabid (Light Shoulders)</li>
+      <li>added Exotic Armor Rabid (Light Chest)</li>
+      <li>added Exotic Armor Rabid (Light Gloves)</li>
+      <li>added Exotic Armor Rabid (Light Leggings)</li>
+      <li>added Exotic Armor Rabid (Light Boots)</li>
+      <li>added Exotic Armor Rabid (Medium Head)</li>
+      <li>added Exotic Armor Rabid (Medium Shoulders)</li>
+      <li>added Exotic Armor Rabid (Medium Chest)</li>
+      <li>added Exotic Armor Rabid (Medium Gloves)</li>
+      <li>added Exotic Armor Rabid (Medium Leggings)</li>
+      <li>added Exotic Armor Rabid (Medium Boots)</li>
+      <li>added Exotic Armor Rabid (Heavy Head)</li>
+      <li>added Exotic Armor Rabid (Heavy Shoulders)</li>
+      <li>added Exotic Armor Rabid (Heavy Chest)</li>
+      <li>added Exotic Armor Rabid (Heavy Gloves)</li>
+      <li>added Exotic Armor Rabid (Heavy Leggings)</li>
+      <li>added Exotic Armor Rabid (Heavy Boots)</li>
 </ul>
 <hr>
 <p><strong>Website Updates November 2025</strong></p>
