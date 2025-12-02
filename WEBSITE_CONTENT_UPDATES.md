@@ -1,3 +1,179 @@
+<p><strong>Website Updates 02.12.2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
+<ul>
+      <li>applied automatic referencing, detailed datasets of Exotic Armor and Exotic Weapon below to all relevant containers, bags and categories:</li>
+</ul>
+<ul>
+      <li>added Exotic Weapon (Dagger, Sword, Warhorn)</li>
+      <li>added Exotic Weapon (Axe, Mace, Pistol, Shield)</li>
+      <li>added Exotic Weapon (Focus, Torch, Scepter)</li>
+      <li>added Exotic Weapon (Greatsword)</li>
+      <li>added Exotic Weapon (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon (Trident, Staff, Longbow, Short Bow)</li>
+      <li>added Exotic Weapon Cavalier (Dagger, Sword, Warhorn)</li>
+      <li>added Exotic Weapon Cavalier (Axe, Mace, Pistol, Shield)</li>
+      <li>added Exotic Weapon Cavalier (Focus, Torch, Scepter)</li>
+      <li>added Exotic Weapon Cavalier (Greatsword)</li>
+      <li>added Exotic Weapon Cavalier (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Cavalier (Trident, Staff, Longbow, Short Bow)</li>
+      <li>added Exotic Weapon Dire (Dagger, Sword, Warhorn)</li>
+      <li>added Exotic Weapon Dire (Axe, Mace, Pistol, Shield)</li>
+      <li>added Exotic Weapon Dire (Focus, Torch, Scepter)</li>
+      <li>added Exotic Weapon Dire (Greatsword)</li>
+      <li>added Exotic Weapon Dire (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Dire (Trident, Staff, Longbow, Short Bow)</li>
+      <li>added Exotic Weapon Magi (Dagger, Sword, Warhorn)</li>
+      <li>added Exotic Weapon Magi (Axe, Mace, Pistol, Shield)</li>
+      <li>added Exotic Weapon Magi (Focus, Torch, Scepter)</li>
+      <li>added Exotic Weapon Magi (Greatsword)</li>
+      <li>added Exotic Weapon Magi (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Magi (Trident, Staff, Longbow, Short Bow)</li>
+      <li>added Exotic Weapon Rabid (Dagger, Sword, Warhorn)</li>
+      <li>added Exotic Weapon Rabid (Axe, Mace, Pistol, Shield)</li>
+      <li>added Exotic Weapon Rabid (Focus, Torch, Scepter)</li>
+      <li>added Exotic Weapon Rabid (Greatsword)</li>
+      <li>added Exotic Weapon Rabid (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Rabid (Trident, Staff, Longbow, Short Bow)</li>
+      <li>added Exotic Weapon Shaman (Dagger, Sword, Warhorn)</li>
+      <li>added Exotic Weapon Shaman (Axe, Mace, Pistol, Shield)</li>
+      <li>added Exotic Weapon Shaman (Focus, Torch, Scepter)</li>
+      <li>added Exotic Weapon Shaman (Greatsword)</li>
+      <li>added Exotic Weapon Shaman (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Shaman (Trident, Staff, Longbow, Short Bow)</li>
+      <li>added Exotic Weapon Soldier (Dagger, Sword, Warhorn)</li>
+      <li>added Exotic Weapon Soldier (Axe, Mace, Pistol, Shield)</li>
+      <li>added Exotic Weapon Soldier (Focus, Torch, Scepter)</li>
+      <li>added Exotic Weapon Soldier (Greatsword)</li>
+      <li>added Exotic Weapon Soldier (Hammer, Rifle, Spear, Harpoon Gun)/li>
+      <li>added Exotic Weapon Soldier (Trident, Staff, Longbow, Short Bow)</li>
+      <li>Exotic Armor (Light Head)</li>
+      <li>Exotic Armor (Light Shoulders)</li>
+      <li>Exotic Armor (Light Chest)</li>
+      <li>Exotic Armor (Light Gloves)</li>
+      <li>Exotic Armor (Light Leggings)</li>
+      <li>Exotic Armor (Light Boots)</li>
+      <li>Exotic Armor (Medium Head)</li>
+      <li>Exotic Armor (Medium Shoulders)</li>
+      <li>Exotic Armor (Medium Chest)</li>
+      <li>Exotic Armor (Medium Gloves)</li>
+      <li>Exotic Armor (Medium Leggings)</li>
+      <li>Exotic Armor (Medium Boots)</li>
+      <li>Exotic Armor (Heavy Head)</li>
+      <li>Exotic Armor (Heavy Shoulders)</li>
+      <li>Exotic Armor (Heavy Chest)</li>
+      <li>Exotic Armor (Heavy Gloves)</li>
+      <li>Exotic Armor (Heavy Leggings)</li>
+      <li>Exotic Armor (Heavy Boots)</li>
+      <li>Exotic Armor Cavalier (Light Head)</li>
+      <li>Exotic Armor Cavalier (Light Shoulders)</li>
+      <li>Exotic Armor Cavalier (Light Chest)</li>
+      <li>Exotic Armor Cavalier (Light Gloves)</li>
+      <li>Exotic Armor Cavalier (Light Leggings)</li>
+      <li>Exotic Armor Cavalier (Light Boots)</li>
+      <li>Exotic Armor Cavalier (Medium Head)</li>
+      <li>Exotic Armor Cavalier (Medium Shoulders)</li>
+      <li>Exotic Armor Cavalier (Medium Chest)</li>
+      <li>Exotic Armor Cavalier (Medium Gloves)</li>
+      <li>Exotic Armor Cavalier (Medium Leggings)</li>
+      <li>Exotic Armor Cavalier (Medium Boots)</li>
+      <li>Exotic Armor Cavalier (Heavy Head)</li>
+      <li>Exotic Armor Cavalier (Heavy Shoulders)</li>
+      <li>Exotic Armor Cavalier (Heavy Chest)</li>
+      <li>Exotic Armor Cavalier (Heavy Gloves)</li>
+      <li>Exotic Armor Cavalier (Heavy Leggings)</li>
+      <li>Exotic Armor Cavalier (Heavy Boots)</li>
+      <li>Exotic Armor Dire (Light Head)</li>
+      <li>Exotic Armor Dire (Light Shoulders)</li>
+      <li>Exotic Armor Dire (Light Chest)</li>
+      <li>Exotic Armor Dire (Light Gloves)</li>
+      <li>Exotic Armor Dire (Light Leggings)</li>
+      <li>Exotic Armor Dire (Light Boots)</li>
+      <li>Exotic Armor Dire (Medium Head)</li>
+      <li>Exotic Armor Dire (Medium Shoulders)</li>
+      <li>Exotic Armor Dire (Medium Chest)</li>
+      <li>Exotic Armor Dire (Medium Gloves)</li>
+      <li>Exotic Armor Dire (Medium Leggings)</li>
+      <li>Exotic Armor Dire (Medium Boots)</li>
+      <li>Exotic Armor Dire (Heavy Head)</li>
+      <li>Exotic Armor Dire (Heavy Shoulders)</li>
+      <li>Exotic Armor Dire (Heavy Chest)</li>
+      <li>Exotic Armor Dire (Heavy Gloves)</li>
+      <li>Exotic Armor Dire (Heavy Leggings)</li>
+      <li>Exotic Armor Dire (Heavy Boots)</li>
+      <li>Exotic Armor Magi (Light Head)</li>
+      <li>Exotic Armor Magi (Light Shoulders)</li>
+      <li>Exotic Armor Magi (Light Chest)</li>
+      <li>Exotic Armor Magi (Light Gloves)</li>
+      <li>Exotic Armor Magi (Light Leggings)</li>
+      <li>Exotic Armor Magi (Light Boots)</li>
+      <li>Exotic Armor Magi (Medium Head)</li>
+      <li>Exotic Armor Magi (Medium Shoulders)</li>
+      <li>Exotic Armor Magi (Medium Chest)</li>
+      <li>Exotic Armor Magi (Medium Gloves)</li>
+      <li>Exotic Armor Magi (Medium Leggings)</li>
+      <li>Exotic Armor Magi (Medium Boots)</li>
+      <li>Exotic Armor Magi (Heavy Head)</li>
+      <li>Exotic Armor Magi (Heavy Shoulders)</li>
+      <li>Exotic Armor Magi (Heavy Chest)</li>
+      <li>Exotic Armor Magi (Heavy Gloves)</li>
+      <li>Exotic Armor Magi (Heavy Leggings)</li>
+      <li>Exotic Armor Magi (Heavy Boots)</li>
+      <li>Exotic Armor Shaman (Light Head)</li>
+      <li>Exotic Armor Shaman (Light Shoulders)</li>
+      <li>Exotic Armor Shaman (Light Chest)</li>
+      <li>Exotic Armor Shaman (Light Gloves)</li>
+      <li>Exotic Armor Shaman (Light Leggings)</li>
+      <li>Exotic Armor Shaman (Light Boots)</li>
+      <li>Exotic Armor Shaman (Medium Head)</li>
+      <li>Exotic Armor Shaman (Medium Shoulders)</li>
+      <li>Exotic Armor Shaman (Medium Chest)</li>
+      <li>Exotic Armor Shaman (Medium Gloves)</li>
+      <li>Exotic Armor Shaman (Medium Leggings)</li>
+      <li>Exotic Armor Shaman (Medium Boots)</li>
+      <li>Exotic Armor Shaman (Heavy Head)</li>
+      <li>Exotic Armor Shaman (Heavy Shoulders)</li>
+      <li>Exotic Armor Shaman (Heavy Chest)</li>
+      <li>Exotic Armor Shaman (Heavy Gloves)</li>
+      <li>Exotic Armor Shaman (Heavy Leggings)</li>
+      <li>Exotic Armor Shaman (Heavy Boots)</li>
+      <li>Exotic Armor Soldier (Light Head)</li>
+      <li>Exotic Armor Soldier (Light Shoulders)</li>
+      <li>Exotic Armor Soldier (Light Chest)</li>
+      <li>Exotic Armor Soldier (Light Gloves)</li>
+      <li>Exotic Armor Soldier (Light Leggings)</li>
+      <li>Exotic Armor Soldier (Light Boots)</li>
+      <li>Exotic Armor Soldier (Medium Head)</li>
+      <li>Exotic Armor Soldier (Medium Shoulders)</li>
+      <li>Exotic Armor Soldier (Medium Chest)</li>
+      <li>Exotic Armor Soldier (Medium Gloves)</li>
+      <li>Exotic Armor Soldier (Medium Leggings)</li>
+      <li>Exotic Armor Soldier (Medium Boots)</li>
+      <li>Exotic Armor Soldier (Heavy Head)</li>
+      <li>Exotic Armor Soldier (Heavy Shoulders)</li>
+      <li>Exotic Armor Soldier (Heavy Chest)</li>
+      <li>Exotic Armor Soldier (Heavy Gloves)</li>
+      <li>Exotic Armor Soldier (Heavy Leggings)</li>
+      <li>Exotic Armor Soldier (Heavy Boots)</li>
+      <li>Exotic Armor Rabid (Light Head)</li>
+      <li>Exotic Armor Rabid (Light Shoulders)</li>
+      <li>Exotic Armor Rabid (Light Chest)</li>
+      <li>Exotic Armor Rabid (Light Gloves)</li>
+      <li>Exotic Armor Rabid (Light Leggings)</li>
+      <li>Exotic Armor Rabid (Light Boots)</li>
+      <li>Exotic Armor Rabid (Medium Head)</li>
+      <li>Exotic Armor Rabid (Medium Shoulders)</li>
+      <li>Exotic Armor Rabid (Medium Chest)</li>
+      <li>Exotic Armor Rabid (Medium Gloves)</li>
+      <li>Exotic Armor Rabid (Medium Leggings)</li>
+      <li>Exotic Armor Rabid (Medium Boots)</li>
+      <li>Exotic Armor Rabid (Heavy Head)</li>
+      <li>Exotic Armor Rabid (Heavy Shoulders)</li>
+      <li>Exotic Armor Rabid (Heavy Chest)</li>
+      <li>Exotic Armor Rabid (Heavy Gloves)</li>
+      <li>Exotic Armor Rabid (Heavy Leggings)</li>
+      <li>Exotic Armor Rabid (Heavy Boots)</li>
+</ul>
+<hr>
 <p><strong>Website Updates November 2025</strong></p>
 General
 <ul>
@@ -1025,15 +1201,6 @@ General
       <li>updated New Year's Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
       <li>updated Courtly Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
       <li>updated Wintersday Weapon Chest: accountbound Weapons now use Best Choice Detailed Dataset from salvaging instead of TP value</li>
-</ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
-<ul>
-      <li>added Exotic Weapon (Dagger, Sword, Warhorn) with Silver-Fed and Black Lion Salvage Kit</li>
-      <li>added Exotic Weapon (Axe, Mace, Pistol, Shield) with Silver-Fed and Black Lion Salvage Kit</li>
-      <li>added Exotic Weapon (Focus, Torch, Scepter) with Silver-Fed and Black Lion Salvage Kit</li>
-      <li>added Exotic Weapon (Greatsword) with Silver-Fed and Black Lion Salvage Kit</li>
-      <li>added Exotic Weapon (Hammer, Rifle, Spear, Harpoon Gun) with Silver-Fed and Black Lion Salvage Kit</li>
-      <li>added Exotic Weapon (Trident, Staff, Longbow, Short Bow) with Silver-Fed and Black Lion Salvage Kit</li>
 </ul>
 <hr>
 <p><strong>Website Updates 21.01.2025</strong></p>
