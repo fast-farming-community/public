@@ -1,18 +1,22 @@
 <p><strong>Website Updates 04.12.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
 <ul>
+      <li>updated all remaining Fractals to be now static Datasets which now include the Chest Variants of Mini Bosses</li>
       <li>added Kinfall</li>
       <li>added Lonely Tower</li>
       <li>added Silent Surf</li>
-      <li>Chest (Chaos Anomaly)</li>
-      <li>Chest (Grawl Shaman)</li>
-      <li>Chest (Inquest Technician)</li>
-      <li>Chest (Molten Effigy)</li>
-      <li>Chest (Siegemaster Dulfy)</li>
-      <li>Chest (Skorvald the Shattered)</li>
-      <li>Chest (Subject 6)</li>
-      <li>Chest (Uncategorized)</li>
-      <li>Chest (Viirastra)</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Chest (Chaos Anomaly)</li>
+      <li>added Chest (Grawl Shaman)</li>
+      <li>added Chest (Inquest Technician)</li>
+      <li>added Chest (Molten Effigy)</li>
+      <li>added Chest (Siegemaster Dulfy)</li>
+      <li>added Chest (Skorvald the Shattered)</li>
+      <li>added Chest (Subject 6)</li>
+      <li>added Chest (Uncategorized)</li>
+      <li>added Chest (Viirastra)</li>
 </ul>
 <hr>
 <p><strong>Website Updates 02.12.2025</strong></p>
