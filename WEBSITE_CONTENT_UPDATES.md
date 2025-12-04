@@ -1,3 +1,20 @@
+<p><strong>Website Updates 04.12.2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
+<ul>
+      <li>added Kinfall</li>
+      <li>added Lonely Tower</li>
+      <li>added Silent Surf</li>
+      <li>Chest (Chaos Anomaly)</li>
+      <li>Chest (Grawl Shaman)</li>
+      <li>Chest (Inquest Technician)</li>
+      <li>Chest (Molten Effigy)</li>
+      <li>Chest (Siegemaster Dulfy)</li>
+      <li>Chest (Skorvald the Shattered)</li>
+      <li>Chest (Subject 6)</li>
+      <li>Chest (Uncategorized)</li>
+      <li>Chest (Viirastra)</li>
+</ul>
+<hr>
 <p><strong>Website Updates 02.12.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/salvaging/salvageables" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/salvageables.png" alt="alt.png" width="32px">&nbsp;Salvageables</a>
 <ul>
