@@ -1,3 +1,63 @@
+<p><strong>Website Updates 15.12.2025</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
+<ul>
+      <li>added detailed datasets that now show the exact calculation of outcomes and the input costs of material items:</li>
+      <li>Symbol of Enhancement</li>
+      <li>Symbol of Pain</li>
+      <li>Symbol of Control</li>
+      <li>Charm of Brilliance</li>
+      <li>Charm of Potence</li>
+      <li>Charm of Skill</li>
+      <li>Pile of Crystalline Dust</li>
+      <li>Elaborate Totem</li>
+      <li>Armored Scale</li>
+      <li>Ancient Bone</li>
+      <li>Vicious Fang</li>
+      <li>Vial of Powerful Blood</li>
+      <li>Vicious Claw</li>
+      <li>Powerful Venom Sac</li>
+      <li>Pile of Incandescent Dust</li>
+      <li>Large Scale</li>
+      <li>Large Bone</li>
+      <li>Large Fang</li>
+      <li>Vial of Potent Blood</li>
+      <li>Potent Venom Sac</li>
+      <li>Large Claw</li>
+      <li>Intricate Totem</li>
+      <li>Pile of Luminous Dust</li>
+      <li>Sharp Fang</li>
+      <li>Smooth Scale</li>
+      <li>Engraved Totem</li>
+      <li>Vial of Thick Blood</li>
+      <li>Heavy Bone</li>
+      <li>Full Venom Sac</li>
+      <li>Sharp Claw</li>
+      <li>Pile of Radiant Dust</li>
+      <li>Fang</li>
+      <li>Scale</li>
+      <li>Totem</li>
+      <li>Vial of Blood</li>
+      <li>Bone</li>
+      <li>Venom Sac</li>
+      <li>Claw</li>
+      <li>Pile of Shimmering Dust</li>
+      <li>Small Fang</li>
+      <li>Small Scale</li>
+      <li>Small Totem</li>
+      <li>Vial of Thin Blood</li>
+      <li>Bone Shard</li>
+      <li>Small Venom Sac</li>
+      <li>Small Claw</li>
+      <li>Charged Lodestone</li>
+      <li>Corrupted Lodestone</li>
+      <li>Onyx Lodestone</li>
+      <li>Glacial Lodestone</li>
+      <li>Destroyer Lodestone</li>
+      <li>Crystal Lodestone</li>
+      <li>Molten Lodestone</li>
+      <li>Pile of Putrid Essence</li>
+</ul>
+<hr>
 <p><strong>Website Updates 04.12.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
 <ul>
