@@ -1,3 +1,12 @@
+<p><strong>Website Updates 18.12.2025</strong></p>
+Website Search
+<ul>
+      <li>added keyword-based matching to improve search accuracy</li>
+      <li>added keyword display to search results</li>
+      <li>added stability and usability improvements to search and navigation</li>
+      <li>fixed search input so typed text is no longer overwritten by selected results</li>
+</ul>
+<hr>
 <p><strong>Website Updates 15.12.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
 <ul>
