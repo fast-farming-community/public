@@ -1,3 +1,4 @@
+<p><strong>Website Updates 23.12.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 <ul>
       <li>added Auric Ingot (4 new Conversions)</li>
