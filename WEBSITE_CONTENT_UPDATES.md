@@ -1,3 +1,18 @@
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
+<ul>
+      <li>added Auric Ingot (4 new Conversions)</li>
+      <li>added Blade Shard (2 new Conversions)</li>
+      <li>added Boneskinner Ritual Vial (5 new Conversions)</li>
+      <li>added Bottle of Airship Oil (3 new Conversions)</li>
+      <li>added Chak Egg (5 new Conversions)</li>
+      <li>added Ley Line Spark (3 new Conversions)</li>
+      <li>added Lump of Mistonium (1 new Conversions)</li>
+      <li>added Memory of Otter (5 new Conversions)</li>
+      <li>added Petrified Wood (1 new Conversions)</li>
+      <li>added Pile of Auric Dust (3 new Conversions)</li>
+      <li>added Reclaimed Metal Plate (5 new Conversions)</li>
+</ul>
+<hr>
 <p><strong>Website Updates 22.12.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
