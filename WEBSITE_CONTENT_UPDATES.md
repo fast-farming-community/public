@@ -1,3 +1,13 @@
+<p><strong>Website Updates 10.01.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>refactored alt-parking, fishing and meta timers to auto-update without resetting scroll or user-specific filters</li>
+      <li>removed the obsolete manual reload timer</li>
+      <li>fixed timers to now stay “Active” for the correct 5 mins duration before returning to countdown</li>
+</ul>
+<hr>
 <p><strong>Website Updates 23.12.2025</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 <ul>
