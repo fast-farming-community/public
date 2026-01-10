@@ -1,4 +1,4 @@
-<h4>For Website Content Updates go to<a href="https://fast.farming-community.eu/website-content-updates" target="_blank">&nbsp;Website Content Updates</a>.</h4>
+<h4>Visit <a href="https://fast.farming-community.eu/website-content-updates" target="_blank">Website Content Updates</a> for all content updates.</h4>
 <h2>2026-01-10</h2>
 <h3>Changed</h3>
 <ul>
