@@ -28,7 +28,7 @@
 <h2>2025-11-16</h2>
 <h3>Changed</h3>
 <ul>
-<li>updated from Angular 17 to Angular 20</li>
+<li>updated from Angular 17 to Angular 20 (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
 </ul>
 <h2>2025-11-08</h2>
 <h3>Added</h3>
