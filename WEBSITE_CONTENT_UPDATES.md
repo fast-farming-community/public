@@ -1,3 +1,21 @@
+<p><strong>Website Updates 16.01.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added Dragon's Stand (meta)</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/pve-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pve_reward_track.png" alt="alt.png" width="32px">&nbsp;PvE Reward Track</a>
+<ul>
+      <li>added Dragon's Stand</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>added Bouncy Chest Event Rewards (Blighting Towers)</li>
+      <li>added Bouncy Chest Meta Event (Blighting Towers)</li>
+      <li>added Bouncy Chest Meta Event (Dragon's Stand)</li>
+      <li>added Bouncy Chest Pre Meta Event (Dragon's Stand)</li>
+      <li>added Mordremoth's Chest</li>
+</ul>
+<hr>
 <p><strong>Website Updates 10.01.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/fishing" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fishing.png" alt="alt.png" width="32px">&nbsp;Fishing</a>
