@@ -1,3 +1,11 @@
+<p><strong>Website Updates 17.01.2026</strong></p>
+General
+<ul>
+      <li>added a global limitation filter to settings to show all, only limited, or only non-limited items.</li>
+      <li>added filtering so it now applies across all tables and is stored locally in the browser</li>
+      <li>removed separate “limit” and “non-limit” tables and merged them into a single table since filtering now handles both</li>
+</ul>
+<hr>
 <p><strong>Website Updates 16.01.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
