@@ -1,3 +1,14 @@
+<p><strong>Website Updates 19.01.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Crafting Material Coffer (Overview)</li>
+      <li>added Crafting Material Coffer (Level 1-20)</li>
+      <li>added Crafting Material Coffer (Level 21-35)</li>
+      <li>added Crafting Material Coffer (Level 36-50)</li>
+      <li>added Crafting Material Coffer (Level 51-70)</li>
+      <li>merged Crafting Material Coffer (Level 71-80) into Overview</li>
+</ul>
+<hr>
 <p><strong>Website Updates 17.01.2026</strong></p>
 General
 <ul>
