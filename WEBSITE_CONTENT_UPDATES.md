@@ -1,3 +1,16 @@
+<p><strong>Website Updates 03.02.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
+<ul>
+      <li>merged Blue Prophet SHard conversions to Magnetite Shard conversions</li>
+      <li>added 20 new Magnetite Shard conversions</li>
+      <li>removed Blue Prophet Shard from Conversions</li>
+      <li>removed Green Prophet Shard from Conversions</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
+<ul>
+      <li>merged Strike Missions into Raids</li>
+</ul>
+<hr>
 <p><strong>Website Updates 22.01.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
