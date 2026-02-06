@@ -1,3 +1,14 @@
+<p><strong>Website Updates 06.02.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
+<ul>
+      <li>updated Wizard's Vault Rewards</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
+<ul>
+      <li>added extensive user filter (ALL | DAILY | WEEKLY)</li>
+      <li>combined existing optional filter for End of Dragons and Secrets of the Obscure Raids (PRIO) with (ALL | DAILY | WEEKLY)</li>
+</ul>
+<hr>
 <p><strong>Website Updates 03.02.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
