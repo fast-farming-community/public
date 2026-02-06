@@ -3,8 +3,10 @@
 <ul>
       <li>updated Wizard's Vault Rewards</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
 <ul>
+      <li>Daily Farming Checklist contains now a copy of Raids Module page due to the merge of Strike Missions into Raids</li>
       <li>added extensive user filter (ALL | DAILY | WEEKLY)</li>
       <li>combined existing optional filter for End of Dragons and Secrets of the Obscure Raids (PRIO) with (ALL | DAILY | WEEKLY)</li>
 </ul>
