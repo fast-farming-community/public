@@ -1,3 +1,9 @@
+<p><strong>Website Updates 09.02.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
+<ul>
+      <li>added 7 new conversions</li>
+</ul>
+<hr>
 <p><strong>Website Updates 06.02.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/astral-acclaim" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/astral_acclaim.png" alt="alt.png" width="24px">&nbsp;Astral Acclaim</a>
 <ul>
