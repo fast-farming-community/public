@@ -4,12 +4,15 @@ Table Tooltips
       <li>added permanent tooltips for text columns</li>
       <li>added header tooltips to show full column names on hover</li>
       <li>changed tooltip handling to use AG Grid built-in tooltips for more consistent behavior across all tables</li>
+</ul>
+Copyable Functionality
+<ul>
       <li>added missing copyable functionality to all "Notes" columns</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
       <li>fixed Daily Farming Checklist to correctly display tooltips</li>
-      <li>fixed Daily Farming Checklist to correctly display Copyable columns</li>
+      <li>fixed Daily Farming Checklist to correctly display copyable functionality</li>
 </ul>
 <hr>
 <p><strong>Website Updates 09.02.2026</strong></p>
