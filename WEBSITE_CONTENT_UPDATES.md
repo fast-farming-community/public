@@ -1,3 +1,17 @@
+<p><strong>Website Updates 19.02.2026</strong></p>
+Table Tooltips
+<ul>
+      <li>added permanent tooltips for text columns</li>
+      <li>added header tooltips to show full column names on hover</li>
+      <li>changed tooltip handling to use AG Grid built-in tooltips for more consistent behavior across all tables</li>
+      <li>added missing copyable functionality to all "Notes" columns</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<ul>
+      <li>fixed Daily Farming Checklist to correctly display tooltips</li>
+      <li>fixed Daily Farming Checklist to correctly display Copyable columns</li>
+</ul>
+<hr>
 <p><strong>Website Updates 09.02.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/unusual-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/unusual_coin.png" alt="alt.png" width="32px">&nbsp;Unusual Coin</a>
 <ul>
@@ -20,7 +34,7 @@
 <p><strong>Website Updates 03.02.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/magnetite-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/magnetite_shard.png" alt="alt.png" width="32px">&nbsp;Magnetite Shard</a>
 <ul>
-      <li>merged Blue Prophet SHard conversions to Magnetite Shard conversions</li>
+      <li>merged Blue Prophet Shard conversions to Magnetite Shard conversions</li>
       <li>added 20 new Magnetite Shard conversions</li>
       <li>removed Blue Prophet Shard from Conversions</li>
       <li>removed Green Prophet Shard from Conversions</li>
