@@ -1,4 +1,4 @@
-<h4>Website Updates 22.02.2026</h4>
+<p><strong>Website Updates 22.02.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
   <li>added new <b>Account Valuation</b> page to calculate the total profit of your wallet currencies and accountbound items</li>
