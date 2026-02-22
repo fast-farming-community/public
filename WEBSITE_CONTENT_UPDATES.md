@@ -1,11 +1,12 @@
 <h4>Website Updates 22.02.2026</h4>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
-  <li>Added new <b>Account Valuation</b> page to calculate the total profit of your wallet currencies and accountbound items</li>
-  <li>Connect your GW2 API key to automatically read wallet, materials, and inventory values</li>
-  <li>Shows per-item profit and total account profit based on current trading post prices</li>
-  <li>Manual refresh available depending on supporter tier</li>
-  <li>Displays last wallet update, items update, and last manual refresh timestamps</li>
+  <li>added new <b>Account Valuation</b> page to calculate the total profit of your wallet currencies and accountbound items</li>
+  <li>connect your GW2 API key to automatically read wallet, materials, and inventory values</li>
+  <li>shows per-item profit and total account profit based on current trading post prices</li>
+  <li>manual refresh available depending on supporter tier</li>
+  <li>automatic refresh nightly once per day</li>
+  <li>displays last wallet update, items update, and last manual refresh timestamps</li>
 </ul>
 <hr>
 <p><strong>Website Updates 19.02.2026</strong></p>
