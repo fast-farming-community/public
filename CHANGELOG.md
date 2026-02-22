@@ -1,4 +1,9 @@
 <h4>Visit <a href="https://fast.farming-community.eu/website-content-updates" target="_blank">Website Content Updates</a> for all content updates.</h4>
+<h2>2026-02-22</h2>
+<h3>Added</h3>
+<ul>
+<li>add Account valuation module (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
+</ul>
 <h2>2026-01-17</h2>
 <h3>Added</h3>
 <ul>
