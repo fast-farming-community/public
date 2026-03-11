@@ -2,6 +2,7 @@
 General
 <ul>
   <li>added "Last Update" banner with relative time display and role-based synchronization</li>
+  <li>The "Last Update" banner shows the last update timestamp for the currently viewed table (main or detailed)</li>
   <li>removed old last-update indicators in top navigation and mobile navigation</li>
 </ul>
 <hr>
