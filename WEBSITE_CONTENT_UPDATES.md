@@ -1,7 +1,7 @@
 <p><strong>Website Updates 11.03.2026</strong></p>
 General
 <ul>
-  <li>added "Last Update" banner with relative time display and role-based synchronization</li>
+  <li>added "Last Update" banner with relative time display and role-based synchronization (updates automatically every 5/10/20/60 minutes depending on tier)</li>
   <li>The "Last Update" banner shows the last update timestamp for the currently viewed table (main or detailed)</li>
   <li>removed old last-update indicators in top navigation and mobile navigation</li>
 </ul>
