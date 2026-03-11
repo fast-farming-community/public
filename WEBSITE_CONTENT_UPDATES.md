@@ -1,3 +1,10 @@
+<p><strong>Website Updates 11.03.2026</strong></p>
+General
+<ul>
+  <li>added "Last Update" banner with relative time display and role-based synchronization</li>
+  <li>removed old last-update indicators in top navigation and mobile navigation</li>
+</ul>
+<hr>
 <p><strong>Website Updates 22.02.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
