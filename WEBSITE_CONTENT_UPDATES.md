@@ -16,13 +16,13 @@ Renaming
       <li>renamed Grand Strike Chest to Grand Raid Chest</li>
       <li>renamed Weekly Cantha Strikes Achievement to Weekly Raid Encounters Achievement</li>
       <li>renamed Weekly Secrets of the Obscure Strikes Achievement to Weekly Quickplay Raid Encounters Achievement</li>
-      <li>removed Priority Cantha Strike: Aetherblade Hideout to Raid Bounty: Aetherblade Hideout</li>
-      <li>removed Priority Cantha Strike: Harvest Temple to Raid Bounty: Harvest Temple</li>
-      <li>removed Priority Cantha Strike: Kaineng Overlook to Raid Bounty: Kaineng Overlook</li>
-      <li>removed Priority Cantha Strike: Old Lion's Court to Raid Bounty: Old Lion's Court</li>
-      <li>removed Priority Cantha Strike: Xunlai Jade Junkyard to Raid Bounty: Xunlai Jade Junkyard</li>
-      <li>removed Priority Horn of Maguuma Strike: Cosmic Observatory to Raid Bounty: Cosmic Observatory</li>
-      <li>removed Priority Horn of Maguuma Strike: Temple of Febe to Raid Bounty: Temple of Febe</li> 
+      <li>renamed Priority Cantha Strike: Aetherblade Hideout to Raid Bounty: Aetherblade Hideout</li>
+      <li>renamed Priority Cantha Strike: Harvest Temple to Raid Bounty: Harvest Temple</li>
+      <li>renamed Priority Cantha Strike: Kaineng Overlook to Raid Bounty: Kaineng Overlook</li>
+      <li>renamed Priority Cantha Strike: Old Lion's Court to Raid Bounty: Old Lion's Court</li>
+      <li>renamed Priority Cantha Strike: Xunlai Jade Junkyard to Raid Bounty: Xunlai Jade Junkyard</li>
+      <li>renamed Priority Horn of Maguuma Strike: Cosmic Observatory to Raid Bounty: Cosmic Observatory</li>
+      <li>renamed Priority Horn of Maguuma Strike: Temple of Febe to Raid Bounty: Temple of Febe</li> 
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
