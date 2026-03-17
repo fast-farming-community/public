@@ -10,6 +10,55 @@
       <li>fixed Magnetite Shard drop rates</li>
       <li>set All as the default view in the Raids page</li>
 </ul>
+added following new entries for the Daily Raid Bounties system
+<ul>
+      <li>Vale Guardian (Daily)</li>
+      <li>Vale Guardian</li>
+      <li>Gorseval (Daily)</li>
+      <li>Gorseval</li>
+      <li>Sabetha (Daily)</li>
+      <li>Sabetha</li>
+      <li>Slothasor (Daily)</li>
+      <li>Slothasor</li>
+      <li>Matthias (Daily)</li>
+      <li>Matthias</li>
+      <li>Keep Construct (Daily)</li>
+      <li>Keep Construct</li>
+      <li>Xera (Daily)</li>
+      <li>Xera</li>
+      <li>Cairn (Daily)</li>
+      <li>Cairn</li>
+      <li>Mursaat Overseer (Daily)</li>
+      <li>Mursaat Overseer</li>
+      <li>Samarog (Daily)</li>
+      <li>Samarog</li>
+      <li>Deimos (Daily)</li>
+      <li>Deimos</li>
+      <li>Soulless Horror (Daily)</li>
+      <li>Soulless Horror</li>
+      <li>Dhuum (Daily)</li>
+      <li>Dhuum</li>
+      <li>Conjured Amalgamate (Daily)</li>
+      <li>Conjured Amalgamate</li>
+      <li>Twin Largos (Daily)</li>
+      <li>Twin Largos</li>
+      <li>Qadim (Daily)</li>
+      <li>Qadim</li>
+      <li>Cardinal Adina (Daily)</li>
+      <li>Cardinal Adina</li>
+      <li>Cardinal Sabir (Daily)</li>
+      <li>Cardinal Sabir</li>
+      <li>Qadim the Peerless (Daily)</li>
+      <li>Qadim the Peerless</li>
+      <li>Decima, the Stormsinger (Daily)</li>
+      <li>Decima, the Stormsinger</li>
+      <li>Greer, the Blightbringer (Daily)</li>
+      <li>Greer, the Blightbringer</li>
+      <li>Ura (Daily)</li>
+      <li>Ura</li>
+      <li>Kela, Seneschal of Waves (Daily)</li>
+      <li>Kela, Seneschal of Waves</li>
+</ul>
 Renaming
 <ul>
       <li>renamed Grand Strike Chest to Grand Raid Chest</li>
