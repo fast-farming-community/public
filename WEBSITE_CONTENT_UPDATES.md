@@ -25,7 +25,8 @@ Renaming
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
-      <li>added Daily Raid Bounties as the default view in the Daily page</li>
+      <li>added Daily Raid Bounties to Daily Farming Checklist</li>
+      <li>added Weekly Raid Bounties to Daily Farming Checklist </li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
