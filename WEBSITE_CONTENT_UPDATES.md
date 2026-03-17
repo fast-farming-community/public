@@ -1,4 +1,4 @@
-<p><strong>Website Raid Updates March 2026</strong></p>
+<p><strong>Website Updates - Raids - March 2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
 <ul>
       <li>added unified Raid filter controls (All, NM, CM, Quickplay, Today's Raid Bounties, Next Raid Bounties)</li>
