@@ -35,10 +35,10 @@ Renaming
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
 <ul>
-      <li>Bouncy Chest Event (Decima, the Stormsinger)</li>
-      <li>Bouncy Chest Event (Greer, the Blightbringer)</li>
-      <li>Bouncy Chest Event (Ura)</li>
-      <li>Bouncy Chest Event (Kela, Seneschal of Waves)</li>
+      <li>added Bouncy Chest Event (Decima, the Stormsinger)</li>
+      <li>added Bouncy Chest Event (Greer, the Blightbringer)</li>
+      <li>added Bouncy Chest Event (Ura)</li>
+      <li>added Bouncy Chest Event (Kela, Seneschal of Waves)</li>
 </ul>
 <hr>
 <p><strong>Website Updates 11.03.2026</strong></p>
