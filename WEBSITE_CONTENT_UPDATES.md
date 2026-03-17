@@ -1,20 +1,64 @@
+<p><strong>Website Raid Updates March 2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
+General Updates
+<ul>
+      <li>added unified Raid filter controls (All, NM, CM, Quickplay, Today's Raid Bounties, Next Raid Bounties)</li>
+      <li>added Daily Raid Bounties system</li>
+      <li>added missing Raid Quickplay entries (Aetherblade Hideout, Boneskinner, Cosmic Observatory, Kaineng Overlook, Old Lion's Court, Temple of Febe, Whisper of Jormag, Xunlai Jade Junkyard)</li>
+      <li>added missing Raid daily entries (Fraenir of Jormag, Voice and Claw of the Fallen, Boneskinner)
+      <li>added missing Raid Wing 7 and its dailies (Decima, Greer, Ura)
+      <li>added missing Raid Wing 8 and its dailies (Kela)
+      <li>fixed Magnetite Shard drop rates</li>
+      <li>set All as the default view in the Raids page</li>
+</ul>
+Renaming
+<ul>
+      <li>renamed Grand Strike Chest to Grand Raid Chest</li>
+      <li>renamed Weekly Cantha Strikes Achievement to Weekly Raid Encounters Achievement</li>
+      <li>renamed Weekly Secrets of the Obscure Strikes Achievement to Weekly Quickplay Raid Encounters Achievement</li>
+      <li>removed Priority Cantha Strike: Aetherblade Hideout to Raid Bounty: Aetherblade Hideout</li>
+      <li>removed Priority Cantha Strike: Harvest Temple to Raid Bounty: Harvest Temple</li>
+      <li>removed Priority Cantha Strike: Kaineng Overlook to Raid Bounty: Kaineng Overlook</li>
+      <li>removed Priority Cantha Strike: Old Lion's Court to Raid Bounty: Old Lion's Court</li>
+      <li>removed Priority Cantha Strike: Xunlai Jade Junkyard to Raid Bounty: Xunlai Jade Junkyard</li>
+      <li>removed Priority Horn of Maguuma Strike: Cosmic Observatory to Raid Bounty: Cosmic Observatory</li>
+      <li>removed Priority Horn of Maguuma Strike: Temple of Febe to Raid Bounty: Temple of Febe</li> 
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
+<ul>
+      <li>added Daily Raid Bounties as the default view in the Daily page</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Kela's Coffer</li>
+      <li>added Weekly Quickplay Raid Cache</li>
+      <li>added Icebrood Saga Raid Encounter Coffer</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/chest" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/chest.png" alt="alt.png" width="32px">&nbsp;Chest</a>
+<ul>
+      <li>Bouncy Chest Event (Decima, the Stormsinger)</li>
+      <li>Bouncy Chest Event (Greer, the Blightbringer)</li>
+      <li>Bouncy Chest Event (Ura)</li>
+      <li>Bouncy Chest Event (Kela, Seneschal of Waves)</li>
+</ul>
+<hr>
 <p><strong>Website Updates 11.03.2026</strong></p>
 General
 <ul>
-  <li>added "Last Update" banner with relative time display and role-based synchronization (updates automatically every 5/10/20/60 minutes depending on tier)</li>
-  <li>The "Last Update" banner shows the last update timestamp for the currently viewed table (main or detailed)</li>
-  <li>removed old last-update indicators in top navigation and mobile navigation</li>
+      <li>added "Last Update" banner with relative time display and role-based synchronization (updates automatically every 5/10/20/60 minutes depending on tier)</li>
+       <li>The "Last Update" banner shows the last update timestamp for the currently viewed table (main or detailed)</li>
+      <li>removed old last-update indicators in top navigation and mobile navigation</li>
 </ul>
 <hr>
 <p><strong>Website Updates 22.02.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
-  <li>added new <b>Account Valuation</b> page to calculate the total profit of your wallet currencies and accountbound items</li>
-  <li>connect your GW2 API key to automatically read wallet, materials, and inventory values</li>
-  <li>shows per-item profit and total account profit based on current trading post prices</li>
-  <li>manual refresh available depending on supporter tier</li>
-  <li>automatic refresh nightly once per day</li>
-  <li>displays last wallet update, items update, and last manual refresh timestamps</li>
+      <li>added new <b>Account Valuation</b> page to calculate the total profit of your wallet currencies and accountbound items</li>
+      <li>connect your GW2 API key to automatically read wallet, materials, and inventory values</li>
+      <li>shows per-item profit and total account profit based on current trading post prices</li>
+      <li>manual refresh available depending on supporter tier</li>
+      <li>automatic refresh nightly once per day</li>
+      <li>displays last wallet update, items update, and last manual refresh timestamps</li>
 </ul>
 <hr>
 <p><strong>Website Updates 19.02.2026</strong></p>
