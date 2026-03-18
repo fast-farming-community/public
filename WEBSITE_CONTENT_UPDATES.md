@@ -3,6 +3,7 @@
 <ul>
       <li>added Daily Raid Bounties to Daily Farming Checklist</li>
       <li>added Weekly Raid Bounties to Daily Farming Checklist </li>
+      <li>fixed Weekly Checklist to finally not reset it daily (took me only 3yrs)</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/raids" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/raids.png" alt="alt.png" width="32px">&nbsp;Raids</a>
 <ul>
