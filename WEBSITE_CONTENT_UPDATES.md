@@ -1,4 +1,12 @@
 <p><strong>Website Updates 21.03.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
+<ul>
+      <li>merged daily fractals into the main fractals page</li>
+      <li>added/changed fractal filtering:</li>
+      <li>added filters for all fractals, normal mode, and challenge mode</li>
+      <li>added filters for today’s and next daily fractals (T4, recommended, CM)</li>
+      <li>removed daily fractals page</li>
+</ul>
 Top-Nav / Mobile-Nav => API Status Button
 <ul>
       <li>refactored the previous SSE-based stream into a ping status</li>
