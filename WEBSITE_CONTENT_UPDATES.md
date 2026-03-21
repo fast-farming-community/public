@@ -1,3 +1,10 @@
+<p><strong>Website Updates 21.03.2026</strong></p>
+Top-Nav / Mobile-Nav => API Status Button
+<ul>
+      <li>refactored the previous SSE-based stream into a ping status</li>
+      <li>changed API health detection status UI in top-nav and mobile-nav to use endpoint pings, including retries and response-times, improving stability and maintainability</li>
+</ul>
+<hr>
 <p><strong>Website Updates - Raids - March 2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/daily" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/daily_farming_checklist.png" alt="alt.png" width="32px">&nbsp;Daily Farming Checklist</a>
 <ul>
