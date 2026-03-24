@@ -1,4 +1,9 @@
 <h4>Visit <a href="https://fast.farming-community.eu/website-content-updates" target="_blank">Website Content Updates</a> for all content updates.</h4>
+<h2>2026-03-24</h2>
+<h3>Added</h3>
+<ul>
+<li>add new meta planner module <a href="https://github.com/fast-farming-community/website/pull/580">#580</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
+</ul>
 <h2>2026-03-21</h2>
 <h3>Changed</h3>
 <ul>
