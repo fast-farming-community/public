@@ -1,3 +1,13 @@
+<p><strong>Website Updates 24.03.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>added multi-timeline visualization showing parallel meta paths based on gold per hour (wait time and duration)</li>
+      <li>added adjustable planning controls (look-ahead window, overlap, max timelines)</li>
+      <li>added best timeline gold-per-hour calculation</li>
+      <li>added daily tracking of completed metas and its total profit</li>
+      <li>added ability to hide metas for the current day which also syncs with the meta table (resets daily)</li>
+</ul>
+<hr>
 <p><strong>Website Updates 21.03.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/instances/fractals" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/fractals.png" alt="alt.png" width="32px">&nbsp;Fractals</a>
 <ul>
