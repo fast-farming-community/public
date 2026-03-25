@@ -1,3 +1,9 @@
+<p><strong>Website Updates 25.03.2026</strong></p>
+Improved Search Function
+<ul>
+      <li>Search now auto-filters tables when a result matches a row and shows the applied filter</li>
+</ul>
+<hr>
 <p><strong>Website Updates 24.03.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
