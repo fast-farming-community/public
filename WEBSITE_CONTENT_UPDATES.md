@@ -2,6 +2,7 @@
 Improved Search Function
 <ul>
       <li>Search now auto-filters tables when a result matches a row and shows the applied filter</li>
+      <li>e.g. you type in "Bag of Coins" => not only navigates to Bags, but now applies filter to Bags table and it shows immediately (similar) entries</li>
 </ul>
 <hr>
 <p><strong>Website Updates 24.03.2026</strong></p>
