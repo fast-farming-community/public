@@ -4,6 +4,10 @@ Improved Search Function
       <li>Search now auto-filters tables when a result matches a row and shows the applied filter</li>
       <li>e.g. you type in "Bag of Coins" => not only navigates to Bags, but now applies filter to Bags table and it shows immediately (similar) entries</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/spirit-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/spirit_shard.png" alt="alt.png" width="24px">&nbsp;Spirit Shard</a>
+<ul>
+      <li>added Spirit Shard categories filter (including save Local Storage Browser)</li>
+</ul>
 <hr>
 <p><strong>Website Updates 24.03.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
