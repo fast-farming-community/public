@@ -8,6 +8,12 @@ Improved Search Function
 <ul>
       <li>added Spirit Shard categories filter (including save Local Storage Browser)</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/wvw-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/wvw_reward_track.png" alt="alt.png" width="24px">&nbsp;WvW Reward Track</a>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/competitive/pvp-reward-track" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/pvp_reward_track.png" alt="alt.png" width="24px">&nbsp;PvP Reward Track</a>
+<ul>
+      <li>merge repeatable and non-repeatable WvW Reward Track (Limitation Filter exists)</li>
+      <li>merge repeatable and non-repeatable PvP Reward Track (Limitation Filter exists)</li>
+</ul>
 <hr>
 <p><strong>Website Updates 24.03.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
