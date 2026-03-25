@@ -14,6 +14,10 @@ Improved Search Function
       <li>merge repeatable and non-repeatable WvW Reward Track (Limitation Filter exists)</li>
       <li>merge repeatable and non-repeatable PvP Reward Track (Limitation Filter exists)</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Wizard's Box of Crafting Materials</li>
+</ul>
 <hr>
 <p><strong>Website Updates 24.03.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
