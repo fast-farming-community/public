@@ -1,11 +1,12 @@
 <p><strong>Website Updates 30.03.2026</strong></p>
 Dynamic Table Header Refactor
-- Refactored table headers (incl. detailed datasets) to use dynamic metrics instead of hardcoded "Profit".
-- Example: Salvageables (main and detailed datasets) now correctly show Revenue instead of Profit.
-- replaced profit-based system with a generic metric system, so everything now adapts automatically (Profit, Revenue, etc.)
-- unified and cleaned up columns, headers, and calculations
-<br>
-- This was a massive refactor, so please give feedback in #⭐website-feedback if you find any mistakes.
+<ul>
+      <li>Refactored table headers (incl. detailed datasets) to use dynamic metrics instead of hardcoded "Profit"</li>
+      <li>Example: Salvageables (main and detailed datasets) now correctly show Revenue instead of Profit</li>
+      <li>replaced profit-based system with a generic metric system, so everything now adapts automatically (Profit, Revenue, etc.)</li>
+      <li>unified and cleaned up columns, headers, and calculations</li>
+      <li>This was a massive refactor, so please give feedback in #⭐website-feedback if you find any mistakes.</li>
+</ul>
 <hr>
 <p><strong>Website Updates 25.03.2026</strong></p>
 Improved Search Function
