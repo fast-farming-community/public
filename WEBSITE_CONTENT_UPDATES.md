@@ -137,6 +137,25 @@ Renaming
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Kela's Coffer</li>
+      <li>added Cairn's Coffer</li>
+      <li>added Cardinal Adina's Coffer</li>
+      <li>added Cardinal Sabir's Coffer</li>
+      <li>added Conjured Amalgamate's Coffer</li>
+      <li>added Desmina's Coffer</li>
+      <li>added Deimos's Coffer</li>
+      <li>added Dhuum's Coffer</li>
+      <li>added Gorseval's Coffer</li>
+      <li>added Keep Construct's Coffer</li>
+      <li>added Matthias's Coffer</li>
+      <li>added Mursaat Overseer's Coffer</li>
+      <li>added Qadim's Coffer</li>
+      <li>added Qadim the Peerless's Coffer</li>
+      <li>added Sabetha's Coffer</li>
+      <li>added Samarog's Coffer</li>
+      <li>added Slothasor's Coffer</li>
+      <li>added Twin Largos' Coffer</li>
+      <li>added Vale Guardian Coffer</li>
+      <li>added Xera's Coffer</li>
       <li>added Weekly Quickplay Raid Cache</li>
       <li>added Icebrood Saga Raid Encounter Coffer</li>
 </ul>
@@ -1613,10 +1632,6 @@ General
 <ul>
       <li>moved limited option Mystic Clover from "No Limit" to "Limit" table</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Green Prophet Shard</a>
-<ul>
-      <li>fixed "Limit" Table to show no available options</li>
-</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/guild-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/guild_commendation.png" alt="alt.png" width="32px">&nbsp;Guild Commendation</a>
 <ul>
       <li>refactored table to split into "Limit" for limited options and "No Limit" for unlimited options</li>
@@ -2551,8 +2566,8 @@ General
       <li>added Ancient Coin</li>
       <li>moved Conversions from Unusual Coin to Ancient Coin</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Green Prophet Shard</a>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+Green Prophet Shard
+Blue Prophet Shard
 <ul>
       <li>moved Conversions from Green Prophet Shard to Blue Prophet Shard</li>
       <li>added Green Prophet Shard</li>
@@ -3345,7 +3360,7 @@ Top Nav Bar
 <ul>
       <li>added Canach Coin</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/green-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/green_prophet_shard.png" alt="alt.png" width="32px">&nbsp;Green Prophet Shard</a>
+Green Prophet Shard
 <ul>
       <li>added Green Prophet Shard</li>
 </ul>
@@ -3439,7 +3454,7 @@ General
 </ul>
 <hr>
 <p><strong>Website Updates 12.02.2022</strong></p>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+Blue Prophet Shard
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/canach-coin" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/canach_coin.png" alt="alt.png" width="32px">&nbsp;Canach Coin</a>
 <ul>
       <li>Blue Prophet Shards will only be rewarded from Icebrood Saga Strike Missions</li>
@@ -3980,7 +3995,7 @@ General
       <li>refactored Weekly Strike Chest</li>
       <li>added detailed datasets & descriptions</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+Blue Prophet Shard
 <ul>
       <li>split currency conversion table due to profit limitations (Weekly Strike Mission Chest and Vendor)</li>
       <li>added detailed datasets & descriptions</li>
@@ -4935,7 +4950,7 @@ General
       <li>It now shows the amount of currency and other components needed, as well how often it is available per day or week:</li>
       <li>X Currency (Category, limited: Y Amount daily/weekly)</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+Blue Prophet Shard
 <ul>
       <li>fixed calculation errors (Prophet Shard, deducted wrong amount of shards)</li>
       <li>added Pristine Fang of the Whisper</li>
@@ -5203,7 +5218,7 @@ General
 <ul>
       <li>updated Drizzlewood South+North</li>
 </ul>
-<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/blue-prophet-shard" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/blue_prophet_shard.png" alt="alt.png" width="24px">&nbsp;Blue Prophet Shard</a>
+Blue Prophet Shard
 <ul>
       <li>added Weekly Strike Chest - Lit Echo Combinations</li>
 </ul>
