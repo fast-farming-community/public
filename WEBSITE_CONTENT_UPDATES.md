@@ -1,3 +1,19 @@
+<p><strong>Website Updates April 2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Extra-Large Calcified Gasp</li>
+      <li>added Extra-Large Static Charge</li>
+      <li>added Extra-Large Pinch of Stardust</li>
+      <li>added Large Calcified Gasp</li>
+      <li>added Large Static Charge</li>
+      <li>added Large Pinch of Stardust</li>
+      <li>added Bag of Wondrous Goods</li>
+      <li>added Bag of Aurillium</li>
+      <li>added Bag of Ley Line Crystals</li>
+      <li>added Large Bag of Airship Parts</li>
+      <li>added Pile of Elonian Trade Contracts</li>
+</ul>
+<hr>
 <p><strong>Website Updates 30.03.2026</strong></p>
 Dynamic Table Header Refactor
 <ul>
