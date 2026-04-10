@@ -1,4 +1,25 @@
 <p><strong>Website Updates April 2026</strong></p>
+General
+<ul>
+      <li>added missing accountbound items to seeding for GW2 Account and Farming Tracker Features</li>
+      <li>fixed dynamic column sizing for mobile and desktop (medium to large screens)</li>
+      <li>added tooltip so people know you can scroll sideways (shift + scroll, middle mouse, mobile swipe)</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
+<ul>
+      <li>added Wallet, Bank, Material Storage, Shared Inventory and Trading Post to Account page</li>
+      <li>added correct seeding from fast-API values for currencies and accountbound items</li>
+      <li>shows now full potential liquid gold according to current TP Buy or Sell Profit values per User Settings</li>
+      <li>manual refresh available again depending on supporter tier</li>
+      <li>improved the automatic refresh nightly once per day</li>
+      <li>improved display of liquid gold values and last timestamps</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/tracker" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/farming_tracker.png" alt="alt.png" width="32px">&nbsp;Farming Tracker</a>
+<ul>
+      <li>added correct seeding from fast-API values for currencies and accountbound items</li>
+      <li>fixed vendor values from items that contain flag "NoSell"</li>
+      <li>improved display of liquid gold values and last timestamps</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
 <ul>
       <li>added Extra-Large Calcified Gasp</li>
