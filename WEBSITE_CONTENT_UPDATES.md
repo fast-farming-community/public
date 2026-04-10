@@ -33,6 +33,7 @@ General
       <li>added Bag of Ley Line Crystals</li>
       <li>added Large Bag of Airship Parts</li>
       <li>added Pile of Elonian Trade Contracts</li>
+      <li>added Enormous Bag of Geodes</li>
 </ul>
 <hr>
 <p><strong>Website Updates 30.03.2026</strong></p>
