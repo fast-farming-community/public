@@ -5,6 +5,10 @@ General
       <li>fixed dynamic column sizing for mobile and desktop (medium to large screens)</li>
       <li>added tooltip so people know you can scroll sideways (shift + scroll, middle mouse, mobile swipe)</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>fixed meta timers for Tequatl, Karka Queen, and Triple Trouble due to updated keys</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
       <li>added Wallet, Bank, Material Storage, Shared Inventory and Trading Post to Account page</li>
