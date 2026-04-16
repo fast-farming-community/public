@@ -3,9 +3,13 @@
 <ul>
       <li>moved Festival Token to currency conversions category (merged from Festival category vendors)</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/proof-of-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Proof_of_Heroics.png" alt="alt.png" width="32px">&nbsp;Proof of Heroics</a>
+<ul>
+      <li>added new currency conversions category and 1 new conversion</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-castoran-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_castoran_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Castoran Heroics</a>
 <ul>
-      <li>added 1 new conversion</li>
+      <li>added new currency conversions category and 1 new conversion</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 <ul>
