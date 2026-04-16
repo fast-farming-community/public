@@ -1,7 +1,7 @@
 <p><strong>Website Updates 16.04.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 <ul>
-      <li>added profit to all existing detailed data entries since these items can now be bought all year round, so they’re included in the total profit calculations. For example, Essence of Luck used to only be available during the festival through the Red Lucky Bag, but now you can just buy it anytime</li>
+      <li>added profit to all existing detailed data entries since these items can now be bought all year round, so they’re included in the total profit calculations. For example Red Lucky Bag used to only be available during the festival, but now you can just buy it anytime</li>
       <li>added new items to the Farming Calculator and removed them from their individual Festival categories:</li>
       <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=bauble" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Bauble.png" alt="Bauble.png" width="24px">&nbsp;Bauble</a></li>
       <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=bauble-bubble" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Bauble_Bubble.png" alt="Bauble_Bubble.png" width="24px">&nbsp;Bauble Bubble</a></li>
