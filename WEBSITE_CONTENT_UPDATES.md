@@ -1,4 +1,12 @@
 <p><strong>Website Updates 16.04.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/festival-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Festival_Token.png" alt="alt.png" width="32px">&nbsp;Festival Token</a>
+<ul>
+      <li>moved Festival Token to currency conversions category (merged from Festival category vendors)</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/testimony-of-castoran-heroics" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/testimony_of_castoran_heroics.png" alt="alt.png" width="32px">&nbsp;Testimony of Castoran Heroics</a>
+<ul>
+      <li>added 1 new conversion</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 <ul>
       <li>added Essence of Luck and Bauble Bubble profit to all existing detailed data entries since these items can now be bought all year round, so they’re included in the total profit calculations. For example Red Lucky Bag used to only be available during the festival, but now you can just buy it anytime</li>
