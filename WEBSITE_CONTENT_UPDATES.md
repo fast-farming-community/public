@@ -1,3 +1,16 @@
+<p><strong>Website Updates 16.04.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
+<ul>
+      <li>added new items to the Farming Calculator and removed them from their individual Festival categories:</li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=bauble" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Bauble.png" alt="Bauble.png" width="24px">&nbsp;Bauble</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=bauble-bubble" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Bauble_Bubble.png" alt="Bauble_Bubble.png" width="24px">&nbsp;Bauble Bubble</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=fine-essence-of-luck" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Fine_Essence_of_Luck.png" alt="Fine_Essence_of_Luck.png" width="24px">&nbsp;Fine Essence of Luck</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=masterwork-essence-of-luck" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Masterwork_Essence_of_Luck.png" alt="Masterwork_Essence_of_Luck.png" width="24px">&nbsp;Masterwork Essence of Luck</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=rare-essence-of-luck" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Rare_Essence_of_Luck.png" alt="Rare_Essence_of_Luck.png" width="24px">&nbsp;Rare Essence of Luck</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=exotic-essence-of-luck" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Exotic_Essence_of_Luck.png" alt="Exotic_Essence_of_Luck.png" width="24px">&nbsp;Exotic Essence of Luck</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=legendary-essence-of-luck" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Legendary_Essence_of_Luck.png" alt="Legendary_Essence_of_Luck.png" width="24px">&nbsp;Legendary Essence of Luck</a></li>
+</ul>
+<hr>
 <p><strong>Website Updates April 2026</strong></p>
 General
 <ul>
