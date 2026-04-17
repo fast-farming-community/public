@@ -1,4 +1,15 @@
-<p><strong>Website Updates 16.04.2026</strong></p>
+<p><strong>Website Updates 17.04.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
+<ul>
+      <li>added new Rich Orichalcum Vein Spots with node and map images</li>
+      <li>added Crystal Oasis - Elona Reach</li>
+      <li>added Domain of Kourna - Dabiji Hollows</li>
+      <li>added Inner Nayos - Memory's Hollow</li>
+      <li>added Inner Nayos - Nyedra Dreamer's Sanctum</li>
+      <li>added Skywatch Archipelago - Shattered Atoll</li>
+      <li>added Skywatch Archipelago - Soaring Eerie</li>
+      <li>added The Desolation - Silent Vale</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/conversions/festival-token" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Festival_Token.png" alt="alt.png" width="32px">&nbsp;Festival Token</a>
 <ul>
       <li>moved Festival Token to currency conversions category (merged from Festival category vendors)</li>
