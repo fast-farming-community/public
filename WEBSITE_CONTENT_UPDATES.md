@@ -15,6 +15,11 @@
 <ul>
       <li>added Detailed datasets to all entries instead of the main page of PvE Reward Tracks (which moved to Farming Calculator)</li>
 </ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/bags/bags" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/bags.png" alt="alt.png" width="32px">&nbsp;Bags</a>
+<ul>
+      <li>added Monstrous Dye Kit</li>
+      <li>added Retro-Forged Weapon Chest</li>
+</ul>
 <hr>
 <p><strong>Website Updates 17.04.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
