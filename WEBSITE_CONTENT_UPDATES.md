@@ -1,3 +1,21 @@
+<p><strong>Website Updates 19.04.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
+<ul>
+      <li>updated all detailed data references to link to the farming calculator for Commendations</li>
+      <li>added following items to the Farming Calculator and removed them from PvE Reward Track category</li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=charr-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Charr_Commendation.png" alt="alt.png" width="24px">&nbsp;Charr Commendation</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=ash-legion-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Ash_Legion_Commendation.png" alt="alt.png" width="24px">&nbsp;Ash Legion Commendation</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=blood-legion-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Blood_Legion_Commendation.png" alt="alt.png" width="24px">&nbsp;Blood Legion Commendation</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=dominion-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Dominion_Commendation.png" alt="alt.png" width="24px">&nbsp;Dominion Commendation</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=flame-legion-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Flame_Legion_Commendation.png" alt="alt.png" width="24px">&nbsp;Flame Legion Commendation</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=frost-legion-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Frost_Legion_Commendation.png" alt="alt.png" width="24px">&nbsp;Frost Legion Commendation</a></li>
+      <li><a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator?item=iron-legion-commendation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/prices/Iron_Legion_Commendation.png" alt="alt.png" width="24px">&nbsp;Iron Legion Commendation</a></li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/drizzlewood-material-donation" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/drizzlewood.png" alt="alt.png" width="32px">&nbsp;Drizzlewood Material Donation</a>
+<ul>
+      <li>added Detailed datasets to all entries instead of the main page of PvE Reward Tracks (which moved to Farming Calculator)</li>
+</ul>
+<hr>
 <p><strong>Website Updates 17.04.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/alt-parking" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/alt_parking.png" alt="alt.png" width="32px">&nbsp;Alt-Parking</a>
 <ul>
