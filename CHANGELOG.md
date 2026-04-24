@@ -2,7 +2,7 @@
 <h2>2026-04-24</h2>
 <h3>Added</h3>
 <ul>
-<li>optimize website for SEO and SSR prerendering<a href="https://github.com/fast-farming-community/website/pull/581">#581</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
+<li>optimize website for SEO and SSR prerendering <a href="https://github.com/fast-farming-community/website/pull/581">#581</a> (<a href="https://github.com/c0rn1x">c0rn1x</a>)</li>
 </ul>
 <h2>2026-03-24</h2>
 <h3>Added</h3>
