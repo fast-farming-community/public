@@ -1,3 +1,13 @@
+<p><strong>Website Updates 27.04.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
+<ul>
+      <li>changed coin to its own category and separated it from the wallet</li>
+</ul>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+<ul>
+      <li>fixed Tequatl the Sunless, Karka Queen and Triple Trouble special timers now correctly showing in the meta schedule planner, they were previously missing due to a bug</li>
+</ul>
+<hr>
 <p><strong>Website Updates 19.04.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/calculator" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/calculator.png" alt="alt.png" width="32px">&nbsp;Farming Calculator</a>
 <ul>
