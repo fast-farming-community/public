@@ -1,7 +1,7 @@
 <p><strong>Website Updates 27.04.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
-      <li>changed coin to its own category and separated it from the wallet</li>
+      <li>changed Coin to its own category and separated it from the wallet</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
