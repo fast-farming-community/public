@@ -1,4 +1,13 @@
-<p><strong>Website Updates 27.04.2026</strong></p>
+<p><strong>Website Updates 30.04.2026</strong></p>
+Profit and Appearance Settings
+<ul>
+      <li>removed Spirit Shard filter and included Spirit Shards always in total profit calculation</li>
+      <li>separated "Appearance Settings" in top navigation and "Profit Selection Settings" on individual pages</li>
+      <li>updated Settings panel in the top navigation to include only Appearance Settings</li>
+      <li>changed profit selection so that individual data pages are now the single source of truth</li>
+      <li>refactored fractal title settings to exist only on the fractal page and be directly visible</li>
+      <li>added Warning Pop up when Limitation Filter is active for only "Limit" or "No Limit"</li>
+</ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
       <li>changed Coin to its own category and separated it from the wallet</li>
