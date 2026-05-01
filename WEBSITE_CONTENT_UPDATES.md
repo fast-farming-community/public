@@ -1,4 +1,4 @@
-<p><strong>Website Updates 30.04.2026</strong></p>
+<p><strong>Website Updates 01.05.2026</strong></p>
 Profit and Appearance Settings
 <ul>
       <li>removed Spirit Shard filter and included Spirit Shards always in total profit calculation</li>
@@ -11,6 +11,7 @@ Profit and Appearance Settings
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/farming/account" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar_main/account.png" alt="alt.png" width="32px">&nbsp;Your GW2 Account <span class="new-badge">BETA</span></a>
 <ul>
       <li>changed Coin to its own category and separated it from the wallet</li>
+      <li>changed Material Storage to show its value excluding Accountbound items, with the included accountbound items total shown separately</li>
 </ul>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
 <ul>
