@@ -1,7 +1,7 @@
 <p><strong>Website Updates 14.05.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Best Upcoming Meta Planner</a>
 <br>
-My own Meta Schedule
+My Personal Schedule Meta Planner
 <ul>
       <li>added functionality to pin specific metas to an own lane at the top of the timeline. Open the My Schedule panel, tick any meta, and it locks into your personal lane regardless of what the algorithm ranks. Your schedule is saved locally on your browser</li>
       <li>scheduled metas stay pinned in your schedule and return automatically the next day even after ticking them off for today, so you never have to re-add your regular route</li>
