@@ -8,7 +8,7 @@ My own Meta Schedule
 </ul>
 Untimed meta support
 <ul>
-      <li>added Metas without a fixed timer (world bosses, events you trigger manually) can now be added to your schedule. Set a start time with a flexible format: 0 for right now, 30 for in 30 minutes, etc.</li>
+      <li>added Metas without a fixed timer can now be added to your schedule. Set a start time with a flexible format: 0 for right now, 30 for in 30 minutes, etc.</li>
 </ul>
 Look back
 <ul>
