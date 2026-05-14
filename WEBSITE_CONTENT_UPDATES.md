@@ -1,3 +1,23 @@
+<p><strong>Website Updates 14.05.2026</strong></p>
+<a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Meta</a>
+My own Meta Schedule
+<ul>
+      <li>added functionality to pin specific metas to an own lane at the top of the timeline. Open the My Schedule panel, tick any meta, and it locks into your personal lane regardless of what the algorithm ranks. Your schedule is saved locally on your browser</li>
+      <li>scheduled metas stay pinned in your schedule and return automatically the next day even after ticking them off for today, so you never have to re-add your regular route</li>
+</ul>
+Untimed meta support
+<ul>
+      <li>added Metas without a fixed timer (world bosses, events you trigger manually) can now be added to your schedule. Set a start time with a flexible format: 0 for right now, 30 for in 30 minutes, etc.</li>
+</ul>
+Look back
+<ul>
+      <li>added a new slider lets you see metas that started up to 15 minutes ago. If you joined late you can still check on the timeline</li>
+</ul>
+Gold per hour per lane
+<ul>
+      <li>added  GPH label on the left of each timeline lane</li>
+</ul>
+<hr>
 <p><strong>Website Updates 01.05.2026</strong></p>
 Profit and Appearance Settings
 <ul>
