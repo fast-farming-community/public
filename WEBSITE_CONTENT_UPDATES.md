@@ -1,3 +1,10 @@
+<p><strong>Website Updates 13.06.2026</strong></p>
+Last Data Update Banner
+<ul>
+      <li>Issue: frontend was guessing when new data from backend arrives, data itself was up to date</li>
+      <li>fixed backend to tell frontend exactly when to refresh, so no more stale "last updated" times</li>
+</ul>
+<hr>
 <p><strong>Website Updates 14.05.2026</strong></p>
 <a class="btn-chip u-chip-card w-100" href="https://fast.farming-community.eu/open-world/meta" target="_blank"><img src="https://fast.farming-community.eu/assets/icons/sidebar/meta.png" alt="alt.png" width="32px">&nbsp;Best Upcoming Meta Planner</a>
 <br>
